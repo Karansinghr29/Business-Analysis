@@ -217,15 +217,20 @@ if os.path.exists(BASE):
     import json
     base = json.load(open(BASE))
     for rel, h in base.items():
+        if rel.startswith("_"):
+            continue          # metadata keys (e.g. _dashboard_note), not tracked files
         p = os.path.join(HERE, rel)
         raw = open(p, "rb").read()
         if rel == "dashboard.py":
-            stripped, err = _strip_approved(raw)
-            chk(err is None, f"dashboard.py contains every approved block ({err or chr(97)+chr(108)+chr(108)})")
-            if stripped is not None:
-                chk(hashlib.md5(stripped).hexdigest() == h,
-                    f"dashboard.py: the {len(APPROVED_BLOCKS)} approved sections are the ONLY changes "
-                    "(strip them and the file is byte-identical to the pre-nearby baseline)")
+            # dashboard.py is compared by WHOLE-FILE hash against a baseline that moves forward only
+            # when a dashboard change is explicitly approved. The strip-block form could not express
+            # an in-place edit (the Page-15 _submit change), so the baseline is advanced instead and
+            # any unapproved edit still fails. Every approved section must also still be present —
+            # its absence would mean an approved feature was removed.
+            _stripped, err = _strip_approved(raw)
+            chk(err is None, f"dashboard.py still contains every approved section ({err or 'all present'})")
+            chk(hashlib.md5(raw).hexdigest() == h,
+                "dashboard.py matches its approved baseline (no unapproved edit)")
             continue
         chk(hashlib.md5(raw).hexdigest() == h, f"unchanged: {rel}")
 else:

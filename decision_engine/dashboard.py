@@ -1950,16 +1950,19 @@ def p_actions():
     bb=eff["is_backbone"].astype(str).str.lower().isin(["true","1"])
 
     def _submit(slot, build):
+        # returns the appended event_id, or None if nothing was written, so a caller can chain a
+        # dependent event (e.g. the auto-captured baseline) only when the first write succeeded.
         try: ev=build()
-        except Exception as e: st.warning(str(e)); return
+        except Exception as e: st.warning(str(e)); return None
         sig=f"{slot}:{sorted(ev.items())}"
         if st.session_state.get("_p15_last")==sig:
-            st.info("Duplicate submission ignored (identical content as the last submit)."); return
+            st.info("Duplicate submission ignored (identical content as the last submit)."); return None
         try: eid=CAP.append_event(ev)
-        except ValueError as e: st.error(f"Rejected by the validated writer: {e}"); return
+        except ValueError as e: st.error(f"Rejected by the validated writer: {e}"); return None
         st.session_state["_p15_last"]=sig
         st.success(f"Append-only event recorded: {eid}")
         _p15_refresh()
+        return eid
 
     # ---- A. select recommendation ----
     st.subheader("A · Select recommendation")
@@ -2154,9 +2157,30 @@ def p_actions():
             adate=st.text_input("Action date (YYYY-MM-DD)", key="p15_adate")
             anote=st.text_input("Notes (optional)", key="p15_anote")
             s2=st.form_submit_button("Submit action")
+        # Auto-capture the BEFORE KPI at action time so the owner never types a baseline that the
+        # analytics already hold, and so later data movement can never rewrite the original "Before".
+        try:
+            import phase4_kpi_measure as KM
+            _pre = KM.measure(rid)
+        except Exception:
+            _pre = {"available": False, "reason": "measurement provider unavailable"}
+        if _pre.get("available"):
+            st.caption(f"**Before KPI will be captured automatically:** {_pre['value']:,.2f} "
+                       f"({_pre.get('detail','')}) as of {_pre['as_of']} — frozen at the action date "
+                       "and never overwritten by later data.")
+        else:
+            st.caption(f"No automatic current-value source for this KPI ({_pre.get('reason','')}). "
+                       "Record the baseline manually in section D if you have one.")
         if s2:
             if not adesc.strip() or not adate.strip(): st.warning("Action description and date required.")
-            else: _submit("act", lambda:{"recommendation_id":rid,"event_type":"action_taken","event_date":adate.strip(),"action_taken":adesc.strip(),"notes":anote.strip()})
+            else:
+                _ok = _submit("act", lambda:{"recommendation_id":rid,"event_type":"action_taken","event_date":adate.strip(),"action_taken":adesc.strip(),"notes":anote.strip()})
+                if _ok and _pre.get("available"):
+                    _submit("actbase", lambda:{"recommendation_id":rid,"event_type":"measurement",
+                        "event_date":adate.strip(),"target_kpi":kpi,"unit":unit,
+                        "value":str(_pre["value"]),"measurement_role":"baseline",
+                        "source":"system_measured","confidence":"High",
+                        "notes":f"auto-captured at action time from {_pre['source']}; {_pre.get('detail','')}"})
 
     # ---- D. KPI measurement (only after an action; KPI+unit fixed from registry) ----
     st.subheader("D · Record KPI measurement")
@@ -2241,8 +2265,63 @@ def p_actions():
                 _submit("corr", _cbuild)
         st.caption("The original event is never edited or deleted; the correction is a new superseding event.")
 
-    # ---- E. current effectiveness (read-only; computed only by the reducer) ----
-    st.subheader("E · Current effectiveness (read-only — computed only by the reducer)")
+    # ---- E0. Before / After / Outcome / AI (read-only; measured, never typed) ----
+    # BEFORE is the frozen baseline event captured when the action was recorded. AFTER is measured
+    # live from the current validated outputs, so it moves as the data moves while BEFORE cannot.
+    st.subheader("E · Before → After → Outcome → AI analysis")
+    try:
+        import phase4_kpi_measure as KM
+        _ba = KM.build()
+        _mine = _ba[_ba["recommendation_id"] == rid] if len(_ba) else _ba
+        if not len(_mine):
+            st.info("**Action: not yet taken.** Outcome: not available.\n\n"
+                    "This recommendation has a KPI baseline available, but generating a recommendation "
+                    "is not executing it. Record an action in section C and the Before value is captured "
+                    "automatically from the current data at that moment.")
+        else:
+            b = _mine.iloc[0]
+            _u = str(b["kpi_unit"])
+            def _v(x):
+                if x is None or (isinstance(x, float) and pd.isna(x)): return "—"
+                return (rupee(x) if _u == "INR" else (f"{float(x):.1f}%" if _u == "percent"
+                        else (f"{float(x):,.0f}" if float(x).is_integer() else f"{float(x):,.2f}")))
+            st.caption(f"Action taken **{_b(b['action_date'])}** — {_b(b['action_taken'])}")
+            c = st.columns(4)
+            c[0].metric("Before", _v(b["before_value"]), help=f"frozen {_b(b['before_date'])} · {_b(b['before_source'])}")
+            c[1].metric("Current (After)", _v(b["after_value"]), help=f"measured {_b(b['after_date'])} · {_b(b['after_source'])}")
+            _chg = None if pd.isna(b["change"]) else b["change"]
+            c[2].metric("Change", _v(_chg),
+                        delta=(None if pd.isna(b["change_pct"]) else f"{b['change_pct']}%"),
+                        delta_color=("inverse" if str(b["kpi_direction"]) == "lower_is_better" else "normal"))
+            c[3].metric("Outcome", str(b["outcome"]))
+            st.caption(f"KPI **{_b(b['target_kpi'])}** · direction **{_b(b['kpi_direction'])}** · "
+                       f"tolerance {_b(b['no_change_tolerance'])} · basis: {_b(b['outcome_basis'])}")
+            # timeline
+            marks, days = KM.timeline(str(b["action_date"]), str(b["after_date"]))
+            st.caption("Outcome timeline — " + "  ".join(
+                ("✅ " if m["reached"] else "⏳ ") + m["mark"] for m in marks)
+                + (f"   ({days} days since action, minimum window "
+                   f"{_b(b['min_window_days'])} days)" if days is not None else ""))
+            # AI analysis over the measured facts only
+            st.markdown("**AI outcome analysis**")
+            try:
+                import phase4_outcome_ai as OAI
+                _a = OAI.analyse(b, unit=_u, use_ai=True)
+                st.info(_a["analysis"])
+                st.caption(f"Source: {_a['analysis_source']}."
+                           + (f" A generated draft was rejected and replaced ({_a['rejected_reason']})."
+                              if _a["rejected_reason"] else "")
+                           + " The AI receives only the measured facts above — it never sees raw data, "
+                             "never decides the outcome, and any ROI, revenue, conversion or causal claim "
+                             "is discarded in code before display.")
+            except Exception as _e:
+                st.caption(f"AI analysis unavailable ({type(_e).__name__}); the measured Before/After "
+                           "and outcome above are unaffected.")
+    except Exception as _e:
+        st.caption(f"Before/After layer unavailable ({type(_e).__name__}).")
+
+    # ---- E1. current effectiveness (read-only; computed only by the reducer) ----
+    st.subheader("E1 · Current effectiveness (read-only — computed only by the reducer)")
     r2=pd.read_csv(effp); rr=r2[r2["recommendation_id"]==rid]
     if len(rr):
         rr=rr.iloc[0]

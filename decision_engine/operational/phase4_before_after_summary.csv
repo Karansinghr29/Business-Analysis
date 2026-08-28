@@ -1,0 +1,13 @@
+metric,value
+executed_actions,0
+source_mode,csv_outputs
+as_of,2026-08
+positive,0
+negative,0
+no_measurable_change,0
+insufficient_post_action_data,0
+not_evaluable_context_only,0
+outcome_unavailable,0
+measurable_decisions_registered,14
+baseline_rule,frozen at action time in the append-only event store; later data movement changes AFTER only and can never alter BEFORE
+fabrication_policy,no outcome is invented; missing post-action data reports 'Insufficient post-action data'
