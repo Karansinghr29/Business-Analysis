@@ -1,0 +1,15 @@
+metric,value
+groq_status,OK
+groq_model,groq/compound-mini
+pgs_discovered,5
+mens_pgs,5
+aggregator_dropped_from_visits,0
+new_vs_existing_pool,3
+within_2km,5
+within_3km,5
+with_first_party_perbed_price,0
+unknown_prices,0
+starting_from_flags,0
+groq_grounded_discovery,True
+discovery_tools,1
+errors,none

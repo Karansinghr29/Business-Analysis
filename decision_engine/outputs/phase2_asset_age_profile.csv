@@ -1,0 +1,1701 @@
+asset_id,asset_type,purchase_date,allocation_date,asset_start_date,date_source,asset_age_days,asset_age_years
+19a0e9bf-7dd6-4e26-920e-d0ac74966dad,ACCL Device,2025-07-22,2025-07-22,2025-07-22,purchase_date,387,1.06
+8fa5e424-97df-4062-af2a-09ba379e6edf,Air Conditioner,2025-07-30,2025-07-30,2025-07-30,purchase_date,379,1.04
+6f1831db-0b4c-43f9-943c-4e86c3886b78,Air Conditioner,2025-07-30,2025-07-30,2025-07-30,purchase_date,379,1.04
+dd6bc55f-e6a1-41d7-bce7-68bd0d6c57a1,Air Conditioner,2025-07-30,2025-07-30,2025-07-30,purchase_date,379,1.04
+b6e08caf-ef6c-401e-aea3-9aae40ad802e,Center Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+036bdbfd-838a-450a-8fd8-2dc15fe5cf66,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9a45eaab-0189-4c01-ac2e-760572f9f8f7,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c362003c-8c15-4081-83b2-ff5f5e2c7543,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a5794637-86ae-451a-8d34-3144f607e882,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fb2aa759-2387-4f58-a3bf-24039f4257f3,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cadf4d20-6175-488e-a43d-0b576b0dab41,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+78b920d6-8cc8-4b2d-bbce-e4cd9994c9bb,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+d3683ae9-c040-43cc-9dec-c38c8e0256db,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+88dfc5e7-907f-4d95-98f3-276d25e87e54,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+133da128-0332-4e15-841a-3e8660d0fcc8,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+be0ac6d2-f768-464a-a169-14cf9edc0208,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+68860f81-f27c-49be-8910-252e4a179dab,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+841133bb-570c-43b6-a0f9-a32fc9c79c36,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+114aab82-4f20-4f3d-b21c-e523417369fb,Dining Table,2025-09-09,2025-09-09,2025-09-09,purchase_date,338,0.93
+e4693315-a816-4efc-8139-a350a1ab680d,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a737be05-86f4-4f25-92c3-c7d286af64ba,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+37597e49-c4ae-4637-83cb-f43ea7ef8d35,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5307c51c-cc4a-48a2-91bc-bb07ec8413fc,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5d1e1809-a3be-4fa4-9f6b-69ec87bed164,Induction Stove,2025-08-13,2025-08-13,2025-08-13,purchase_date,365,1.0
+408088bc-8911-4fed-a69d-2a34f35c1055,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+acdb0a61-293f-4fc3-9618-7a489fccb393,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+88d23aa7-9d23-4269-af47-cd6ed26894ab,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+606383b6-81a7-4c7b-8de3-09b5aaed8911,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+7b4e8f5f-a901-41dd-b6dc-ce93e1fd0022,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+42630e09-f024-4e3d-94c6-e2d880bfd980,Microwave Oven,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+524430a2-c574-48fc-b517-e233b50fb133,Refrigerator,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+0325290a-dbc8-48bf-9d1e-2810811aa692,RO Water Purifier,2025-07-31,2025-07-31,2025-07-31,purchase_date,378,1.03
+71be3747-375d-4ea0-a888-f55fc54aebae,Sofa,2025-08-04,2025-08-04,2025-08-04,purchase_date,374,1.02
+c10fbdd0-ea26-4978-9f92-5524d8d50195,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+619e3ed8-c122-4d37-9a77-deca87cddd14,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+6666033d-741a-4c99-ba36-5f71eb95ee26,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+73b15a6e-3200-4063-ac3c-914d027d0482,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0e70e5ad-aa2b-4ab7-b2f9-1957079bab78,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c7066361-60be-4b4e-a8d5-05208c4bf674,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f15838f4-7a3b-41e0-9d13-18bbdac92b10,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+55644e44-e138-4d08-9daf-445cf2012210,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+6ce198d6-f9cf-43f0-bb8d-37a92c5d0310,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+504ebac1-c8eb-4a75-9001-1ab3673d0d61,Wardrobe,2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+20f9a927-f62d-4cfe-afb3-86a889d8289f,Washing Machine,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+3dcde4e4-b93d-47ca-bb2b-6cf540d73913,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bb608c97-fb57-4dff-8b3f-bd2bdd3cfefa,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c3244668-b722-40c0-b19b-e0c31814cc52,ACCL Device,2025-07-22,2025-07-22,2025-07-22,purchase_date,387,1.06
+7c736843-8e67-42a0-ad37-46f0794f96a2,Air Conditioner,2025-07-30,2025-07-30,2025-07-30,purchase_date,379,1.04
+baa0543d-6af0-4f49-8a6f-e75000c7c10b,Air Conditioner,2025-07-30,2025-07-30,2025-07-30,purchase_date,379,1.04
+30f2ceb7-a517-4770-9a35-c55d4c25903a,Air Conditioner,2025-07-30,2025-07-30,2025-07-30,purchase_date,379,1.04
+471a2a61-0105-46b3-97e6-5621254f8a34,Center Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+6c249b59-8091-4307-b7dc-c22d108cbc24,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9ade6e41-c16f-4874-972e-597ecd2eed67,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+832be97a-ad70-4a9f-a5c8-a72c61f487cb,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8f320136-8123-4b5f-8731-479f266ebf13,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+ce9c7e2d-43f2-4489-acd1-cf34cb5b5ea5,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+49feb165-92c1-4e3c-9d3b-a65d29d80c5a,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+61506952-e2b5-4200-b996-0e1120e3b6db,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+e36c7f96-468a-4f85-ab72-b1f06d7c3280,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+29c552f8-59a0-4a87-9dc5-8e7e32dc0928,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3a224b59-0dd0-4f95-84b6-801bb8ccfe6d,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b7442893-3874-48c9-a15e-29dfcfe82af9,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ebaf125f-5591-41a8-aa54-76d858dd7e3f,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3864cf12-52be-4176-bd29-9c54288244b5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+48f6f0d2-30f5-47ab-a1ff-e93ffccadc1d,Dining Table,2025-09-09,2025-09-09,2025-09-09,purchase_date,338,0.93
+a99fdc58-1005-488c-aa22-e374d6cb53d9,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6fc0e5b5-8ce6-43ab-a30c-deebe4be47bd,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2aad7f3b-4f26-4119-b806-c2d5fd371310,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+63abfed1-307e-4b4a-ad9b-fed25d492ef3,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cf86ad66-889c-4dd5-af13-8a73a2485327,Induction Stove,2025-08-08,2025-08-08,2025-08-08,purchase_date,370,1.01
+9791b1b8-b88b-44ec-a6dc-fb083b8f96d7,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+fe25cd2d-6e9e-498a-9c2f-c2dc56529d86,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+051c0296-7d8e-493e-854f-ea4de5e3cfcf,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+9679fae7-48d6-4017-bd1e-e28cf1708aa8,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+4684a44b-6a7b-4c27-b3bf-4592ccb44eee,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+53b66cdb-6740-4046-b7fd-4bb51f268e44,Microwave Oven,2025-09-07,2025-09-07,2025-09-07,purchase_date,340,0.93
+c6c692d3-8a04-473b-94a2-a0b433c16cc7,Refrigerator,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+2d352216-2da2-4a5d-90b6-cd5be136e002,RO Water Purifier,2025-07-31,2025-07-31,2025-07-31,purchase_date,378,1.03
+9a14ad58-c9b9-4f04-acf3-1db2f40800af,Sofa,2025-08-04,2025-08-04,2025-08-04,purchase_date,374,1.02
+f5b7e3f9-21f2-45ed-bef1-ad6fc4063d20,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+b2786642-8957-4ab4-bc7b-5f2ca42a6894,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+5014f5c7-d65f-4476-8d94-cdda6f5af954,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+97a6e1c1-974f-4a98-ad25-14092fb60285,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a434f145-0ddf-4620-881f-5551cde86076,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b22709fb-8da1-48f0-9bdf-488592e889ee,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+84688bd8-abad-441f-9cd8-9f8f2c669cc6,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+e4b56ca3-b2f6-4889-be71-ca2f993cfcef,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+52be8901-7942-42bf-9176-06505fed334b,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+328ece74-5dd5-47cd-863b-662e18012180,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+964f1e8e-c69a-4356-b3aa-5f59795c3739,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+9f9f07a2-aadd-4a53-a014-38d27e275b28,Washing Machine,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+670130e0-116d-4992-aa65-1d9afe592bb7,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c7e281a5-6e1d-4ef1-8858-781b88c98471,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6b304c3f-616d-4dd8-ba7b-5c50efebba7d,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+022b0aa4-a8ee-448f-bac2-7866c3ab2443,ACCL Device,2025-07-22,2025-07-22,2025-07-22,purchase_date,387,1.06
+2d1918a4-981d-42f1-ae20-b04652453276,Air Conditioner,2025-07-30,2025-07-30,2025-07-30,purchase_date,379,1.04
+00052eb3-d252-4c13-99b0-fd1ca3ece733,Center Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+687bc14c-3a33-4179-b3ff-ef411a85c513,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+2dcfb37d-8a87-4ea3-9a2a-fc3eb6667edf,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+d7c47856-8a29-4070-9744-df4de6ba478d,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+4313f33a-2b56-4907-a265-9ffeeaa522c1,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+9ca85a29-76e7-4643-a43a-88e188518617,Cot (Bed Frame),2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+447f4281-e00b-42d6-bd80-b09cf2bcf35d,Dining Table,2025-09-09,2025-09-09,2025-09-09,purchase_date,338,0.93
+12f48c0f-5999-4a6b-b41c-f01596539a27,Induction Stove,2025-08-08,2025-08-08,2025-08-08,purchase_date,370,1.01
+b4a6fd3d-e58a-4c48-a3b1-dc2be8252755,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+9c23b832-74b3-4d2d-8b4c-527a50362771,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+0e59f13b-9641-43b1-9b00-6a6857756338,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+da9ce613-4b13-4767-9411-a135e5f14eac,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+82367e3b-82a2-49c4-988e-35a492ee6af5,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+0d6292dc-684d-4c3b-a412-8ee5c61a5285,Microwave Oven,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+aa1744c9-1b38-4618-8a0c-463b28d05b6b,Refrigerator,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+66388cb3-50da-4166-a24b-1498d3904916,RO Water Purifier,2025-08-10,2025-08-10,2025-08-10,purchase_date,368,1.01
+c96b056f-c66e-48ef-a84b-6847a9b8a75c,Sofa,2025-08-04,2025-08-04,2025-08-04,purchase_date,374,1.02
+3bf0a210-d020-4310-948a-388abe414b37,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+960a5b9f-9b1b-49cc-9aea-6dae2a1a03cb,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+41fbdd5d-f582-4c40-8bfa-36ecdc229c6f,Study Table,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+9221129b-a373-441b-8b48-17d117e1f709,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+bb1905ab-e625-4a64-88fa-6b6f77c1885c,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+3b1b0fd3-65c2-4d4a-8b87-6e6a8625295b,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+39901510-5d14-4754-afd9-47fe760422d1,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+b043d153-9fb3-4491-ad14-2195d503f15c,Wardrobe,2025-08-02,2025-08-02,2025-08-02,purchase_date,376,1.03
+6af9024d-b5bf-4844-b85b-6f3d9349c25e,Washing Machine,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+35ec240d-87ee-4bcc-b912-3116c4209142,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bb6e04f9-78bd-4e10-921f-10a2f48b185f,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9a617a18-45e3-4139-8e9b-4babbc1c20eb,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a231cb7f-1f73-4c71-b744-141ab46351ac,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6cc39c41-14cb-4612-be32-381c348ffdff,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6cffe5b3-c661-44c0-9962-f14b18590c31,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3b0b696d-a151-4741-8d8b-0637cb94eee3,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1a5e3c45-4b87-495a-98f2-2944342d9fde,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ea09bcd3-65e5-424a-9311-8fb814e32af2,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2b63f8f7-67f0-4e72-9431-ffec03a8ae23,Cot (Bed Frame),2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+15055f35-2f83-4054-97be-d4a5ebe1f0c4,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+2fd1ab2a-f222-4330-bd45-1da2cc9509c0,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+cd09fda4-a742-40c1-8e1c-349797ca124a,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+ae20fe5e-d8c7-436d-b973-129c60309ec7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c8821692-1886-4706-9b60-6d3fee0b640a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e8d71662-62d7-480e-8d3b-159689214e74,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ce6e8257-0ab4-41a2-8591-e64ce3268138,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+21a53b0e-1cae-4990-a85f-49a967885075,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2d705be7-15d1-4138-86d2-baa1cee931f0,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+29358585-cf58-4e22-9d33-c6210636e011,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+69cb270b-e8f3-410e-9142-2752016b44f9,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+45cf3ce8-48d0-4b37-b975-1b26af059c69,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b0bccede-ab77-4d9a-8dc5-2bdcaf8624f4,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e94e2714-8749-4fb3-abe4-c88124d1c485,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e19b8a01-087e-4f91-8345-a8d65cd0dea5,Induction Stove,2025-05-05,2025-05-05,2025-05-05,purchase_date,465,1.27
+ef6a6d30-c70e-4162-8adf-0bd6063ba0a3,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4813413b-565b-4e84-8d8f-6a44ab0b2345,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+85f215f4-fb81-4f11-985b-03f19f8d92db,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e4b60c59-8c73-4adf-b72b-b66cc45454f4,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+361822af-76e9-477c-91d6-644f19d909ed,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0878a42d-baca-4c65-9725-bfbe5132fbb2,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+74e57001-2693-4795-8072-3fe0b73742e5,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+98885f45-4010-403c-8884-8649d4cdd02a,RO Water Purifier,2023-03-30,2023-03-30,2023-03-30,purchase_date,1232,3.37
+6d646074-2025-446a-a7f9-4ffd8f30d9c1,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c6f5b194-f58c-46a2-93b2-439f2d15ac34,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bab4a438-b9fd-4b22-8f52-42ccf8d8a96c,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1de68ea5-52f0-4d85-9458-33f9dd20f5d4,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+985c8867-73b6-4869-a71b-6c6e9660acec,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d77c3c46-bcc6-4136-b3d2-495c366106a8,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+420b8a83-5d8e-4ad3-af8a-bc82b45015c4,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+853401e7-853b-4772-81be-e285fa894e20,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dccbf35d-537d-48ac-92d9-d1d792755a15,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+84fadbc1-0050-4330-a93c-81d5666058b8,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fba581ce-b901-44df-b458-e9a545b30e8a,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f22d37ca-e9d3-456f-8aa3-70b7ab94fc0c,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e9567b70-ce24-4a74-9300-de151d27d129,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9fadb565-1985-4e3c-a12d-5de9a2d0d1b5,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+caaa23f7-7934-4931-82db-658e72c529b1,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1ea4ee71-a379-4948-ab46-3be764d45254,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8cad06fb-70f0-4484-b0b3-9b548f0e6805,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+87fa137b-3588-4e7b-8bbd-f9c0c03f405d,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d18f2a4e-8748-4934-a47f-4f211589215d,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7ec0c885-e9a3-4c39-9b00-d15a8071387d,Cot (Bed Frame),2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+8d32730f-62b6-4fee-b6e2-df4adb61fd75,Cot (Bed Frame),2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+c3d5bd54-03bd-4cc6-9a8c-6174188bda3a,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c73bfaed-fb61-42fe-abeb-b62f33bc153c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+72d03baa-d690-4c89-87eb-654b209938fe,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c32a1512-0cf2-4d78-8ced-09cec00eafe9,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+bf13d001-4fe7-419a-80e3-185bc45bc91e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+0960ae76-0826-4ab5-ac32-040685c20804,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b131666d-2636-489f-8f37-e9d5b081712a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+61453173-daf0-4c97-a133-659008131872,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aa7615c6-3e0d-40c4-99ec-d7a5d002a154,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+87c4a9a0-791d-4517-8cd6-b10e61bb6b67,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1ed7ea1e-919f-4189-ac1c-92fbcc60760a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1e0a548e-6d70-4397-bf2b-6293b15b37b3,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f15d0ff8-209b-4934-92c8-1900afec3fa5,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+28ed04a4-7793-4fd0-bac2-06c3fbaa1dce,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+df1d62da-3735-4274-b898-260ef96db619,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+66ccee02-9bf9-4116-a392-e8d46fb9b166,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1b79db3e-83de-48da-8975-5a78e4ca24fb,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+26a9e952-e6b6-4ce1-8dae-38bfd6766493,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+95e058fc-ed6f-415c-a40f-5cd769dbe264,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7d6c17bf-4050-40fc-987e-c4c937ed04a1,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6cbe1fad-8815-4566-827e-6e8e6151ee8a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+38d691f8-90b6-496f-8fad-651a5a26f6be,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6d2906ca-3f71-4eb4-8d8c-b00d6de5dde2,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b8234f81-000b-4b13-b761-5e6e8203ca91,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b6e8eadc-9e56-4b2a-acd4-7031e9caeb15,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a398fa6-ac27-43af-b69a-886f22b62f3a,RO Water Purifier,2025-05-26,2025-05-26,2025-05-26,purchase_date,444,1.22
+a0766c33-05da-4c49-8c8f-d774b535c112,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+313e942c-dc21-4831-a082-f2681de898ec,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b1f8ed14-07d1-4624-92ad-1bc5500b1f84,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0aa3b7f3-53c5-4c88-8747-b5ed946be0fe,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+84612d6d-e106-404c-84e2-185168266c53,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+af72c599-70cf-40f6-90f7-66ec5eef2e85,Wardrobe,2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+ea9ed2e7-fd3d-460a-8927-dc4f167fa2c7,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+027d437f-821c-48ba-9d3a-d937218e464a,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1f34f4a7-c993-4d15-815b-8d19cbbc3505,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9d7eb51b-a72a-427a-96d1-b9977571e892,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cd2cff77-0bf2-48a6-a0df-59635215d520,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+71701352-6d07-4b20-b6f7-7b70117dd5a3,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9b9582bc-1a57-4820-80ae-ce7589129083,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d6ba6370-ca76-4dc8-846d-9b25d96a1ac8,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b3b327a1-754b-48eb-8618-5cf0c33bf8ea,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+18efef0f-0a5b-49b9-8c9e-28ae6b51471c,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+747faa0f-b4b9-4b39-9dd5-39a362977c74,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+badbe9bd-5cdb-4a9a-a0a2-b005df1d813e,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a0c47948-5824-4651-a0ed-6fbdafcdea5b,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+d7e0423d-69a3-4804-b098-61231594d6d1,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+da67e176-0e39-4bc3-98f9-0592785ee4f8,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+051dee8a-d6c7-4b65-adb5-c8f44fb27385,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+28c5b709-194b-4f15-9b4c-8bca14f22046,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+461d3c53-89ac-42ae-8b31-b070850b49a1,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+a8255c6f-911e-4742-95bf-87d19cb30f5b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6e92f808-dbc1-473d-8960-fc705c6b5289,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d25fbf4d-158f-4669-a6af-85515d8e50b0,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1d636b41-0f27-48db-b70c-63414832c405,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5bb9b47e-a660-44c7-9326-48c7c02030cc,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+df403c47-8fb4-41ba-8971-7055935e1336,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+75dfb265-445d-4ed2-8356-ff0e899d20f5,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2d64cbe9-9c34-495b-9ed7-f45de219c086,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5759ded5-06b1-412e-b2f3-8c94605c0c14,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9d1e311a-cb0a-4ed0-a1a5-54bafa0ca837,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7f864296-4fea-4704-9363-c0bdd3dcfc31,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+04bbff44-9abe-4204-b8be-b60d07778c68,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f719feff-9bd6-4a58-88c9-7f4829b0ab09,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+45be4a5a-8a7e-4ce7-bb25-c3021d5d3c8f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b9d6b81f-65a1-4273-b510-0dea90aca2dd,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+617eb4e9-4860-4511-82a5-2c9a482cd7dc,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8f0cc0c-26be-46da-b0e3-0f285eb2d59c,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f2b91526-bd0b-4b38-80b4-7390ea35c445,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9e26b5fd-92ba-4ba4-844b-3a547d867fec,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+23ae6899-3a8a-4250-ba94-7d0bd2277ab0,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ca0121b1-e44e-480b-a144-725e7ba7850e,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+52abe4ce-6090-4c82-9b77-fd11f5ed36d1,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ca68dd62-68a5-4a63-a016-b7e64f51fba0,RO Water Purifier,2024-04-02,2024-04-02,2024-04-02,purchase_date,863,2.36
+0c6a45fa-eea8-4b3e-925c-9e22848928f0,RO Water Purifier,2026-03-23,2026-03-23,2026-03-23,purchase_date,143,0.39
+d87bd485-05f2-4617-a9ad-bdb8a5769a19,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a511b23c-c734-4e7f-84f5-5b6fafd92e2e,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+03f68b83-e328-485a-bfe0-d419e564b2b8,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6bc38871-25d9-457f-a31d-3e8eefc1a3ef,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+71429d80-5d20-47b1-a840-ace2c86722c8,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+adb3400d-f02f-4df4-9edb-1ae6e142d858,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+64ffae91-ff30-488f-96fb-24e14f1bef3d,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9cf723ca-4abf-4b62-ba49-d7a155d6b83a,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+42f85d91-3372-483f-9f1d-0a3f1face037,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+221a8e8b-1f99-42dc-a890-e819e526999e,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f1b25cdd-e630-44ef-a054-2f57d7add09c,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+732451e8-2061-4534-9b47-f94f0f301982,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e9d5977f-a772-4983-b0c9-01e119da732e,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4bca902d-8716-446e-b3b2-e01da0999fba,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+89609263-4d65-4695-b979-4f6629798d05,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e1f40eb2-985c-446d-a7e8-2f45fa676414,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c023db5a-992e-436b-90b5-9f0b421b7ffc,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bf55eb73-e861-4c1a-9ccb-46dc975c604f,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ada1208e-4951-4c73-b4ef-1468ea582cb3,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+80438cfd-b937-4560-af65-fe67fdaeb93e,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a40a14d3-8c32-4380-a976-c8e56f7b5e0c,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1abc4639-3965-40fb-b399-0342401a409a,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c42a326e-7158-4f8a-968a-a39158a76b24,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+faf79926-ad6d-4683-9998-c086601d369f,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+baf57145-6eae-4df6-bc64-c097aafd7abb,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f8f9e614-3686-4821-af16-5ffd6c86cfa1,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+5c3cc2a5-1fb3-414e-9e6e-373f83a8fe51,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c32730f7-1da1-41f6-b046-96605ee27ab7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+33111449-c948-48fa-88db-f2c428f08590,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+85bff95a-36d4-4788-bb27-cdbb588024e9,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+741e7d2f-2820-4743-bbc7-d3b76c50437e,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a36dcf6f-52d0-48df-9db0-a7204ab4abfe,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a5b5e719-bbd1-4d13-aa4d-c8a2e7b326ac,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+72f9d14b-12cf-4083-b8c7-f59c7a9f9105,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bbe816a2-8227-41be-8837-581ee0465969,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+97392733-b421-419e-8358-b6b86ba59e3e,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+86cfe969-a250-4233-ae88-b25e85bfd41e,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8e4a1a7b-c87d-40fc-b80c-181f621c7e4a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5adc0dfb-3390-4e17-bed7-ebeb8b8e571f,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+563f1f66-9d2f-4054-b25b-775b06211ce1,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f2fa781a-a6f2-46ab-a15a-af374aeb289c,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+198ff132-5758-4103-8b96-b9c76ef3efdb,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cca3f510-0800-4f99-93c2-034559cc9afe,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+33b4dded-ea9a-498b-b4f7-b0b178c74c9a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+21629850-ff3c-4c3d-a886-ae1456c4e98e,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c9aefe22-624e-4434-9034-0d0dc0b66083,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+62cccc82-f9cc-45db-8c9c-7fa6994bc264,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+eb3b3eb1-2453-45df-b8ba-a54590737d19,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+018c7b79-0a17-4196-be3f-ae620bc2be6b,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e3a5c95c-3543-4dea-937b-939e61086ed3,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+36e8fa1c-4cd7-478b-9e8b-53b1c9cbc79a,RO Water Purifier,2024-02-28,2024-02-28,2024-02-28,purchase_date,897,2.46
+c149597a-44ff-49b6-9fb5-06d8182ec253,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8c09af37-8d4b-4120-ae8e-95bedc8a75d7,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a0299a3c-344b-41e5-bd48-3ca430b3c322,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+61588e29-a459-4f80-a880-ec76d8edc197,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b2edd28c-6c62-4fb1-a069-7539dfff9859,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+66b2a845-6f63-4241-b7b6-3e0115ae0bc9,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5ef57748-430e-402c-b0dc-399b6d36295f,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f727ec7c-4591-4eae-9836-6c1a05777196,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+48c964f1-235e-4646-a73a-b8984a021c35,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1f2db2a4-13ef-405c-970f-d5f7838c73fa,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3f41cc65-e037-4c1e-863a-cc49813984d6,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d3504816-bcb3-46f3-82a1-c7a13e7d5bc3,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+40273ebc-52da-4130-82f8-a28b466d4adc,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bc7caf2c-ad7b-403a-9681-01e3c22c291f,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a6867600-f7df-4fd1-842d-688046a99f1b,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aebd7047-b4ff-439d-a82a-3e9a93b9f6a0,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8990484-d2bf-4880-82ca-f9ac4e64170c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+000544bc-948e-4bf2-8468-a3384971f1e6,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+7644d4a6-c397-43a9-8ff2-48269f97734e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f6f42966-c39d-4201-aa55-164b01430395,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+97074196-6c9c-47bc-8245-df6504c48758,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+a070f7ce-5472-4fb8-a1f8-c0b4d9e63f1f,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+ece9641f-402b-4419-99d5-f37cecdb9139,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2bbe28a7-9d1b-4ef1-b24c-9b2efd828a68,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e9415abf-638c-4216-b7e6-0faec06b36b5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0764fb38-4356-4c1d-8420-8af99c7c9bc6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+91c93b4b-6062-4db7-a8e7-0364d02303b2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+258d48fb-9fcd-4500-8724-3d5f900e042a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3b2afdd0-3a5f-498d-a58d-bb6f7dfca6f2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+777a2250-f699-429c-a636-bc862e16b82e,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+80fb5d2c-47e2-49df-8c39-2d45b01c281a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c717188d-45f2-4640-8950-23e09e37eb64,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1508b088-449a-4e1b-923a-43b3776cefbc,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+eae0d1da-f93a-4885-a271-13367955be13,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+abf1c24b-7e06-4b8d-b523-57b81c7a54aa,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+439ae075-64e7-4c7e-b777-9673d95831ad,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e508d231-df58-4a4a-ad56-5300ed69aaee,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+228fef1d-e37e-4738-b26a-cae6c84a797a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8d4d1dc5-77c6-4936-9b0b-f49bd3e6e51a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cf29d69d-f8ee-4a65-ac6a-248a197f33fe,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+60e408c2-009b-454d-9ded-f057c8534a95,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3a3fe8ca-89ff-4ee3-b964-cc7d37010f6a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4f818090-d059-4e11-836f-d90d0116bce2,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ae6f48ff-2dbb-4507-b71a-31e396f32239,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3e17194b-d4bf-44f1-92ff-8095282e0288,RO Water Purifier,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4d7d29f4-9e25-4586-815b-513e73307a26,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9e06e001-3ffa-4dfa-90ce-9bcddfe790db,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4a548767-8170-4f83-ab5a-2573fc199b78,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ea17ab4c-5899-4189-a0a2-9c716c3d8393,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d2bf306d-87f2-4546-9339-64ff19252560,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8959eba-efa7-4e73-8f95-147b4f6aa5b6,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a151cec-a73d-494f-a736-f3ba7d48d8ae,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+97ff054f-ebe0-4cfe-8f03-dba72342180a,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+640176e1-0f60-49d0-bdae-a2a1de9c46ed,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d774147a-a1c4-4b48-bb72-65ed32615ba6,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d6d1e730-b764-4dfc-aeda-759b7c2ab0a9,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0861776d-2243-4e50-815b-7d79e5acdd51,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b40ecc8b-216d-40e6-93a8-ca852ecd0b88,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fb1c1923-92bc-48e7-b4ed-1af5b64ba221,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5d3e349d-1996-4560-ae53-8deea6ef9984,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+ee813154-77a0-40c1-b762-e2cea63a35bf,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c995bc7c-0719-43bc-a980-13d678075b1d,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c9715ff6-e06a-4a35-8915-1a712e51d81f,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+e55fe0a4-6d40-493e-b9af-af55243403f7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f2d29075-ee7d-4af7-afd3-3f1d7775d2e6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+18de1186-ae6c-4ce6-a4b2-4c26de696f57,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ccd1f944-e336-4746-bd7c-b49224658fb8,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0c596fbc-1bfe-4e0b-ac77-17b130652f2d,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+527b09ae-5e2e-4296-8c7a-f6a1d50d9cba,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+91441c91-6ca6-4489-9af6-eeccdaf615a5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+317172ac-c2bb-40a2-bf74-b4770912b83a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+84c91482-47ca-432e-9a59-4fbd9edbc142,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+899acae1-5416-4de3-9e84-34cf923c0a57,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1e89902f-536e-4657-8a2a-d218478c6cd3,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+797e7972-72a1-4785-895a-38ea0e45a330,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f1f8b383-aa8d-4f9d-b51d-b4e8816bf9db,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3cbd4e3f-c83a-4694-901c-adab177847a6,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0e80ba4d-b402-4b8f-ad64-848d39c7a440,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dd2aa8ed-5426-4766-bdfc-5a6311cdd993,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+85d47c27-2713-49ce-b476-ed1dcddc0a93,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+20cce6d9-a4dd-48c8-b924-b4e39a9db297,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+48e94177-4a93-4e9b-8ee2-b4e43db36d56,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+faa2ad38-cfce-4914-943b-1a566a3c3b88,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+14699c05-eea1-41c1-b94c-cfe64ff7354c,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2e788324-b0a6-4615-b32b-8fc2e1c3e17a,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8953e4c8-88d0-4842-aae7-356974031efe,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6d6df3d5-fc6b-417d-bdba-9b0ef9c1425c,RO Water Purifier,,2026-04-10,2026-04-10,allocation_date,125,0.34
+88fbc7aa-c091-47f8-b1e1-ec561ff05cf3,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cef54185-0af8-4777-afb1-4e11d9b9add4,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9064dd75-05b4-42ca-8199-474bd5e69116,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7179b437-4868-4645-8629-61b16ea84e89,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+91be87a5-9260-434d-a46b-0359a024d56a,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+87f1cde5-cc89-4a84-83a1-d3f92094f0f8,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c87e2e9-08dd-4d4e-b6e2-54eeeb4dce20,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+326a9803-4ecf-4a90-9ad6-dc039042ff6c,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d4f2ff34-b56c-4fa6-bdb2-fabb4d39c447,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+77767257-fb83-446b-a520-e59bef8e1d49,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0c03377f-8496-488b-9c08-ac6fddf873e8,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0061abd2-efb8-4d07-8d5b-995af0480d78,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+104eaaef-3446-4465-8ae4-d4178cc46d4e,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0a82c0bd-3d31-4978-aadf-dfc279d8059a,Cloth Dryer Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c94425dd-961d-45ff-af5e-384592e643e7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+bfc07faf-f30c-469e-8f5e-d52b3f302d8b,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+d79e58e5-0cfb-4928-aca0-d4ea5a49fa78,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+652d71c4-9693-4722-aa70-2defec183568,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+78a2ac0f-0e30-464f-ba3b-634e84e7d46e,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a6f01342-1719-4b20-9357-3ea01bd11473,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b1a9ee2b-3c75-4a23-ad28-3a27c7d93e41,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0f4400ab-3ba3-43be-8501-a740652f62aa,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b045b49c-8572-4178-b157-bbcbc229f437,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+660492a2-aeb0-43ec-8d4d-c018b239bc99,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0c8064f6-def9-4ce0-99e2-58cc93476a3e,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a55ae9b6-311f-4722-ac9f-eee9b5bf3dbc,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aa5e8c85-ee50-4ed7-ac41-9891f57151fc,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+14d27fc6-b43f-420e-9cc7-29bec3989775,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+58cb2e24-2d02-4c94-acad-fe4c2afaa878,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6d139e37-b2c9-41ce-ab61-761b58c50881,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4948239d-c0c6-418e-866b-0369e7ffe393,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1b664f06-fb9b-4b4a-917e-499b86f5d1d8,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+533491a7-0d69-4639-bbe7-d3583abf1ef7,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8df6b261-ef18-468e-aab3-96cab19b4ffa,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1bc21ebb-ed96-4d21-8263-264ce05329b1,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1616f4f3-38d2-4758-b116-0b1cef502fa5,Microwave Oven,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+27ee160b-3897-471a-a0cb-9599fe8fdfaa,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c517620-7cbf-45ba-b969-fa3728bf2957,RO Water Purifier,2025-01-18,2025-01-18,2025-01-18,purchase_date,572,1.57
+1ae4f454-cdb2-49de-af78-00efe5419ec6,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+af693946-26a9-495a-837e-82a0d7189fae,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ad38cbbf-3655-4b59-91a9-ebfc678177fd,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+53bc6aa1-4d9f-4cc7-8db1-4e9a8e36c50b,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b24527ab-8027-47a9-9313-31ad7ab0aa00,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bf92b299-c37b-4834-926b-100eb409047c,Washing Machine,2025-07-29,2025-07-29,2025-07-29,purchase_date,380,1.04
+6b3439e1-ce82-479e-9781-e9a2b893b664,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a01a904-0541-42d0-9ea7-581c93367b35,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f4f592b5-47aa-4c47-ae37-5299306ddb56,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bb16fb18-3977-45db-9072-c93a4fbb46c5,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9d364a68-c955-4fe7-8a91-9ed05f2a64a8,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b43448f8-08f8-4bcc-aa58-9d7517191ffc,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+027f3f55-ff33-4f42-80c7-3057a240005c,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fa43dba3-20f8-4ca7-b8b5-2a2b7e999e40,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+27511d3b-4d75-46b0-ace6-ab0a808722cd,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f8fe2cb5-1fe9-4d48-b8cb-1f4819eed235,Cloth Dryer Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4f41137c-adb3-4668-b87a-609c7cbe34ba,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1b74d82c-0c6e-489d-b7bb-95ccf07e22a0,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+ba532fbf-5f15-446a-9c1e-8b34b5f0adba,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+841939c0-bc80-4188-8ec7-7f8401b90c21,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+d2c7b03e-13e6-4038-b13c-095b7a07b8d2,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+69d9c8cf-57c5-475e-a120-c23829948970,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8d662fd-0f62-42d0-bcf2-4f22a9ab23ea,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4127c641-b61c-4c57-911b-849032138a56,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1acf99d6-b5d6-49b1-b102-e544c50a41a4,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8376fbc5-6fad-47e7-92fd-0f4b5b3ff302,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6e7febe9-ee65-4fad-8d38-7d50bbe6ba41,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4acea0db-c8bc-4068-a2b3-c08755d6d370,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+69f1210d-c843-4637-afd6-f6541b6d7040,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+350a5d9f-c741-4da5-9c41-4d6628f4be60,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+36f7edf9-6161-4d38-b484-e65b0b545b8b,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d808c152-ecd9-40b8-a60b-cc800d25e27d,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+affc59e1-4e50-4b39-9026-c4adbf601fdb,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ef9a41c0-4e35-474e-ab7b-3ca0833228c2,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+97248d4f-b62a-4315-9915-18dee0224ade,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a13f0c50-2845-4ab1-b7f1-5955c25ff6ee,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+02467f34-667c-4200-bf02-090ec6274180,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+08635064-b234-4460-b461-39a5eb86c144,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5cafe387-b6ea-41dc-a4bc-777ac1e84b85,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+edc229b9-aa25-4f57-acf9-d992974aa798,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+24eb48f0-199e-4932-9b67-5ec3dd853112,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+65f89850-5c79-40b4-b6e5-d9fa4f66557e,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1967bad2-ccb8-4c40-8ee0-2c4dfe7440aa,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e023aafd-324b-46e0-9d1c-4185c31eab44,RO Water Purifier,,2026-04-10,2026-04-10,allocation_date,125,0.34
+708fa4ef-732d-42b3-a703-662c7856927e,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f9bfe028-7c8b-4738-a673-dd78b0818535,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3d922a51-fe63-417d-8da2-a5bf53202a07,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c3191a4-5585-4167-8008-5bb1f5b83502,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d6aa081d-70e8-45b2-9eec-367e7eb38ec8,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8fa7ae15-a7c0-48bd-a956-fb3413636488,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fe147861-628d-44a6-90c3-b11e362a15ce,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8a0f6aac-358b-4bf0-9672-f1ddfaf4f48a,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+03a83019-dd0e-4ab1-8e20-d1ad13a04ea8,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+61507e8e-6567-48b7-b838-3e16c2397da7,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+db7f65e5-9fe6-4986-a7ac-37fbdddff609,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c76bf49d-62c5-4005-8c75-3b944e8d8aaf,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3bc41eb4-feb0-4e73-9cd9-345d91186522,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+228658f4-68c6-4d7c-ad31-dd14deae0fc4,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+85db7457-ce74-4870-b20f-9232da18cd1b,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3b7770a9-6095-4c9b-803d-f17f8a52d1c9,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1a465956-4b83-481c-90aa-4e2bd9f669ee,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+941f8de5-0039-404d-a409-101f15d70eab,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b202ac1c-f242-44ab-a465-443432848f8e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+8856a21d-821d-4515-8d16-e58c52243b7d,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+faac34bc-4f99-4389-a98b-3c16d42812b8,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+8fb20c02-0c2e-4e77-ace6-86c1cce40d44,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1ca2b66b-652c-4bb5-9587-7a7d88360732,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dbb4e06f-cc85-42a7-a42d-b636e194e3c2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dce1b777-12db-4b41-9536-16a7665779cd,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d7f13961-48b6-4d7b-b0ec-72d3f967ba40,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e5b92bd1-9976-4a99-93cc-d22f48e894b6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+22131ef0-b296-4a2d-9522-65edf9d89dee,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+18b794e6-0e3b-4ee6-8ff7-df79414700a3,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4da383bd-cc92-459f-88de-bd50dfec1bc5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+31c95f11-ae76-4640-bdfa-d92f44b8195f,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e0b06d6a-cf22-4125-a6b3-ff4c53560aac,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cadeeac7-7077-4edf-821e-2fff39de5ce1,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c9db82aa-39ec-404f-b045-4c140ea217e5,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0e9127c1-dd69-4c46-9126-a605af00881c,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4eca5eca-6f52-4f2d-b536-454eb2c68a15,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+323a7b45-f686-46f0-89ff-a3d178d87a9c,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+79fbcae3-88d1-4402-964f-6d375ca1d389,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2fc10db6-64e0-41df-baf0-8bdc9502f776,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+acb43ebd-66dd-4a28-862b-afd26910da82,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+32de34c5-5da8-4ce6-84c3-4a6b8d7855eb,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5b028d5a-0378-4ebb-a876-7a01e54b7e0f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a9e7c679-eb77-4140-9e8e-6126fb83fd19,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+04e30c01-39cc-4fe4-8afc-4ad1b2c7eee9,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0e86adce-207d-46e0-8fb3-a51945c18e02,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0be59d03-abb4-4b0b-9cf8-da4d6bca575d,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+531fd0db-e47f-4d8b-8728-dae79c326c8b,RO Water Purifier,2023-04-03,2023-04-03,2023-04-03,purchase_date,1228,3.36
+03ae8d0d-4d90-42c5-9857-207b132a4685,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+52eacfc2-7653-42ea-9d6c-1130dc1e3b79,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a157e653-f7e6-40dc-8bc6-0d4082147d79,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3cf102d1-9729-4082-a55f-d031d3d2c075,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b451b3ea-d625-47c0-89ba-14591fc16c50,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+882fbc52-86a2-4581-86ac-7bc0c47f3f03,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e91395e9-65c4-4ca0-96d1-312e44c08e92,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b8d03f02-7c55-4a9a-a74f-93b3ee3469ef,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+174f192d-5c8c-4a99-b2a0-8969c74e82af,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1f66dc02-27aa-4363-bd97-2df70371ebb0,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ce9964be-389f-4a84-b81c-ea22ddc62eb4,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+32416d58-60cb-49a8-9d45-42e68272c044,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3dbc7592-a86c-46d0-b08c-dadf816e376c,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a10d884a-abcc-4379-820b-359fb8948831,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+da2a1d1e-02dc-45a2-97e6-b7ea9b31038b,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+347c9173-749b-411c-b3bc-3b33efbad727,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+890c731f-c754-473a-8073-dddea821b03a,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8b260938-529c-4527-9622-9e31f3b35bca,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9119d443-02f9-4dc5-8235-c98702f25ce2,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+06f26b03-b23f-40bc-9343-e6ec40ce50cc,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+8daf1183-8fe8-4151-843a-b7e337863cfc,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+822cc356-056a-4cef-8ae6-3ccc995937fb,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+0005fdf1-ce7c-4ae0-a3f1-6c97d57df2cc,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c6d34ded-032e-40a5-93c1-9762e101bab5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9044bf16-22b0-4aec-9820-b377e55f80ad,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3020afd9-cee6-49de-90d3-77a18023d86e,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+11cafc09-e28b-449f-81be-943e55210103,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2fc7884a-57c9-4449-9ed4-362d2a1be5ea,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d7fca567-ee6d-446e-bcb4-b66de45785e3,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a53f936a-4736-41c6-9315-d946a3c071d0,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c7f7b971-19fa-46c7-849d-4c5982a86ff7,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d3a112e4-d578-4d5c-ac52-9a9c551f924a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e2fdb037-ac4f-4f97-b5cf-0409540e4991,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3df1c8ab-d1ad-4212-85a2-df0bf0d916a6,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9ef6691d-a376-4bc2-8b65-55b8e66b0b02,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+67d91b82-ea9e-47f0-8158-fa6627a209fa,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d814617a-9d75-46eb-b39e-918f593693c5,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c2b9ec80-df03-45f0-ab93-1109fcd8d586,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7f9e2e6f-3a38-4f00-9813-157956b1d652,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6c6ff729-5d35-449c-a62d-be86b5c90f2e,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3b8bb692-7a19-4edd-9e46-ac377618d820,RO Water Purifier,2026-02-09,2026-02-09,2026-02-09,purchase_date,185,0.51
+bbd7edd0-4a1f-41cf-a4a9-00175b37bd63,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8ec4d187-9005-4a7a-8f05-5595acd7036c,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+11f5cf8a-e7e3-4b82-a952-98842536a356,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c3958dee-851d-470b-904b-2481b8a86eef,Table Fan (Wall),,2026-04-10,2026-04-10,allocation_date,125,0.34
+59bcd00f-90a9-4dc0-b1cd-bf61401d5de7,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a8fae757-b9cc-4af6-994d-cba3c67bd409,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2b2f6325-f71e-4739-ae56-b3f912714978,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9825178f-ed2c-476b-b220-330e7408dcad,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+22f8ad1d-d97f-49b9-b616-bc87fc3f6766,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c3834c9e-f116-40fa-a168-fb48b97bd0ef,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+206a4ea2-cff6-4a4f-8596-10f3ead786ff,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4f55fd06-452a-4dd5-9d0f-00e38f0fe797,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8a6e73ed-3117-4620-a1f7-64b158e8fe2e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1b782ebd-3a13-462a-a037-1fc06e16a477,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+d0d98fe4-7312-41ea-97be-d53b3ec87461,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+6faf14b4-1606-4341-94a0-230cd73aedc6,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+68971ccc-9ffd-492d-ae16-24e68e3838ec,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+13b5d459-2df0-473b-adc7-cd2cd7dc01db,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d56d6d9a-fd8a-4af4-a036-dfc5db7b67b1,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+917fef0b-8dc7-4894-a7cb-a27444429ea6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+705c3df1-bef3-41c3-94c7-67de54a65ec5,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9e532a16-590b-4004-9863-8cc0a6c4844a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9dc88e29-1681-411f-9e12-db576e61896e,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dea6d8fa-cde2-4ee3-9355-8b9eff5aaf58,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aedc50be-5d8a-40c6-842e-c823eea79fd6,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0cdf0993-f1a5-4a42-8389-2122b38109ad,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+cf8fb9b7-a4cf-422f-96a9-e1ea4ccb82c6,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+785118f1-d4af-4914-9072-d4e65f343461,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bb3a7a45-bed6-408d-a8f5-6bd712253fb4,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+de44806e-b663-459e-8b7f-f18051f4dc70,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+59648563-d684-42a9-bbe6-43acd3c86928,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+43890728-ffee-43a6-baea-363f8900a7f7,RO Water Purifier,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7bc2555b-7df8-41a2-ae10-2db292fbb6bf,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b8f6f1aa-28c0-4435-a1e7-a99007c54bf1,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+415346f3-628a-43c2-9b23-9a23f5b4f065,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0692c31e-c24c-4ffb-95ce-71030b59bfc3,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+adf78410-c6b2-4141-bb0b-8bd83c5a2a69,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4216ac36-73ce-4c5b-85b2-b4fcc892d8ba,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bc1ea20e-8f5d-476b-b2b1-619f3d2290cd,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+90a74d97-1020-4138-ae55-d4fe1fcebc07,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0bdb19b4-73e1-4ed7-b4e5-2e23c26f6fe6,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8e6f2f8e-fb5c-48b3-a1d5-8c35f1a2d8b2,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4f649b4a-36ec-449f-8630-642b2837a367,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8066794-1fcc-458c-a123-13020a12240a,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+02fbcc4d-22b1-46c8-80be-27d816fa00cb,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0747674e-3911-4872-953f-3cc60211e87d,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6e4e8866-172b-435f-b96c-d94f2ca99d7f,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+df71c709-4d0a-4bd1-af98-d4f0da2c7493,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d40bd168-e75d-469b-b93a-1dc7dcf59911,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c81c1fc9-cc6b-478e-b7c0-6c6249d1af36,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b83c5e4d-1874-4590-bc2d-bb5cacebeaf5,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b012128d-4aef-4e12-ab52-12723e7eba04,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c61604c6-7d03-4992-a28a-061d0848d5b9,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f43fa749-cff6-4791-8192-b332dfee4b11,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+10eaaa6b-156c-45b9-ace8-d1829ad106a4,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+598fe453-121d-45d0-8707-eede0e7c5037,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5acc2529-4e49-4370-96c4-d99b0433a6fc,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ca60d906-58f4-4059-a743-fd04601023d4,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+481cd9cc-586a-4a23-b5a8-500299b836fe,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5c74efba-07f6-47ac-8eea-cc319339cb0f,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5a770dee-8954-4606-8b8d-8e1fce0f4526,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4f2d398b-5ee1-4f70-9f37-0a1bf7161b9a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ed224186-5fdc-4b37-8d53-371dc20b46cb,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+940b8003-960e-419b-a9d6-f1ed75fced7d,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f30488b0-cc6a-4881-b28c-da8f4daad807,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8da8550d-a8be-4ed1-b197-f54273c9c4c8,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+eb31de6a-d3fa-47a9-8d69-dac8705c98c0,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+5168103a-5a3c-41b2-8083-78c39d40fee3,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c20cd545-542b-4bb6-b53e-2667efcff0cf,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f1f0fd91-60b7-488c-9254-442e5438debf,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5bb1165b-c119-421d-95a8-1da1427bf49a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cbad9e4a-6ad9-4884-8f75-697b6e3c08ab,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+28166767-7252-4703-80da-5fdef635ecc9,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5a8e3cf4-9abe-4240-8ecd-307405ee17c3,RO Water Purifier,2025-04-06,2025-04-06,2025-04-06,purchase_date,494,1.35
+d9becf83-e186-416e-85ce-348f3fa5be3c,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+42c1044e-e415-47c4-83e8-34eb19be782c,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ff76b2dd-0585-455e-be5b-c8c1f6e4a623,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+79f35b1d-8acc-4059-944f-cec0d74c5ee2,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+05e34863-02cb-4405-8e49-68c93de2656d,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7dc2475f-f3cc-4922-980d-d99b3182abbc,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+63583664-7699-4bd5-892d-2123c5cc534b,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+56c5eeeb-c17d-42a4-98a5-fb8dc5e1f705,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dbecf469-5471-49d2-9ae7-d40117f3e15c,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6964752d-3abb-4921-9c1b-d1b668a1ce85,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0feecc7c-d922-4209-8a6a-b37268d302ce,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+999d799d-ddf8-4e3e-9913-bf8a20411d21,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e12e18c7-073b-4a69-a967-675914aac5a2,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9d8f5a0f-c468-4ce6-a8ac-3f65375f0949,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a06d8f29-3663-4983-a60d-40cebfc22341,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b715bf1a-b8db-45b0-8ad4-15cb2c7f3a17,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8428f7f1-7b26-46fd-930b-6ccc6a510427,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cefcc938-dfa0-4213-83d7-2683c6e040a7,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+20212082-f62f-4743-9f1f-b88dbbd36c94,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+19f480ec-af4f-4bc6-824d-da6c00d1845e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+381e54bc-1ae1-4784-ae2b-54e1587deed5,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+19da01ea-5aca-4216-a5b2-9b404a0ba481,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b23f3ed6-3bba-4a28-85bc-ebea924f5eb6,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+544b7073-6afc-400a-bb6d-561234a7664d,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+506a76fb-c75b-4021-9a06-e33f09940382,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fff97ebd-37ea-4dcf-9ea0-1ef8664bfe84,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b85afe51-1c99-4dc0-af55-3241a9bd6f47,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+482ebc6b-9875-4f32-b96c-ea193c4fe7ad,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+57eb404d-4ae5-4503-846c-7fbf696a0e79,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e3824c6d-a533-40d6-a750-14c81a20c045,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+23613fa4-ac57-4a26-9de3-658c3f2c4b4d,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ed832524-02dc-40c7-9df4-0bab4f2ac191,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c7d66935-49df-474a-af4e-5db892413e2e,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a8b93a82-6ac7-4b2e-8fbc-ccb2703835d6,Induction Stove,2025-02-21,2025-02-21,2025-02-21,purchase_date,538,1.47
+ff1e9e8a-fddb-4d0a-a735-4f9d8166e956,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+907c3cce-3fa5-4c56-bda3-751e8e5c8d4a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7af03a39-914c-4c69-ab36-e169f6d52f65,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d48d190d-e234-47a0-a33c-315e9a54855f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+34df9a0b-4208-4901-baa8-c1b03076e57a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b6584e89-b55e-4e4c-aa98-a34c72f15191,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3622b8e4-8e8f-4264-a33e-ea56373f527d,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+09e4c408-b20f-4da1-bd5b-918b9ba224d2,RO Water Purifier,2025-07-16,2025-07-16,2025-07-16,purchase_date,393,1.08
+f1157985-e1ce-4242-9be6-13cd5d021cc5,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+98ec9659-a624-4eed-8558-c14a0cdcdd7b,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2ae73dbf-d726-4520-94a1-defa8d081a97,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ba4a69e7-2dc8-4b9b-ac2e-75ed6bb13112,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cc454bac-0c42-4691-9302-1c9b6b171222,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d2945aeb-cfbb-4f6d-bf0f-ddf2bb499fc0,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a7824fbc-00a2-491d-be78-cb399324a152,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fd1c154e-48e8-4628-a96e-8dd89f40c8eb,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+41b29390-ba7f-498b-accf-cf2f33a2d333,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+16d999ee-f005-4ff5-86f4-a07d8e02c976,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+39e26a0c-5a2c-4fd4-bfe4-53291c31d00b,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+015a5afe-f096-4f3f-a41a-734a4743aa19,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5bb5663a-ef48-40a1-809e-649ffacbc657,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8319bbe0-4902-43ca-9d57-a0ac14359db9,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cb430048-3638-48b4-bc6c-aa955bd6c024,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d84c53da-8f7e-49fb-9be2-15f0fb332997,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+035388f7-9a2e-42f5-9560-a03d77357ef2,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3490481c-e2d1-4cab-9a33-2c6a2dcfa6ee,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ff1be0a5-7386-4949-82e8-cd4fe5387f62,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ca8b890b-5e5c-4038-8285-e015fc5ce441,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c6d5341f-7b4d-4ca4-9c07-bc2b0a29233a,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+67ea021e-1e23-4554-96d4-eb8470b69b9b,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4698cf3a-ede0-443a-93db-43bc526e0162,Cot (Bed Frame),2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+70036fa7-ead2-4747-9b6b-49115da82e53,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+11769019-5f59-45b0-b47b-2adda63e8f82,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+51286b91-78c1-4306-a4cd-3c4558391cf8,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c8140bc3-dd19-42c3-9448-0b8f8cadee7a,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+e046c6d8-397c-4586-8fdf-c88e78da3ec5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+43960756-e448-4803-9883-7afa96e4fd54,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0c1c9397-410e-4953-9049-5d4ba960c4e2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7d39b0a9-0f1a-472f-966b-284de23f0dc0,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+77e251ff-36e7-483d-a139-4ea05f1188fe,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+49160701-70ac-4678-b086-610698ab9ef2,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c79df700-6e0b-4d5e-b431-d855a7d266d1,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f67f24e6-333f-4cd5-a0f4-a2b85f76a0b2,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+08e5cc48-188f-4df9-a3a8-b64c053b1241,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5c0430f5-c3d6-4e31-8318-efbd509cf996,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9e43da1d-fd6f-4da2-bde3-6fb9eb6169f4,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0b828bec-a402-4948-b901-0fbeb2244baa,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d48c8247-a5ca-4cc1-ad16-c9f3579d43d9,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b22b676a-e30b-49ef-bacd-3c84f73da5a7,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9ba1c049-3d50-42ba-91ef-013513d6e67e,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a7b51108-c41f-4cf4-80e2-7d69f2617226,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f40e473a-5e0b-4fe9-a52f-13658272a0f0,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+63753dd5-7520-46ce-8cd9-7763df8ef09a,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+67d176c1-1187-44d6-aee7-0a7e1aa59a2d,RO Water Purifier,2025-10-23,2025-10-23,2025-10-23,purchase_date,294,0.8
+f9cd5a86-a0e1-42e6-82b4-3bd402caa059,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a2ba9215-1429-4ee3-9900-6716e241cbfd,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+38097fdf-f453-4dc4-ad3b-f299ee026480,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c353dd6-6065-407c-918a-04b324019650,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1ee25285-5a8a-4199-aeb1-1a63d81221dc,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6b25c9db-abbc-436b-82c9-c1d0663e6f69,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c0db2869-f692-4552-a037-2b4b57f03999,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c4f83b7d-d7b1-4bd0-8e81-4d275600148c,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a6025c52-4f09-458f-8000-de052bd9adfb,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+df642633-e164-47a7-9c64-55517cd1c3c4,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+60e6badc-68a9-4456-b05b-c745c0e14502,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+19232b9f-c4c0-41b7-a655-830705dd9c3b,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+625b07e7-083b-4c9d-b00b-203844544ea3,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+041464db-fd41-4a70-b1fb-28f7dc2556a2,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0902fe8d-d8a2-4c29-889a-29db379670e1,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+04851861-fec2-4671-a509-4744db93c9b1,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e3adbca6-5afc-4000-a1ab-610b5e799b24,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+60601c3a-24d4-4f20-a073-346b9ba44a51,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+29b966b0-e82f-462c-86d7-66c654e1c9da,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cb1b3f5f-347b-4a3b-adee-1924192848d1,Cot (Bed Frame),2025-01-01,2025-01-01,2025-01-01,purchase_date,589,1.61
+4fe6ef9f-6c7b-43a7-9082-f2ee64869d12,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+9cf2840d-6749-4f2f-b5ba-f7cb1968ae2d,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+3d6c01d9-d4ba-4751-b5ae-a722e85de637,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+e08dbb6a-4d27-445a-80ee-870ea0dd893c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+317983f4-1b2f-4a9a-903c-1dffa602ad47,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c90bc047-457e-480a-8e6e-5b6db6f3dd2c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+0ec012eb-9dea-4bba-8b4e-420e8ddb5239,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f39b2bc1-f57e-46a0-bb42-6dccadba1f22,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0dda5fcd-f875-4f66-b360-252a8890c05b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a565954d-48d2-40f6-ae64-dff0cedbda28,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+643c111d-3ae4-414c-844f-1d4d47fb52f4,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3649fe7e-fe87-4a6b-831b-df6fb9bb2f78,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9d7ff9b4-5bc2-4736-ad0d-eba28a7bae42,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+78771496-d60c-4fe0-b6bd-cd95b52e12dd,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8fd8cbb-af29-4c01-9615-f3993f03d32d,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b0d336ac-179e-4a18-b540-685c52821a1f,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a70eb2c3-706c-45d7-9af3-c0be7a59c764,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0b0ec1cf-599c-4f19-8dbe-7400b104289d,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6a6809c3-0c56-41a1-bcb6-633938411363,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3d28c0fa-a960-4710-89bc-8c8b99529d99,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e8afe4f5-c8ea-45c4-af99-e7b8664034a5,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+29e60f49-c6ec-4eed-b9af-5941b5b5290c,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+564fcc53-ecde-485c-8f18-bf42d4a0259b,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b352a30b-c1da-40e4-aa27-275a6b0e067f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6244d612-03f5-4c99-95a4-704a82c130e9,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fc8c6844-22b0-4c18-9473-a5c72571d7c4,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0af7f68e-537d-44e5-b4e3-9a17e2e5fd90,RO Water Purifier,2024-06-18,2024-06-18,2024-06-18,purchase_date,786,2.15
+c14d5e2f-cffc-4b76-9930-a04a215c2e81,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4b701e94-a825-472d-9e0d-b0821a059838,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1a2da172-cefb-4274-9488-673fd887f811,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5c6b7dd0-0039-4a40-a249-9ae81ab42ccb,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5d09e39d-b520-4f36-8c4b-9e02e4d7a870,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b07c2e02-3a06-41d1-a98e-33d3bd2c2fb7,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bc7405e1-4885-4894-83a3-f55a9d05e457,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cacacd59-1ea0-4b85-b1e8-d4f00e5f6b32,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c7d5eb2d-a700-47a0-a4d0-3cafe9a73716,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ad75c377-9acf-491b-a138-6bf57009111c,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d6b0afc8-bfb7-42fb-8a6f-f026ee1a26e1,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+32c898f1-bb0e-4759-ae8b-a79021d7b7e1,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+35eb362f-8216-406f-9e55-3166a3231a6d,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c958763-2d9c-46a4-8f4e-44f491ee63ef,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1d27ebfe-ce34-436a-917c-88cbf923ab8e,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d22b154f-ef62-45dc-9853-1e5338ce702d,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+46386361-c2f6-4e4c-acdf-18a3856d3359,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a625556f-aa22-4aef-ab94-d6aa22590675,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a80932c3-b167-438a-9982-7915d8b15316,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+098fb593-50f3-40cc-b8a8-aa9b74a55140,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b0bed498-97c5-4cf5-8d88-b49b08049f5d,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f58d98a6-8140-4810-b1d7-061beb5fd095,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+a528d0c8-fdd5-498e-8aa7-c815480fdacc,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+8c5c5736-64f8-4847-a7cf-d6247a7fcd3a,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+11ddf318-7a60-4733-aa59-3917b7ea82b5,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+d5c5230e-4443-4198-bf91-6ac6d33434ad,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+4c2a4a38-3f00-4c96-9168-3755931b1a7a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e90136a2-ecaa-4438-b1c4-80cee5005e51,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5fcf6db2-7d8e-4ca8-a423-6506e0233127,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+71f80c08-2700-4b15-afe2-8e94f1d739f5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+34e4d0a1-6104-4c14-b13e-b583201226ef,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d75e7051-851d-4ba7-8ffe-431d443590ca,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8e1ba219-6bc7-43ce-89cd-ab40b84ad7fb,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+63478105-cb45-42c7-a539-896abd5618d4,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5255813b-afa8-4222-9151-d1b9ecbf3f06,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+afee8099-1dee-4d1b-a78d-12c1d9dbff2a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+03e622a3-2d0a-4e50-aa51-2e4e3d4be132,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+50bb456b-b3ae-4482-b305-26ca52681629,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f0dbb86d-ecab-4fe2-b135-b21b6c52e265,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2e477ae3-b641-4f2e-b4c8-3b9e7bfb40f1,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+67c1c106-caea-4310-9444-89e1c2ad0d37,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1974b778-be5b-4985-ad58-810152114072,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c1f58612-6190-430f-8769-275e07c13f55,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+55fe15de-f098-4f51-a9b5-906665b9996b,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+16c5c8dd-f976-48b6-b996-a134ac6c81a7,RO Water Purifier,2025-11-07,2025-11-07,2025-11-07,purchase_date,279,0.76
+700c21dc-9828-423e-a27d-aa9aa51bdd2f,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+25c3b70b-9f25-47d0-80aa-f47af8bbae00,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2090b006-fc59-4cd9-8445-ed44e8cd133b,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5fcad72b-6837-462a-be78-1060127d86d9,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4b055482-1be4-4cc9-80a4-2040c66638d2,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7ebd2e55-880b-4dbb-9644-fb480dc69cbe,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8ac38fac-21c5-437c-b041-d35aa66d955d,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5a1e1a76-50d6-41f9-af23-dddff1960809,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a24f0d8d-efd9-4dec-ab1c-a0c615e45db5,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e033fe7f-dc31-46f7-9723-cce3793a1cca,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c32e31b0-0954-4a6b-930a-75b8931fc9c2,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bb236be0-2a55-43fa-b798-b41eb5132d2d,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6cefc6da-cbc2-463f-a8ae-7f87b066497d,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6eda6c3d-1ec3-4341-9ce9-3bea1aeed91d,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3392ce00-cd0c-4863-9a47-3e7a49584d77,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+77f433f5-c916-4ced-a9cd-21f86a57e5de,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bbdc672a-e635-4f90-8eac-7cc9ea2225ff,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c36ce42d-feed-41c4-b723-83819147fac7,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+03cff3a9-01e6-4142-a367-88cb35c9b969,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9dca778b-0edb-4898-95fe-23769d7dfb21,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fab34eeb-98e9-46f5-b9f0-d7176839b2ec,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a0ec0182-c484-4f03-b5c6-be2adaf1a686,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+fc002b3d-8e01-4321-b31b-f5935107966b,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+db8d1a3c-7a73-438b-9734-7e891f7094af,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+bcb860d2-ad53-42fc-ae69-dfbcb58dcb49,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+00b15e63-8df1-4d65-9cd3-14eb0091e8fc,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b81ac54c-7b3d-44e4-9c81-31edee0b037a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0967fd74-fd2c-4539-b4b1-7cb49990aef4,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5ebc4c5e-583f-43b8-916b-3dcd19c0e183,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d9b090f2-7f0c-4739-86aa-d438a804da23,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+33c595eb-aaed-4c4f-9aed-df79764301d2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d415fabb-19cb-4b3a-baf2-b767da51638f,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3005c67a-dd3b-4a53-a457-4b155602758d,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8708cb71-d743-477b-9c87-6670912b0e75,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8906598f-8e6d-425b-9b02-970790d80f97,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+daa0a7b2-b2a7-43bc-a680-04ec813f98e4,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4047a701-4994-43bc-9d29-d2760582f964,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d82667f7-5080-43ff-83d2-0204c1c94dfc,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+63704af6-b3ea-4ce1-86a1-99d81f36ea95,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+03488726-86aa-4030-a7a9-8d61ad714db5,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7f190965-9ca2-4541-bcd5-3d7eb3c5263c,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ab5fad8f-d21b-44ae-b392-fab608a40bac,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+680347d0-037d-404c-a41e-cc37890a12ea,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e2dad993-c28f-4aae-843b-f233b1ccf7ff,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c44baed9-eb09-45bc-ab4d-eaba9a19d7ff,RO Water Purifier,2024-08-02,2024-08-02,2024-08-02,purchase_date,741,2.03
+7cca3533-5cab-4eb4-8941-f16ba73f0405,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e51e986d-4c16-4636-b8ed-a8f2943df9d3,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+894bdccc-f132-4f9c-8adb-35d22c08da54,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1733228a-f508-4b1e-aa0a-6c342c48fe6e,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+20fae8ef-0ff7-410d-a114-9b32b366c673,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1f48d7c6-26ad-44dc-9529-4a186d6aa56d,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d48ea955-7f36-4a33-941d-11b1c50af761,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+eea44658-d1a6-4d79-8fa4-bf8c9eb7c508,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+50fccbdd-9c3e-407c-ace9-47dd457a3b4d,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a84c1a18-cffc-45bf-b987-a85bdf1a6753,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+99d778f7-c033-4e7f-b205-35213a9877d6,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f9722453-5e01-42fb-b088-8ceef1daa75e,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+58a5706c-2b32-4d8b-9d3f-c6bd51526533,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5db5f513-e5ff-4829-9cd9-f7f6ff76a95d,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3d7977af-be81-44c7-9d52-123d4fd823a0,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+06195c8b-eee5-4aa3-955b-03ed5d35cf74,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f12f6f21-4e48-4951-b2b6-72b87178190e,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5ff12dae-9fd4-43dd-b91b-9a1ff354e683,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d13c8816-1f9d-4f2e-b72f-1b7a5343e950,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a693590f-e184-4e7f-8f0f-f73331148865,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c2d8e1f9-10b7-4aaa-8a07-a5f8f11790f6,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1b18f88c-8f4c-45c1-bf3d-4952c8a321b7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+5ad275d8-7e58-4941-80e5-e16a05d16f48,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+94d08aa2-76fc-41ff-b53f-40898f292c10,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f6124fdc-65be-440f-b5e3-60951a3b7528,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c58b14f-c26e-4c3d-b71a-31dd1fe5c1f6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ea842ca8-3beb-44f3-9159-32494159c1d3,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d4ef0351-b677-47de-b3df-023721ed2853,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a811591-f266-44c0-9c37-641948291c8b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6a7459f1-367c-481e-b774-dd20c5f07eb6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+711d3ed1-3264-4a9a-bb31-fa5f7027e0fa,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+453fb961-9969-497b-958e-0d539c10ee8f,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b9946d2d-f501-45d7-a5ac-b01a089c7f80,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e9b3ee0b-2542-4494-bbec-af30b46f14d4,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+67614d38-51d8-4af6-be06-c3bdc547b92c,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d3259d57-da07-4fdb-b45f-18a033ec34ca,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5af9ee14-c873-4418-8471-d7b24f216e73,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+05822b80-f0d1-41c4-aac6-64cd6b186659,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ad62b268-23d5-4929-aebf-369e5e3d4736,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d84480a3-e07a-4f97-9090-a22dd011c680,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d7693841-e7f5-470b-9702-00b1a5e73192,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3f8e79a6-2f22-4d16-9c69-a8ff743643ec,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6923a4b8-18c4-4f85-8545-25aba7244599,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+389629be-9c2e-4460-82b8-645b38166328,RO Water Purifier,2024-06-16,2024-06-16,2024-06-16,purchase_date,788,2.16
+44daf928-931e-4b98-b5f6-7b28cc6e31db,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4a25aa46-1f1a-4410-8f2b-691700382818,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7e01b046-1f55-4d68-91f1-d99237f279cd,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e51b8da6-0547-4241-9f22-d62d96ddd988,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4e158ed5-6166-4271-a6f8-df01cbf292b0,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c07a0161-cba3-4b63-8ac2-869b2a65ea93,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2ba744f4-1d9d-416a-b710-0883dd5d63fa,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+48ee9dbf-20ec-4344-8ad6-3b6529f95f4a,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+76328e4c-4888-4272-944f-73e44a3817bf,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4e5f5e33-7af3-47f5-8e05-d3ea5795882e,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a01fdc02-1311-43b4-828c-ae25f1158139,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+471a77c8-6159-471b-a7b3-910527eb1e9c,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+14231c5a-4b89-48c1-816e-5604de42720a,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e98878e6-dd29-4b51-91ee-7d45ca28be51,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a24babc4-2981-45b3-b5b3-829920f0cacb,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+83f34b4f-24b8-4e5c-814d-1a7850701469,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4b0930bd-49ae-4a23-a9ba-12e943964a66,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+66767d7a-1439-4b4b-8345-e907eedef209,Cot (Bed Frame),2025-01-01,2025-01-01,2025-01-01,purchase_date,589,1.61
+8a435a87-d3a1-41a4-85fc-7ace207ca007,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+2d37638b-0bdd-4247-90a6-086b86438fcf,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+19f9c395-4eda-4bef-9e61-e22db5270031,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+51cf0425-f458-4ae9-989c-8b4fff85d3e2,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+57a0eea9-ef47-44ab-8874-29b2ed971dd2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8fc3d945-9584-48b1-801f-5e81d9f9c1eb,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+be6f5794-929c-4332-b821-ec9e51e0c4b3,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cfc280d3-6e50-4598-a81c-dc6746e9d27e,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3ee5f2a6-dc33-4910-a804-2aac2bb9a6c5,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+02f5e53a-ac3b-4b51-ad0d-d88965808999,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6e9f681a-1292-4cec-95d5-80c22a076e15,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+359cb52c-8251-4d5b-85ef-fd67c9d5dc46,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f52710af-1fbb-4cf8-b113-084ced145f7d,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ea26357d-049a-451a-8c62-fd6a8c68b228,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3399f2b1-20a4-43a5-aac8-25f05c341483,Induction Stove,2025-07-03,2025-07-03,2025-07-03,purchase_date,406,1.11
+f910b04f-e726-4aa7-9523-c9d10dca9b98,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+85590534-ac0f-4cbd-9ec3-3e3c4b8a4250,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+01eb02f0-c903-4e4d-8271-9516d64b5608,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3a7357aa-7f8a-4970-9330-2d8436693a47,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f4beee0f-ed9f-497d-a5de-a82829fb6f2d,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3ceb76b5-b647-4a80-90d4-1b0f3c24cfe9,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+622a5e38-7c3b-457f-865c-8b8a9ffc2ce2,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e5a1f770-e368-43c8-a5f8-ea8b0a342ded,RO Water Purifier,2025-04-06,2025-04-06,2025-04-06,purchase_date,494,1.35
+8a30674c-749a-49c3-b63c-ce498f3dc2fb,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+50f5af77-289f-4bf7-8c2f-b74369ffd9bc,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+980ff08f-01bb-4ec8-846e-87474b79285d,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fce507f4-6f74-4680-9043-131bf454aea2,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+25895145-c5ca-4ed9-9644-1f8086470efa,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+02f56e51-61b4-4122-8c93-d20ad256322d,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+16dd9801-8456-4eab-9f32-26043f1fc234,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f8509fe4-3aae-4daf-aed6-ce73ecbd7f26,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+147c451f-29c0-4333-a9e7-a73d1cdb9a1b,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+06fd6cbb-8d35-400c-8659-aaa0eea17971,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4e17cd4f-5f13-4f9f-8b47-4756d2a2ff05,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+572c3a43-35ae-48cc-941e-77484386f1bd,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2cbc8c56-879e-418c-84f7-cc6c53598d18,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f43c6f19-35a1-4330-9869-01dc2d4d62ef,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e92e0911-2a14-4376-96d4-eb0939d1c18b,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+09879342-a1db-48db-978f-abdd5471611d,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bc2f294f-639a-4bb0-bbde-786be27e2db5,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+914243dc-161a-454e-8327-a9ec33a6bf5e,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+efb6f6fe-4ef8-43fa-b97d-e727a530d3d3,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0fc562f2-e95a-4e0c-90a7-834536072790,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+bec807b0-91b1-40ad-aa5e-453ff501ff28,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+93d3cb57-9f50-496b-97cf-c833cc05c66c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+65502072-1cb3-47a3-81cb-3d58cef6db9a,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+40159b54-d740-4443-98b1-737d4dbf853e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a14979e-6e89-4006-9aa2-8705a2f07dfe,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f0abbc27-ea3c-4be7-90a2-2950b3d8bc46,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aef6ff0b-736b-4e8b-b44f-7f28ebd311bc,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+514b3a8d-978b-419b-8ac7-350d2fe503d6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cbd90fe2-a79c-4d75-b355-5e85441e7352,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4f576513-fd80-459e-b380-4a5a8b31ab0b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+892dee30-f709-4a03-84bf-21b682baa295,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+13f744d4-6712-4f57-a2c0-e01be5ff7e0a,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6eb2d076-e348-4bfc-856d-86723e94ab90,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c3e4cf3b-765c-4e09-8c22-383bff808a3b,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ab789334-fbcd-43c7-bee0-ff6a046cfaab,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3572c37b-84df-4271-8325-05cc2691c152,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+65682bd2-39f7-48df-9dcf-132d8853120d,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+919dced2-653d-444b-8daf-a7fb0866f7ac,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e31d55e4-28cb-4c42-ba0c-a04cdea1d579,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aafc5fd6-f6ce-40c7-b8a3-12ada933af97,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f1d60ec1-4a13-41fa-8c6b-945fd688704c,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a121576-386c-40dd-8a6d-a3120902a359,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cd87be66-49d2-4f84-830c-e18828702451,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8c06c598-304e-4add-a866-f3c6912f89fa,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6eeaf23d-9860-46ec-a658-4c78ff614c12,RO Water Purifier,2025-02-28,2025-02-28,2025-02-28,purchase_date,531,1.45
+ae8902c3-6b75-4c00-85ee-d7c61b87ae5c,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6a487155-d829-44f7-bef8-f8b8350b4d29,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b3881b60-e84d-451a-894f-e6311baff77e,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+345049ae-57ed-4eb2-8fe8-964599ba369a,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2db5cc24-d582-4257-b6f3-ab807f928e19,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1ce7ec08-c4c1-4075-8392-4d98bbe5c2b6,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+84578b9d-7435-4590-96ec-0a9601f487b6,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ccdb51f8-1109-42a6-9f33-98cf8ffa5176,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9a3018d6-bbfc-4e5c-ac01-173ec34fc8b3,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e737446b-4264-4572-b757-9302d5b7ce8f,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+196155a4-0a58-41ee-a6d9-d66ad917c414,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+43b14e12-c149-42ca-882a-0a8f9fe53c9b,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+148cd99b-63d7-4fc0-aa54-6c1021e94b51,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3efce5d2-b6c1-424a-9491-52000cca55c5,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1ecc31a0-bd06-47cd-97d6-08a6fc66b684,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a53399f5-fdc0-4ae8-bb05-31ca8ec2c8b5,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9a0db726-841c-4e57-aee3-e6a3ce285e7f,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a8f9d6fa-007e-4443-bb75-eb95b82164c4,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+17ef7273-5605-4694-8966-2f2c9d4f0cc2,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ec23b8d3-2e50-448d-9bfa-60c8c9b12cc1,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e45ce855-936a-47d3-9e0b-a0f80a259de2,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+555e98eb-4fe6-4459-8cc7-46924f281dfb,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+9377cbcd-3030-473f-9941-519310a1135b,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b8003346-054d-49d1-998a-cceab6a75b5c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+dc0331d7-c01e-4d7f-b191-15466d6712c9,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+9910bc27-1a6f-49c9-a206-e6808ed16bf9,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+e45c57d4-7bcc-4157-b4da-f1cfca9bdb11,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+e7775685-4d86-4e71-aa8b-6f8f3b636f31,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bfd47674-0655-4326-8234-0319500e761a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6a331c7f-a514-44d4-bf08-fb9b25c19bce,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+41a95851-1134-4c72-bb90-0facacd3adb9,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+36cd28b3-daf4-4769-8723-eb98b467824d,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b36523a5-7ea4-4615-a073-05c1871150f6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+59edf16d-c907-4d05-b0ec-4c8ed8db16f0,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e25799f8-c46f-404b-bd82-90a48e674059,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0f1b6df8-4efc-496f-8a5d-410cc10e3899,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cb8dc609-29e7-4b74-a6c8-c0bfcd19e6e4,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b9a701c4-e0fd-49c9-aa3a-14ff9e9e30be,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+988103cb-7e0e-46c5-863f-d8164f6cb4fe,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+04135367-b275-454d-b38a-1bbedca32a4a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5505a05c-6638-4437-b92d-d84df6474416,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7e2cab63-2cac-4d15-828e-4e661c420c75,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7671150a-76ca-4bb2-ac05-7d2cdd9d5529,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4b7898bc-ca42-42e3-95a1-e0dcc173421c,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1e4ef57c-120d-4cdc-a787-174ef516eda4,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ee5277cb-c0b4-4d6c-9594-89021f5d24b3,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0990f861-fff8-4c6b-90fe-a2f9c149209a,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0dcfad8a-af37-4c71-8097-1d78e2f17a6f,RO Water Purifier,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4a6d35a8-ee4e-4b3a-9863-0d061af78add,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aafed727-3968-4681-b810-2f70495453de,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b6511f6c-5de9-4db1-8f0e-34cbbad800a0,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+46f15565-1d96-4548-8dfe-29d81be97673,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6bb4484a-8055-40b3-8309-ba92c7a3fb62,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cf06d5e3-31dc-4283-9596-9c8f19818ffd,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a5b9df5f-a304-4e71-ae9a-3ffdf56c2ea3,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0063a3c4-a985-4ead-8949-3f0b87fcbed8,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cd86c5f0-efa9-4bfc-9ecb-7c3230173dcd,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2f21f3cd-e827-48fe-83a5-396e23c7fef1,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+70f0dbd0-04ba-448f-adc0-1808af4f9690,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d0c208a4-23de-42d4-b744-99aa96a732d4,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b7f34e92-c6d4-45ce-9438-a7ff2da6c086,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0b4235cb-f824-40f4-9749-9ee07bd8393a,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+00e75d16-9d5c-4cc2-bc63-c5dfa0ac04ec,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+6b3b68b6-5ffd-4b66-8d71-535c6ec13110,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+acad55b2-f580-47ec-9ef1-5693687695ce,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f0fc3e11-eac7-4775-963d-fb8a200b9e84,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+56fc86e9-a64c-4c80-bf04-474e9ba03562,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c7d00c54-9c25-423e-8f9c-04e5e01c8383,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+46ac4f2a-c5db-480e-a586-d69d14dcca89,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+81e4237c-0382-4c38-9e68-b23c53b66f44,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b523c956-91cf-455f-9827-13ee923cf695,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b1faa001-6814-4af7-8275-c12c5a59a1dc,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7edf9955-6df6-4729-80d5-ce1ede7ec467,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aaf765c9-a0b1-48be-8c21-3ac43a462480,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3f2f77a4-c3ef-4437-a2c3-de4946f929ba,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7e58ae82-c8b2-44bc-a54d-0dace198462e,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+57e63ff3-c514-4bd9-818f-e8e5fec9f069,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+90f435b8-90ac-4abc-ab0c-7bc647ead707,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+881cf053-2664-4b7c-845e-828bb9b4ce26,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e4f42a04-4332-4ddb-a9ed-0275422c0c35,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a782d2d-855d-4783-bca8-1a6f6302536d,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4b86f586-f8d0-4820-8b4b-4ef9ebba691b,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+63b81cac-d8de-490e-9b04-0ca984233363,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ca626dd9-f708-4d73-a896-d0ba975e4afd,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6bf30914-e3f6-4477-89a0-6f82b5e5baf8,RO Water Purifier,2024-08-21,2024-08-21,2024-08-21,purchase_date,722,1.98
+2078708d-95c7-4856-8473-d7fad803ffbc,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bb885e59-6d27-4d34-9ee9-2bdf1bafd50d,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+33c22057-ddb6-4d8c-9806-0df17fb09262,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9048fc8b-4fae-4b8c-8456-4b577a998917,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+40b942fc-9bc1-4e5c-a2b2-44a1a1c0b77e,Table Fan (Wall),,2026-04-10,2026-04-10,allocation_date,125,0.34
+4a3f3e80-1c5b-469a-ae3c-e467b3f2bc85,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b77ddefe-f6df-4c09-bcfb-07115192863f,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8b12303-e019-4392-95aa-49d5ebdb9f5f,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+436099db-3a2e-4b9c-984c-ccb958ef972e,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8f5d7ba9-389f-4c66-9724-0e54abeb3076,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d9a2ce08-6abd-43c3-bbf2-33b0c187a3b5,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+abdc9198-3b1f-4afa-a372-6366b8627999,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+35dfa200-b1a5-4607-9379-c42a59587b06,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c0654959-32fc-4506-821e-db502e57e389,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2c5887e8-96e8-457f-b93e-c8b03ec51c2c,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+eb5bab57-d611-4b72-85e1-e8d7220049b7,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1f9ee7ec-e9c7-44c6-b15d-1857d1f24707,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d8dfdef3-a556-400f-9d13-089a38c58f7c,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c50d5fa9-c387-44c5-b4ca-535a833fe9df,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8b73c5e6-49df-43f8-9786-5b7c92d30cb0,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6a09f40e-fb35-4f9e-b626-eb82a15bf059,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+a36008be-c17d-4c5d-834f-01f1b306809d,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+64bcf2af-1291-40c9-89aa-146ada376d24,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+e0165e64-065c-4436-a286-46ecbd34ab8a,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+0d988587-e808-4a0c-8be4-2121cf44fbe7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+29c84bca-960c-4f77-ba4a-a0a97c6462c7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+10df781b-93b7-4428-91ea-c8c166180d21,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ea59b72b-fecb-4fac-acd8-25b0c22f2953,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2c90b8cc-bcb1-448c-b42a-1400f37967f4,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+64f2aa76-fd3b-45a6-ad65-09bdf8269fa2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a129a825-8fdf-4c13-8f57-7e9214fff811,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+591ed9aa-6e8c-4371-b265-b30d33ba2204,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+87951641-4617-489e-95b6-bb20b76cf1c7,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f709e278-465c-4078-bbce-4e282e891ea8,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+75d01f7c-1d6c-4526-89a9-cd60de1a0a72,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7a8faef7-aab4-43c5-bf03-b4a1561577db,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+56b6810a-dac6-4192-9146-769ba92844bb,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f5b89777-c9e3-4995-ab4f-ccbf2dc9a54c,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b19debb2-481d-4939-992a-f9c5f9be7a26,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e33da857-f3c8-45ce-8950-a36059d060f2,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7d4ce971-fbb6-46fd-bd44-f0eb29132eec,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9b099509-5d31-46e6-81ea-7e7aed2e74f3,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0383411b-bfd5-42ba-b86c-6195e8c99bea,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e043dc95-dac5-4da4-866e-e8c67e19f91f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+65b4ffef-e391-4fad-8bd1-c4ecab090fc5,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2e8e0248-380f-4fac-977c-8567182ecef7,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6cb27459-de3c-427e-911e-71b60fc9a10c,RO Water Purifier,,2026-04-10,2026-04-10,allocation_date,125,0.34
+90dbd2c0-8bea-41d4-be6d-f4b605eb9242,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5689c021-2725-4c08-a5ca-b548dc984d7f,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3c4bf59c-44ec-46ba-b995-5daccb5c31f7,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3e8844b8-f5b6-4bf7-a1e6-3618878385f2,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0c450207-9807-40d2-b604-9f9a35ff64f4,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9b08f744-6ac9-4bdb-ac28-ebca706b3d88,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fe4b006a-9f70-4251-85bf-f638cc28feb8,Wardrobe,2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+6ef5ab29-d0cd-44eb-bd5f-a462f9d96ae5,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+af5af20a-c018-4458-b9f8-e7a25b0c4f75,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3b810b8a-a13d-485f-b818-594238b2b0a3,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+42a93c58-fb3e-4aaf-a63d-91102387a922,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cd778700-b2bf-4051-b6b7-2278bcb1bae2,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+03f8aa98-9864-42fd-921e-06eddab47e98,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+913bd3e8-1251-4191-882d-e8ea0cfe6e5b,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c1635bf9-84fe-4950-8d89-57c157a57cea,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3babeb92-9e7c-4877-8eea-8b0a471e1e37,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+16a9c5c4-e252-4489-9365-7260adc68a58,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+24963069-d2f4-4107-9883-55c4d071fd2a,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+35367d45-b3a1-4d40-92af-5c258bea5f38,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+817e98c4-6771-46ed-ae5d-01ed711583d4,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7751ba9f-dfef-474b-83ee-e42c143fecc1,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+98438b20-af8b-48b2-a21a-1d9af3300770,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+47a5b915-c061-4dc5-b9a2-149a9bc68fa4,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+5234a811-e5d6-4f40-8bf4-8d722f1c3a5e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+45e463a8-0e2d-47de-8890-6b0ca0998640,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+03fe3424-4bba-4d3c-bbbc-789001f85cfb,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+769a1796-ea59-47f9-83cc-700979abbf1c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+d3ebb9f9-47a3-4bc3-adb6-378a8a6eba2c,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+de3adc91-55a2-4fea-b7b5-af818e51d2d2,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f90eb50c-e8da-42f8-ab5b-39e01233c585,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+65468591-7e47-4008-a7ce-c086621832da,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4f48d094-6bbb-4944-a409-69e8d7e7fb23,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6d7fa04f-1cf0-4161-b2b6-650870375bda,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+181aff97-914b-4ff9-b980-bdff1ecec62b,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3cd43d6f-933d-4917-9b7d-296ae90d9d4f,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a10f37e4-1c2b-474e-a941-3c6b07304636,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a6b72698-0c60-4dd3-9d9b-c74e36ac3dd0,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+833435bc-94b1-43c6-87df-b61107dcd42d,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7b9f145a-7e41-4d81-bfc9-4b93655acd42,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ca7e5ae6-5cdc-4eb6-9bca-f77f46073e56,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+32f51b37-6aba-4300-aba2-209af6632e03,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+562b4f84-2305-48e7-bfc9-0550813e4e62,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+795096e5-898a-435c-8bc9-72be48b2eb50,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aa3a102d-6c37-442a-bc9d-f42a56a6959a,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b57f0cee-940f-45d9-8b3a-409c9d782183,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e1ee1927-859c-44fb-beee-1211b3c1828a,RO Water Purifier,2025-10-27,2025-10-27,2025-10-27,purchase_date,290,0.79
+0b7229be-01ca-4c95-941d-ecc2aeffb8da,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6e028850-49de-43f8-9efd-6e1948511c05,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+16c1e201-7326-4f06-8807-c30fad39f4e9,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f135cb93-1c8e-45d6-a207-9b52d16c8ba5,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+83931711-dceb-4259-ba6a-556a897f87c8,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3a182355-af17-484a-af61-8ec8dc4547e3,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ef6fcdbb-25b5-4b87-a2dc-489af0a5b712,Wardrobe,2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+03ba51ea-96a3-47dd-ac56-6c066cd9a16d,Wardrobe,2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+749517a3-bc94-4092-94b6-48c55df52b27,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ad7e715a-8f05-4936-90b6-0613392bf3b3,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2920e94a-8321-4019-8aac-1ead84f7559e,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fd1af9e3-4206-4c49-83bb-d64ddf1b56d1,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aa6f4ce6-e2ac-44f0-917b-0f04f9a1896f,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cfa76754-d580-4670-92e0-17f2be4dc13a,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1b6c25dd-0b0e-42c8-bcbe-4db643f93f0c,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8ba23bd2-c79d-47f8-bd9a-fce14d69fd65,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4464c94c-a1a3-4658-ae52-805edad1df56,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2eeaf69b-4bcd-43a6-8524-04b30682d1e9,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+abbddbc2-3cd2-414a-84e5-692d259381b4,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+32993506-874a-4edd-a56e-fc3ee5c56e32,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aa4724c2-3c52-4130-a4e7-5a3e62a3ee94,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c6fbf854-513f-4f1a-8387-5088b586820c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+467e67f5-5fb7-4ca2-9c43-64842541479e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+c4d6843e-c74f-4b27-a79b-63b2ab94c5cb,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+d63bdc7f-0717-4f48-aebb-450267416c25,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+7958e246-d772-42bc-9c5d-549ec334c83f,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+afa07e17-7a28-4d1c-b44b-9674e9231833,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+0fb1f284-9504-46f4-a7f2-7b839453ddee,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ab3c3030-0269-46a0-b467-5c10b0dc3d24,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fc7c7ce3-e4f4-4022-9765-9ebce66e4bda,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5b6a9197-5455-4442-bd19-7ef10a303dff,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c150ff65-0b95-44c3-a999-61f17d23da16,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f9dab561-ef4b-4d81-bc36-5ea24970752b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d614059b-8e23-4178-87e0-c62a97e5e84c,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1800a8a6-cde0-4997-a8b0-2809060b4a04,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c6d65f33-8882-4758-a18f-9660657339e8,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c58f8aa4-d7cc-424f-b374-f173f91be3bf,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1c2b1ca8-c7d4-4c53-94c8-62837e542238,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c3c4efe-3f66-4b98-ad7a-40df844c90b2,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f4a18af2-a902-4c53-9c80-b9a5f6e9b035,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+786fd34d-df30-41d9-b515-7751b8238cef,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b932db3d-4811-4992-9935-105f0939bc7f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8a5744b9-a6dd-4648-9653-c31f8b5d6859,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3680db5e-851e-4f78-a93c-1986de5eaa81,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+521d43bb-2358-4666-99e9-9c928f727d6b,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+224ee5a7-7704-4276-95d7-4296d737e51a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1845ce71-89cc-43aa-8920-538173bcaf6b,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+674fc797-2fa0-4292-9fcb-4205d7c5353b,RO Water Purifier,2024-03-30,2024-03-30,2024-03-30,purchase_date,866,2.37
+468b6f0d-242b-4df0-b86a-6c8f6fe47a2b,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9505abb2-e79a-490e-946e-e1e11d97d655,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+38baf261-69c2-4d5e-84ed-e65aaf02a34f,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7bc66f2f-69d7-4158-a622-85091ecfbdfc,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e6a8de8e-8059-488b-9c46-2af24ebf0f1e,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c760ed05-268f-46bd-83ab-963910ec6f3f,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+072b1626-18a8-4969-bf95-3000feb13496,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fd7124f0-fc98-43aa-92a8-264fbed04d21,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+92b17b6c-0d06-4884-a7d6-ac11d69ae9f9,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+38024f17-c961-4963-a0ed-d681e192a3f6,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+690f675a-c094-4d91-98ac-96d339f5ef64,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+376d7336-cbff-4759-ac43-c1781e99e148,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9317e37b-b0a6-4566-bdc8-87ed2cafe1e3,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+55f98c26-30ef-4a92-a566-d559f592b234,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2596d296-c644-4c8a-b053-c799b6510ebb,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+38560dcf-e1f2-411c-a1a6-963d7ccb8486,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d4a94f74-38e3-4f2c-989f-1702570a1caa,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+02f627ea-ccca-4e8e-a08e-5ef5acef004d,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a31da222-104c-4580-9c1f-75329c794c12,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+df003ccd-9975-45d2-b416-99adf7f5c5c6,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+42653db6-c3f4-4ab2-b9b5-932188acad7b,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+201290dd-e2b7-4ca8-b639-97803f09c885,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+95b84f44-77e6-4a6b-a2e2-551fcd7be487,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+078372c7-ea7f-4f36-83b9-f8b86d521ab6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f866875c-8a32-49d0-b600-259b7d35c158,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a6c370a7-a51e-4831-85ae-fb4e663c61e3,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a2531dee-49e7-45c7-a015-1480f2d71131,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+eda39682-5ae1-4636-b877-59618e5ad714,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+52313b4f-0bc9-4916-9cbd-98e482e8d163,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b7d12596-f392-485c-8766-94f3519ee625,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+36d53e9d-9454-4bde-b620-15b0c51c77e4,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9ed56090-544a-4a8e-942c-109b962ba12b,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d7eadb72-689b-4067-805b-64f42ce8e2ab,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5880f859-291d-44d2-80ea-680f0f96e9b9,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8a4cca51-2033-4948-88c9-f09239f357af,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b211cd49-7305-410d-bc24-cc4f1ea90650,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1566e7c3-52cf-43b5-97bf-e077bded9f62,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+092ae4c4-c5a9-4e47-9194-ddb53c903c42,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+beeb0025-1b3b-46c5-9285-606f4ef9a426,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5bf4a7c0-b674-4341-ad0c-6e96164d0976,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5cd61223-1443-40c8-bce7-ff195b3e2d7e,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d0b4ac3e-4e8c-4215-b1bc-d88a4420ac1a,RO Water Purifier,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b2f4cd6e-1049-4f25-8903-02352fb6eb67,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c5464d36-4fa3-4e52-8674-f0f5a79ff0bf,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8681bc28-a464-410d-8d97-244d0420fa3f,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bb4bad4b-02b1-4f85-bee4-6efdace761f8,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ddd76816-a6c5-4e7e-bc8b-5d8d121922b5,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c36d706f-6d3b-4060-945c-df1d58425009,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ef1b9d4c-4b06-40f7-9655-ff187d113d83,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d04220d8-e0a3-4377-8096-ae6756f1bef7,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7f86b98d-2ca5-4a44-8c4b-bc89e75d7e89,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1d23efda-47c5-4f25-a9a9-fb25f27f1555,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b5edcf4e-54dc-432a-a6bd-f1b36e2e0813,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d3ccf10c-b503-4208-b412-0bf8b877c76c,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+61c39088-6c22-4637-8905-206c7e280d59,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e26677fe-7cc9-4a1a-86c7-ed4903d8516a,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aee946c4-2948-4330-a75c-fd4399249364,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3a5a1e15-db8a-4557-8597-4f6aa646153e,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3f0a13c9-6ca0-477d-bbdd-6aa6a21ae140,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7933a33d-c5d9-4d5f-be75-351f26d5e6ee,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+835d0fa8-63d8-4067-b6e9-c6f7334b09d0,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1b082c2f-dcc3-45a2-ba43-3308caf04844,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+8fff0c13-03cf-4eb7-bbb3-715c0be1c32b,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f0ef1440-dd4a-40d6-9bf1-7c55c218f1bc,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+392b85f6-033a-4bd5-8141-dc6bcecf313a,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+60116934-1256-48b1-9ba9-bac1b438dab7,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6ebb5f10-e5c9-43fa-aa88-2d588f3b05e9,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b8beb00f-d440-4749-95a2-0489b5ca8b95,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+656467e0-85ba-45b6-ac40-6fa5e71d0af6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+22177261-f086-4309-a75b-e12eeba5d81b,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b764b8e7-a208-4b9a-846c-b1e6365cab20,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+30d9dbfc-a9d3-49fb-bc99-c78196773658,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+60fa4daf-142b-44d7-bdaf-e8a2df296689,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+10b20edb-cf44-48fc-a15f-564cb1a79586,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2dc102be-058f-4240-ad8d-dbbffb26d854,Induction Stove,2025-05-05,2025-05-05,2025-05-05,purchase_date,465,1.27
+3e5eeef1-214e-4b27-a0be-b3c14214156e,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+85b154ae-6478-4cd7-a94a-8b0a0993425a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3cd2bf5c-660d-430e-b19b-b376f73544ab,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+51c73248-3030-4056-a48e-534f42564947,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6fb88cdc-84e8-40a4-a606-ea8fd1ca4048,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0f712cce-89f8-4915-80fb-0936fe1b1632,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2b009272-39ca-4da1-bab7-dac1b8b39de9,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8a0845e3-0198-495e-b17a-47edad6f4480,RO Water Purifier,2023-03-30,2023-03-30,2023-03-30,purchase_date,1232,3.37
+3356339f-179a-4bb2-bee4-63886f4e1e2f,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+90e2e4a1-129f-4334-8686-bbd8de7f1805,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+47f72718-ac23-4938-80b6-ef9eff13e8d8,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a2b37083-1ad7-4c06-8c21-2c2023e28970,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7fa99a49-f850-4b57-8028-aab4a8fbade0,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+74928897-0b26-488e-9de2-4ac9185c044e,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+44ee6905-97d0-4e14-843d-55300d23be1d,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6de08c27-a0bd-47b3-aa1b-50fa02129ff4,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9e83589c-0310-479c-9453-b3da59f7e07d,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8ee72cf1-ebba-4daf-9713-19fe4b2b8f06,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+13d9d678-a406-41b2-853d-8628a9ce5b31,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1ac33845-439e-4379-ba39-8f2c952e8873,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5f808eec-7ba7-4136-ba85-0e2aee0f52bd,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2f68badc-a5b7-4256-b4c7-3e76fef4c3fe,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9c8eae2f-09a7-4b60-bb03-bffe7963479e,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+32e3ad84-9f64-4682-9190-eb9d8b4db52c,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6c381c26-1782-4883-9b35-d5738428c60b,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0669bb3d-7a25-4d55-9f9e-9ca93f56d9a3,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+381e7e22-8454-4fa2-8b30-dbfd7b67586a,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4aad8676-62e0-4dc4-b098-34df037aec14,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1303088b-8cb4-4433-8a44-9385da20a6b7,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+5601dab1-6054-44c2-9b49-cd71b19dfa37,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+9e8a94ee-79d8-45ba-b21d-58f1c9b53ec9,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+5ca5bf28-2d1c-47b6-9008-2ed28ac08b10,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+14ede415-4e42-4132-a4d8-f97622c7aef0,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6960a9fc-4df7-4bc3-9fed-e815ba0de256,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+03d5e083-8048-44b2-8534-ead77088bc21,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aa943eb2-f80b-4f42-a308-5c25130627c6,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6209ee7b-6c86-4060-a32e-ca5d265dedea,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f6a50d94-7748-4cb4-848c-acb0929d97a6,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e5e81efe-84c7-4339-a968-dda6e1f264cc,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b582975d-5d81-492e-8f06-a1e5d3d78fd7,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9b877037-bfe9-4589-8d21-cd44544ec393,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+96f7f9cd-ab09-4613-b714-0e7150b4c67c,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0f8007c8-eb7c-4018-8167-3336744955b8,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+39ed7576-74b9-47df-813e-1b4b3858092f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aeeed058-2d0e-4c0a-90ab-614372ddd1ac,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cfe576d6-7421-46ee-878a-3470e3327be1,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+85c76cd0-e07a-48e7-a458-7f924950fc0e,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b6b85972-04b9-4ae2-a2bf-a34e1c9eea7a,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+12bfdef1-5180-437e-93dc-0cdcd1a55f21,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9eecd708-a126-4640-aadf-7decd7d1886f,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dbbc3c27-acd8-4522-ac08-f97d8df569cb,RO Water Purifier,2023-03-30,2023-03-30,2023-03-30,purchase_date,1232,3.37
+044383dc-1766-4e85-a833-a1248677b2be,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+222c2ff8-1be1-4138-b37b-ab41f2563648,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4fe13ea9-58e7-4848-aeed-9e6601ed8a1f,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9ba1704a-4a9c-41b3-80b7-d09d4b44a86b,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+afa43bbd-f82d-44b5-8cf1-3b0d31591ed4,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b6a9c919-3199-455c-b42c-9f367f1d2b24,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+38fd8693-6cf4-4bea-ad41-57f8e9ca7503,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ed6fecaf-7694-4b4e-8d35-e74cc52c0572,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f67aa3ba-1acc-43fb-bdb6-e45f74888054,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5da6f131-fa1e-4f4a-bd3e-736bee9f59d2,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ae778bb1-a990-49a0-b433-d37eaff89aa9,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9de4f299-90f7-4a53-a8c5-8000e64f1b8c,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d62e228c-2695-46b3-8a0a-c307c04b84c8,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3f10af6c-d4e1-4d29-89f8-56c741d2c8b9,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+92552377-55a9-4b88-8f83-998d8bfcb72b,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+aa849c29-c7ab-4374-ba10-cd79a303f3af,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+40a65f50-20cf-4631-b949-2be9a125a7cd,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+718a0082-d5e2-4e95-ac15-70bc14f4dd18,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b5878a56-04de-4945-9873-41959ba93e37,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ce9b9756-33b0-4d04-b64a-6af7fcbca6cf,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+e570c8cf-9460-4125-97cc-4c2924fe5882,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+3d8a59c1-825f-4b5f-97d1-ef05e6260424,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+10d695bc-f929-4f9a-835e-f5f272128e47,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+4a517757-b1a9-468c-9dba-216e104e9ad9,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2f4632a4-122d-4877-8f71-bc3618e56677,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+84b5415d-929f-4555-af57-6320e96ad816,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b574a563-60e4-4abc-828f-0208ffa9840b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b04c7975-b41a-4a6a-b82c-15c29e4d7f32,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8e7bf2ce-20ff-42de-910d-4a24921515b6,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dc1020be-24a1-4aba-a4bc-ba16db1478b7,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+05a93b2d-a6c7-4640-93af-6fd19b12c0a2,Induction Stove,2025-05-05,2025-05-05,2025-05-05,purchase_date,465,1.27
+ea804b5d-ce6d-455f-b01a-8cc27d0595eb,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+17957fac-cf0a-45ec-a106-d445925da1e0,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6d1785a8-1f78-4c30-ab03-dda0f15a282e,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6ccbe5a4-2e5d-4ece-9074-039a98590de0,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d6431127-7862-4964-a4d8-3e15e2118a4b,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a1558217-d3cf-4def-885b-e0db879fd72e,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cce831ad-398f-49b4-adf2-b594419b2f62,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3a808621-2515-4b75-9e29-7b16e340da4f,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5fbc29f6-4bf5-49ea-8394-626682cbaa98,RO Water Purifier,2025-09-16,2025-09-16,2025-09-16,purchase_date,331,0.91
+7e97db74-404f-43de-950c-2fb34dbd70db,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0ea8c39f-bb94-4db7-a15c-172e6f74e4d8,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+25a7ebc5-6cf7-4eab-8a97-6a1347eea0bb,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5fac2cd5-3c3b-404b-8787-fe7496fe76f6,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f0ab2a84-12dd-46f5-bdb4-496336356ecb,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ea09bed0-6ebb-449c-be27-c8f65cc49f17,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8aa65042-22ee-45b4-9708-36f743ae7cf9,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1a481f1c-7ed0-4657-95a2-da034730c773,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+92306217-eb0e-43bb-8199-832c63709fc4,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4cc0955d-86df-48bb-9fe7-bd4e4218361f,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+64446452-f9e9-42d6-98d4-dc9aab5f2985,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+01358eaa-06be-455c-b086-9d9ced1d02c9,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9eaf25c2-a5d9-4854-a2cc-1373bb337682,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+99abf431-7de0-45fc-8e98-374b58a9fcb1,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+030587a5-77b5-48db-95ce-c76bae9fd3da,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+22a185e5-161a-4b0d-8dcb-cbd6a7ba3873,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+11ec207e-e6f6-49b7-ac69-d4c595537c09,Cot (Bed Frame),2025-06-17,2025-06-17,2025-06-17,purchase_date,422,1.16
+7238ef91-06c5-4a76-9ddc-94e3f935f5e5,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+9967095e-fa20-4c7b-8c3f-6bc419b14c46,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+ab7debdd-09cd-4e36-bb8b-0d4eb6444cd1,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b02beced-4dbd-454f-950f-b6254896dae2,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+a6d320f2-c368-4074-98ed-25444e6287d3,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cdaaab49-8984-492d-811b-4fcb93508155,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7cb3ace3-4480-4aa0-9efe-c9b0134c8624,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+763d357a-c096-4573-bc9f-22c615990521,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c082fb6f-40ac-4ceb-95b0-685704d71eee,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9adcfb39-5e9e-457a-948e-3168da9151a8,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ef10d1c8-9621-40f6-b586-955840042208,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3466151e-b985-4928-a03b-037084dcf9ae,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3415582a-1981-4e36-9a42-e1fb2f44736a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9b695a1b-ddcc-4938-86ce-e7512d409fd9,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d0a2330c-4dce-4a19-b662-b15151510b9a,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+65d588f4-b541-48b2-9392-1b7bb582b347,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1743aa57-2c5a-41e0-8c7d-600589983b09,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+be4a4e16-10fb-424e-a938-8b380eb907d2,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+65c3743a-5ada-4841-b404-5caa26763b61,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6a1e4096-cd14-4e97-8b89-8611f0709834,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c6478769-5359-4d78-805a-61f57d7a13c1,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ba5fd3a3-3226-40df-b104-9be533c5fc1d,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+06c9f1ba-db3c-498d-a890-0980f8b1db13,RO Water Purifier,2023-08-05,2023-08-05,2023-08-05,purchase_date,1104,3.02
+e7a99d72-b73f-48b0-a987-bccbc856fecd,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+a3041d18-6247-4915-bd0a-dbcc0eb445bc,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2a5cb961-86a5-4c0d-a730-b691db804bb0,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ebdf998b-c481-4e82-8481-aec0765a7c9d,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f3f12a72-eb44-47b2-b260-66c8b872706a,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5613cb77-4927-498c-b44d-8a2fcffd976a,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+db587abf-ef23-4356-9795-974e2c76d1d3,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+68aaafcd-5ce1-4f3d-85f7-5b42b0dafa15,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+00b7fd23-69e7-46fd-82ef-ca35a3f56394,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0605d972-00d7-4e1c-9717-1b4bdb98227b,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+da8e458f-b860-4736-acbb-059435162885,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+561ea125-de43-46ef-b0b5-c9748b1e06ad,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d114815a-2414-4c11-b7d9-7f76b1c43ee3,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+66a42ee0-bd9f-473f-8ed1-f9fc7a42a3b0,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fa801108-0a26-429b-93ec-153042dc864d,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b7d5f32e-9a60-4659-8605-97d9a6c24086,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8795e09a-b5b0-43cb-b20e-12dfe95dae05,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b96d90b1-dbbd-4579-96b9-a2286a9411cc,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+3cbab2b0-0224-4c16-9af2-be43c8dd2f0c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+85070bcd-27ad-4549-b34f-df82054903d0,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1606f766-3eb8-4d25-87c3-cc26222be44b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b2adffa3-e7fd-43f8-8e0e-ab00c3b43040,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e60b5fa9-81c0-4497-8bcc-72dbbfbc0198,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b057aedf-024a-4f78-bcdf-db0b296060de,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+79b14f2a-439d-42a3-973b-c0c8b17d190f,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5afb5cb0-85ac-4667-a503-73f76261a726,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8ad4378e-8b51-4c43-8690-81aba71ae42a,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1c7e8258-9896-4a48-a5b7-f04e6beba3b8,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c191f5ff-1405-4422-8b9e-6877a17b6566,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+54597bcc-8382-45fa-b652-363a5569487f,Mattress,2025-08-05,2025-08-05,2025-08-05,purchase_date,373,1.02
+48ef7a83-122b-45c3-8fb2-f247c719a705,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7037d891-8043-422e-8870-a9c86afb316f,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6aa7a64b-0a14-467d-9672-2493d51b162c,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7e482326-2c7f-4779-a551-6587701336fc,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2a24262d-ef65-4f62-b7fb-d9f0c1f64a00,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+74ff719c-e7cf-4a9d-81fc-46d6b8e9182f,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9450d545-3ee6-4242-99fa-9ae894e95d4e,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1fac099b-4e9f-4260-bfa2-9ecdd23b97fb,RO Water Purifier,2023-08-30,2023-08-30,2023-08-30,purchase_date,1079,2.95
+b8f71ee8-8960-4ba5-9398-481094286a78,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0fbdb3a1-a55f-48e5-a3ba-be125d3b99f7,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+83e8e16b-83ca-41bb-892c-50f7b125305a,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8d94b712-e1bb-43cf-be52-11ef9223ab5a,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+84b2ced1-debf-4182-b973-054535294fec,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4a514fb4-b375-4a45-ae4c-fa886fa20132,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+754787b3-542f-4911-abd5-c050c59784e8,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c7044986-1955-41ac-a051-7ba5f4d56833,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e5028470-51a0-49b6-95a5-8c4ac29fc08a,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9d8f13d5-24ee-4b50-8509-a7d1e702882c,RO Water Purifier,2025-09-16,2025-09-16,2025-09-16,purchase_date,331,0.91
+c9545faa-61af-4983-9522-3fa31a3924ac,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+137edf51-8c3c-42ba-8ee2-fa5b316f6e55,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+60ad83ea-7645-4c2d-a861-30436cfb0eb0,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+5113f32c-70bb-4e71-9b7f-f7160c4ecb3e,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1078a694-1087-4360-83d8-fe23f63b80cb,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4d04ac5b-ace9-424c-b2cf-97c3843d8d10,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+bf3fd2a7-e4df-4c5f-ae8d-86c7f3c37fb4,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d03aff15-6ca7-49f1-9511-eb663005869c,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2c298190-dbc3-4fdb-aaaa-5f71fce885a2,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+021a3ba8-bf30-42a9-883c-adb864332c45,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1cce7627-62b5-40f3-b741-d911b095be2a,Bedside Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+18112572-db14-45be-b418-71ce4b319f06,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b7400564-dacb-4ee8-a667-52d81f983da7,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+527f8fc0-3a74-4ef8-b695-fb4ccf82e9de,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ea6fe692-9811-419e-93dc-75a572135263,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3dc8b542-e5ca-4b3d-a0af-8c1e4072f688,Chair,,2026-04-10,2026-04-10,allocation_date,125,0.34
+dd690931-e83e-4b28-83c4-b05ca31b74dd,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+2b82128c-87b3-48f5-956e-069d386c76b3,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+f9944fce-2a95-4c13-b4ad-5c85415ec060,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+90c7369d-3d2f-4d32-b117-c0330fde1854,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+205ea9ff-310b-4b74-baa5-68b476feec85,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+1f2065e6-8ac9-40aa-9f72-0af4ed4db4a1,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+a6a4e6d3-fdf3-4db8-a975-0c94c5ba6c2c,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+9fae7d86-8928-4ebf-9c2d-f7b9ab7e186e,Cot (Bed Frame),,2026-04-10,2026-04-10,allocation_date,125,0.34
+b4baf311-18f4-48c7-ad9f-9b83cc8f45f0,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d0b4578f-a55c-4fce-855e-f5437dce8f0c,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4fa15c18-501d-44de-b344-58c3adec261b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+77d74337-bdf6-4d7c-8cf6-0bdd730cb65b,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+ccdae532-94e1-4400-b5dc-35f5dcf28080,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6fce0a91-6eba-42eb-bb6b-7cd892e90c64,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+b73fbb0c-76b9-4d95-ac58-cbb1aae5d205,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+e4c9f198-fa67-48a3-9739-d1a19d8e92e7,Cupboard,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d0121f97-ad91-43f3-bdfa-cfed7f0e006b,Dining Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1c198d17-d14b-4355-ab9e-86e4839480d0,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+fff00394-bda1-4ac1-b428-6227e3920406,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6aa5096b-7c03-4394-bcdf-432cbf0a10ba,Fan,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cc4a8356-b73f-4f29-a050-58825c000135,Induction Stove,,2026-04-10,2026-04-10,allocation_date,125,0.34
+799556b4-c72b-4e1a-8e20-01050acd3ef7,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+4d8e84db-7c8b-4272-8b87-e3ba03735706,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d647647e-dc26-41fe-9125-bd7848247a12,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2be1edbe-5431-4c8d-aef8-3f9706b996ed,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+d1f01035-b047-4c26-a6b4-15ba170ba834,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+7836ba82-c2a6-40c1-aa01-1fc91c5194be,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+254099a9-0675-4455-aa1a-986edd8421bc,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+3eb819f9-cd5e-42b7-a5c4-9083fd312107,Mattress,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1fbbb8be-44d6-4c87-aeaf-ac856484553b,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+563d9d41-eea8-4ef0-8948-8e66f3140539,Microwave Oven,,2026-04-10,2026-04-10,allocation_date,125,0.34
+c353442a-902b-4d6c-b7ed-ab113dc2bdc5,Refrigerator,,2026-04-10,2026-04-10,allocation_date,125,0.34
+2135b780-5345-406d-ae31-fd3cd1c49650,RO Water Purifier,2025-02-02,2025-02-02,2025-02-02,purchase_date,557,1.52
+26ba6b85-3093-4d95-be14-acc1f44b37e2,Shoe Stand,,2026-04-10,2026-04-10,allocation_date,125,0.34
+8b840345-f0de-4bfb-88fb-07d0bde3f7fd,Sofa,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f00efade-15af-41dd-82bb-fb36d1c97c75,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+6e08194d-adc8-434f-9a9b-94f4b2edf7ff,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+1891221d-503f-4fb6-9c49-af064dbbc1cb,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+9d659886-8095-46ea-a636-520864f4fbac,Study Table,,2026-04-10,2026-04-10,allocation_date,125,0.34
+0a389b6f-ad27-4dc9-a68e-66537642d7b8,TV,,2026-04-10,2026-04-10,allocation_date,125,0.34
+f244be1f-e77c-424a-a9b4-f13e3b9c63a3,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+968c9160-19ee-48c3-82cf-93b9d41b5764,Washing Machine,,2026-04-10,2026-04-10,allocation_date,125,0.34
+639a13d5-dfa2-44e9-b290-9e766737e5ed,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+cb8ee2ea-5294-4841-b841-769cb00f5e9a,Water Heater,,2026-04-10,2026-04-10,allocation_date,125,0.34
+73ab740e-275d-4ba5-a223-b1e77488f3c2,Bedsheet & Pillow Cover,2025-08-08,,2025-08-08,purchase_date,370,1.01
+bb591614-6585-4311-800e-104fef3f61d9,Bedsheet & Pillow Cover,2024-07-29,,2024-07-29,purchase_date,745,2.04
+ddeb9cf3-50d7-4925-931a-9735555f2f4d,Bedside Table,2025-07-29,,2025-07-29,purchase_date,380,1.04
+1cbf5bf1-3b91-4f22-96c3-201b88ce4daf,Cot (Bed Frame),2024-10-23,,2024-10-23,purchase_date,659,1.8
+8e619fe3-2365-413c-96b6-489474013f55,Cot (Bed Frame),2024-10-23,,2024-10-23,purchase_date,659,1.8
+ceb2c6bb-9bbd-451f-aabc-541a72fbd0e1,Cot (Bed Frame),2024-10-23,,2024-10-23,purchase_date,659,1.8
+e7fc946b-d9ac-4aa3-bdd1-8eb2fb6a77c7,Cot (Bed Frame),2024-10-23,,2024-10-23,purchase_date,659,1.8
+02b2a518-5635-49af-ab39-e1a1aaab5ba2,Cot (Bed Frame),2024-10-23,,2024-10-23,purchase_date,659,1.8
+5a6bfb95-a330-457a-883c-3b1d3166a083,Cot (Bed Frame),2023-08-10,,2023-08-10,purchase_date,1099,3.01
+2fdaf840-7bb4-4828-8363-81976fec96b9,Cot (Bed Frame),2023-08-10,,2023-08-10,purchase_date,1099,3.01
+5ad2322a-50b0-4005-abc0-017f55e79cc7,Cot (Bed Frame),2023-08-10,,2023-08-10,purchase_date,1099,3.01
+8cd8efa5-c5c8-49c9-86a3-b2aaa70326d3,Cot (Bed Frame),2023-08-10,,2023-08-10,purchase_date,1099,3.01
+ca8eae63-215f-4e3a-af38-1f0f6ccd2b95,Cot (Bed Frame),2023-08-10,,2023-08-10,purchase_date,1099,3.01
+cbb035b9-d235-4979-98ed-488400a28785,Cot (Bed Frame),2023-08-10,,2023-08-10,purchase_date,1099,3.01
+c3644375-62e8-49b5-945e-73e349868c19,Cot (Bed Frame),2023-08-25,,2023-08-25,purchase_date,1084,2.97
+177cd3f6-2995-4977-bee1-3ec515f1a7d0,Cot (Bed Frame),2023-08-25,,2023-08-25,purchase_date,1084,2.97
+6a74d3f3-23b9-41fc-a2fc-f9eed265aeb7,Cot (Bed Frame),2023-08-25,,2023-08-25,purchase_date,1084,2.97
+7600396f-759e-4b55-a278-026a942e496b,Cot (Bed Frame),2023-08-25,,2023-08-25,purchase_date,1084,2.97
+5679552a-0a8e-4973-9d9c-2b0851ccc588,Cot (Bed Frame),2023-08-25,,2023-08-25,purchase_date,1084,2.97
+cc1af1fc-1c1e-4334-a73c-8fd075348c32,Cot (Bed Frame),2023-08-25,,2023-08-25,purchase_date,1084,2.97
+c3e3dd5b-ae7d-4a07-a227-5bdf4386b8fa,Cot (Bed Frame),2023-08-25,,2023-08-25,purchase_date,1084,2.97
+63d8a1d2-0f77-41e0-8fc2-012c621315e5,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+d3936f31-3d76-4c9f-bf6f-a29990445ebf,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+7d07be5d-78a8-4a2e-a22a-c17efadc8240,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+861f367b-8141-41e9-93ad-6fea02d16c4f,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+ba4fddb3-4707-486a-a712-bc5e28edc5c8,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+0852c82d-a9ce-4992-b02e-c5a4613af999,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+7e9b17e2-0f86-4170-b7f3-5e6fc1104673,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+69414501-efab-458e-941b-193de3e2d1eb,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+d7eff482-18bd-4c2e-87e9-4955ad0522ad,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+0c1395ba-451e-4947-8ce5-8ed5f2abd51c,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+1dcff87d-e3a2-44d6-859b-fee36108ce4c,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+67c4f5b9-bbb1-4b73-9108-f473cd4bff9a,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+7236fff6-7f6c-482d-b212-dad6caae455b,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+8356e8a2-acec-4241-a3fc-7d2eadb9dd4c,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+944c3cee-0b43-4faa-94be-fdde4d58b5f2,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+4964103f-fc2d-4c61-a4aa-a7f6ede13003,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+1e0d41a3-97b9-44d9-8ff4-59661204d245,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+fd494b51-f586-4ffe-98a5-95bc65dec3d3,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+35e394cb-1507-4ca2-a587-ff0475c73da5,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+e9a20c30-212f-4fa3-bc5a-a94a0ab53aac,Cot (Bed Frame),2024-03-28,,2024-03-28,purchase_date,868,2.38
+11ef37e4-4e5b-4f1a-b8ba-177e6d65c221,Cot (Bed Frame),2023-04-10,,2023-04-10,purchase_date,1221,3.34
+edeb996a-d8e4-48e8-8025-8589159e438d,Cot (Bed Frame),2023-04-10,,2023-04-10,purchase_date,1221,3.34
+9ee47457-942b-47b9-83e7-72e161a2a1f6,Cot (Bed Frame),2023-04-10,,2023-04-10,purchase_date,1221,3.34
+a1cea3bd-3a97-4de4-8680-76c264f5fe2b,Curtain,2025-08-12,,2025-08-12,purchase_date,366,1.0
+18800133-4044-459e-a579-798fbd6f3b7b,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+c7cebbd4-4b2e-475f-a984-a6750675ada4,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+99a2f410-f678-44fc-bf39-556ae06d2a4c,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+c62229e5-7472-41a7-8a77-5f2787cc6bcc,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+d6ff893b-60f2-4e31-80ff-c2d1af9f9345,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+6bda2413-747f-4d36-800d-7e4e7abef74d,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+dd84e1d1-52b7-4065-873b-c1fe0176ca5e,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+3ca10f67-439f-49fe-ac5d-1f1af67cdb2a,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+f23cf3ff-2963-4a83-8e74-7eb90f7ec29a,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+58b5542d-811b-4b2d-b4c3-46a8e42c37c7,Dining Table,2024-11-09,,2024-11-09,purchase_date,642,1.76
+c84fca03-c8f2-4fe1-8fdf-89d2c7fc1884,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+8a72bce4-70ca-4acb-b05e-3e47a2535ee7,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+2948fcf7-6af6-482d-94a4-e5b8444ce1b6,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+3e665473-8398-4418-b4a5-9e8e66b226a3,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+d38f49f1-59ef-4cf5-b0d6-a6c1bcde1e79,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+fe988d79-80d1-43fe-a8f9-3c5176d828c3,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+f1123b07-5199-466d-99ad-cccb27da4836,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+1fd0d19e-106f-4cbb-b22a-6d37855d9bff,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+b4a5af3a-ce03-4341-a685-edab25cbd725,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+e4e8963c-9574-4c7e-8e9c-d22693530386,Dining Table,2024-04-03,,2024-04-03,purchase_date,862,2.36
+d01e2735-0e58-456a-b27a-c88b87c9fc00,Induction Stove,2023-08-31,,2023-08-31,purchase_date,1078,2.95
+c2cf9ab6-d2b7-4549-a281-ac1c00603519,Mattress,2024-10-23,,2024-10-23,purchase_date,659,1.8
+dce680ea-c563-4c36-9259-c5a9bd65f762,Mattress,2024-10-23,,2024-10-23,purchase_date,659,1.8
+9c4eafbd-ca90-4d31-b627-c344be4c1bd4,Mattress,2024-10-23,,2024-10-23,purchase_date,659,1.8
+7f22580b-dd38-49d4-93f0-f2cf75ea6ad7,Mattress,2024-10-23,,2024-10-23,purchase_date,659,1.8
+5a7014a8-265f-4f28-88da-265fec2f2b5b,Mattress,2024-10-23,,2024-10-23,purchase_date,659,1.8
+a285eee3-4fa7-4171-86b3-0d3abf75a61e,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+95d9f317-3b5b-41ba-8bd3-24623aa67b51,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+6b4e989a-46cf-4ef7-8e9c-736db96a4364,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+c188cfd6-fba7-47cf-a0ee-2ae94d662418,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+63c8dd7f-9065-4c97-b5e5-57dbed87b45a,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+1d2421e1-0895-4ae3-8e15-42abebb77e89,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+a23ed043-8f75-4826-ae68-7b71bb594416,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+23d133ad-34cd-413b-9d1d-a7a5ddbdc6a2,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+7f4a5efe-1582-43e0-b7cd-d8c868393928,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+f0635252-1734-440d-9b32-e2e089cecd6c,Mattress,2024-03-26,,2024-03-26,purchase_date,870,2.38
+e140104c-77ba-4967-a5e6-cbfcc9fe1196,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+0d1ffe37-82f6-4055-a936-c88085ade1ae,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+4eea97a3-7005-4e89-b064-7605a70de1c7,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+efa55193-aa9f-4237-aad9-a8c9cab06d9b,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+cc18c9ba-414e-4d5f-a330-9a4f075ca193,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+cdb2e4c6-fd51-4096-9025-00851427fe10,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+d0034ab4-688d-42b2-bd4b-b57b8a3fea0f,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+4e79e6f2-652e-4be9-b738-21876115231f,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+7237e7e8-5246-4b0a-893e-ddbeeb2bb3f4,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+89558e1a-e887-4fc2-bb33-9d0c498eb262,Mattress,2024-03-29,,2024-03-29,purchase_date,867,2.37
+290bb189-42d1-4dc4-9e92-15d46c565926,Mattress,2025-04-16,,2025-04-16,purchase_date,484,1.33
+bb010eb4-b104-4fcf-b251-99492a7742a9,Mattress,2025-04-16,,2025-04-16,purchase_date,484,1.33
+ffd038ee-84ee-490e-b69c-5f6e094612a3,Mattress,2025-04-16,,2025-04-16,purchase_date,484,1.33
+e4c092d2-3c6e-49ff-abae-9cfb162671aa,Mattress,2025-04-16,,2025-04-16,purchase_date,484,1.33
+d43bb98c-422f-4fe9-a4f3-e50bb734e980,Mattress,2025-04-16,,2025-04-16,purchase_date,484,1.33
+1a57cc7a-79d9-4179-8710-9a7537229e51,Microwave Oven,2024-10-08,,2024-10-08,purchase_date,674,1.85
+65fe0cf4-1151-461a-8492-56638efb3bd3,Microwave Oven,2024-08-02,,2024-08-02,purchase_date,741,2.03
+6b2e4fee-5f67-4ce5-b6f4-afa7d631582e,Microwave Oven,2023-08-31,,2023-08-31,purchase_date,1078,2.95
+0ae10540-e84d-4396-8ff6-ee7e8ffe2c2a,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+8999bec5-97d7-4a4d-b4a1-fe52a3239a13,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+7844d3e4-02ab-4097-9ae4-0b5ac3fb4643,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+cff55b2e-2561-4f21-9926-6ac110a42839,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+01fa6925-305b-4d27-898d-4c90241c7170,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+09957291-aa3e-497f-b6c8-614c5b4878b6,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+93d45fc3-ceca-4e37-b014-bf48e62ae93c,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+23539ae0-2d3b-475f-994b-af674da6ea39,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+956c3f6c-2313-4917-ac61-5f181194d581,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+b4f39308-42e1-48e2-b21a-5254a6f928ff,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+3af2d2bb-b5b1-4be5-a0bd-2dff35027b70,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+5df2a5f7-092b-4a9f-8f23-1c0ede93355b,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+c2d2563f-7025-4a2c-8c20-067b4ea5c646,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+ffbeefa2-a676-44c5-a9ab-c68730335db5,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+5e257ed1-efe4-4241-83b3-6a251befa90e,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+c398496f-5796-4ee9-bc38-1a53cbd142d0,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+733612bc-ad74-4024-bc7a-893d01e8dd9f,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+14ffa9a1-852b-47c1-aebd-aab08f9a0be0,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+e5b931f9-f06a-4547-9a23-b9fd63b34928,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+5d5d5f4a-bbae-44df-82bf-2933fb4d28da,Pillow,2025-08-07,,2025-08-07,purchase_date,371,1.02
+93e42c20-9261-4f96-98b2-d9c5ef6a3ed2,Refrigerator,2024-10-05,,2024-10-05,purchase_date,677,1.85
+2ad09a0a-2caa-41a6-af5c-88b48f8acea7,Refrigerator,2024-08-02,,2024-08-02,purchase_date,741,2.03
+603e48bf-60f7-4126-b93e-8af6ae79d521,Sofa,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+89288fe4-0172-4c6b-bc74-dc16cde00ba6,Sofa,2023-08-31,,2023-08-31,purchase_date,1078,2.95
+7b3e2e00-0f66-47f5-be4f-0a861ad8182b,Sofa,2023-09-06,,2023-09-06,purchase_date,1072,2.93
+5590a7d9-018e-43bb-b9d4-1789b7547e3a,Sofa,2024-03-26,,2024-03-26,purchase_date,870,2.38
+2da4657e-0782-4100-9134-ccfc2c049e0e,Sofa,2024-03-28,,2024-03-28,purchase_date,868,2.38
+ccb7fd86-ccc5-4a71-b94c-5da095abfd2e,Sofa,2024-03-29,,2024-03-29,purchase_date,867,2.37
+22d9b768-3544-47fd-9495-dfbee2edabd3,Sofa,2023-04-01,,2023-04-01,purchase_date,1230,3.37
+7a7cb35f-ae8f-4b2b-9bb0-1cf05e781fd1,Sofa,2023-04-01,,2023-04-01,purchase_date,1230,3.37
+4fa78b9b-6e69-487e-8144-f6313660b38c,Study Table,2024-10-23,,2024-10-23,purchase_date,659,1.8
+6e2fde12-3b80-4fbb-a525-12f180f09909,Study Table,2024-10-23,,2024-10-23,purchase_date,659,1.8
+bb46bdd7-70d1-4217-b7ea-ad069f6ab80c,Study Table,2023-08-10,,2023-08-10,purchase_date,1099,3.01
+c7929557-f2fa-4683-9e47-d6f11daf1516,Study Table,2023-08-10,,2023-08-10,purchase_date,1099,3.01
+1c9cfab8-63c5-4e41-978b-d25b205c9c7c,Study Table,2023-08-10,,2023-08-10,purchase_date,1099,3.01
+48c1d5c8-b42a-4d44-bc98-9cf9963285a8,Study Table,2023-08-10,,2023-08-10,purchase_date,1099,3.01
+5d408b2d-5b74-4614-9c51-c70fd3e37480,Study Table,2023-08-10,,2023-08-10,purchase_date,1099,3.01
+1cfeee76-353f-4e98-a659-18eba5fc348a,Study Table,2023-08-25,,2023-08-25,purchase_date,1084,2.97
+1d65efc2-33cb-4f32-9584-2cc33fb7f4f2,Study Table,2023-08-25,,2023-08-25,purchase_date,1084,2.97
+ce2459e3-e41a-43eb-939f-4986fbb45f66,Study Table,2023-08-25,,2023-08-25,purchase_date,1084,2.97
+867fbef0-ad50-47f6-b7b3-9e27899eda80,Study Table,2024-04-04,,2024-04-04,purchase_date,861,2.36
+962bd1eb-9d41-4f69-8a36-2cacf8521c31,Study Table,2024-04-04,,2024-04-04,purchase_date,861,2.36
+2a7937c9-950d-4060-8181-41f985e5a62d,Study Table,2024-04-04,,2024-04-04,purchase_date,861,2.36
+2beaee1d-8d85-4d16-9272-7f07bc8d5c63,Study Table,2024-04-04,,2024-04-04,purchase_date,861,2.36
+0c1e88a6-e219-461f-bded-807a4e6c0843,Study Table,2024-04-04,,2024-04-04,purchase_date,861,2.36
+29c0f628-ee84-42a4-bd1f-388b6199a9c3,Study Table,2024-04-04,,2024-04-04,purchase_date,861,2.36
+c368bf90-88c6-450e-9ce3-28919319aabc,Study Table,2023-05-02,,2023-05-02,purchase_date,1199,3.28
+c8242d9c-36f7-487f-b479-c9b3b27ce10d,Study Table,2023-05-02,,2023-05-02,purchase_date,1199,3.28
+09224684-8e7f-41a9-8d9f-9b2390bee0bd,Study Table,2023-05-02,,2023-05-02,purchase_date,1199,3.28
+f8869470-d86b-4b77-8f51-46962bd97b86,Study Table,2023-05-02,,2023-05-02,purchase_date,1199,3.28
+cc2169bc-5385-4136-8708-c4f8254a9f03,Study Table,2023-05-02,,2023-05-02,purchase_date,1199,3.28
+7e15b7c4-7361-4a67-b19c-b4735e6ed895,Study Table,2023-05-02,,2023-05-02,purchase_date,1199,3.28
+e9586913-3dff-46a7-adc1-4120f744e3ff,Wardrobe,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+09171eed-b896-46b3-888a-5196404f9abd,Wardrobe,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+b45ba66d-c54c-4e8b-84c4-e5b4f53935ec,Wardrobe,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+2ac0c343-f99b-4190-86f3-595d6aec219f,Wardrobe,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+e26e4d9a-3aea-485c-aaf3-021683d7894b,Wardrobe,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+71208a85-f77e-4ddc-938c-63af05fac20e,Wardrobe,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+6e8f7022-b726-4118-8663-460cc8fbcda3,Wardrobe,2023-08-24,,2023-08-24,purchase_date,1085,2.97
+c2fe2878-78e1-47d6-90cf-9d6d802ad8df,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+5a4c9796-14ef-4333-9c18-346933f19345,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+77711952-b927-439f-b539-addf6b32065f,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+ba43f281-7556-4ad6-9df1-0b156dd11c41,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+71ebc637-a4dd-4c41-a9f2-026d4c935514,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+28c0c0ef-fffb-4d4d-82fa-d64b4f1f795d,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+f872c22c-cef0-4ddd-9335-eedc22bbccb6,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+7ef89f0e-a031-4d83-8e9b-173a5dd33fc5,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+57ac3ff4-6e42-47f4-8c54-4bd6fbc6fce6,Wardrobe,2024-03-28,,2024-03-28,purchase_date,868,2.38
+1ac69deb-d6b1-4ea5-a4d9-3f48094b405d,Washing Machine,2024-10-05,,2024-10-05,purchase_date,677,1.85
+b9420e95-d6d5-4c38-9017-e3bcf751b94c,Washing Machine,2024-08-02,,2024-08-02,purchase_date,741,2.03
+305c5d57-d7a9-4797-ba15-1141b82aae3b,Washing Machine,2023-08-31,,2023-08-31,purchase_date,1078,2.95
+9df3ee4b-0851-4b57-aa8c-f7665ddf60b5,Washing Machine,2024-03-26,,2024-03-26,purchase_date,870,2.38
+d999f545-c85e-460c-ae57-1484f920742d,Washing Machine,2024-03-26,,2024-03-26,purchase_date,870,2.38
+96331626-7381-4018-bbff-d488d3048929,Air Conditioner,,2026-04-10,2026-04-10,allocation_date,125,0.34

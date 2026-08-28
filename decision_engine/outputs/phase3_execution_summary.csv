@@ -1,0 +1,14 @@
+metric,value
+execution_rows,14
+all_status_pending,True
+outcomes_status,unavailable_no_data (not fabricated)
+leads_total,18
+leads_open_follow_up,16
+leads_visit_pending,2
+leads_marked_lost,0
+lead_sources,{'whatsapp_bot': 18}
+requested_bed_types,{'Double': 2}
+marketing_spend_total,24631.0
+marketing_spend_months,12
+marketing_ROI,UNAVAILABLE — campaign/channel/lead attribution missing
+attribution_schema,campaign_id->channel->campaign_date->spend->lead_source->lead_id->conversion->bed_filled->revenue (empty until captured)

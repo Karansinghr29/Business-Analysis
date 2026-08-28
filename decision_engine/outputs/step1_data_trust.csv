@@ -1,0 +1,24 @@
+object,classification,note
+journal_entries,authoritative,double-entry source; 2019->2026
+journal_lines,authoritative,debit=credit balanced
+coa_accounts,authoritative,chart of accounts
+v_trial_balance,authoritative,balanced TB
+v_org_cash_balance,authoritative,cash on hand
+v_tenant_ledger,authoritative,ledger-based tenant dues
+v_pnl_by_category,authoritative-with-fix,P&L but owner_rent NOT deducted -> correct in Step2
+v_tenant_current_dues,supporting,ledger-derived AR/net dues
+v_tenant_aging,supporting,aging buckets (nets advances)
+v_outstanding_receivables,supporting,gross outstanding
+v_invoice_settlement_status,supporting,settlement without receipt_allocations detail
+v_occupancy,supporting,operational occupancy
+invoices,operational,raw billing; totals drift +~23L vs JE
+receipts,operational,raw cash; drift +~50L vs JE
+deposit_settlements,operational,drift +~6L vs JE
+tenant_allotments,operational,tenancy facts; monthly_rental reliable
+tenant_transactions,operational-parallel,NOT posted to journals (0 JE) -> not accounting truth
+tenant_allotments.balance_due,cached-unreliable,711/1197 drift
+invoices.balance,cached-unreliable,2227/5193 drift
+receipt_allocations,MISSING,blocks invoice<->receipt settlement reconciliation
+lifecycle_config,MISSING,fee/deposit rules -> leakage authority
+bed_status_history,MISSING,clean vacancy duration
+eb_payments,partial,only ~Apr-Jun 2026; no full-history EB recovery

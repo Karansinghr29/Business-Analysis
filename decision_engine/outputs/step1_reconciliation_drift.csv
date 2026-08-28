@@ -1,0 +1,7 @@
+source_table,legacy_amount,je_net_amount,diff,verdict
+deposit_settlements,4944000.33,5549311.67,605311.34,INVESTIGATE
+expenses,709412.0,709412.0,0.0,PERFECT
+invoices,72315841.4,74622625.4,2306784.0,INVESTIGATE
+owner_payments,17623800.0,17623800.0,0.0,PERFECT
+receipts,81466241.97,86485432.59,5019190.62,INVESTIGATE
+tenant_adjustments,512817.77,512817.77,0.0,PERFECT

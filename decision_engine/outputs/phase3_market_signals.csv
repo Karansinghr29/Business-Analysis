@@ -1,0 +1,32 @@
+signal_type,signal,value,basis,evidence_source,provenance
+published_amenity,AC availability,3,first-party sites publishing AC availability,MARKET_CONTEXT,phase3_playwright_market_research.csv
+published_amenity,Non-AC availability,1,first-party sites publishing Non-AC availability,MARKET_CONTEXT,phase3_playwright_market_research.csv
+published_amenity,Wi-Fi,5,first-party sites publishing Wi-Fi,MARKET_CONTEXT,phase3_playwright_market_research.csv
+published_amenity,Food,4,first-party sites publishing Food,MARKET_CONTEXT,phase3_playwright_market_research.csv
+published_amenity,Laundry,1,first-party sites publishing Laundry,MARKET_CONTEXT,phase3_playwright_market_research.csv
+published_amenity,Security/CCTV,2,first-party sites publishing Security/CCTV,MARKET_CONTEXT,phase3_playwright_market_research.csv
+published_amenity,Parking,3,first-party sites publishing Parking,MARKET_CONTEXT,phase3_playwright_market_research.csv
+published_amenity,Power backup,1,first-party sites publishing Power backup,MARKET_CONTEXT,phase3_playwright_market_research.csv
+sharing_configuration,single,2,first-party rendered sharing configs,MARKET_CONTEXT,phase3_playwright_market_research.csv
+sharing_configuration,double,2,first-party rendered sharing configs,MARKET_CONTEXT,phase3_playwright_market_research.csv
+sharing_configuration,1-4,1,first-party rendered sharing configs,MARKET_CONTEXT,phase3_playwright_market_research.csv
+sharing_configuration,2-5,1,first-party rendered sharing configs,MARKET_CONTEXT,phase3_playwright_market_research.csv
+locality_concentration,thiruvanmiyur,35,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+locality_concentration,chennai,27,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+locality_concentration,kattankulathur,21,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+locality_concentration,perungudi,15,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+locality_concentration,adyar,7,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+locality_concentration,"thiruvanmiyur, chennai",4,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+locality_concentration,"kamaraj nagar west, thiruvanmiyur",1,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+locality_concentration,"indira nagar, adyar",1,canonical competitors in locality (coarse),MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,mens_pg,24,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,co_living,22,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,pg_unknown_gender,22,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,womens_pg,14,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,serviced_apartment,12,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,unknown,8,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,residential_apartment,7,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+property_type_concentration,hotel,6,canonical competitors by type,MARKET_CONTEXT,phase3_competitor_master.csv
+first_party_website_availability,verified first-party sites,27,master canonical with verified own site,MARKET_CONTEXT,phase3_competitor_master.csv
+new_property_discovery,new first-party properties (last discovery run),0,Apify+Groq run added 0 new first-party properties,MARKET_CONTEXT,phase3_apify_groq_summary.csv
+comparable_price_sources,first-party per-bed x sharing x AC,1,only Diyaa; public pricing otherwise unavailable,MARKET_CONTEXT,phase3_pg_price_evidence.csv

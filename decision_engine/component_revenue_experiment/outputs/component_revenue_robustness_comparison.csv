@@ -1,0 +1,9 @@
+window,model,folds,MAE,RMSE,MAPE
+"7-fold (2026-02..2026-08, production HW)",Existing Holt-Winters,7,149667,183721,4.86
+"7-fold (2026-02..2026-08, production HW)",Component rental-only,7,251571,295595,7.91
+"7-fold (2026-02..2026-08, production HW)",Component rental+electricity,7,98796,107898,3.31
+"7-fold (2026-02..2026-08, production HW)",Component full (all components),7,110605,127242,3.79
+"18-fold (2025-03..2026-08, HW reproduced)",Existing Holt-Winters,18,154368,195118,5.55
+"18-fold (2025-03..2026-08, HW reproduced)",Component rental-only,18,203820,245511,6.95
+"18-fold (2025-03..2026-08, HW reproduced)",Component rental+electricity,18,110324,137671,3.97
+"18-fold (2025-03..2026-08, HW reproduced)",Component full (all components),18,131585,168148,4.75

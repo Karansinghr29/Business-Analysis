@@ -1,0 +1,11 @@
+amenity,verified_status,scope,evidence,source,mapping_confidence
+AC,VERIFIED_PRESENT,apartment-level (asset linked),110 'Air Conditioner' assets across 35 apartments,assets #78 / asset_types #80,apartment_level
+Hot water,VERIFIED_PRESENT,apartment-level (asset linked),83 'Water Heater' assets across 34 apartments,assets #78 / asset_types #80,apartment_level
+RO water,VERIFIED_PRESENT,apartment-level (asset linked),37 'RO Water Purifier' assets across 35 apartments,assets #78 / asset_types #80,apartment_level
+Refrigerator,VERIFIED_PRESENT,apartment-level (asset linked),38 'Refrigerator' assets across 35 apartments,assets #78 / asset_types #80,apartment_level
+Washing machine,VERIFIED_PRESENT,apartment-level (asset linked),41 'Washing Machine' assets across 35 apartments,assets #78 / asset_types #80,apartment_level
+TV,VERIFIED_PRESENT,apartment-level (asset linked),21 'TV' assets across 21 apartments,assets #78 / asset_types #80,apartment_level
+Kitchen,VERIFIED_PRESENT,apartment-level (asset linked),73 'Induction Stove/Microwave Oven' assets across 35 apartments,assets #78 / asset_types #80,apartment_level
+Fan,VERIFIED_PRESENT,apartment-level (asset linked),133 'Fan/Table Fan (Wall)' assets across 34 apartments,assets #78 / asset_types #80,apartment_level
+Wi-Fi,VERIFIED_PRESENT,property-level (managed service),issue-type 'Internet Issues' present,issue_types #76,property_level
+Housekeeping,VERIFIED_PRESENT,property-level (managed service),issue-type 'Cleaning Issues' present,issue_types #76,property_level

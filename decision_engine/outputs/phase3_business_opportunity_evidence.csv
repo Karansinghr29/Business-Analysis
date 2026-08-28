@@ -1,0 +1,10 @@
+rec,evidence_type,detail,source
+promote_Double,VISHFUL_INTERNAL,"Double inventory: occupancy 96.0%, 5 vacant bed(s), median vacancy 22d, ₹67,500/mo revenue-at-risk (Vishful internal).",step5_pricing_analysis.csv; step4_vacancy_at_risk.csv
+promote_Triple,VISHFUL_INTERNAL,"Triple inventory: occupancy 72.7%, 9 vacant bed(s), median vacancy 12d, ₹128,700/mo revenue-at-risk (Vishful internal).",step5_pricing_analysis.csv; step4_vacancy_at_risk.csv
+sharing_Double,COMBINED,2-sharing vacant=5; market-published=True,step4_vacancy_at_risk.csv; phase3_playwright_market_research.csv
+amenity_wifi,MARKET_CONTEXT,Wi-Fi first-party count 5/6; Vishful availability unknown,phase3_playwright_market_research.csv
+amenity_food,MARKET_CONTEXT,Food first-party count 4/6; Vishful availability unknown,phase3_playwright_market_research.csv
+amenity_ac_available,MARKET_CONTEXT,AC first-party count 3/6; Vishful availability unknown,phase3_playwright_market_research.csv
+amenity_parking,MARKET_CONTEXT,Parking first-party count 3/6; Vishful availability unknown,phase3_playwright_market_research.csv
+amenity_cctv_security,MARKET_CONTEXT,Security/CCTV first-party count 2/6; Vishful availability unknown,phase3_playwright_market_research.csv
+location_context,MARKET_CONTEXT,locality supply density; coarse; no demand/price inference,phase3_competitor_master.csv

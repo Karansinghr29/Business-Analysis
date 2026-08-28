@@ -1,0 +1,7 @@
+window,model,folds,MAE,RMSE,MAPE
+7-fold,Production Holt-Winters (revenue-only),7,149667,183721,4.86
+7-fold,Current component (occ es_seasonal),7,98796,107898,3.31
+7-fold,Approved component (occ es_trend),7,81019,105235,2.64
+18-fold,Production Holt-Winters (revenue-only),18,154368,195118,5.55
+18-fold,Current component (occ es_seasonal),18,110324,137671,3.97
+18-fold,Approved component (occ es_trend),18,103410,136867,3.71

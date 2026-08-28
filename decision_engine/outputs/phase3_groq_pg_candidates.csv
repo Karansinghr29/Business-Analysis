@@ -1,0 +1,6 @@
+pg_name,official_url,host,area,pincode,segment,property_kind,is_aggregator,is_in_existing_pool,dist_km_from_vishful,distance_precision,within_2km,within_3km,groq_grounded,n_groq_tools
+EMY PG,http://www.emypgaccommodation.in,emypgaccommodation.in,Thiruvanmiyur,600041,men,PG,False,True,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),True,True,True,1
+TSP PG Accommodation,http://tsppgaccommodation.com,tsppgaccommodation.com,Thiruvanmiyur,600041,men,PG,False,True,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),True,True,True,1
+Star Mens PG,,,Thiruvanmiyur,600041,men,PG,False,False,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),True,True,True,1
+SVH Gents PG,,,Thiruvanmiyur,600041,men,PG,False,False,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),True,True,True,1
+Triples Men's PG,,,Thiruvanmiyur,600041,men,PG,False,False,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),True,True,True,1

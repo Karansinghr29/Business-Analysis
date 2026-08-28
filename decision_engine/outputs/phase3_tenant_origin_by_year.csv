@@ -1,0 +1,9 @@
+cohort_year,tenants_onboarded,resolved,unknown,coverage_pct,top_state,top_state_tenants,top_state_pct_of_resolved,coverage_caveat
+2019,1,1,0,100.0,Tamil Nadu,1,100.0,thin — per-year share not interpretable
+2020,2,0,2,0.0,,0,,thin — per-year share not interpretable
+2021,15,2,13,13.3,Telangana,1,50.0,thin — per-year share not interpretable
+2022,88,4,84,4.5,Kerala,2,50.0,thin — per-year share not interpretable
+2023,193,35,158,18.1,Tamil Nadu,8,22.9,thin — per-year share not interpretable
+2024,286,28,258,9.8,Tamil Nadu,11,39.3,thin — per-year share not interpretable
+2025,243,55,188,22.6,Tamil Nadu,19,34.5,sufficient
+2026,151,115,36,76.2,Tamil Nadu,40,34.8,sufficient

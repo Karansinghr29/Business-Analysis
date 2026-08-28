@@ -1,0 +1,176 @@
+tenant_id,allotment_id,month,tenure_days,risk,risk_band,reasons,retention_action
+b6263381-5732-4544-952b-edde50fdfc28,7013f2db-d34c-4c31-b3eb-91d6dda154ff,2026-06,8,0.6144665294788033,High,short tenure 8d,Retention call + offer/renewal
+11e59c65-004e-4eea-a733-d3a6a7c65fb1,44b14c26-5b84-4a81-912c-9b0e2c7b5ab2,2026-06,0,0.5344744626603725,Medium,short tenure 0d; overdue history 57%,Check-in / satisfaction touch
+d751c131-c1c9-4f5c-88f8-7e4c6cb710b3,452510c9-42bd-481f-b8df-4cfcdf59bb2f,2026-06,67,0.52182900474778,Medium,short tenure 67d; overdue history 100%; 2 unpaid invoices,Check-in / satisfaction touch
+4e39608a-6f55-4cc0-ac26-00c939421464,af516c5e-d805-42d6-b74d-de67dc41d376,2026-06,1,0.5212709451849117,Medium,short tenure 1d,Check-in / satisfaction touch
+de481a65-2fb4-4974-b7db-0ec990ea852d,6beda474-f6a4-4444-aeee-9ac12318d295,2026-06,0,0.5212599770844843,Medium,short tenure 0d; overdue history 57%,Check-in / satisfaction touch
+706ec709-36e3-4de0-a55a-522efd0b3957,8872ba1f-ebbe-4b26-b0c9-a5b330c229f7,2026-06,7,0.5014798311946894,Medium,short tenure 7d,Check-in / satisfaction touch
+edee54e5-b970-ea10-551f-b156c26d8f0a,ddc84784-c683-4996-b4e4-d17137b9a82d,2026-06,7,0.5014798311946894,Medium,short tenure 7d,Check-in / satisfaction touch
+1218c50c-4da4-4f61-baec-5182a25958e3,2acd9f1d-5e5c-475b-b951-24e908d2fd9a,2026-06,2,0.4991794710864413,Medium,short tenure 2d,Check-in / satisfaction touch
+8996897f-e383-4fca-87f9-654e1b14b3c2,31c9b57f-ed29-48c0-8c4e-e04fee5d8436,2026-06,9,0.49546288760976853,Medium,short tenure 9d,Check-in / satisfaction touch
+19214e19-efc4-4eea-8118-944c998e3ab6,6d956c8b-fb4b-472a-86dc-1822f77d09b6,2026-06,5,0.4933185150963176,Medium,short tenure 5d,Check-in / satisfaction touch
+f91c2854-a88b-4630-b2a6-c48401e4dd14,5d25f43a-c0a9-4111-b201-e334553b2899,2026-06,9,0.49303371031258747,Medium,short tenure 9d,Check-in / satisfaction touch
+25ef6338-6197-45a8-82d9-ddd0a846f1b2,7e0d9e6f-f4ea-425d-9869-e4649eabffab,2026-06,30,0.4898027800846363,Medium,short tenure 30d; overdue history 57%,Check-in / satisfaction touch
+a467df39-5ec5-465e-a471-e2b54be7bc71,b158eb96-519d-492e-9c1c-6a34701ba7e6,2026-06,31,0.48009006266952975,Medium,short tenure 31d; overdue history 57%,Check-in / satisfaction touch
+73715344-908a-b7fa-00cc-34358ffb16f0,3aabe842-7390-4208-9bde-936af6f8b658,2026-06,144,0.47022042456520924,Medium,overdue history 60%; 1 unpaid invoices,Check-in / satisfaction touch
+8971261e-a813-477f-94c0-0a9661dc4c34,4f2cdcfa-282c-461d-84f8-aefe0567d4f0,2026-06,6,0.46668174944157537,Medium,short tenure 6d,Check-in / satisfaction touch
+26b16f30-da65-8aa3-d1ec-4867ac2a8f35,55c869da-c670-452e-aa98-469528be9efa,2026-06,141,0.454176329520285,Medium,overdue history 80%; 1 unpaid invoices,Check-in / satisfaction touch
+82be44de-b1d6-4e48-e6bb-33ec98b83c7d,6edb4981-c302-4992-b7a8-e24912892b61,2026-06,145,0.4495137879672236,Medium,overdue history 100%; 1 unpaid invoices,Check-in / satisfaction touch
+491b8136-32a1-37c5-5253-b53ff3991d86,db02e562-aa09-448e-9187-bfa7c3788aca,2026-06,142,0.44649444851273945,Medium,1 unpaid invoices,Check-in / satisfaction touch
+83af11b3-a274-7404-3265-ec658f74f8cf,a592d732-fe7f-4bfa-841d-7433e477f43e,2026-06,135,0.42429758700162956,Medium,model risk,Check-in / satisfaction touch
+8fd367e7-7404-4ef6-530b-a40219a48f1e,de3fc75a-dc8c-4bfb-b959-494a94a5d287,2026-06,211,0.4237093555960446,Medium,overdue history 50%; 1 unpaid invoices,Check-in / satisfaction touch
+8709ca2e-a8a6-48a4-b8ce-e813c4796ab9,a6efc369-3910-43e4-b870-b5daf647ecd8,2026-06,15,0.42022857706813516,Medium,short tenure 15d; overdue history 50%; 1 unpaid invoices,Check-in / satisfaction touch
+b3002707-86e9-43d5-956d-cf108fb6a23f,0775dc45-b49a-4b77-ac42-878673bade62,2026-06,36,0.41213599526840206,Medium,short tenure 36d; overdue history 50%,Check-in / satisfaction touch
+f295149c-bcb1-4d48-93ce-d2ea593d29c3,fb6ca425-9e5f-4f51-811c-c180458d07ca,2026-06,30,0.4098101182363912,Medium,short tenure 30d,Check-in / satisfaction touch
+2c05db07-e980-4d52-a524-1b1ee5185554,3359585a-5168-44d0-8c31-fe926dcaa27e,2026-06,29,0.4063877888313775,Medium,short tenure 29d,Check-in / satisfaction touch
+c675e97a-0958-0695-90b3-49311eec8fd7,f3d5faeb-a060-4d56-bb7c-559d3f157f51,2026-06,303,0.39217171209290247,Medium,overdue history 80%; 1 unpaid invoices,Check-in / satisfaction touch
+c39e5b6a-5497-09b6-25cc-89f1ea8a608c,014f81be-2724-4302-8681-1c89fa734cce,2026-06,211,0.39019917240067326,Medium,overdue history 88%; 2 unpaid invoices,Check-in / satisfaction touch
+cb2574c2-6caf-4598-82dc-12b9569a6451,c5047a0f-6374-4758-87f4-9afa4ef861b8,2026-06,29,0.3900389679498261,Medium,short tenure 29d,Check-in / satisfaction touch
+1bc75090-ac1a-44a6-bb22-f211aca7c760,9a5c2a4d-3f8a-401f-b8aa-d0410e196176,2026-06,0,0.38799491718056,Medium,short tenure 0d; overdue history 57%,Check-in / satisfaction touch
+f9eb9b23-5f60-4ec4-b990-8313323bb759,ed5ebbd4-719a-47b9-b71a-3f69da2e9369,2026-06,57,0.3858959042195251,Medium,short tenure 57d; overdue history 50%; 1 unpaid invoices,Check-in / satisfaction touch
+c49181cd-07c5-4c6a-a996-4146d002c886,d01b8836-44a2-4310-a6f9-2f87d399cc4a,2026-06,31,0.3853173771346714,Medium,short tenure 31d,Check-in / satisfaction touch
+94927866-7ca0-4311-b799-972822792cb8,8cd3ef09-94c7-4773-b3fb-823d2cf16c19,2026-06,16,0.38249330050940716,Medium,short tenure 16d,Check-in / satisfaction touch
+b2f85d5d-acf9-7c53-dc5b-0d3b67b462c5,ca99fa52-1a9f-4d9c-809e-b7b9c30d2129,2026-06,80,0.3760351821106357,Medium,short tenure 80d; overdue history 75%; 1 unpaid invoices,Check-in / satisfaction touch
+8e125a87-1a3e-4b52-855b-635c06bafd87,d2cd92f7-dd23-41a8-a665-1d8e656732e6,2026-06,48,0.372834942248167,Medium,short tenure 48d; overdue history 50%,Check-in / satisfaction touch
+c511ac63-cb7e-1453-92d5-ea4ffba1c360,53bd63b6-67b1-4de6-94a4-66b940e4e20a,2026-06,288,0.37227962854666674,Medium,model risk,Check-in / satisfaction touch
+1261d726-9481-43dd-bac5-f1b158c8ab32,e6357f5c-05c6-4829-9508-d39b4be473cf,2026-06,27,0.3720611495883345,Medium,short tenure 27d,Check-in / satisfaction touch
+d8c4b3c5-9b2a-4c6e-b1e8-0a98c9175234,bcffd7fb-53a0-457f-9d14-6d9ef2bbf48b,2026-06,29,0.3720611495883345,Medium,short tenure 29d,Check-in / satisfaction touch
+9c88cc60-ea13-4dd1-9930-ca14ff0c6aa0,da786425-8bf1-4da0-b417-6371476a7bfe,2026-06,29,0.3720611495883345,Medium,short tenure 29d,Check-in / satisfaction touch
+aa88d180-8c53-dbe4-70de-ecf38130d3ce,ac2059a9-ac22-4c7c-94a1-cbc4cfbeb93d,2026-06,120,0.37123658529125403,Medium,overdue history 100%; 2 unpaid invoices,Check-in / satisfaction touch
+1a171004-7682-1c39-e6a2-758b668c33b0,d700c1e9-4564-4c4d-a800-2b6d68e962f7,2026-06,121,0.3698326307528976,Medium,overdue history 100%; 2 unpaid invoices,Check-in / satisfaction touch
+9e188cc2-9f75-4d15-8fa3-9348236cae71,30bf7a47-8033-40e6-9b42-8c799808df57,2026-06,31,0.36630443219848463,Medium,short tenure 31d,Check-in / satisfaction touch
+79d4d3fe-73c5-a965-030f-c60220ee20cb,e1603fed-7593-4717-b5a0-f63c1e03483e,2026-06,9,0.3655469649284069,Medium,short tenure 9d; overdue history 100%; 1 unpaid invoices,Check-in / satisfaction touch
+389859df-460c-4966-a71d-eb7bbebae67b,28f1c8a3-249a-4338-a9c2-c9f51b3b5e20,2026-06,16,0.36440916283344366,Medium,short tenure 16d; overdue history 100%,Check-in / satisfaction touch
+de481a65-2fb4-4974-b7db-0ec990ea852d,fea05c11-59c1-4026-b397-4565e58eca15,2026-06,8,0.36391111245371693,Medium,short tenure 8d; overdue history 100%,Check-in / satisfaction touch
+a267e3ee-ef69-4d54-8414-357c81b2eb3c,4eb2b3b6-d5de-4190-81ab-e563885218a3,2026-06,8,0.36391111245371693,Medium,short tenure 8d; overdue history 100%,Check-in / satisfaction touch
+55e6e452-fae2-a5ac-3c12-21424bffbcac,052eaacd-614f-4cac-8bee-618b1549c36d,2026-06,14,0.3607921912446843,Medium,short tenure 14d; overdue history 100%,Check-in / satisfaction touch
+89d188b4-94a9-2f97-e068-155ed8ec3f5e,9ddc3b2e-3ea3-44e6-b674-4cc843ee0e0d,2026-06,120,0.358597772540563,Medium,overdue history 75%; 1 unpaid invoices,Check-in / satisfaction touch
+51c3d3a9-bfa0-4a8e-a687-3ef46bc022cc,6b4279c2-88e5-42c6-84c1-71f20002952b,2026-06,57,0.3580950967955592,Medium,short tenure 57d,Check-in / satisfaction touch
+8123af5e-305b-80f8-20db-4d54b7f628c7,e42d2bdf-7c18-4bd9-982c-de09a231f52f,2026-06,226,0.3571449399246239,Medium,overdue history 100%; 2 unpaid invoices,Check-in / satisfaction touch
+be84008a-74d3-3cc1-6fd6-bcef998f7bff,4ab14a0f-9437-43ed-9504-94985a2312ab,2026-06,684,0.34960755901397006,Medium,overdue history 100%; 2 unpaid invoices,Check-in / satisfaction touch
+11e96dd2-92f4-f793-56db-439d5b3de156,3f072df4-ca44-4975-9844-ebd8be4312e0,2026-06,290,0.3468951749457753,Medium,overdue history 100%; 1 unpaid invoices,Check-in / satisfaction touch
+5527e05d-475b-45ed-a6f4-284340eed262,76f856ea-75bf-4a65-b822-9265eb344968,2026-06,42,0.3460639195477692,Medium,short tenure 42d,Check-in / satisfaction touch
+87a1e515-e2e0-110f-05d1-04f5a83c066a,a089c1bf-e6c1-4700-b4bd-52304e5c006f,2026-06,112,0.3416627566661155,Medium,short tenure 112d; overdue history 100%; 1 unpaid invoices,Check-in / satisfaction touch
+630c8120-bdbc-832c-24ca-aca9e6b49891,cdbd0a31-d685-4189-af7e-25c08d80399b,2026-06,112,0.3416627566661155,Medium,short tenure 112d; overdue history 100%; 1 unpaid invoices,Check-in / satisfaction touch
+8e39a9bd-3317-b2a6-22a6-16fa4cab9632,14f9659a-5710-47bd-945d-74b61d0ed70a,2026-06,46,0.33764731842515133,Medium,short tenure 46d; overdue history 50%; 1 unpaid invoices,Check-in / satisfaction touch
+1dc2bdca-ae79-4cd5-9d74-961c02cce282,53f80b16-81c6-48dc-a5b5-3ffad0099564,2026-06,57,0.33444374179812036,Medium,short tenure 57d; overdue history 50%,Check-in / satisfaction touch
+8b48adf3-c14a-fa6d-9785-b4bcb35f8fbb,656473e2-7641-46ed-9ba0-9fa996a8b682,2026-06,325,0.33316570055356354,Medium,overdue history 100%; 1 unpaid invoices,Check-in / satisfaction touch
+d2449d75-0593-4deb-a6c2-fae99fc83ab0,6d852880-001e-41ee-b447-e94c58384795,2026-06,61,0.33003700717601203,Medium,short tenure 61d,Check-in / satisfaction touch
+2ba81159-3fd3-401a-b806-4cf09e7dce86,c6035e5d-f32d-44de-a23b-055e75dcfa6b,2026-06,26,0.3291370449741787,Low,short tenure 26d,Monitor
+a4ef95bf-1c7c-4c4d-0497-ae38085af6cc,22638b59-a59b-46e7-86b9-34c7ea2d2847,2026-06,87,0.3223519890505058,Low,short tenure 87d; overdue history 67%; 2 unpaid invoices,Monitor
+11316c38-dc08-4983-3588-fcadd88bd5d2,597a1580-9401-42ce-a407-c9448d5017f6,2026-06,246,0.3152054359081153,Low,model risk,Monitor
+f16a668c-ea8a-b26d-9dff-4da3c53fccc7,1b2b14f1-f84a-404b-8ef1-fec032dd447f,2026-06,92,0.312466372360698,Low,short tenure 92d; overdue history 67%; 1 unpaid invoices,Monitor
+f2a00e3d-de04-40a3-6f41-a3ebfcab4a3c,4da78ee8-cbc6-4e20-949d-cf7237c7129e,2026-06,301,0.30059951172211413,Low,overdue history 90%; 1 unpaid invoices,Monitor
+83f51f9d-9d36-eda9-e7fb-5b1badbbd5d9,2f49d447-f15d-424d-9a7d-be051dc880d2,2026-06,300,0.2984117166866577,Low,overdue history 90%; 1 unpaid invoices,Monitor
+cda37b51-1bbc-af0d-a560-49af88fdc751,467a4a8e-2db8-4bd3-a0b3-e4d37731be26,2026-06,281,0.2917622825515908,Low,overdue history 70%; 1 unpaid invoices,Monitor
+44bf5771-a669-438c-a190-88aab999cfae,aabe391a-b8fc-4f8b-9b7c-414468bc4d54,2026-06,26,0.28690892083083175,Low,short tenure 26d,Monitor
+1fc0c3bb-f35c-8d5d-a4fa-a9c1723cd8ab,daa4363b-15ef-406b-adb8-5451eb652e2d,2026-06,135,0.2841810128629232,Low,model risk,Monitor
+c3c77367-5f51-f7a7-e667-0e3480f53751,1d2dab29-e24f-4dd8-adeb-4c7b2bd792e0,2026-06,141,0.28104136169970845,Low,model risk,Monitor
+521635f8-15aa-4ce1-ab2f-276095cbbe1a,fafe913c-97b3-41f6-b828-d278cd6b473d,2026-06,41,0.27072438700137746,Low,short tenure 41d; overdue history 50%,Monitor
+8334eb99-0bc0-3c80-9ff8-83bea3d7b5ef,cae46a0c-8545-4ee9-ae5e-3f94bfa02442,2026-06,92,0.26779012958028686,Low,short tenure 92d; overdue history 67%; 1 unpaid invoices,Monitor
+1d4c0119-5151-7a5b-2266-f16e44f67157,55469cc1-579d-4801-bbbd-4f113cad46e9,2026-06,330,0.26291854417171606,Low,overdue history 91%; 2 unpaid invoices,Monitor
+53416e34-aaed-471f-937d-0fea74c444b8,4423cb72-755e-42c0-8b73-0855bef4f660,2026-06,31,0.2622150192295695,Low,short tenure 31d,Monitor
+d6d33436-345a-e39c-9f8d-91c76dca514e,1bb08655-ecc9-4795-8186-bb34f130a593,2026-06,246,0.25788469101881784,Low,model risk,Monitor
+b4a50439-db13-dc26-d980-eb079b321460,902fa4e5-f7dd-4671-9d39-6516ba2e51d8,2026-06,272,0.25627309452385555,Low,overdue history 89%; 2 unpaid invoices,Monitor
+86cd2239-fa55-0389-437e-e8fd505dc931,20d5e9a6-73cd-4f5f-9b27-ba9a13e7864e,2026-06,505,0.2559227808617702,Low,overdue history 53%; 1 unpaid invoices,Monitor
+21e237d1-286e-324e-0cef-45725d629768,a6e807f3-afdf-44ff-b5cb-81a3f0906217,2026-06,175,0.2548362915721404,Low,overdue history 100%; 1 unpaid invoices,Monitor
+61031b0a-ef18-26aa-64b7-d412d7b3d276,99eb3f32-d53e-4470-ab2a-09ed6e9b3872,2026-06,778,0.2520175188670106,Low,overdue history 50%; 1 unpaid invoices,Monitor
+43774f3c-9ce6-fc78-7857-b8607c3e1966,db615118-b5d5-48fb-aa2b-90a5dc340c0f,2026-06,106,0.25091709648134997,Low,short tenure 106d; overdue history 75%,Monitor
+f59fa4ad-6dca-c7e7-d459-5326609a6412,22fa5986-8a5e-46e5-8860-bcd0d2050e7e,2026-06,99,0.24960337593073467,Low,short tenure 99d,Monitor
+b19dfc6c-a5d5-734c-3d3d-6389c281b3bb,2ddbff71-425b-4f25-a932-e1bf574b2035,2026-06,761,0.2493100600055244,Low,overdue history 96%; 1 unpaid invoices,Monitor
+3b27dc97-dafa-0480-7b61-5549a3ea7eee,be99f7a0-c9f6-43b6-9cc5-04577043e0bb,2026-06,328,0.2492631303317614,Low,overdue history 100%; 2 unpaid invoices,Monitor
+d225973a-f437-d98e-4e24-0fb32a7bfbe8,0eaaeaef-9e94-4d72-ab6c-6f4fa8a5eb26,2026-06,204,0.24122985864839422,Low,overdue history 86%; 1 unpaid invoices,Monitor
+080eae03-9f65-4515-aec2-8924472923dd,deef0c83-4c8c-46e7-bbae-139905f81a3c,2026-06,0,0.23357621103509837,Low,short tenure 0d; overdue history 57%,Monitor
+5e901269-d116-cf62-7661-df859f5b02dc,a15489ed-053d-4793-b95b-de0cafc05473,2026-06,310,0.23268281184804637,Low,overdue history 100%; 1 unpaid invoices,Monitor
+d497808b-36e2-ea42-d247-85b4e409078c,959010dc-2b21-4db0-bbcc-902c491be61d,2026-06,142,0.22942173335602195,Low,overdue history 83%; 1 unpaid invoices,Monitor
+d6399dd9-db95-454d-8705-856132cdb66b,d6b9850d-fe17-4c67-b36f-05e0bc58188b,2026-06,0,0.2262194677729201,Low,short tenure 0d; overdue history 57%,Monitor
+4505ca5d-0961-03c9-5943-ffda2a5ae270,0f6ef705-bedc-4008-88a1-8c600fe56c57,2026-06,265,0.21481487601029092,Low,1 unpaid invoices,Monitor
+417cb75b-9992-4df9-28ae-ad4d2313621f,bb51f6f8-2b1a-4e9f-b3e3-16a942773d8e,2026-06,371,0.20618055097246948,Low,model risk,Monitor
+93eb3d6a-d35b-ef1f-83b8-7430b6ad1674,c812ba7b-6318-4ce6-b0dd-78749fff30e5,2026-06,786,0.2060237089013537,Low,overdue history 50%; 2 unpaid invoices,Monitor
+31f3f7a3-5dc4-21cd-ba54-b41347a7822a,2d403254-d4e3-484a-ab66-492809785e47,2026-06,498,0.2026455142368398,Low,overdue history 82%; 1 unpaid invoices,Monitor
+a7dadee2-80e3-eba0-084f-5f1847bb3aa4,a2b0ee31-8c68-4f88-82a0-a97f2818ee85,2026-06,107,0.19755486345193474,Low,short tenure 107d; overdue history 50%; 1 unpaid invoices,Monitor
+1261d726-9481-43dd-bac5-f1b158c8ab32,402a2cd4-f2e5-4123-bc02-a3ded64c071c,2026-06,25,0.19264924459012428,Low,short tenure 25d; overdue history 57%,Monitor
+5fee0a79-3970-704a-2332-f7c7598e86c1,fad9c620-d9d5-479c-981d-4bc0521c94bb,2026-06,468,0.1866131416264345,Low,overdue history 73%; 2 unpaid invoices,Monitor
+e6dde6a9-4da9-d1a2-802a-faf5db207e8e,948c83b1-ecc1-440f-9997-479b290ef8a0,2026-06,426,0.18593175739655368,Low,model risk,Monitor
+2ac2da6e-0954-f906-32d7-a1f55477c590,7c23b4a5-63fa-47d1-8211-a565f6ed8ee9,2026-06,120,0.1798666230013331,Low,overdue history 75%; 1 unpaid invoices,Monitor
+073e4bd7-f1f1-49d3-604f-c365b9952a6c,e70ad66e-a26a-4c8b-a6e1-9743710c50f9,2026-06,359,0.17916857374462716,Low,overdue history 75%; 2 unpaid invoices,Monitor
+f38ac232-fe6f-44f8-955c-18c46b4db738,2fc943d9-a0cd-49f1-95bf-dd2e5aa0bf3d,2026-06,27,0.17693913040418316,Low,short tenure 27d; overdue history 57%,Monitor
+a6037691-771e-8146-3714-f9dedb8acbcc,9b2b3fe5-0f02-4525-a84a-61d6418d0fa4,2026-06,81,0.16660840578399946,Low,short tenure 81d; overdue history 100%; 2 unpaid invoices,Monitor
+2c1980eb-be51-916e-8f61-1e8fe83afb0c,345fd782-4252-4f02-958d-3531a545878b,2026-06,279,0.16658121018116873,Low,overdue history 70%,Monitor
+3b02f95a-b47e-1037-4f8a-f2f31e35c98e,ac6b528f-3e64-4f40-a65a-a073b663edd0,2026-06,273,0.1658634102609021,Low,overdue history 89%; 2 unpaid invoices,Monitor
+3e50af3d-452f-d098-b3bc-3c2a64576d55,288569c1-8892-451c-ae1f-6ccf0c41daa4,2026-06,243,0.1636207762401613,Low,model risk,Monitor
+df5ea39c-c069-5211-271d-f0d3831adefa,3394785d-ad9b-442e-9c87-3ab4f47b1876,2026-06,1554,0.16057194002457312,Low,overdue history 53%,Monitor
+2ba81159-3fd3-401a-b806-4cf09e7dce86,369460df-c1aa-43c8-87c0-ff659499481c,2026-06,26,0.15740148849461083,Low,short tenure 26d; overdue history 57%,Monitor
+2794ccf7-4966-f00d-35d6-34ac17db73ea,29309a70-09a1-4c35-b877-ca27b04ec436,2026-06,1057,0.15451949029822415,Low,overdue history 97%; 2 unpaid invoices,Monitor
+9e188cc2-9f75-4d15-8fa3-9348236cae71,d738be55-4297-417e-a30c-1675cd36ae88,2026-06,27,0.15311021828684282,Low,short tenure 27d; overdue history 57%,Monitor
+d8c4b3c5-9b2a-4c6e-b1e8-0a98c9175234,08961753-5e7a-4734-8cdc-f9283aece607,2026-06,27,0.15311021828684282,Low,short tenure 27d; overdue history 57%,Monitor
+a4709d2c-85e2-3d68-7467-1eaf879ba2c9,a38411a4-41ea-4525-b071-7072a55c3975,2026-06,168,0.15224703483012955,Low,model risk,Monitor
+15ff5934-5a4f-43fb-8bf6-4d798bd6a28b,7f5cffa5-4263-4a72-befd-9edc350013a0,2026-06,24,0.15046966604658601,Low,short tenure 24d; overdue history 57%,Monitor
+c02eb961-2471-c285-9c28-fb9a12aaf70a,c1c258d3-0750-49fb-8d6a-a5a84de41974,2026-06,174,0.14935674117575634,Low,overdue history 86%; 1 unpaid invoices,Monitor
+04ba1c6f-6c06-819d-9ecc-a0c5f795b922,cbde9bdc-2d51-4e5d-a732-1df1160c4b74,2026-06,396,0.14891313900947928,Low,overdue history 77%; 1 unpaid invoices,Monitor
+c49181cd-07c5-4c6a-a996-4146d002c886,cc84d065-0749-4895-96c3-dcae2f76d087,2026-06,38,0.14655842656590307,Low,short tenure 38d; overdue history 57%,Monitor
+1287ac56-adee-78b5-6a6b-56b3e8dd7d48,c88936bc-cb40-4598-a743-3c301dd4dccf,2026-06,483,0.1456876677738727,Low,overdue history 94%; 1 unpaid invoices,Monitor
+1b003ea3-bdcb-0416-c3c2-8ff60f2f65f5,419e1438-3ed5-4447-9f4c-68505b3371d9,2026-06,392,0.14432864188459174,Low,overdue history 92%; 1 unpaid invoices,Monitor
+d77b5c1e-605d-6795-5eee-1e2f9b83e069,ae68c045-42d5-44b9-877b-34c32d98fdbf,2026-06,142,0.14063519270013347,Low,model risk,Monitor
+011b7d1c-5697-5394-c05b-fa0473640657,261c6838-0d2b-4ef8-b7c0-722341418ce5,2026-06,162,0.14058212974535084,Low,overdue history 100%; 1 unpaid invoices,Monitor
+854c86e3-8b7f-0ca8-f4ac-c6a073699611,8db9e51a-5204-4143-a5a0-086b8cd03403,2026-06,608,0.13866570016705146,Low,overdue history 100%; 3 unpaid invoices,Monitor
+257579ca-bef0-99b8-f916-e518891ffdab,66d111c1-cc43-45d5-a2c0-be03b4449aeb,2026-06,28,0.13746100075381315,Low,short tenure 28d,Monitor
+083cff9b-ad02-40b0-93b8-969ab0460ee6,727d0a1e-834c-434a-aed5-028042d5a102,2026-06,17,0.13097177694524262,Low,short tenure 17d; overdue history 57%,Monitor
+22b0be2d-52c5-1127-642d-4f1083b404ca,073645a4-3ce2-4cc7-96cf-54d0f49f2353,2026-06,161,0.1309465597616082,Low,model risk,Monitor
+03ce56c0-8798-b95d-7125-311b80363e74,90df3267-4239-48a4-89aa-4a61e24239bc,2026-06,453,0.13084196816514512,Low,overdue history 93%; 1 unpaid invoices,Monitor
+9541a16d-d020-eb78-80f1-a4a2d4b7775f,bf9b5cd5-13dc-4229-9b7f-2fd8541f64b3,2026-06,138,0.13077082537444012,Low,overdue history 100%; 1 unpaid invoices,Monitor
+cebf32f4-3855-47cb-849b-815d2a2b5228,8df6ff2e-27cf-4867-be3a-4049c58f1258,2026-06,26,0.1285272996682772,Low,short tenure 26d; overdue history 57%,Monitor
+238b347e-e7e9-b1a3-31a8-a2f8fed99f55,3d2bb31e-a4e2-4d67-b934-8fbb641505da,2026-06,500,0.1283181046312601,Low,overdue history 100%; 1 unpaid invoices,Monitor
+2b785f57-1c4f-d4a8-d486-b69e7b2db5bc,3c7ccdf6-cc34-4475-9b15-a0933043ad80,2026-06,419,0.12450138344122628,Low,overdue history 93%; 1 unpaid invoices,Monitor
+72ac33cc-b9b2-9cc4-47fd-d37096c8f30d,c7f06da4-2365-433f-adc3-9f9169263644,2026-06,177,0.12447573643330621,Low,model risk,Monitor
+f284b25b-d762-1399-a12e-ba7ffa6b6f97,1129e54a-0b3f-417c-b6db-e1090df6981b,2026-06,512,0.12319560248450169,Low,overdue history 53%; 2 unpaid invoices,Monitor
+4f75b0ca-7bed-c37c-cfd4-1e361a1bb6d4,94474160-d37a-495d-a16f-f7280c3b7a29,2026-06,205,0.12002900188876757,Low,model risk,Monitor
+122c395f-56fd-4482-fe33-7fa3c3cd30b5,45df567e-3c5b-4da3-8bfd-6605e5e6c7a9,2026-06,393,0.11883931716989105,Low,model risk,Monitor
+be68c44d-d4d2-478a-7b1e-c9c3fefac406,c6bf983e-033d-46e6-825f-5620364a403d,2026-06,342,0.11844896080535208,Low,overdue history 100%; 1 unpaid invoices,Monitor
+e17238d1-34ce-0cbb-4dc0-f65e60ff52f7,5c6e4440-a7b7-4d5b-baec-a422ba050dcd,2026-06,483,0.11507298728831071,Low,overdue history 94%; 1 unpaid invoices,Monitor
+bdcc24e3-6077-3ea9-b25e-2747d0f07be7,34b48e10-aa34-478c-954d-06259adb5384,2026-06,482,0.11465991496984558,Low,overdue history 56%,Monitor
+8aacbc78-5e56-b3c0-f8bc-fcb5490b94f3,d06e259b-0f3f-4c09-bc77-00ec39ab5924,2026-06,917,0.11378482425347416,Low,overdue history 100%; 3 unpaid invoices,Monitor
+25aa2406-e171-b558-8249-7a525d126d8f,a0c56020-2eb8-4b3c-80a2-f837b1555d64,2026-06,212,0.11316152468116346,Low,overdue history 86%; 1 unpaid invoices,Monitor
+b0a6f0b5-9fd8-112e-2bfa-24fa8a25779b,f5dc7322-00ac-4867-a914-e2bddeac9a0f,2026-06,424,0.11220063513346562,Low,overdue history 93%; 1 unpaid invoices,Monitor
+ec6bd398-2413-2c67-18db-10bdd92ee4f9,83dd2c1e-368b-4c57-b9b8-fbcd6ae6ea9f,2026-06,351,0.11088336586782399,Low,overdue history 100%; 1 unpaid invoices,Monitor
+b0348aa8-ad9f-d0dd-94e8-c71a6627c930,db9ec732-0eba-43c2-8e97-5e7a05e17561,2026-06,516,0.1083301682674963,Low,overdue history 71%; 2 unpaid invoices,Monitor
+79e31f6f-69dc-a40c-27d7-3f076878f83c,a0cd9c66-c067-4001-ad7b-586b6c15537e,2026-06,851,0.10758045256878582,Low,1 unpaid invoices,Monitor
+22a9494d-0e02-6fba-4aee-7947f1e6110b,a9694079-2985-486a-8cd6-bd3243751b22,2026-06,638,0.1059793219761766,Low,overdue history 95%; 2 unpaid invoices,Monitor
+d257c87f-0e42-048c-8409-362e925d86fc,597c2d33-b758-4acd-811b-c7b22289dcbc,2026-06,761,0.1038846882778836,Low,overdue history 96%; 2 unpaid invoices,Monitor
+e426d68a-16d2-9097-ff7d-ae2521fb52e5,9c588654-a04c-4dad-9514-9aff226de468,2026-06,147,0.1030254086405417,Low,model risk,Monitor
+18d86801-3cb7-11d4-8b9d-433429296014,9c5f6705-4936-4bf4-91d9-8bd75b4c341b,2026-06,851,0.09819341073894383,Low,1 unpaid invoices,Monitor
+1422ace8-beea-6d1b-73fd-1d30597b40d5,cc479b4c-9ff2-4d88-8eff-9314403f6113,2026-06,120,0.09813578533925318,Low,overdue history 100%; 3 unpaid invoices,Monitor
+0278721a-a690-833b-298a-16a351fb7a3a,6555e453-3efe-45a0-9b81-711fbf2d0726,2026-06,365,0.09665638829938979,Low,overdue history 100%; 2 unpaid invoices,Monitor
+950dd22f-78fa-d205-48b3-fe5a5cc7438e,62887698-aebf-475f-9c98-0a212110dd24,2026-06,1627,0.09604911957928935,Low,overdue history 84%; 1 unpaid invoices,Monitor
+890b32d9-f754-8150-5a18-8a21fcdf3828,badc4f52-9209-4008-bcff-ed3cf3a3726f,2026-06,169,0.09557750540576908,Low,model risk,Monitor
+c09e703c-d287-38c8-d1c1-239145e17df9,d60bf084-22b7-4aeb-a8fd-b48b4786c6fd,2026-06,1355,0.09444181579586755,Low,overdue history 100%; 1 unpaid invoices,Monitor
+618f174c-7c45-cb54-907b-cacc78483918,19cc5bbe-1012-4cbe-bea4-9ed7f1aa163e,2026-06,109,0.09176473162135015,Low,short tenure 109d; overdue history 100%; 1 unpaid invoices,Monitor
+8709ca2e-a8a6-48a4-b8ce-e813c4796ab9,dd05d372-ad4b-436e-bb5a-19f80425364b,2026-06,61,0.08987105507432984,Low,short tenure 61d; overdue history 57%,Monitor
+38305983-db92-2c3c-7949-96f7ca7833eb,f9922902-5337-46f5-bf1f-7d8982a685af,2026-06,120,0.08562461589662973,Low,overdue history 75%; 1 unpaid invoices,Monitor
+a467df39-5ec5-465e-a471-e2b54be7bc71,55765ce0-31dd-476c-87de-500e35aa75ed,2026-06,38,0.08149013496115422,Low,short tenure 38d,Monitor
+25ef6338-6197-45a8-82d9-ddd0a846f1b2,4a578608-57b6-49f8-ac47-7386b4e4ba50,2026-06,44,0.08149013496115422,Low,short tenure 44d,Monitor
+49355947-7605-ec5f-7d81-a6597f38d76b,0318d74f-95a7-4ced-92bb-ded9eb88d273,2026-06,1325,0.08089426351386449,Low,model risk,Monitor
+af12a12c-92bf-088b-3073-292fe4dfc478,bdc2c4ae-b9b2-4aa7-b8bd-01fdd0145e27,2026-06,392,0.06680311736092234,Low,overdue history 92%; 1 unpaid invoices,Monitor
+4628a4bf-d4c5-9e5d-471c-271b9f3e7d03,460261c6-c1c2-4654-81fa-19637f3602a8,2026-06,1639,0.06655238903529027,Low,overdue history 63%; 1 unpaid invoices,Monitor
+733dd472-3b1e-dd43-76e5-082ddfe66c5b,43058d1d-6ce8-4ad0-9f04-48ad2efa67c4,2026-06,320,0.06332692152250656,Low,model risk,Monitor
+18788fe2-f6a2-826e-2199-6cec118c6d00,6a5d492b-8175-4c5d-86ac-ff94ea72d963,2026-06,713,0.05202669090800378,Low,model risk,Monitor
+bcf8ffc1-fd5c-f6ab-0453-7a73c73786dd,d1981985-ab9a-4777-b85f-46da934e391c,2026-06,723,0.05177168482436357,Low,model risk,Monitor
+146a8458-f956-54ed-317f-b99f7d16fff8,9698da1c-596f-48ae-8618-16b9c409f192,2026-06,719,0.05177168482436357,Low,model risk,Monitor
+5b45a840-9d6c-242e-0e2f-2e2c972c2eec,1b8d196c-a429-4d7f-823b-82a43769d60d,2026-06,320,0.05139204704708088,Low,model risk,Monitor
+23f7ef5f-6b26-a104-b616-b438d7e9243c,8cada743-d341-4211-b2f2-094d551e9ef3,2026-06,505,0.050844945456636814,Low,overdue history 100%; 1 unpaid invoices,Monitor
+cf1318a5-0564-4af6-d90e-c3e76de1ef08,5268e485-491e-40b7-942f-61c133c796bb,2026-06,974,0.04923783447732875,Low,overdue history 97%; 2 unpaid invoices,Monitor
+9653a402-ff75-bbdf-8cc6-1cb0ca01f233,81f71080-dac7-40e9-bb6b-3526cdd47015,2026-06,582,0.04808297818537398,Low,model risk,Monitor
+2631ddfd-660e-8719-1876-82cf88e13a60,0c8b2433-3b52-4a31-973c-d1049e2367ce,2026-06,477,0.04661136958318245,Low,model risk,Monitor
+e85daa48-7686-4c0f-afdb-f0bba0670510,b8f099e9-1d89-4458-8631-26b486eea890,2026-06,0,0.04408365832416597,Low,short tenure 0d; overdue history 57%,Monitor
+6dd50e39-9843-4442-cc09-3b49fbe97fb9,874b3b50-b801-4e30-a0a9-808746433886,2026-06,761,0.03823450235118519,Low,model risk,Monitor
+38069f8b-d44e-0b86-a0d1-dafac5ae1232,0bb006a6-102a-47c8-8091-3f3a4bc5731a,2026-06,666,0.03792244089523089,Low,model risk,Monitor
+cd2c3f97-4df7-b32f-d0c0-12031beae516,1265235c-5696-491b-925f-044ee29ba97e,2026-06,790,0.03687151358941188,Low,model risk,Monitor
+77dd12b8-a20b-05c8-2372-79ba1b1624a9,3ca315cc-b9c4-4379-be8c-c2df8c0e42d6,2026-06,725,0.034526115573241034,Low,model risk,Monitor
+55ca6f7c-112a-ec33-7c1c-987508bc9e41,3820ef49-8442-45ed-aeee-6a7a0cec9205,2026-06,450,0.034105723021892305,Low,model risk,Monitor
+855f3f6a-72ae-46f4-4cc2-a9a0d5df5b70,9131c211-f95d-4213-9955-02879ced6aaf,2026-06,967,0.03023063943350392,Low,model risk,Monitor
+4c4ad4c9-59bf-f152-d0ff-6502ec564cc9,91e9c4a4-cf9f-4ea2-bbce-8ca8d01150ff,2026-06,935,0.025323301334595674,Low,overdue history 100%; 2 unpaid invoices,Monitor
+510cd475-6538-7d02-413c-1a0f553ba4e6,26a0a5ca-7623-4406-8776-15d57ccb11fc,2026-06,547,0.024718827269033634,Low,model risk,Monitor
+c2329858-525d-2f70-5e31-bf9a8358eb3e,956b173b-5f08-4c46-999e-d04c26cb3609,2026-06,589,0.024694285221125562,Low,model risk,Monitor
+1932ea80-c6eb-874e-eca8-12410fa7a608,7ce79ba5-79fe-49c0-9e0a-2ace149ffbd0,2026-06,516,0.02268757785882665,Low,1 unpaid invoices; 55d since payment,Monitor
+66fbcb59-3d06-d8cc-b1d5-53f38a599207,b6b48bf2-25a2-4810-9338-b1847a53c5ed,2026-06,516,0.014306263205644347,Low,model risk,Monitor
+ba8dd5e0-ed0e-8b6a-7098-2732476feb31,31a1c073-bb44-4019-8548-0c5a8114de7b,2026-06,1290,0.012550389734970954,Low,2 unpaid invoices,Monitor

@@ -1,0 +1,12 @@
+metric,value
+candidates,9
+verified_real_properties,2
+with_first_party_website,0
+with_first_party_price,0
+usable_perbed_sharing_ac_prices,0
+unknown_price,9
+new,9
+existing,0
+rejected_aggregator_sources,"homelikepg,magicpin,typeindia,primepgs,rentmystay,chennaiproperties,yappe,mappls,addresspage,asklaila,top-rated,wanderboat,scribd,yube1,rentok,sulekha,facebook,instagram,youtube,google maps"
+groq_errors,429 rate-limit (Sahithyan/Bhavani/Ojas); 413 too-large (Best Men's PG); others OK
+webfetch_errors,none (no first-party page existed to fetch)

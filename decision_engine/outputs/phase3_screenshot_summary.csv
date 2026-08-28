@@ -1,0 +1,16 @@
+metric,value
+total_names_transcribed,100
+self_excluded,1
+competitor_candidates,99
+existing_in_pool,13
+new,86
+operators_or_aggregators,15
+reject_as_pricing_source,32
+verified_first_party_sites,5
+first_party_prices_found,0
+unknown_price,99
+within_1km,28
+within_2km,35
+within_3km,35
+within_5km,50
+type_breakdown,"{'co_living': 19, 'hotel': 6, 'mens_pg': 25, 'pg_unknown_gender': 14, 'residential_apartment': 2, 'serviced_apartment': 11, 'unknown': 8, 'womens_pg': 14}"

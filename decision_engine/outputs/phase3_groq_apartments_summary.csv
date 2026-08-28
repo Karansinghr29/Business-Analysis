@@ -1,0 +1,20 @@
+metric,value
+groq_status,OK
+groq_model,groq/compound-mini
+candidates,9
+verified_first_party,2
+aggregator_flagged,2
+type_residential_apartment,5
+type_co_living,3
+type_serviced_apartment,1
+type_pg,0
+type_hostel,0
+type_unknown,0
+within_1km,0
+within_2km,9
+within_3km,9
+within_5km,9
+first_party_priced,0
+unknown_price,9
+groq_grounded,True
+errors,"visit bag2bag.in: APIStatusError: Error code: 413 - {'error': {'message': 'Request Entity Too Large', 'type': 'invalid_request_error', 'code': 'request_too_large'}}"

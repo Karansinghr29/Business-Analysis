@@ -1,0 +1,12 @@
+metric,value
+target_properties,10
+properties_returned,10
+total_reviews_collected,114
+per_property,"{'Kolam Gandhi Serviced Apartments': 14, 'Kripa Homes PG': 14, 'Diyaa Paying Guest': 8, ""Sahithyan Men's PG"": 1, 'Olive Serviced Apartments': 9, 'Feel At Home Ladies Hostel': 16, 'TSP PG Accommodation': 16, 'Subodhaya Paying Guest (Ladies)': 2, 'Season 4 Rentals': 17, 'Yali Service Apartment': 17}"
+zero_or_few,"{""Sahithyan Men's PG"": 1, 'Subodhaya Paying Guest (Ladies)': 2}"
+apify_run_id,zID57BCmD2hhyLRCb
+apify_dataset_id,l4cqWmfaZENy3LdCI
+actor,compass/crawler-google-places
+retrieval_date,2026-08-18
+pii_stored,NONE — reviewer name/id/url/photo dropped at ingest
+note,raw Google Maps reviews; context only; never competitor comparison/ranking/benchmark

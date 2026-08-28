@@ -1,0 +1,6 @@
+metric,value
+fields_documented,34
+usable_YES,30
+PARTIAL,4
+decision_domains,"occupancy,vacancy,pricing,revenue,electricity,maintenance,tenant,allocation,marketing,lead,location,amenity,campaign,retention,operational"
+note,market signals are CONTEXT only; never competitor comparison; unknown stays unknown

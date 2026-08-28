@@ -1,0 +1,39 @@
+metric,value
+total_tenants,1026
+distinct_tenant_ids,1026
+resolved_tenants,251
+unknown_tenants,775
+pct_resolved_of_all,24.5
+denominator_note,all percentages in the distribution are of RESOLVED tenants; 775 of 1026 tenants (75.5%) remain Unknown
+by_source,"{'explicit_state_field': 112, 'city_gazetteer_address': 80, 'state_in_address': 33, 'pincode_circle': 26}"
+conflicting_evidence_left_unknown,0
+ambiguous_state_text_left_unknown,0
+ambiguous_city_left_unknown,2
+pincode_present_but_prefix_ambiguous,8
+invalid_state_values_rejected,"['Harris County Health Center', 'Tamil Nafu']"
+south_india_pct_of_resolved,58.6
+historical_population,979
+historical_resolved,240
+historical_unknown,739
+historical_pct_resolved,24.5
+historical_date_range,2019-11-03 .. 2026-08-23
+historical_south_pct_of_resolved,58.8
+current_population,190
+current_resolved,100
+current_unknown,90
+current_pct_resolved,52.6
+current_south_pct_of_resolved,60.0
+current_is_subset_of_historical,True
+view_separation_note,historical and current are reported as SEPARATE views over the same tenant base; current is a strict SUBSET of historical and the two must never be summed or mixed into one figure
+excluded_no_onboarding_date,47
+date_field_used,tenant_allotments.onboarding_date (business date). tenants.created_at is a migration timestamp — every row postdates the data load — and is NEVER used as a cohort date
+year_trend_claim,NOT SUPPORTED — per-year coverage varies widely; year-wise counts are published with a coverage column so thin years cannot be read as a trend
+kyc_cohort_resolved,114
+non_kyc_resolved,137
+tenants_with_created_at,114
+time_series_possible,"NO — created_at exists for only 114 tenants, all in a single year; historical state composition by year cannot be established"
+tenants_with_multiple_allotments,177
+identity_note,tenant_id is the identity key; multiple allotments are room/bed movement by the same tenant and never create a duplicate
+company_address_used,NO — an employer address is not the tenant's origin
+invoice_used_for_geography,NO — billing presence cannot imply geography
+interpretation,"tenant-origin composition only; NOT demand, NOT a feeder-market claim, NOT a forecast. Supports language/content decisions; the resolved sample does not justify city or campus targeting."

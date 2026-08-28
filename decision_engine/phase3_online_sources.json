@@ -1,0 +1,863 @@
+[
+{
+"name": "Amman Men's PG Hostel",
+"platform": "Official",
+"url": "https://www.ammanhostels.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Aostel - Men's PG/ Hostel in Anna Salai",
+"platform": "Official",
+"url": "http://www.aostel.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Aostel - Men's PG/ Hostel in Anna Salai",
+"platform": "Official",
+"url": "https://www.aostel.in/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Bag2Bag Service Apartments",
+"platform": "Bag2Bag",
+"url": "https://bag2bag.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Blue Shell",
+"platform": "EaseMyTrip",
+"url": "https://www.easemytrip.com/hotels/blue-shell-9672309/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Chippy Inn",
+"platform": "Official",
+"url": "https://chippyinn.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Chippy Inn",
+"platform": "Trip.com",
+"url": "https://www.trip.com/hotels/chennai-hotel-detail-47037651/chippy-inn/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Chippy Inn Tharamani",
+"platform": "Official",
+"url": "http://www.chippyinn.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "D and A BOUTIQUE HOTEL",
+"platform": "Official",
+"url": "http://www.daresidency.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Diyaa Paying Guest",
+"platform": "Official",
+"url": "https://menspg.in/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Dreams Neelankarai",
+"platform": "MakeMyTrip",
+"url": "https://www.makemytrip.com/hotels/dreams_neelankarai-details-chennai.html",
+"source": "user_provided",
+"tier": "MAJOR"
+},
+{
+"name": "EXCELLENT MEN'S PG ACCOMODATION | MENS HOSTEL IN THIRUVANMIYUR | BOYS HOSTEL IN THIRUVANMIYUR",
+"platform": "Official",
+"url": "https://excellentmenspgaccomodation.hrmslyzoo.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Eden Coliving Space",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Eden-Coliving-Kattupakkam/044PXX44-XX44-250929144506-V9Q5_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Emy PG Accommodation (Men)",
+"platform": "Official",
+"url": "https://emypgaccommodation.in/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Feel At Home Ladies Hostel",
+"platform": "Official",
+"url": "https://www.hostelforladies.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Hotel O Guduvancheri Railway Station",
+"platform": "OYO",
+"url": "https://www.oyorooms.com/253222",
+"source": "existing_project",
+"tier": "MAJOR"
+},
+{
+"name": "Hotel O Guduvancheri Railway Station",
+"platform": "OYO",
+"url": "https://www.oyorooms.com/253222/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "KPA MEN'S PG & HOSTEL",
+"platform": "Sulekha",
+"url": "https://www.sulekha.com/kpa-men-s-pg-hostel-arumbakkam-chennai-contact-address",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Kolam Gandhi Serviced Apartments",
+"platform": "Official",
+"url": "https://kolamapartments.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Kripa Homes pg thiruvanmiyur",
+"platform": "Official",
+"url": "https://kripahomes.com/pg-thiruvanmiyur/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Kushi Enclave",
+"platform": "CommonFloor",
+"url": "https://www.commonfloor.com/india-kushi-enclave-chennai/povp-6gzfcj",
+"source": "web_research",
+"tier": "NICHE"
+},
+{
+"name": "Lancor Sonnet Square",
+"platform": "Lancor",
+"url": "https://lancor.in/completed-projects-chennai/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Lancor Sonnet Square",
+"platform": "NoBroker",
+"url": "https://www.nobroker.in/lancor-sonnet-square-thiruvanmiyur_chennai-prjt-5e972e1ea5a1662dac0a8fbf",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "MCity Elite Suites",
+"platform": "Trip.com",
+"url": "https://www.trip.com/hotels/mahabalipuram-hotel-detail-123804839/mcity-elite-suites/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "MR Regency PG Hostel",
+"platform": "Official",
+"url": "https://www.mrregency.in/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Maayaas Stay Ladies Hostel",
+"platform": "Official",
+"url": "http://www.maayaas.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Maayaas Stay Ladies Hostel",
+"platform": "Sulekha",
+"url": "https://www.sulekha.com/maayaas-stay-ladies-hostel-potheri-chennai-contact-address",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "NESTORA ELITE PG in PERUNGUDI ( Mens PG NEW building)",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Nestora-Elite-Co-Living-Pg-Perungudi/044PXX44-XX44-251018092119-Y9F6_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Oester Hostel for Boys",
+"platform": "Official",
+"url": "https://www.oester.co.in/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Ojas Grand PG for Men",
+"platform": "Sulekha",
+"url": "https://www.sulekha.com/ojas-grand-pg-for-men-perungudi-chennai-contact-address",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Olympia Jayanthi Residences",
+"platform": "NoBroker",
+"url": "https://www.nobroker.in/olympia-jayanthi-residences-thiruvanmiyur-chennai_chennai-prjt-5e972a96a5a1662dac0a64b1",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Olympia Jayanthi Residences",
+"platform": "Olympia",
+"url": "https://www.olympiagroup.in/olympia-jayanthi-residence/index.html",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Oragadam Rooms",
+"platform": "EaseMyTrip",
+"url": "https://www.easemytrip.com/hotels/oragadam-rooms-2662586/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Oragadam Rooms",
+"platform": "Official",
+"url": "http://oragadamrooms.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "PG in Perungudi - Sampoorna Nilayam",
+"platform": "Official",
+"url": "https://sampoornapg.in/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Riya Ladies PG",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Riya-Ladies-Pg-Perungudi/044PXX44-XX44-241110041430-L4N9_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "SMS Gents Hostel",
+"platform": "Sulekha",
+"url": "https://www.sulekha.com/sms-gents-hostel-potheri-chennai-contact-address",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "SPS Men's PG | Boys Hostel | Mens hostel In Thousand lights | Nungambakkam | Mountroad",
+"platform": "Official",
+"url": "https://spsmenspg.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "SRK Hostel",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chengalpattu/Srk-Hostel-Srm-Nagar/9999PXX44-XX44-241017030942-K3P7_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "SRP The Pavilion",
+"platform": "Official",
+"url": "http://www.srpthepavilion.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "SRP The Pavilion",
+"platform": "Official",
+"url": "https://srpthepavilion.com/contact.php",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "STAY GREEN PG",
+"platform": "Official",
+"url": "http://www.staygreenpg.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Sabari Residency",
+"platform": "Official",
+"url": "http://sabariresidency.com/?utm_source=gmb&utm_medium=referral",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Season 4 Rentals",
+"platform": "Official",
+"url": "https://season4.in/season-4-rentals-thiruvanmiyur/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Skylinn Stays OMR Perungudi | Best Hotel Rooms Chennai",
+"platform": "Official",
+"url": "https://skylinnstays.localo.site/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Skylinn Stays OMR Perungudi | Best Hotel Rooms Chennai",
+"platform": "Official",
+"url": "https://skylinnstays.localo.site/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Sree Siddhi Vinayaka Mens PG",
+"platform": "Magicpin",
+"url": "https://magicpin.in/Chennai/Perungudi/Hotel/Sree-Siddhi-Vinayaka-Mens-Pg/store/bb9191",
+"source": "web_research",
+"tier": "NICHE"
+},
+{
+"name": "Sri Maha Hostels (Ladies)",
+"platform": "Official",
+"url": "https://srimahahostels.com/branches/thiruvanmiyur-ladies-hostel",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Sri Maha Hostels (Ladies)",
+"platform": "Official",
+"url": "https://www.srimahahostels.com/our-branches.php",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Sri Mahalakshmi PG Accommodation",
+"platform": "Official",
+"url": "https://mahalakshmipgaccommodation.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Sri Mahalakshmi PG Accommodation",
+"platform": "Official",
+"url": "https://mahalakshmipgaccommodation.com/contactus",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Sri Sai Balaji Ladies PG",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Sri-Sai-Balaji-Ladies-Pg-Nehru-Nagar-Perungudi/044PXX44-XX44-240817021657-T5C6_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Sri Sai Grn Men's Pg & Hostel",
+"platform": "Magicpin",
+"url": "https://magicpin.in/Chennai/Gst-Road/Hotel/Sri-Sai-Grn-Mens-Pg-and-Hostel/store/21a0539",
+"source": "web_research",
+"tier": "NICHE"
+},
+{
+"name": "Sri Venkata Vishnu Priya Gents Hostel",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chengalpattu/Sri-Venkata-Vishnu-Priya-Gents-Hostel-ChengalpattuPotheri/9999PXX44-XX44-230314030955-Y5D8_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Stanza Living",
+"platform": "Stanza Living",
+"url": "https://www.stanzaliving.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Stanza Living Conway House | Coliving PG in Navalur",
+"platform": "Stanza Living",
+"url": "https://www.stanzaliving.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Stanza Living Conway House | Coliving PG in Navalur",
+"platform": "Stanza Living",
+"url": "https://www.stanzaliving.com/chennai/pg-in-old-mahabalipuram-road/co_ed/conway-house",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Stanza Living Fernley House | Coliving PG in Urapakkam",
+"platform": "Stanza Living",
+"url": "https://www.stanzaliving.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Stanza Living Fernley House | Coliving PG in Urapakkam",
+"platform": "Stanza Living",
+"url": "https://www.stanzaliving.com/chennai/pg-in-urapakkam/co_ed/fernley-house",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Star Men's Pg Accommodation",
+"platform": "Official",
+"url": "https://lyzoo.co.in/starmenspg",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Stay N Tour Home | Best Rooms In Adyar",
+"platform": "Official",
+"url": "https://stay-n-tour.localo.site/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Stay N Tour Home | Best Rooms In Adyar",
+"platform": "Official",
+"url": "https://stay-n-tour.localo.site/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Staylite Suites Thiruvanmiyur Chennai | Hotels in OMR",
+"platform": "Prohotel",
+"url": "https://www.prohotel.in/locations/staylite-suites-tiruvanmiyur?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Sumathi Illam",
+"platform": "Official",
+"url": "https://mypgatchennai.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Swarna Sudarshan Serviced Apartments, Adyar, Chennai | Hotel rooms in Adyar",
+"platform": "Prohotel",
+"url": "https://www.prohotel.in/locations/swarna-sudarshan-adyar?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "TSP PG ACCOMADTION",
+"platform": "Official",
+"url": "https://tsppgaccommodation.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "The Adyar House Boutique Homestays",
+"platform": "Official",
+"url": "https://theadyarhouse.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "The K11 Golden Gate - Chennai",
+"platform": "Booking.com",
+"url": "https://www.booking.com/hotel/in/the-k11-golden-gate.html",
+"source": "existing_project",
+"tier": "MAJOR"
+},
+{
+"name": "The K11 Golden Gate - Chennai",
+"platform": "Trip.com",
+"url": "https://us.trip.com/hotels/chennai-hotel-detail-127649348/the-k11-golden-gate/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "The Royal Inn Gents PG",
+"platform": "Official",
+"url": "https://royalinngentspg.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "The Royal Inn Gents PG",
+"platform": "Official",
+"url": "https://www.royalinngentspg.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "The Royal Inn Ladies PG",
+"platform": "Official",
+"url": "https://theroyalinnladiespg.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "The Royal Inn Ladies Pg (Maple Nest)",
+"platform": "Official",
+"url": "https://theroyalinnladiespg.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "The Royal Inn Ladies Pg (Maple Nest)",
+"platform": "Official",
+"url": "https://www.theroyalinnladiespg.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Tidel Hostel (Co-ed)",
+"platform": "Official",
+"url": "https://tidelhostel.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Truliv Hercules - Co-living space & PG in Navalur",
+"platform": "Truliv",
+"url": "https://truliv.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Truliv Hercules - Co-living space & PG in Navalur",
+"platform": "Truliv",
+"url": "https://truliv.in/coliving-rent-in-chennai/pgs-near-omr/truliv-hercules",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Truliv Sofia - Co-living space & PG in Siruseri",
+"platform": "Truliv",
+"url": "https://truliv.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "VIJAY PAYING GUEST LUXURY HOSTEL",
+"platform": "HexaHome",
+"url": "https://www.hexahome.in/vijay-paying-guest-pg-in-adyar-chennai-id-FDNQAF/",
+"source": "web_research",
+"tier": "NICHE"
+},
+{
+"name": "VJB APARTMENT (PG Sholinganallur / AC PG for Men )",
+"platform": "Official",
+"url": "http://vjbhouse.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "VJB House PG",
+"platform": "Official",
+"url": "http://vjbhouse.com/",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "VJB House PG",
+"platform": "Official",
+"url": "https://vjbhouse.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Venkat Ramana PG Hostel for Ladies",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chengalpattu/Venkat-Ramana-P-G-For-Ladies-Near-Cake-Velley-Building-Potheri/9999PXX44-XX44-240505133740-R9B2_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "WHITES INN Nearby Kilambakkam New Bus Terminal",
+"platform": "OYO",
+"url": "https://www.oyorooms.com/239933/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "WHITES INN Nearby Kilambakkam New Bus Terminal",
+"platform": "The India Hotels",
+"url": "http://www.theindiahotels.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "WHITES INN VANDALUR",
+"platform": "The India Hotels",
+"url": "http://www.theindiahotels.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Wowlife Coliving - HerNest",
+"platform": "WowLife",
+"url": "https://wowlifecoliving.com/hostel/wowlife-coliving-velachery-hernest",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yali Service Apartment",
+"platform": "Trip.com",
+"url": "https://in.trip.com/hotels/chennai-hotel-detail-61930911/ulo-yali-service-apartment/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Yube1 Alpha League - PG in Thiruvanmiyur | Coliving PG",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Alpha-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Alpha League - PG in Thiruvanmiyur | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Capital League - PG in Porur | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Capital League - PG in Porur | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/property-details/Yube1-Capital-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Continental League - PG in Perungudi | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Continental League - PG in Perungudi | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/property-details/Yube1-Continental-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Emerald League - PG in Perungudi | Coliving PG",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Emerald-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Emerald League - PG in Perungudi | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Liberty League",
+"platform": "Yube1",
+"url": "https://www.yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Liberty League",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Liberty-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Madras League - PG in Chetpet | Coliving PG",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Madras-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Madras League - PG in Chetpet | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Millennial Campus - PG in Nungambakkam | Coliving PG",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Millennial-Campus",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Millennial Campus - PG in Nungambakkam | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Premier League - PG in Thiruvanmiyur | Coliving PG",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Premier-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Premier League - PG in Thiruvanmiyur | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Sarmani",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Sarmani",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Sarmani",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Zen League - PG in Thoraipakkam | Coliving PG",
+"platform": "Yube1",
+"url": "https://www.yube1.in/property-details/Yube1-Zen-League",
+"source": "web_research",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Yube1 Zen League - PG in Thoraipakkam | Coliving PG",
+"platform": "Yube1",
+"url": "https://yube1.in/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Zolo",
+"platform": "Zolo",
+"url": "https://zolostays.com/",
+"source": "existing_project",
+"tier": "OFFICIAL/OPERATOR"
+},
+{
+"name": "Bhavani pg",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Sri-Bhavani-Mens-Hostel-Kamaraj-Nagar/044PXX44-XX44-230905224426-U1G3_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Ganapathi PG for Women - LB Road",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Ganapathi-Pg-For-Women-Near-Valmiki-Nagar-Thiruvalluvar-Nagar-Thiruvanmiyur/044PXX44-XX44-230905180247-W6J6_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Green Apple Residency",
+"platform": "MakeMyTrip",
+"url": "https://www.makemytrip.global/hotels/greenapple_residency-details-chennai.html",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Green Apple Residency",
+"platform": "Tripadvisor",
+"url": "https://www.tripadvisor.ie/Hotel_Review-g10745344-d34302666-Reviews-Greenapple_Residency-Chennai_District_Tamil_Nadu.html",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "MG Park",
+"platform": "Booking.com",
+"url": "https://www.booking.com/hotel/in/mgpark-unit-of-mg-resorts.html",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "MG Park",
+"platform": "Goibibo",
+"url": "https://www.goibibo.com/hotels/mgpark-hotel-in-chennai-9177101876794253246/",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Raga's PG (Paying Guest) Boy's Hostel",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Ragas-Paying-Guest-Near-DLF-and-SRM-College-Ramapuram/044PXX44-XX44-230628104226-H4H5_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "SV PG Accommodation",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Sv-Pg-Accommodation-Post-Office-Thiruvanmiyur/044PXX44-XX44-230315120556-S9M7_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Sai Balaji pg hostel for ladies",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chengalpattu/Sai-Balaji-Ladies-Hostel-Near-Srm-College-Potheri/9999PXX44-XX44-170907024813-C1M8_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Sai Balaji pg hostel for ladies",
+"platform": "Sulekha",
+"url": "https://www.sulekha.com/sai-balaji-pg-for-ladies-potheri-chennai-contact-address",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Sree sai pg",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Sree-Sai-Paying-Guest-Perungudi/044PXX44-XX44-220511083445-J3C2_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "Stay Easy Tiruvanmiyur Chennai | Hotels Near Apollo Proton",
+"platform": "Tripadvisor",
+"url": "https://www.tripadvisor.in/Hotel_Review-g304556-d5308922-Reviews-StayEasy_Tiruvanmiyur_Unit_of_Prohotel-Chennai_Madras_Chennai_District_Tamil_Nadu.html",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "THE SHIVAM LIVING PG FOR MEN'S",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/The-Shivam-Living-Pg-For-Mens-Near-Tamil-Technologies-Egattur/044PXX44-XX44-230101030357-V7J1_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+},
+{
+"name": "WowLife Coliving PFLG (Perungudi)",
+"platform": "Justdial",
+"url": "https://www.justdial.com/Chennai/Wowlife-Coliving-Pvt-Ltd-Perungudi/044PXX44-XX44-191112205927-X4R6_BZDET",
+"source": "web_research",
+"tier": "MAJOR"
+}
+]

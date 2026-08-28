@@ -1,0 +1,12 @@
+feature,source,availability,why_valid
+revenue_lag1..12,"monthly accrual revenue, shifted",prior months,past revenue known before t
+revenue_roll3/6,mean of revenue[t-1..t-3/6],prior months,rolling on strictly prior periods
+occupied_beds_lag1..3,"occupied beds, shifted",prior months,past occupancy known before t
+occupancy_rate_lag1..3,"occupied/usable, shifted",prior months,past rate known before t
+occupied_roll3,mean occupied[t-1..t-3],prior months,rolling on prior periods
+tenants_lag1,"active tenants, shifted",prior month,past headcount known
+usable_lag1,usable beds prior month,prior month,past inventory known
+usable_beds,apartment-lifecycle inventory for month t,known ahead,inventory plan is deterministic/known before t
+avg_rent_card,published rate-card mean in effect,known ahead,"exogenous published price, not derived from target revenue"
+month_num/quarter/sin_m/cos_m,calendar of month t,known ahead,deterministic calendar
+occ_pred/rate_pred,chronological occupancy FORECAST for t,known ahead (forecast),generated from prior data only; actual future occupancy never used

@@ -1,0 +1,7 @@
+metric,value
+apartments_with_amenity_data,35
+vacant_beds_mapped,14
+vacant_beds_with_AC_apartment,5
+amenities_apartment_scope,"AC, Hot water, RO water, Refrigerator, Washing machine, TV, Kitchen, Fan"
+amenities_service_scope,"Wi-Fi, Housekeeping"
+mapping_note,apartment-level from asset.apartment_id; bed-level only where asset.bed_id set; unknown stays unknown; nothing marked absent

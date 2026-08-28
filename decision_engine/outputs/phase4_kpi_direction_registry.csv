@@ -1,0 +1,30 @@
+kpi_name,direction,unit,measurable,baseline_source,no_change_tolerance,note
+AR 90+ outstanding (₹) & tenant count,lower_is_better,INR,yes,phase3_decision_execution_analytics.csv·baseline_value,0,ledger-derived receivable; lower outstanding is better
+open leads (in_progress),context_only,leads,yes,phase3_decision_execution_analytics.csv·baseline_value,0,volume signal; not good/bad by itself
+AC-Issue tickets (cumulative) & share of maintenance,lower_is_better,tickets,yes,phase3_decision_execution_analytics.csv·baseline_value,0,cumulative reliable; monthly trend unreliable (created_at ~34% null)
+Double-requested leads,context_only,leads,yes,phase3_decision_execution_analytics.csv·baseline_value,0,demand signal; direction not intrinsically good/bad
+high-consumption apartments flagged,lower_is_better,count,yes,phase3_decision_execution_analytics.csv·baseline_value,0,"anomaly flag, NOT a confirmed issue"
+Triple occupancy %,higher_is_better,percent,yes,phase3_decision_execution_analytics.csv·baseline_value,1,higher occupancy is better
+maintenance tickets / month,lower_is_better,tickets,yes,phase3_decision_execution_analytics.csv·baseline_value,0,low-medium confidence (created_at null)
+tenant exits / month,lower_is_better,tenants,yes,phase3_decision_execution_analytics.csv·baseline_value,0,fewer exits is better
+leads by locality,context_only,leads,no,Unavailable — required data/linkage does not currently exist,0,Unavailable — required data/linkage does not currently exist (no locality on leads)
+vacant 2-sharing beds & ₹/mo at risk,lower_is_better,INR,yes,phase3_decision_execution_analytics.csv·baseline_value,0,lower vacancy exposure is better
+vacant 3-sharing beds & ₹/mo at risk,lower_is_better,INR,yes,phase3_decision_execution_analytics.csv·baseline_value,0,lower vacancy exposure is better
+Single occupancy %,higher_is_better,percent,yes,phase3_decision_execution_analytics.csv·baseline_value,1,higher occupancy is better
+vacant single beds & ₹/mo at risk,lower_is_better,INR,yes,phase3_decision_execution_analytics.csv·baseline_value,0,lower vacancy exposure is better
+cost per lead / cost per fill,lower_is_better,INR,no,Unavailable — required data/linkage does not currently exist,0,Unavailable — required data/linkage does not currently exist (no spend<->lead attribution)
+laundry-related engagement (marketing),context_only,engagement,no,Unavailable — required data/linkage does not currently exist,0,owner-verify; no engagement metric captured
+common-area marketing engagement,context_only,engagement,no,Unavailable — required data/linkage does not currently exist,0,owner-verify; no engagement metric captured
+food-service availability,context_only,flag,no,Unavailable — required data/linkage does not currently exist,0,Owner Verification Required — Vishful own status unknown
+CCTV/security availability,context_only,flag,no,Unavailable — required data/linkage does not currently exist,0,Owner Verification Required — Vishful own status unknown
+safety availability,context_only,flag,no,Unavailable — required data/linkage does not currently exist,0,Owner Verification Required — Vishful own status unknown
+parking availability,context_only,flag,no,Unavailable — required data/linkage does not currently exist,0,Owner Verification Required — Vishful own status unknown
+Double occupied beds / Double monthly revenue-at-risk,higher_is_better,beds,yes,phase3_decision_execution_analytics.csv·baseline_value,0,primary = occupied beds (higher better); rev-at-risk is the inverse mirror
+Monthly vacancy revenue-at-risk,lower_is_better,INR,yes,phase3_decision_execution_analytics.csv·baseline_value,0,lower exposure is better
+Lead enquiries / campaign conversions,context_only,leads,no,Unavailable — required data/linkage does not currently exist,0,no causal conversion evidence exists
+Collectable AR recovered,higher_is_better,INR,yes,phase3_decision_execution_analytics.csv·baseline_value,0,recovered amount (higher better); mirror of AR outstanding
+Retained tenants / exits,lower_is_better,tenants,yes,phase3_decision_execution_analytics.csv·baseline_value,0,measured via exits/month (lower better)
+Confirmed-leak resolutions / EB loss,lower_is_better,count,yes,phase3_decision_execution_analytics.csv·baseline_value,0,primary = EB high-consumption/loss (lower better); anomaly not confirmed
+Repeat-ticket rate on hotspot apartments,lower_is_better,rate,yes,phase3_decision_execution_analytics.csv·baseline_value,0,fewer repeats is better
+Occupied beds of the promoted sharing type,higher_is_better,beds,yes,phase3_decision_execution_analytics.csv·baseline_value,0,higher occupied is better
+Unavailable — required data/linkage does not currently exist,context_only,none,no,Unavailable — required data/linkage does not currently exist,0,Unavailable KPI (owner-verify recommendations); no measurable direction

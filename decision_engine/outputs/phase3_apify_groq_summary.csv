@@ -1,0 +1,22 @@
+metric,value
+total_candidates_discovered,8
+aggregator_directory_result_pages(not_properties),3
+new_after_dedup_vs_115,4
+new_FIRST_PARTY_properties,0
+existing_rediscovered,4
+operators_or_aggregators,7
+first_party_websites_verified,1
+first_party_price_sources,0
+unknown_price,8
+comparable_perbed_sharing_ac_sources_new,0
+by_location,"{'Adyar': 3, 'Kattankulathur': 3, 'Perungudi': 1, 'Thiruvanmiyur': 1}"
+by_type,"{'co_living': 7, 'mens_pg': 1}"
+apify_actor,apify/rag-web-browser (FREE)
+apify_runs,2
+apify_pages_scraped,6
+apify_compute_units,0.05123
+apify_credit_impact,"negligible — FREE actor, ~0.051 compute units total; no paid per-event actor run"
+groq_model,groq/compound-mini
+groq_errors,"429 RateLimitError x2 (Thiruvanmiyur, Perungudi); Adyar+Kattankulathur OK"
+coverage_improvement,"NONE — 0 new first-party properties, 0 new first-party prices"
+fallback_triggered,"YES — Playwright plan prepared, NOT executed"

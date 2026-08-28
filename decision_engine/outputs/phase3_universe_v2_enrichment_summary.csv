@@ -1,0 +1,16 @@
+metric,value
+new_properties,53
+independents,44
+zolo,9
+distance_coverage(coarse or better),50/53
+source_url_coverage,53/53
+any_published_rent,17/53
+SHARING_SPECIFIC_rent,5/53
+STARTING_FROM_rent,9/53
+RANGE_rent,2/53
+price_UNKNOWN(contact-gated),36/53
+review_coverage(review text),0/53 (Justdial/Sulekha show ratings only; no review intelligence collected for the 53)
+amenity_evidence_coverage,18/53
+distance_UNKNOWN,3/53
+kattankulathur_coarse_km,
+note,third-party kept separate from first-party; Zolo=operator:Zolo; no fabrication; contact-gated=UNKNOWN; distances are COARSE suburb-centroid (not exact per-property coords)

@@ -1,0 +1,11 @@
+metric,value
+total_assets,1700
+purchase_date_coverage,308
+allocation_fallback_used,1392
+unknown_dates,0
+usable_asset_age,1700
+usable_pct,100.0%
+median_age_years,0.34
+p75_age_years,0.34
+p90_age_years,1.28
+TICKET_LEVEL_LINKAGE_NOTE,"asset-age reaches only 18.4% of tickets via direct asset_id; bed->asset is 1:many, NOT bridged"

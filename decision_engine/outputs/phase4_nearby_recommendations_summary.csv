@@ -1,0 +1,24 @@
+metric,value
+layer,customer_facing_nearby (Option A — separate output)
+recommendations_generated,5
+categories_evaluated,5
+categories_skipped,0
+skip_reasons,{}
+evidence_places_total,48
+evidence_places_useful,37
+same_name_places_folded,8
+evidence_places_cited,23
+min_useful_places_per_category,2
+max_cited_places,5
+distance_method,haversine R=6371km recomputed offline from stored coordinates
+max_distance_drift_vs_collected_km,0.0
+distance_format_rule,"f""{round(stored_distance_km, 2):.2f} km"""
+walking_time_claims,0
+comparison_language,0
+owner_verify_required_all,True
+id_collision_with_existing_layers,0
+existing_33_lifecycle_touched,NO
+page15_touched,NO
+reducer_touched,NO
+registries_touched,NO
+inside_run_all_verify,NO — this layer is intentionally outside the locked verification set

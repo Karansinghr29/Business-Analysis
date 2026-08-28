@@ -1,0 +1,14 @@
+metric,value
+total_opportunities,9
+High,1
+Medium,2
+Low,6
+inventory_to_promote,2
+sharing_opportunities,1
+amenity_opportunities,5
+location_opportunities,1
+evidence_VISHFUL_INTERNAL,2
+evidence_MARKET_CONTEXT,6
+evidence_COMBINED,1
+vishful_amenities_known,0
+scoring_rules,"{""inventory_promote"": ""score = 40*(100-occ_pct)/100 + 25*min(med_days_vacant/180,1)[0 if unknown] + 20*(rev_at_risk/max_rev_at_risk) + 15*min(vacant/max_vacant,1). High>=60, Medium 40-59, Low<40."", ""sharing_opportunity"": ""score = 50*min(vacant/max_vacant,1) + 50*(sharing config present in first-party market? 1:0). Only when Vishful has vacant beds AND config is first-party market-published. COMBINED. High>=75,Med 50-74,Low<50."", ""amenity_context"": ""fixed 35: amenity is commonly PUBLISHED in first-party market AND Vishful availability is UNKNOWN (not in any Vishful output) -> Low, action=confirm internally then highlight IF present. MARKET_CONTEXT."", ""location_context"": ""fixed 45: PG/co-living density observed in Vishful locality per market context -> Medium, action=locality-targeted campaign for available inventory. MARKET_CONTEXT (coarse; no fabricated demand).""}"

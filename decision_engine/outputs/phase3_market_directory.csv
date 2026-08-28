@@ -1,0 +1,116 @@
+canonical_name,property_type,gender,locality,distance_km,distance_precision,verification_status,first_party_website,price_status,provenance
+Bhavani pg,pg_unknown_gender,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,identity_unconfirmed_no_first_party,,unknown,dashboard
+Blue Shell,unknown,unknown,Adyar,1.3,suburb_centroid_adyar,not_independently_web_verified,,unknown,dashboard
+Chippy Inn,unknown,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,not_independently_web_verified,,unknown,dashboard
+Chippy Inn Tharamani,serviced_apartment,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,not_independently_web_verified,,unknown,dashboard
+D and A BOUTIQUE HOTEL,hotel,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,not_independently_web_verified,,unknown,dashboard
+Diyaa Paying Guest,pg_unknown_gender,men,"Indira Nagar, Adyar",2.05,suburb_centroid_600020,verified_real_first_party_site,https://menspg.in/,first_party_published,"first_party_web,independent_web_verification"
+Dreams Neelankarai,unknown,unknown,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+EXCELLENT MEN'S PG ACCOMODATION | MENS HOSTEL IN THIRUVANMIYUR | BOYS HOSTEL IN THIRUVANMIYUR,mens_pg,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,identity_unconfirmed_no_first_party,,unknown,dashboard
+Feel At Home Ladies Hostel,pg_unknown_gender,women,Perungudi / Thoraipakkam OMR,2.26,suburb_centroid_600096,verified_real_first_party_site,https://www.hostelforladies.com/,unknown,"first_party_web,independent_web_verification"
+Ganapathi PG for Women - LB Road,womens_pg,women,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,identity_unconfirmed_no_first_party,,unknown,dashboard
+Green Apple Residency,residential_apartment,unknown,Perungudi,3.5,suburb_centroid_perungudi,verified_real_no_first_party,,unknown,dashboard
+Kolam Gandhi Serviced Apartments,serviced_apartment,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_first_party_site,https://kolamapartments.com/,unknown,dashboard
+Kripa Homes pg thiruvanmiyur,pg_unknown_gender,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_first_party_site,https://kripahomes.com/pg-thiruvanmiyur/,unknown,"dashboard,first_party_web,independent_web_verification"
+MG Park,unknown,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_no_independent_first_party,,unknown,dashboard
+MR Regency PG Hostel,pg_unknown_gender,unknown,Adyar,1.3,suburb_centroid_adyar,not_independently_web_verified,,unknown,dashboard
+Mens PG,mens_pg,men,Adyar,1.3,suburb_centroid_adyar,not_independently_web_verified,,unknown,dashboard
+NAVEENS HIFI PG FLAT AND HOSTEL ONLY FOR GIRLS,womens_pg,women,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,identity_unconfirmed_no_first_party,,unknown,dashboard
+NESTORA ELITE PG in PERUNGUDI ( Mens PG NEW building),mens_pg,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,not_independently_web_verified,,unknown,dashboard
+Ojas Grand PG for Men,mens_pg,men,Perungudi,3.5,suburb_centroid_perungudi,verified_real_no_first_party,,unknown,dashboard
+Olive Serviced Apartments,serviced_apartment,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_first_party_site,https://oliveservicedapartments.com/chennai,unknown,dashboard
+PG in Perungudi - Sampoorna Nilayam,pg_unknown_gender,unknown,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+Riya Ladies PG,womens_pg,women,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+SAHITHYAN MEN'S PG,mens_pg,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,exists_described_no_first_party,,unknown,dashboard
+SNEHA PG,pg_unknown_gender,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,identity_weak_no_first_party,,unknown,dashboard
+SRI LAKSHMI SRI LADIES PG,womens_pg,women,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+SRI LAXMI BALAJI PG FOR LADIES,womens_pg,women,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+STAY GREEN PG,pg_unknown_gender,unknown,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+Sasikala Paying Guest,pg_unknown_gender,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,identity_unconfirmed_no_first_party,,unknown,dashboard
+Season 4 Rentals,serviced_apartment,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_first_party_site,https://season4.in/season-4-rentals-thiruvanmiyur/,unknown,dashboard
+Skylinn Stays OMR Perungudi | Best Hotel Rooms Chennai,hotel,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_no_independent_first_party,,unknown,dashboard
+Sree Siddhi Vinayaka Mens PG,mens_pg,men,Perungudi,3.5,suburb_centroid_perungudi,verified_real_no_first_party,,unknown,dashboard
+Sree sai pg,pg_unknown_gender,unknown,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+Sri Mahalakshmi PG Accommodation,pg_unknown_gender,unknown,Perungudi,3.5,suburb_centroid_perungudi,verified_real_first_party_site,https://mahalakshmipgaccommodation.com/,unknown,"dashboard,first_party_web,independent_web_verification"
+Sri Sai Balaji Ladies PG,womens_pg,women,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+Star Men's Pg Accommodation,mens_pg,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,not_independently_web_verified,,unknown,"dashboard,groq_discovery"
+Stay Easy Tiruvanmiyur Chennai | Hotels Near Apollo Proton,hotel,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_no_independent_first_party,,unknown,dashboard
+Stay N Tour Home | Best Rooms In Adyar,serviced_apartment,unknown,Adyar,1.3,suburb_centroid_adyar,not_independently_web_verified,,unknown,dashboard
+Staylite Suites Thiruvanmiyur Chennai | Hotels in OMR,hotel,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_no_independent_first_party,,unknown,dashboard
+Subodhaya Paying Guest Accommodation (for Ladies),womens_pg,women,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_no_first_party,,unknown,dashboard
+"Swarna Sudarshan Serviced Apartments, Adyar, Chennai | Hotel rooms in Adyar",hotel,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_no_independent_first_party,,unknown,dashboard
+TSP PG ACCOMADTION,pg_unknown_gender,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_first_party_site,https://tsppgaccommodation.com/,unknown,"dashboard,first_party_web,groq_discovery,independent_web_verification"
+The Adyar House Boutique Homestays,serviced_apartment,unknown,Adyar,1.3,suburb_centroid_adyar,not_independently_web_verified,,unknown,dashboard
+The K11 Golden Gate - Chennai,unknown,unknown,Adyar,1.3,suburb_centroid_adyar,not_independently_web_verified,,unknown,dashboard
+Truliv Sofia - Co-living space & PG in Siruseri,co_living,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_operator_site_rejected,https://truliv.in/,unknown,dashboard
+VIJAY PAYING GUEST LUXURY HOSTEL,pg_unknown_gender,unknown,Adyar,1.3,suburb_centroid_adyar,not_independently_web_verified,,unknown,dashboard
+WowLife Coliving PFLG (Perungudi),co_living,unknown,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+Yali Service Apartment,serviced_apartment,men,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_real_no_independent_first_party,,unknown,dashboard
+Yube1 Alpha League - PG in Thiruvanmiyur | Coliving PG,co_living,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Yube1 Continental League - PG in Perungudi | Coliving PG,co_living,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Yube1 Emerald League - PG in Perungudi | Coliving PG,co_living,unknown,Perungudi,3.5,suburb_centroid_perungudi,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Yube1 Premier League - PG in Thiruvanmiyur | Coliving PG,co_living,unknown,Thiruvanmiyur,0.0,suburb_centroid_thiruvanmiyur,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+kalyani homestay,serviced_apartment,unknown,Perungudi,3.5,suburb_centroid_perungudi,not_independently_web_verified,,unknown,dashboard
+11L - K427 Apartments,residential_apartment,unknown,Thiruvanmiyur,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Amman Men's PG Hostel,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+Aostel - Men's PG/ Hostel in Anna Salai,mens_pg,men,Chennai,,unknown_locality,verified_real_no_first_party,,unknown,dashboard
+Bag2Bag Service Apartments,serviced_apartment,unknown,"Thiruvanmiyur, Chennai",,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Best Men's PG,mens_pg,men,Chennai,,unknown_locality,identity_unconfirmed_generic_name,,unknown,dashboard
+Bress Flat,residential_apartment,unknown,Thiruvanmiyur,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Eden Coliving Space,co_living,unknown,Chennai,,unknown_locality,verified_real_no_first_party,,unknown,dashboard
+Emy PG Accommodation (Men),pg_unknown_gender,men,"Thiruvanmiyur (14 units), Adyar (3), Besant Nagar (1), Semmancheri (1)",,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),verified_real_first_party_site,https://emypgaccommodation.in/,unknown,"first_party_web,groq_discovery,independent_web_verification"
+Hotel O Guduvancheri Railway Station,hotel,unknown,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+K S MENS P G HOSTAL,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+KPA MEN'S PG & HOSTEL,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+Kushi Enclave,residential_apartment,unknown,Thiruvanmiyur,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Lancor Sonnet Square,residential_apartment,unknown,Thiruvanmiyur,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,https://lancor.in/completed-projects-chennai/,unknown,groq_discovery
+MCity Elite Suites,serviced_apartment,unknown,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Maayaas Stay Ladies Hostel,womens_pg,women,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+NESTORA CO-LIVING PG,co_living,unknown,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+OLive Inn PG for Men,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+Oester Hostel for Boys,mens_pg,men,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Olympia Jayanthi Residences,residential_apartment,unknown,Thiruvanmiyur,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,https://www.olympiagroup.in/olympia-jayanthi-residence/index.html,unknown,groq_discovery
+Oragadam Rooms,unknown,unknown,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Raga's PG (Paying Guest) Boy's Hostel,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+SMS Gents Hostel,mens_pg,men,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+SMS LADIES HOSTEL,womens_pg,women,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+SPS Men's PG | Boys Hostel | Mens hostel In Thousand lights | Nungambakkam | Mountroad,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+SRK Hostel,pg_unknown_gender,unknown,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+SRP The Pavilion,unknown,unknown,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+SV PG Accommodation,pg_unknown_gender,unknown,Chennai,,unknown_locality,identity_ambiguous_possible_out_of_area,,unknown,dashboard
+SVH Gents PG,pg_unknown_gender,men,Thiruvanmiyur,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Sabari Residency,residential_apartment,unknown,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Sai Balaji pg hostel for ladies,womens_pg,women,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Sri Maha Hostels (Ladies),pg_unknown_gender,women,"Kamaraj Nagar, Thiruvanmiyur",,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),verified_real_first_party_site,https://www.srimahahostels.com/our-branches.php,unknown,"first_party_web,independent_web_verification"
+Sri Sai Grn Men's Pg & Hostel,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+Sri Venkata Vishnu Priya Gents Hostel,mens_pg,men,Kattankulathur,,coarse_far_>5km,verified_real_no_first_party,,unknown,dashboard
+Sri Venkateswara mens kR hostel/PG,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+Stanza Living,co_living,unknown,"Thiruvanmiyur, Chennai",,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Stanza Living Conway House | Coliving PG in Navalur,co_living,unknown,Chennai,,unknown_locality,verified_operator_site_rejected,https://www.stanzaliving.com/,unknown,dashboard
+Stanza Living Fernley House | Coliving PG in Urapakkam,co_living,unknown,Kattankulathur,,coarse_far_>5km,verified_operator_site_rejected,https://www.stanzaliving.com/,unknown,dashboard
+StayBro Co-Living Spaces,co_living,unknown,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+Sumathi Illam,pg_unknown_gender,men,,,unknown_locality,verified_real_first_party_site,https://mypgatchennai.com/,first_party_room_class_excluded,"first_party_web,independent_web_verification"
+THE SHIVAM LIVING PG FOR MEN'S,mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+The Royal Inn Gents PG,mens_pg,men,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+The Royal Inn Ladies PG,womens_pg,women,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+The Royal Inn Ladies Pg (Maple Nest),womens_pg,women,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Tidel Hostel (Co-ed),pg_unknown_gender,co-ed,"Kamaraj Nagar West, Thiruvanmiyur",,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),verified_real_first_party_site,https://tidelhostel.com/,unknown,"first_party_web,independent_web_verification"
+Triples Men's PG,pg_unknown_gender,men,Thiruvanmiyur,,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Truliv Hercules - Co-living space & PG in Navalur,co_living,unknown,Chennai,,unknown_locality,verified_operator_site_rejected,https://truliv.in/,unknown,dashboard
+VJB APARTMENT (PG Sholinganallur / AC PG for Men ),mens_pg,men,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+VJB House PG,pg_unknown_gender,unknown,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+VSTAY INN PG FOR LADIES,womens_pg,women,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Venkat Ramana PG Hostel for Ladies,womens_pg,women,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+Venkat Ramana PG hostel for Gents,mens_pg,men,Kattankulathur,,coarse_far_>5km,not_independently_web_verified,,unknown,dashboard
+WHITES INN Nearby Kilambakkam New Bus Terminal,serviced_apartment,unknown,Kattankulathur,,coarse_far_>5km,verified_real_no_independent_first_party,,unknown,dashboard
+WHITES INN VANDALUR,serviced_apartment,unknown,Kattankulathur,,coarse_far_>5km,verified_real_no_independent_first_party,,unknown,dashboard
+Wowlife Coliving - HerNest,co_living,women,Chennai,,unknown_locality,not_independently_web_verified,,unknown,dashboard
+Yube1 Capital League - PG in Porur | Coliving PG,co_living,unknown,Chennai,,unknown_locality,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Yube1 Liberty League,co_living,unknown,"Thiruvanmiyur, Chennai",,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery
+Yube1 Madras League - PG in Chetpet | Coliving PG,co_living,unknown,Chennai,,unknown_locality,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Yube1 Millennial Campus - PG in Nungambakkam | Coliving PG,co_living,unknown,Chennai,,unknown_locality,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Yube1 Sarmani,unknown,unknown,Chennai,,unknown_locality,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Yube1 Zen League - PG in Thoraipakkam | Coliving PG,co_living,unknown,Chennai,,unknown_locality,verified_operator_site_rejected,https://yube1.in/,unknown,dashboard
+Zara Co-Living Space - Men's PG/ Thoraipakkam,co_living,men,Chennai,,unknown_locality,verified_real_no_first_party,,unknown,dashboard
+Zara co-living Space - Men's PG / Valasarvakkam,co_living,men,Chennai,,unknown_locality,verified_real_no_first_party,,unknown,dashboard
+Zolo,co_living,unknown,"Thiruvanmiyur, Chennai",,same_suburb_600041 (<=~2km; street geocode unavailable on OSM),groq_discovered,,unknown,groq_discovery

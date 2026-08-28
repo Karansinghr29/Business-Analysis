@@ -1,0 +1,10 @@
+metric,value
+competitor_first_party_reviews,NOT ACCESSIBLE via approved methods (Maps/aggregator only)
+legitimate_substitute,"Vishful OWN maintenance tickets (1,540) + tenant_rating (1020 rated)"
+top_own_pain_points,"{'AC Issues': 304, 'Other': 243, 'Electrical Issues': 184, 'Furniture': 158, 'RO Water Issues': 134}"
+topics_audited,9
+marketing_opportunities(verified both sides),7
+operational_priorities,8
+owner_verification_gates,1
+additional_scraping_has_decision_value,NO — competitor review sentiment not legitimately accessible; own tickets are richer + legitimate
+owner_rule,market customer signal -> Vishful opportunity; never competitor comparison; unknown stays unknown

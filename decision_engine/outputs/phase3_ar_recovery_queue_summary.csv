@@ -1,0 +1,20 @@
+metric,value
+aged_90_plus_total,800503.38
+aged_90_plus_allotments,47
+active_allotments,17
+active_ar,190639.33
+exited_allotments,30
+exited_ar,609864.05
+exited_share_of_aged_ar,76.2%
+deposit_backed_allotments,9
+deposit_backed_ar,113108.33
+deposit_held_active_total,189250.0
+no_deposit_evidence_allotments,8
+no_deposit_evidence_ar,77531.0
+verification_required_allotments,22
+verification_required_ar,565160.8
+insufficient_linkage_allotments,8
+insufficient_linkage_ar,44703.25
+recovery_estimate,"NOT COMPUTED — deposit evidence only, never a recovery forecast"
+reconciliation_status,UNAVAILABLE — receipt_allocations missing
+governing_rule,Evidence for prioritising review; no collectable amount or net AR is derived

@@ -1,0 +1,3 @@
+model,folds,MAE,RMSE,MAPE
+A. Existing Holt-Winters (revenue-only),7,149667,183721,4.86
+B. Component-based (occ x rent + components),7,110605,127242,3.79

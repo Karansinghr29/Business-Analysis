@@ -1,0 +1,35 @@
+source,field,meaning,business_use,usable,reason
+beds #42,bed_type/toilet_type/status,room config + availability,"room/bed allocation, vacancy",YES,authoritative inventory
+apartments #41,floor_number/apartment_type/gender_allowed/size_sqft/eb_connection_type,building/floor/gender/size,"allocation, locality, gender targeting",YES,populated per apartment
+rate_card #43,bed_type/toilet_type/monthly_rate/from_date,internal rate card,pricing decisions,YES,own rate; NOT competitor price
+allotments #44,monthly_rental/deposit_paid/booking/onboarding/exit dates/notice_date/expected_stay_days,tenancy commercial + lifecycle,"revenue, booking duration, notice, fill time",YES,authoritative tenancy
+tenants #45,gender/profession/food_preference/company/city,tenant profile,customer decisions (aggregate only),PARTIAL,personal; use aggregate; food_preference≠meals service
+invoices #52,rent_amount/electricity_amount/total/status/due_date,billing,"revenue, EB, collections",YES,"5,193 invoices"
+invoice_line_items #53,line_type/description/amount,invoice breakdown,revenue composition,YES,"5,526 lines"
+payments #54 / ledger #55,amount_paid/direction/ledger_type/running_balance,cash + journal truth,"collections, revenue protection",YES,ledger is source of truth
+ar_aging #89 / net_dues #90,bucket_0_30..90_plus/ar_balance/net_dues,receivables ageing,"revenue protection, retention",YES,47 tenants 90+ days
+eb_readings #56/#57/#60,units_consumed/unit_cost/tenant_eb_charge/is_danger,electricity usage,electricity cost decisions,YES,per apartment/month
+notices #47,notice_date/exit_date/status,exit notices,"churn/retention, vacancy pipeline",YES,81 active notice rows
+room_switches #46,switch_type/old_bed/new_bed/rent_difference,internal transfers,"allocation, retention",YES,28 switches
+exits #48 / settlements #50,exit_date/refund_due/deductions,move-out + settlement,"churn, deposit ops",YES,exit lifecycle
+maintenance_tickets #71,issue_type_id/priority/status/resolved_at/closed_at/asset_id,maintenance events,maintenance prioritisation,YES,"1,650 tickets"
+ticket_resolutions #72,total_cost/resolution_type/service_type,repair cost,"maintenance cost, asset review",YES,421 resolutions
+ticket_logs #75,action/old_status/new_status/created_at,ticket lifecycle,SLA/resolution timing,YES,"14,790 log rows"
+issue_types #76 / subtypes #77,name (AC/Internet/Cleaning/RO/Heater...),facility/service catalogue,AMENITY EVIDENCE (managed services),YES,proves WiFi/cleaning etc as services
+assets #78,asset_type_id/apartment_id/bed_id/brand/purchase_date/condition,physical assets present,AMENITY EVIDENCE + asset age/replacement,YES,"1,700 assets; apartment/bed linked"
+asset_types #80,name (Air Conditioner/Water Heater/RO/TV...),asset catalogue,amenity mapping,YES,34 types
+asset_allocations #79,asset_id/apartment_id/bed_id/allocated_date,asset->location mapping,inventory-amenity matrix,YES,"1,822 allocations"
+leads #84,source/status/bed_type/gender/budget/move_in_date/created_at,enquiry pipeline,"lead follow-up, demand signal",PARTIAL,18 leads; source=whatsapp_bot only; bed_type mostly null
+financials #85,revenue/marketing/maintenance/net_profit/owner_rent by month,P&L,"revenue, marketing spend",PARTIAL,marketing spend present; no campaign/channel/lead link
+occupancy_snapshot #94,total_beds/occupied/vacant/occupancy_pct,live occupancy,occupancy/vacancy decisions,YES,current snapshot
+bed_events #95,event/staying_status/event_date,bed lifecycle events,"fill-time, movement",YES,"2,175 events"
+owner_contracts #69,monthly_rent/revenue_share/security_deposit/lock_in,owner economics,profitability (owner rent),YES,corrected profit driver
+v_pnl_by_category #85/#86/#87,account revenue/expense by month,P&L by category,revenue forecast,YES,Holt-Winters input
+step4_vacancy_at_risk.csv,days_vacant/rev_at_risk_monthly/duration_known,vacancy + ₹ at risk,"vacancy reduction, pricing review",YES,validated
+step5_pricing_analysis.csv,occupancy_pct/total_beds/occupied_beds/realized_median,occupancy by bed_type,pricing/inventory decisions,YES,validated
+phase2_eb_anomalies.csv,anomaly_type/severity/apartment,electricity anomalies,electricity cost investigation,YES,validated deterministic
+phase2_maintenance_repeat_register.csv,recur_le90/priority/date_confidence,maintenance hotspots,maintenance prioritisation,YES,validated
+phase2_churn_risk_scored.csv,risk/risk_band,churn ranking (not classifier),retention review,YES,ranking only
+phase2_overdue_risk_scored.csv,risk/amount,overdue risk,collections/revenue protection,YES,validated
+phase2_asset_age_profile.csv,asset_age_years/date_source,asset age,asset replacement review,PARTIAL,"asset-level 100%, ticket-level 18%"
+phase3_market_signals.csv,published_amenity/sharing/locality counts,MARKET CONTEXT,context only,YES,never competitor comparison

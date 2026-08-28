@@ -1,0 +1,9 @@
+metric,value
+active_universe,168
+baseline_v1,115
+verified_additions_v2,53
+independents_added,44
+zolo_added,9
+directory_with_distance,82
+directory_distance_unknown,86
+note,"168 current universe; 115 v1 frozen; 85 holdout excluded; third-party evidence tagged, never first-party; pricing/sharing + amenity keep own denominators"

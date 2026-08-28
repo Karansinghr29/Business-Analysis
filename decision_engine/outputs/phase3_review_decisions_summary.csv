@@ -1,0 +1,10 @@
+metric,value
+themes_analyzed,16
+decision_candidates,16
+classes,"{'SUPPORTING SIGNAL FOR EXISTING DECISION': 5, 'PRODUCT OPPORTUNITY': 4, 'OPERATIONAL PRIORITY': 3, 'MARKETING OPPORTUNITY': 2, 'NO ACTION / INFORMATIONAL': 2}"
+new_decisions,9
+supporting_existing,5
+no_action_informational,2
+strong_signals(>=2 PGs),14
+existing_14_untouched,True
+owner_rule,market customer signal -> Vishful opportunity; never competitor comparison; unknown stays unknown

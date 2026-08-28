@@ -1,0 +1,4 @@
+model,features,folds,MAE,RMSE,MAPE
+A. Existing Holt-Winters (revenue-only),revenue history (univariate ES),7,149667,183721,4.86
+B. Business-aware HW (regression + HW residual),14 lagged business drivers -> Ridge; HW on residuals,7,250689,325417,7.99
+   (diagnostic) regression component only,"Ridge on lagged drivers, no HW residual",7,187285,224304,6.0

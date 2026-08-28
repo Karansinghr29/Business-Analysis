@@ -1,0 +1,13 @@
+metric,value
+base_url,https://vishful.co.in
+pages_attempted,5
+pages_rendered_with_content,1
+pages_errored,0
+http_statuses,"[200, 404, 404, 404, 404]"
+retrieval_date,2026-08-27
+categories_checked,"TRANSPORT,HEALTHCARE,ESSENTIALS,EDUCATION,FINANCIAL"
+already_visible,"{'TRANSPORT': 'True', 'HEALTHCARE': 'False', 'ESSENTIALS': 'False', 'EDUCATION': 'True', 'FINANCIAL': 'False'}"
+visibility_specificity,"{'TRANSPORT': 'generic', 'HEALTHCARE': 'absent', 'ESSENTIALS': 'absent', 'EDUCATION': 'generic', 'FINANCIAL': 'absent'}"
+detection,deterministic regex over rendered body text; matched snippet stored verbatim
+bypass_used,"none — public pages only, no login/CAPTCHA/anti-bot bypass"
+note,absence recorded as False only when at least one page rendered; otherwise Unknown

@@ -1,0 +1,10 @@
+metric,value
+attributes_audited,44
+VERIFIED_PRESENT,30
+PARTIAL,4
+UNKNOWN,10
+VERIFIED_ABSENT,0
+amenities_already_proven,"AC, Wi-Fi, Hot water, RO water, Refrigerator, Washing machine, TV, Kitchen, Fan, Furniture, Housekeeping, Common area"
+owner_input_required,"Food / catered meals (breakfast/lunch/dinner), Parking, CCTV / security, Power backup / generator, Lift / elevator, Gym, Dedicated study area, Terrace access, Lead -> conversion linkage, Campaign channel detail / referral"
+newly_discovered_sources,"assets #78, asset_types #80, issue_types #76, issue_subtypes #77, leads #84, financials.marketing #85, apartments #41 (floor/gender/size)"
+governing_rule,Vishful data = decision driver; market = context; no competitor inference; unknown stays unknown

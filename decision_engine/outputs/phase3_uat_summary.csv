@@ -1,0 +1,10 @@
+metric,value
+decisions_total,14
+Pending,14
+Actioned,0
+Completed,0
+outcome_unavailable,14
+all_require_operational_confirmation,True
+real_actions_captured,0
+note,frozen decision logic; UAT reflects real state — nothing Completed without captured outcome evidence
+owner_rule,Vishful internal = decision driver; market = context; never compare competitors

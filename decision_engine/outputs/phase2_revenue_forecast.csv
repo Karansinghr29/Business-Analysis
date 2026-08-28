@@ -1,0 +1,2 @@
+forecast_month,model,predicted_revenue,lower_95,upper_95,latest_actual_month,latest_actual,baseline_naive1,backtest_MAE,backtest_RMSE,backtest_MAPE
+2026-09,Holt-Winters,3199727,2839634,3559820,2026-08,3159088,3159088,149667,183721,4.86

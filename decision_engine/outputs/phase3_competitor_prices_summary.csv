@@ -1,0 +1,11 @@
+metric,value
+total_price_observations,66
+competitors_with_any_price,23
+OFFICIAL_SHARING_SPECIFIC_obs,49
+OFFICIAL_SHARING_SPECIFIC_competitors,14
+OFFICIAL_STARTING_FROM_obs,2
+HOTEL_PER_NIGHT_obs,14
+USD_obs,1
+REVIEW_MENTIONED_obs,0
+monthly_PG_priced_competitors,16
+note,bases never mixed; hotel-nightly/USD are NOT monthly PG rent; review-mentioned=0 (0/114 reviews quote rent); no fabrication/conversion

@@ -1,0 +1,10 @@
+metric,value
+total_source_rows,123
+competitors_in_directory,115
+competitors_with_verified_online_source,90
+competitors_unknown_no_online_source,25
+official_rows,44
+operator_rows,37
+platform_rows,42
+google_maps_rows,"0 (Google Maps is identity-only, never displayed)"
+note,reputable platforms + official/operator only; questionable niche aggregators excluded; no Google Maps; no fabricated/search URLs

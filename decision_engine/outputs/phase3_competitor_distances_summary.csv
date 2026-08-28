@@ -1,0 +1,16 @@
+metric,value
+vishful_reference,"Vishful ref = EXACT mapped property (Vishful Vista Heights, West Avenue, Thiruvanmiyur 600041; 12.9878697,80.2551457; Google placeId ChIJl51FKnxdUjoR6GcIjXDtGGw; Apify google-places run AxGSVtCcgrP1vgevf)"
+vishful_lat,12.9878697
+vishful_lng,80.2551457
+vishful_place_id,ChIJl51FKnxdUjoR6GcIjXDtGGw
+vishful_source,Google Maps place via Apify compass/crawler-google-places run AxGSVtCcgrP1vgevf (dataset siqqC4A0tYfIt2iRn); website vishful.co.in confirms identity
+vishful_ref_is_exact_map_place,True (NOT suburb centroid)
+competitors,115
+geocoded_actual,10
+coarse_centroid,22
+unknown_distance,83
+changed_total,52
+changed_from_0.0,28
+changed_from_unknown,0
+bug_fixed,no competitor is 0.0 km merely for locality==Thiruvanmiyur
+note,distances measured from EXACT Vishful mapped coordinate; exact competitor coords where available; else coarse suburb centroid (approximate); unknown kept; no fabricated coords

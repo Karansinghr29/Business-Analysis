@@ -1,0 +1,19 @@
+metric,value
+candidates_total,9
+candidates_first_party,9
+candidates_aggregator_source,0
+candidates_men_segment,6
+in_600041,3
+within_2km_of_vishful,5
+men_with_full_sharing_grain,1
+classified_PG,9
+classified_HOTEL,0
+classified_UNKNOWN,0
+with_first_party_price,2
+grain_full_by_sharing,1
+grain_by_room_class,1
+grain_floor_only,1
+grain_none,6
+price_rows_published,11
+price_rows_unknown,7
+verdict,insufficient comparable data

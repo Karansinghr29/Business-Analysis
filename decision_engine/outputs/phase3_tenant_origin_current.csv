@@ -1,0 +1,21 @@
+rank,state,tenants,pct_of_resolved,pct_of_population,denominator_resolved,denominator_population,population
+1.0,Tamil Nadu,37,37.0,19.5,100,190,current_active
+2.0,Kerala,13,13.0,6.8,100,190,current_active
+3.0,Maharashtra,9,9.0,4.7,100,190,current_active
+4.0,West Bengal,5,5.0,2.6,100,190,current_active
+5.0,Delhi,5,5.0,2.6,100,190,current_active
+6.0,Chhattisgarh,4,4.0,2.1,100,190,current_active
+7.0,Karnataka,4,4.0,2.1,100,190,current_active
+8.0,Uttar Pradesh,4,4.0,2.1,100,190,current_active
+9.0,Andhra Pradesh,3,3.0,1.6,100,190,current_active
+10.0,Haryana,3,3.0,1.6,100,190,current_active
+11.0,Rajasthan,2,2.0,1.1,100,190,current_active
+12.0,Bihar,2,2.0,1.1,100,190,current_active
+13.0,Madhya Pradesh,2,2.0,1.1,100,190,current_active
+14.0,Puducherry,2,2.0,1.1,100,190,current_active
+15.0,Gujarat,1,1.0,0.5,100,190,current_active
+16.0,Telangana,1,1.0,0.5,100,190,current_active
+17.0,Assam,1,1.0,0.5,100,190,current_active
+18.0,Jharkhand,1,1.0,0.5,100,190,current_active
+19.0,Himachal Pradesh,1,1.0,0.5,100,190,current_active
+,Unknown,90,,47.4,100,190,current_active

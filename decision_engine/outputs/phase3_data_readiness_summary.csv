@@ -1,0 +1,14 @@
+metric,value
+amenity_master_rows,7
+amenity_fields_unknown,100% (no market inference)
+action_log_rows,10
+lead_funnel_rows,10
+outcome_rows,10
+triple_beds_audited,9
+triple_duration_known,9
+triple_fill_time_recoverable,N/A for new-inventory beds (duration known from operational start 2026-08-01); any legacy never-occupied Triple: none recoverable
+triple_resolution,new-inventory duration KNOWN (from operational start); any legacy never-occupied Triple UNKNOWN preserved (bed_status_history missing)
+outcomes_status,unavailable_no_data
+action_status,not_started
+recommendation_ids_linked,10
+governing_rule,Vishful data = decision driver; market = context; never compare competitors

@@ -1,0 +1,7 @@
+tool,run_id,location,pages,compute_units,pricing,discovered,error
+apify/rag-web-browser,XOBhBazJInXdjeZF7,Thiruvanmiyur,3.0,0.02484,FREE actor (userTier FREE),"rentmystay.com(agg), yube1.in(operator), chennaiproperties.com(directory)",
+apify/rag-web-browser,VHGbQsohpLivZftp7,Perungudi,3.0,0.02639,FREE actor (userTier FREE),"yube1.in(operator), chennaiproperties.com(directory), thehelloworld.com(operator)",
+groq/compound-mini,,Adyar,,,Groq free tier,"Zolo, Diyaa(known), Stanza",
+groq/compound-mini,,Kattankulathur,,,Groq free tier,"Stanza, OYO, Zolo, CoHo, Colive (all operators)",
+groq/compound-mini,,Thiruvanmiyur,,,Groq free tier,,429 RateLimitError (openai/gpt-oss-120b)
+groq/compound-mini,,Perungudi,,,Groq free tier,,429 RateLimitError (openai/gpt-oss-120b)

@@ -1,0 +1,12 @@
+metric,value
+total_reconciled_rows,30
+existing_decisions,14
+existing_reinforced,5
+existing_standalone,9
+review_new,6
+review_supporting,8
+review_redundant_weak,2
+new_needing_owner_input,4
+new_actionable_now,2
+status_counts,"{'EXISTING_STANDALONE': 9, 'SUPPORTING': 8, 'NEW': 6, 'EXISTING_REINFORCED': 5, 'REDUNDANT_WEAK': 2}"
+owner_rule,market = context; Vishful = decision driver; never competitor comparison; unknown stays unknown

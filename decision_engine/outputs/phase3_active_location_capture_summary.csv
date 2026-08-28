@@ -1,0 +1,19 @@
+metric,value
+active_tenants,190
+state_resolved,100
+require_confirmation,90
+pct_lacking_reliable_origin,47.4
+class_1_complete,77
+class_2_state_only,0
+class_3_state_resolved_city_pincode_missing,23
+class_4_address_insufficient,83
+class_5_no_usable_location,6
+class_6_property_address_recorded,1
+class_7_conflicting,0
+apartments_affected,33
+action,Collect and confirm State + City + Pincode for the active tenants in the capture queue
+action_type,data quality / business enablement — NOT a geographic marketing recommendation
+inference_policy,"no state is inferred from the property address, current apartment/bed, the Chennai stay location, building names or ambiguous localities; the tenant must supply or confirm the genuine residential/origin information"
+historical_note,historical origin remains partially unresolved and is NOT filled by guessing; only current active tenant data can be improved through direct collection
+onboarding_requirement,"new tenant onboarding should require State, City and Pincode; existing active tenants should be prompted to confirm the same fields (business requirement only — no application code changed)"
+creates_recommendation,"NO — this action creates no decision, opportunity or AIREC item"

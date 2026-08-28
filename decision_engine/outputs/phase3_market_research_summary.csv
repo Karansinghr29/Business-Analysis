@@ -1,0 +1,11 @@
+metric,value
+dataset_properties,6
+first_party_verified,6
+with_monthly_price,0
+unknown_price,6
+signals_total,31
+signal_types,"comparable_price_sources, first_party_website_availability, locality_concentration, new_property_discovery, property_type_concentration, published_amenity, sharing_configuration"
+comparable_perbed_sources,1
+new_first_party_discovered,0
+mode,CONSOLIDATE existing validated evidence (no new blind scraping)
+locations_normalized,"adyar, kattankulathur, perungudi, thiruvanmiyur(=tiruvanmiyur)"

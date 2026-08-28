@@ -1,0 +1,15 @@
+decision_id,decision,recommended_action,action_taken,action_date,leads,visits,applications,conversions,beds_filled,occupancy_before,occupancy_after,revenue_impact,campaign_cost,status,outcome_status
+DEC-REVPROTECT-AR90,Escalate collections on 90+ day AR,Prioritized collections follow-up on 90+ day tenants,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-LEAD-FOLLOWUP,Follow up open leads promptly,Contact all in_progress leads; log outcome per lead id,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-AMEN-AC,Highlight AC-associated available inventory,Market AC availability on the 5 vacant AC beds,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-LEAD-DEMAND-2SH,lead-derived demand signal for 2-sharing (NOT a statistical forecast),Fast-track 2-sharing leads to the vacant 2-sharing beds,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-EB-INVESTIGATE,Review the 6 currently-flagged apartment(s) first,"Inspect the 6 apartment(s) flagged in 2026 before any broader review; the remaining cumulative 2023-2026 flags are historical context, not a current inspection list (do NOT accuse tenants/claim wastage without evidence)",,,,,,,,,,,,Pending,unavailable_no_data
+DEC-PRICEREV-Triple,Pricing review candidate,Review rate card + fill signal for 3-sharing (do NOT auto-change price),,,,,,,,,,,,Pending,unavailable_no_data
+DEC-MAINT-PRIORITISE,Prioritise recurring maintenance hotspots + review assets for replacement,Schedule preventive maintenance / asset-replacement review on top hotspots,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-VAC-Triple,Reduce 3-sharing vacancy,Promote available 3-sharing inventory,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-LOC-MKT,Locality-targeted marketing,Run locality-targeted campaign for available inventory (Thiruvanmiyur/Adyar/Perungudi),,,,,,,,,,,,Pending,unavailable_no_data
+DEC-RETENTION-REVIEW,Retention review signal (not a leave prediction),Owner/staff review of High-band tenants for retention outreach,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-PRICEREV-Single,Pricing review candidate (backbone) — no active single signal at present,Monitor single occupancy/fill; no rate action indicated now (do NOT auto-change price),,,,,,,,,,,,Pending,unavailable_no_data
+DEC-MKT-ROI-GAP,Establish spend->lead->conversion linkage,Start tagging spend by channel/campaign + link leads to allotments,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-VAC-Double,Reduce 2-sharing vacancy,Promote available 2-sharing inventory,,,,,,,,,,,,Pending,unavailable_no_data
+DEC-VAC-Single,No single vacancy action required at present,No current single vacancy to promote. Monitor inventory availability.,,,,,,,,,,,,Pending,unavailable_no_data

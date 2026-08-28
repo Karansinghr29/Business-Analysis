@@ -1,0 +1,24 @@
+metric,value
+total_screenshot_candidates,99
+verified_real_properties,38
+unverified_names,61
+mens_pg,25
+womens_pg,14
+pg_unknown_gender(co-ed/unclear),14
+co_living,19
+serviced_apartment,11
+hotel,6
+residential_apartment,2
+unknown_type,8
+first_party_websites_found,20
+first_party_pricing_sources,0
+usable_perbed_sharing_ac_prices,0
+unknown_price,99
+operators_or_aggregators_rejected,15
+reject_as_pricing_source,32
+within_1km,28
+within_2km,35
+within_3km,35
+within_5km,50
+not_independently_web_verified,53
+errors,Groq 429 rate-limit (several shortlist calls) + 413 too-large (Best Men's PG); WebSearch/WebFetch OK; no first-party page existed to fetch for unknowns

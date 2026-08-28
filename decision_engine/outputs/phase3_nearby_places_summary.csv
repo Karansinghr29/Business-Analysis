@@ -1,0 +1,26 @@
+metric,value
+anchor_lat,12.9878697
+anchor_lng,80.2551457
+anchor_place_id,ChIJl51FKnxdUjoR6GcIjXDtGGw
+anchor_provenance,"EXACT mapped property coordinate (Vishful Vista Heights, West Avenue, Thiruvanmiyur 600041); Google placeId ChIJl51FKnxdUjoR6GcIjXDtGGw; Apify compass/crawler-google-places run AxGSVtCcgrP1vgevf. NOT a suburb centroid."
+provider,openstreetmap
+retrieval_date,2026-08-27
+raw_elements_returned,363
+categories_queried,"TRANSPORT,HEALTHCARE,ESSENTIALS,EDUCATION,FINANCIAL"
+radius_m_per_category,"{'TRANSPORT': 3000, 'HEALTHCARE': 3000, 'ESSENTIALS': 2000, 'EDUCATION': 3000, 'FINANCIAL': 2000}"
+found_per_category,"{'TRANSPORT': 94, 'HEALTHCARE': 106, 'ESSENTIALS': 14, 'EDUCATION': 59, 'FINANCIAL': 39}"
+stored_per_category,"{'TRANSPORT': 13, 'HEALTHCARE': 15, 'ESSENTIALS': 5, 'EDUCATION': 5, 'FINANCIAL': 10}"
+found_per_kind,"{('EDUCATION', 'education'): 59, ('ESSENTIALS', 'grocery'): 14, ('FINANCIAL', 'atm'): 17, ('FINANCIAL', 'bank'): 22, ('HEALTHCARE', 'clinic'): 52, ('HEALTHCARE', 'hospital'): 39, ('HEALTHCARE', 'pharmacy'): 15, ('TRANSPORT', 'bus_station'): 3, ('TRANSPORT', 'bus_stop'): 85, ('TRANSPORT', 'railway_station'): 6}"
+stored_per_kind,"{('EDUCATION', 'education'): 5, ('ESSENTIALS', 'grocery'): 5, ('FINANCIAL', 'atm'): 5, ('FINANCIAL', 'bank'): 5, ('HEALTHCARE', 'clinic'): 5, ('HEALTHCARE', 'hospital'): 5, ('HEALTHCARE', 'pharmacy'): 5, ('TRANSPORT', 'bus_station'): 3, ('TRANSPORT', 'bus_stop'): 5, ('TRANSPORT', 'railway_station'): 5}"
+max_stored_per_kind,5
+dropped_by_cap,"{'TRANSPORT': 81, 'HEALTHCARE': 91, 'ESSENTIALS': 9, 'EDUCATION': 54, 'FINANCIAL': 29}"
+skipped_unnamed,49
+skipped_no_or_invalid_coord,0
+skipped_duplicate_osm_id,0
+skipped_self,0
+skipped_out_of_category_radius,2
+skipped_unclassified,0
+total_stored_evidence,48
+distance_method,haversine R=6371km from exact anchor coordinate; coordinates only
+walking_time_collected,NO — straight-line km only; travel time is not derivable
+note,"customer-facing location evidence; no pricing, no competitor comparison, no ranking"

@@ -1,0 +1,13 @@
+metric,value
+domains_attempted,6
+pages_rendered,14
+pages_blocked,0
+js_rendered_info_discovered,YES — amenities/room-config/AC attributes on 5/6 domains
+first_party_prices_discovered,0
+valid_comparable_perbed_sharing_ac,0
+domains_with_new_market_attributes,5
+richest_attribute_source,"mahalakshmipgaccommodation.com (AC+NonAC, single/double+2-5 sharing, WiFi, food, parking, security)"
+screenshots_captured,~12 (scratchpad/pw_shots)
+browser_access_errors,"none — all 200, 0 blocked, no bypass"
+unknown_price_rows,6
+conclusion,"Playwright rendered pages fine but NO valid first-party price exists -> remaining pricing gap is a DATA-AVAILABILITY limitation, not a scraping-tool limitation"

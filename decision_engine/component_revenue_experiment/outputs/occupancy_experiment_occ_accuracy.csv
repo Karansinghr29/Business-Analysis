@@ -1,0 +1,13 @@
+window,occ_method,MAE,RMSE,MAPE
+7-fold,es_seasonal,5,5,2.94
+7-fold,es_trend,6,7,3.49
+7-fold,es_damped,9,10,4.94
+7-fold,snaive,11,14,6.46
+7-fold,naive1,7,7,3.93
+7-fold,median3,9,10,5.04
+18-fold,es_seasonal,7,10,4.71
+18-fold,es_trend,8,10,4.93
+18-fold,es_damped,9,10,5.32
+18-fold,snaive,14,17,8.52
+18-fold,naive1,8,9,4.62
+18-fold,median3,9,11,5.75

@@ -1,0 +1,10 @@
+metric,value
+properties_with_any_review_evidence,3
+independent_google_maps_review_corpus,"NOT collected — on Maps/aggregator, excluded by rules"
+evidence_types_present,self_displayed_google_rating(1) + self_published_testimonial(2)
+all_collected_testimonials_are,"curated + positive-biased (marketing), NOT representative review sentiment"
+competitor_pain_point_signals,NONE — negative/independent reviews are only on Maps (not collected)
+properties_scanned_no_review_evidence,3
+distinct_datasets,1) Vishful own tickets (pain) 2) competitor Maps reviews (NOT collected) 3) competitor self-published testimonials (this file)
+additional_scraping_decision_value,LOW/NONE — Maps reviews not accessible via approved methods; self-testimonials are positive-biased marketing
+owner_rule,market customer signal -> Vishful opportunity; never competitor comparison; unknown stays unknown

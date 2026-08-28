@@ -1,0 +1,8 @@
+source_table,legacy_live,legacy_total,je_forward,je_reversal,je_distinct_sources,gap_live_minus_je
+deposit_settlements,299,299,332,38,294,5
+expenses,514,514,514,0,514,0
+invoices,5193,5193,5349,170,5183,10
+owner_payments,319,319,319,0,319,0
+receipts,5732,5832,5922,100,5829,-97
+tenant_adjustments,258,262,269,12,262,-4
+tenant_transactions,16451,16451,0,0,0,16451

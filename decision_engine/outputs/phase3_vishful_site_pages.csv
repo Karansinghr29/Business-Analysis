@@ -1,0 +1,6 @@
+url,http_status,rendered_text_len,usable_content,error,retrieval_date,provenance
+https://vishful.co.in/,200,4655,True,,2026-08-27,playwright_headless_chromium
+https://vishful.co.in/about,404,113,False,,2026-08-27,playwright_headless_chromium
+https://vishful.co.in/contact,404,113,False,,2026-08-27,playwright_headless_chromium
+https://vishful.co.in/locations,404,113,False,,2026-08-27,playwright_headless_chromium
+https://vishful.co.in/amenities,404,113,False,,2026-08-27,playwright_headless_chromium

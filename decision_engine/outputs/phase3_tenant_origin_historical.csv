@@ -1,0 +1,26 @@
+rank,state,tenants,pct_of_resolved,pct_of_population,denominator_resolved,denominator_population,population
+1.0,Tamil Nadu,80,33.3,8.2,240,979,historical_2019_onward
+2.0,Kerala,25,10.4,2.6,240,979,historical_2019_onward
+3.0,Maharashtra,20,8.3,2.0,240,979,historical_2019_onward
+4.0,Andhra Pradesh,13,5.4,1.3,240,979,historical_2019_onward
+5.0,Uttar Pradesh,12,5.0,1.2,240,979,historical_2019_onward
+6.0,Delhi,10,4.2,1.0,240,979,historical_2019_onward
+7.0,Karnataka,10,4.2,1.0,240,979,historical_2019_onward
+8.0,West Bengal,9,3.8,0.9,240,979,historical_2019_onward
+9.0,Telangana,9,3.8,0.9,240,979,historical_2019_onward
+10.0,Chhattisgarh,7,2.9,0.7,240,979,historical_2019_onward
+11.0,Madhya Pradesh,6,2.5,0.6,240,979,historical_2019_onward
+12.0,Rajasthan,5,2.1,0.5,240,979,historical_2019_onward
+13.0,Haryana,5,2.1,0.5,240,979,historical_2019_onward
+14.0,Jharkhand,5,2.1,0.5,240,979,historical_2019_onward
+15.0,Gujarat,4,1.7,0.4,240,979,historical_2019_onward
+16.0,Assam,4,1.7,0.4,240,979,historical_2019_onward
+17.0,Puducherry,4,1.7,0.4,240,979,historical_2019_onward
+18.0,Odisha,4,1.7,0.4,240,979,historical_2019_onward
+19.0,Bihar,3,1.2,0.3,240,979,historical_2019_onward
+20.0,Uttarakhand,1,0.4,0.1,240,979,historical_2019_onward
+21.0,Punjab,1,0.4,0.1,240,979,historical_2019_onward
+22.0,Chandigarh,1,0.4,0.1,240,979,historical_2019_onward
+23.0,Himachal Pradesh,1,0.4,0.1,240,979,historical_2019_onward
+24.0,Tripura,1,0.4,0.1,240,979,historical_2019_onward
+,Unknown,739,,75.5,240,979,historical_2019_onward

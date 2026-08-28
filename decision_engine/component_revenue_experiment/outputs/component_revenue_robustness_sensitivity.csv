@@ -1,0 +1,8 @@
+variant,MAE,RMSE,MAPE
+full component (median minor),110605,127242,3.79
+minor as trailing MEAN,107476,125204,3.69
+rental+electricity (drop minor/other),98796,107898,3.31
+rental only (drop elec+minor),251571,295595,7.91
+ORACLE perfect occupancy,61465,74409,2.07
+ORACLE perfect rent,116080,125583,3.74
+ORACLE perfect occ & rent,43320,54266,1.36

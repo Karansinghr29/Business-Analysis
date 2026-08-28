@@ -1,0 +1,6 @@
+target,MAE,RMSE,MAPE
+occupied_beds,5,5,2.94
+effective_rent_per_bed,522,597,3.26
+rental_income,87928,120689,3.38
+electricity_income,27137,32668,10.55
+total_revenue (component),110605,127242,3.79

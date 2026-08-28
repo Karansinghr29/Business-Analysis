@@ -1,0 +1,18 @@
+field,classification,reason
+recommendation_id,AUTO_SOURCEABLE,decision_id already generated
+target_inventory,AUTO_SOURCEABLE,bed_type/sharing from step4/step5
+occupancy_before,AUTO_SOURCEABLE,snapshot from step5 at action time
+vacant_beds_before,AUTO_SOURCEABLE,step4 count at action time
+revenue_at_risk,AUTO_SOURCEABLE,step4 rev_at_risk_monthly
+ar_90_plus_amount,AUTO_SOURCEABLE,ar_aging #89
+amenity_on_inventory,AUTO_SOURCEABLE,phase3_inventory_amenity_matrix (allocations #79)
+lead_count/source,AUTO_SOURCEABLE,leads #84
+marketing_spend,AUTO_SOURCEABLE,financials #85 (aggregate only)
+action_taken/action_date/campaign_channel,OWNER_INPUT_REQUIRED,not recorded in data
+leads->conversion linkage,OWNER_INPUT_REQUIRED,leads not joined to allotments
+beds_filled_after/occupancy_after,OWNER_INPUT_REQUIRED,measured after action
+revenue_impact,OWNER_INPUT_REQUIRED,measured after action
+campaign_cost_per_action,OWNER_INPUT_REQUIRED,spend not tagged per campaign
+owner_feedback,OWNER_INPUT_REQUIRED,qualitative
+Triple fill-time (days_vacant),NOT_AVAILABLE,never-occupied beds; no allotment/exit history
+marketing ROI,NOT_AVAILABLE,no spend<->lead<->conversion linkage

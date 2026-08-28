@@ -1,0 +1,2 @@
+forecast_month,model,status,occupied_beds_fc,effective_rent_fc,rental_fc,electricity_fc,predicted_revenue,lower_band,upper_band,backtest_MAPE_7f,backtest_MAPE_18f,backtest_MAE_18f,backtest_RMSE_18f,hw_backtest_MAPE_18f,hw_predicted_revenue,folds_18,folds_7
+2026-09,component (occ es_trend x rent + electricity),parallel/secondary; HW remains primary,179,15849,2829030,350409,3179439,3061481,3297396,2.64,3.71,103410,136867,5.55,3199727,18,7

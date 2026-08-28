@@ -1,0 +1,15 @@
+issue_type_name,tickets,sla_hours,breached,median_hours,breach_rate
+AC Issues,63,12,63,520.7,1.0
+Billing Issues,1,24,1,619.8,1.0
+Cleaning Issues,32,4,31,216.5,1.0
+Electrical Issues,42,6,41,125.7,1.0
+Fridge Issues,5,12,3,79.0,0.6
+Furniture,32,24,29,231.5,0.9
+Heater Issues,3,12,3,331.8,1.0
+Internet Issues,11,6,11,508.6,1.0
+Kitchen Equipment,5,12,5,587.2,1.0
+Other,25,24,20,48.3,0.8
+Plumbing,10,24,10,201.9,1.0
+RO Water Issues,18,6,17,231.5,0.9
+Toilet Issues,21,4,21,244.9,1.0
+Washing machine Issue,21,24,20,507.8,1.0

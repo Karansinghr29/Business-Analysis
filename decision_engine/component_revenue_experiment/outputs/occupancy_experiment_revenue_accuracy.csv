@@ -1,0 +1,15 @@
+window,occ_method,MAE,RMSE,MAPE
+7-fold,es_seasonal,98796,107898,3.31
+7-fold,es_trend,81019,105235,2.64
+7-fold,es_damped,169134,177151,5.48
+7-fold,snaive,208749,246290,6.62
+7-fold,naive1,92057,120343,3.03
+7-fold,median3,126708,163304,3.99
+7-fold,[benchmark] Holt-Winters,149667,183721,4.86
+18-fold,es_seasonal,110324,137671,3.97
+18-fold,es_trend,103410,136867,3.71
+18-fold,es_damped,141586,149553,4.96
+18-fold,snaive,230650,258088,8.25
+18-fold,naive1,119256,145653,4.18
+18-fold,median3,127705,152088,4.54
+18-fold,[benchmark] Holt-Winters,154368,195118,5.55

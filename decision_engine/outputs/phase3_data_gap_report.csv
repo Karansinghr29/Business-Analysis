@@ -1,0 +1,6 @@
+tier,data,action
+1 available & usable,"occupancy, vacancy, rev-at-risk, rate card, AR aging, assets/amenities, maintenance, EB, churn ranking",use now
+2 available but needs joining,assets->allocations->beds->vacancy (amenity×inventory) — done here; leads->allotments (conversion) — pending,join to enable conversion + per-bed amenity
+3 partially available,"lead attributes (bed_type/budget mostly null), fill-time (10/20 beds), marketing spend (no channel tag)",enrich at capture
+4 genuinely missing,"action log, lead->conversion, campaign channel/cost, occupancy_after, Vishful catered-meals/parking/CCTV/power-backup status",OWNER capture — highest value
+5 NOT worth collecting,"more competitor first-party pricing (exhausted: 1 comparable), competitor benchmarks",do NOT collect

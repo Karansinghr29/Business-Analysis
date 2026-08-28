@@ -1,0 +1,4 @@
+definition,status,overdue_rate,labels_flipped_vs_due,note
+unpaid_by_due_date,LOCKED / current target,0.639,0,app-set due_date (~invoice+4-6d); only data-established definition
+unpaid_by_due_plus_7d,sensitivity only (not established),0.517,633,no lifecycle_config/late_fee evidence
+unpaid_by_due_plus_30d,sensitivity only (not established),0.306,1725,matches median days-late=28 but rule not in data

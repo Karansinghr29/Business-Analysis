@@ -1,0 +1,15 @@
+id,bed_code,apartment_id,bed_type,toilet_type,duration_known,days_vacant,monthly_rate,rev_at_risk_monthly,rev_at_risk_todate,recommended_action
+e240e3e5-c69e-eb28-28a3-e88cb6561735,C2,aa73cade-c28c-dc5b-5980-55801ea0d415,Double,Common,True,46,13500.0,13500.0,20700.0,Fill / monitor
+07cdb453-b699-f209-d609-434a47fca737,C1,85292340-826d-52c1-65c7-7f2a9eb2c2c4,Double,Common,True,26,13500.0,13500.0,11700.0,Fill / monitor
+51597632-5648-1987-017c-c65e2ad300f8,C2,10c6863d-07c3-4fc4-94f9-6adc29157ce1,Double,Common,True,22,13500.0,13500.0,9900.0,Fill / monitor
+189de16e-5bdc-4cee-aa44-c85cc2f13f92,TSC3,3a4c55f7-ca35-437b-ac40-f0b405e0c34f,Triple,Common,True,12,16900.0,16900.0,6760.0,New inventory — available from Aug 2026
+f2625885-390c-4af1-8317-24059235190f,TSC2,3a4c55f7-ca35-437b-ac40-f0b405e0c34f,Triple,Common,True,12,16900.0,16900.0,6760.0,New inventory — available from Aug 2026
+0ce353b6-a0bf-487f-b1cf-4af01d561649,TSC1,3a4c55f7-ca35-437b-ac40-f0b405e0c34f,Triple,Common,True,12,16900.0,16900.0,6760.0,New inventory — available from Aug 2026
+25cdb264-370f-4be0-5004-6aeb735c94aa,C2,0a839c14-2a88-9896-c2f2-8d51fe610405,Double,Common,True,15,13500.0,13500.0,6750.0,Fill / monitor
+7e1443a4-d38c-45f8-93f0-97adb9576636,B2,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,True,12,13000.0,13000.0,5200.0,New inventory — available from Aug 2026
+f576e471-6ba0-47b0-9bec-acaa309d0cd5,TSA1,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,True,12,13000.0,13000.0,5200.0,New inventory — available from Aug 2026
+17dfb7eb-291a-4d7b-ac67-ecb683206ec0,TSA2,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,True,12,13000.0,13000.0,5200.0,New inventory — available from Aug 2026
+77417668-530e-41ae-9ef0-6b312fedb189,TSA3,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,True,12,13000.0,13000.0,5200.0,New inventory — available from Aug 2026
+7e794ebe-5ab0-4340-b43c-c7cd079438a1,B1,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,True,12,13000.0,13000.0,5200.0,New inventory — available from Aug 2026
+5b4347b3-255c-4989-baf3-da45c958324e,B3,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,True,12,13000.0,13000.0,5200.0,New inventory — available from Aug 2026
+54634a96-25c7-022f-0239-fef1800aebd4,C1,9d5d0096-0b78-a663-1142-be871dfa2bda,Double,Common,True,8,13500.0,13500.0,3600.0,Fill / monitor

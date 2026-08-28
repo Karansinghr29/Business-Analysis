@@ -1,0 +1,8 @@
+metric,value
+signals_linked,9
+actionable_now(verified both sides),3
+owner_gate(vishful unknown),4
+pricing_stays_internal,1
+signals_where_new_scraping_would_change_a_decision,0
+scraping_recommendation,NO new scraping justified — no missing market signal has identifiable decision value
+owner_rule,Vishful internal = decision driver; market = context; never compare competitors

@@ -1,0 +1,7 @@
+locality,competitor_count,v1_count,v2_added,with_distance,distance_unknown,avg_distance_from_vishful_km,competitors_with_official_monthly_pricing,competitors_with_reviews,monthly_price_range,monthly_starting_price_median,common_sharing_types,top_positive_themes,top_negative_themes,operators,locality_score_context
+"Thiruvanmiyur, Chennai",56,42,14,22,34,1.12,5,8,"Rs9,000-Rs34,000","Rs12,000","4-sharing, Double, Single, Triple",staff(48); room_quality(35); cleanliness(25),staff(8); cleanliness(3); food(2),"Bag2Bag, Lancor, Olympia, Stanza Living, Truliv, Yube1, Zolo, operator",84
+"Perungudi, Chennai",47,16,31,47,0,2.75,2,1,"Rs6,200-Rs17,000",insufficient (n<3),"Double, Triple",cleanliness(3); room_quality(3); safety(3),none,"WowLife, Yube1, Zolo",50
+Chennai (area unspecified),27,27,0,0,27,Unknown,6,0,"Rs8,900-Rs38,000","Rs10,500","4-sharing, 5-sharing, Double, Single, Triple",no reviews collected,no reviews collected,"Stanza Living, Truliv, WowLife, Yube1, operator",48
+"Kattankulathur, Chennai",24,21,3,0,24,Unknown,1,0,"Rs13,999-Rs21,599",insufficient (n<3),"Double, Single, Triple",no reviews collected,no reviews collected,Stanza Living,43
+"Adyar, Chennai",13,8,5,13,0,1.97,2,1,"Rs5,000-Rs16,000",insufficient (n<3),"4-sharing, Double, Single, Triple",location(2); staff(2); room_quality(1),value(4); staff(3); security(2),Zolo,25
+Unknown,1,1,0,0,1,Unknown,0,0,Not available,insufficient (n<3),Not available,no reviews collected,no reviews collected,none,2

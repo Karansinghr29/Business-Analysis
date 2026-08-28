@@ -1,0 +1,4 @@
+model,features,folds,MAE,RMSE,MAPE
+Existing Holt-Winters,historical revenue time series,7,149667,183721,4.86
+XGBoost (this experiment),17 real business lags + calendar,7,215927,233020,6.95
+XGBoost (existing challenger),9 lags (rev/active/occ/coll/month) — read from production backtest,7,181169,202455,5.86

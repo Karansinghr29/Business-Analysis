@@ -1,0 +1,15 @@
+metric,value
+total_recommendations,10
+High,1
+Medium,3
+Low,6
+inventory_marketing,2
+vacancy_slow_fill,1
+sharing_positioning,1
+amenity_marketing,5
+locality_marketing,1
+evidence_VISHFUL_INTERNAL,3
+evidence_MARKET_CONTEXT,5
+evidence_COMBINED,2
+closed_loop_outcomes,unavailable_no_data
+scoring_rules,"{""inventory_marketing"": ""score=40*(100-occ)/100 + 25*min(med_days/180,1)[0 if unknown] + 20*(rev/max_rev) + 15*min(vacant/max_vac,1)"", ""vacancy_slow_fill"": ""score=55*min(med_days/365,1) + 45*(rev/max_rev); triggers only when med_days>=90 OR occ<85"", ""sharing_positioning"": ""score=50*min(vacant/max_vac,1) + 50*(config first-party market-published?1:0); COMBINED"", ""locality_marketing"": ""fixed 45; coarse locality supply density (market context) + Vishful has vacant inventory"", ""amenity_marketing"": ""fixed 30; market-published amenity, Vishful availability UNKNOWN -> confirm internally first"", ""priority_bands"": ""High>=60, Medium 40-59, Low<40""}"

@@ -1,0 +1,11 @@
+recommendation_id,action_taken,action_date,campaign_channel,target_inventory,campaign_cost,owner_feedback,status
+SHR-Double,,,,2-sharing,,,not_started
+INV-Triple,,,,3-sharing,,,not_started
+VAC-Triple,,,,3-sharing,,,not_started
+LOC-TVM,,,,Thiruvanmiyur/Adyar/Perungudi belt,,,not_started
+AMEN-food,,,,Food,,,not_started
+AMEN-wifi,,,,Wi-Fi,,,not_started
+AMEN-parking,,,,Parking,,,not_started
+AMEN-ac_available,,,,AC,,,not_started
+AMEN-cctv_security,,,,Security/CCTV,,,not_started
+INV-Double,,,,2-sharing,,,not_started

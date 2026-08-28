@@ -1,0 +1,6 @@
+category,section_name,model_sentence,reason_rejected,extractor,model,temperature,retrieval_date
+TRANSPORT,Nearby Transportation,"The property page lists verified nearby transport locations, showing each name and its straight-line distance.",,groq,openai/gpt-oss-120b,0,2026-08-27
+HEALTHCARE,Nearby Healthcare,"The property page lists verified nearby healthcare facilities, showing each name and its straight-line distance.",,groq,openai/gpt-oss-120b,0,2026-08-27
+ESSENTIALS,Nearby Essentials,"The property page lists verified nearby essential services, showing each name and its straight-line distance.",,groq,openai/gpt-oss-120b,0,2026-08-27
+EDUCATION,Nearby Education,"The property page lists verified nearby educational institutions, showing each name and its straight-line distance.",,groq,openai/gpt-oss-120b,0,2026-08-27
+FINANCIAL,Nearby Banking,"The property page lists verified nearby banking services, showing each name and its straight-line distance.",,groq,openai/gpt-oss-120b,0,2026-08-27

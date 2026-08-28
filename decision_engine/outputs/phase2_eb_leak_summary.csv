@@ -1,0 +1,7 @@
+signal,readings,distinct_apartments
+invalid_meter_reading,149,16
+abnormal_high_consumption,0,0
+sustained_high_consumption,88,33
+low_occupancy_high_consumption,5,4
+sudden_increase,2,2
+possible_leak_investigation(total leak_signal),7,6

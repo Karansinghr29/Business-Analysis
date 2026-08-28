@@ -1,0 +1,11 @@
+recommendation_id,occupancy_before,occupancy_after,beds_filled,revenue_impact,campaign_cost,owner_feedback,outcome_status
+SHR-Double,,,,,,,unavailable_no_data
+INV-Triple,,,,,,,unavailable_no_data
+VAC-Triple,,,,,,,unavailable_no_data
+LOC-TVM,,,,,,,unavailable_no_data
+AMEN-food,,,,,,,unavailable_no_data
+AMEN-wifi,,,,,,,unavailable_no_data
+AMEN-parking,,,,,,,unavailable_no_data
+AMEN-ac_available,,,,,,,unavailable_no_data
+AMEN-cctv_security,,,,,,,unavailable_no_data
+INV-Double,,,,,,,unavailable_no_data

@@ -1,0 +1,49 @@
+evidence_id,place_name,category,place_kind,usefulness,model_reason,reason_rejected,extractor,model,retrieval_date
+EV-NEAR-001,Jayanti,TRANSPORT,bus_stop,useful,"Bus stop, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-002,Jayanti,TRANSPORT,bus_stop,useful,"Bus stop, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-003,Jayanti,TRANSPORT,bus_stop,useful,"Bus stop, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-004,Jayanti,TRANSPORT,bus_stop,useful,"Bus stop, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-005,Jayanti,TRANSPORT,bus_stop,useful,"Bus stop, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-006,Tiruvanmiyur,TRANSPORT,railway_station,useful,"Railway station, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-007,Thiruvanmiyur MTC Terminus,TRANSPORT,bus_station,useful,"Bus terminus, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-008,Indira Nagar,TRANSPORT,railway_station,useful,"Railway station, resident can use",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-009,Taramani,TRANSPORT,bus_station,useful,Bus station accessible to residents,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-010,Taramani,TRANSPORT,railway_station,useful,Railway station serves commuters,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-011,Besant Nagar MTC Terminus,TRANSPORT,bus_station,useful,Bus terminus for local travel,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-012,Kasturiba Nagar,TRANSPORT,railway_station,useful,Railway station nearby,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-013,Perungudi,TRANSPORT,railway_station,useful,Railway station nearby,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-014,Ponraj Eye Clinic,HEALTHCARE,clinic,useful,Eye clinic provides medical care,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-015,corporation hospital,HEALTHCARE,hospital,useful,Hospital offers health services,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-016,Leela Eye Clinic,HEALTHCARE,clinic,useful,Eye clinic serves residents,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-017,Adyar Dispensary,HEALTHCARE,clinic,useful,Local dispensary,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-018,Sri Saradha Eye Clinic,HEALTHCARE,clinic,useful,Eye clinic,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-019,Tt Ranganathan Clinical Research Foundation,HEALTHCARE,hospital,not_useful,"Research foundation, not patient care",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-020,Dr. Kavitha Iyer's Orthodontics & Dental Centre,HEALTHCARE,clinic,useful,Dental centre,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-021,Ashwini Hospital,HEALTHCARE,hospital,useful,Hospital,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-022,Starlight Hospitals Pvt Ltd,HEALTHCARE,hospital,useful,Hospital,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-023,SMK Hospital,HEALTHCARE,hospital,useful,Hospital,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-024,Andavar Medicals,HEALTHCARE,pharmacy,useful,Pharmacy,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-025,MedPlus,HEALTHCARE,pharmacy,useful,Local pharmacy,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-026,Nagappa Pharmacy,HEALTHCARE,pharmacy,useful,Nearby pharmacy,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-027,Apollo Pharmacy,HEALTHCARE,pharmacy,useful,Resident pharmacy,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-028,Meiyappan Medicals,HEALTHCARE,pharmacy,useful,Pharmacy service,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-029,Raj vegetable shop,ESSENTIALS,grocery,useful,Vegetable grocery,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-030,Thiruvanmiyur Market,ESSENTIALS,grocery,useful,Local market,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-031,Cee Dee Yes supermarket,ESSENTIALS,grocery,useful,Supermarket,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-032,Singapore Shoppe,ESSENTIALS,grocery,useful,Supermarket shop,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-033,Alchemy Media Marketing,ESSENTIALS,grocery,not_useful,"Name media, not supermarket",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-034,Corporation School,EDUCATION,education,useful,Valid school name,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-035,Sri Sankara Vidyashram HSS,EDUCATION,education,useful,School indicated in name,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-036,National Institute of Fashion Technology - NIFT Chennai,EDUCATION,education,useful,College name matches tag,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-037,National Institute of Technical Teachers' Training and Research,EDUCATION,education,useful,College name matches tag,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-038,Spastic Society of india,EDUCATION,education,not_useful,"Charity name, not school",,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-039,State Bank of India,FINANCIAL,atm,useful,Bank provides ATM service,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-040,Indian Overseas Bank,FINANCIAL,bank,useful,Bank name matches tag,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-041,Indian Bank,FINANCIAL,atm,useful,Bank ATM service useful,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-042,State Bank of India,FINANCIAL,bank,useful,Bank service useful,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-043,Axis Bank,FINANCIAL,atm,useful,Bank ATM service useful,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-044,Yes Bank,FINANCIAL,bank,useful,Bank service useful,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-045,Indian Bank,FINANCIAL,bank,useful,Bank service useful,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-046,HDFC Bank,FINANCIAL,bank,useful,Bank service useful,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-047,State Bank of India,FINANCIAL,atm,useful,Bank ATM service useful,,groq,openai/gpt-oss-120b,2026-08-27
+EV-NEAR-048,IndusInd Bank,FINANCIAL,atm,useful,Bank ATM service useful,,groq,openai/gpt-oss-120b,2026-08-27

@@ -1,0 +1,7 @@
+category,notes,amount,share_of_credit_notes,years_active,period,classification,interpretation,example_reasons
+others,75,231646.83,74.8%,6,2021-2026,Insufficient reason data,"Largest bucket by value but carries no specific category. The free-text reason field is only partly populated and highly fragmented, so the driver cannot be identified from data.","Advance tra for ZOLO | Advance TR form ZOLO | Advance received from zolo
+"
+rental_adjustment,30,48142.0,15.5%,3,2024-2026,Investigate recurring leakage,30 notes across 3 years — recurring and material enough to review the process behind it.,Onboding adjesment | Onbding charges | No recored
+referral_bonus,18,24658.0,8.0%,4,2023-2026,Expected/normal adjustment,"Deliberate tenant-acquisition cost — expected, not leakage","onboding charges | Referral Bonus | Amala menan, Retuparna, riya thotta, riya marve"
+cc_charges,6,2698.52,0.9%,2,2025-2026,Expected/normal adjustment,Card-processing fee pass-through — expected,01-04-2025 to 01-02-2026 to  costomer paid with out CC Charges | Bank deductions  | cc charges negative amount
+eb_credit,6,2465.0,0.8%,4,2023-2026,Expected/normal adjustment,Electricity pass-through correction — expected,"EB adjusted, but it was adjusted in deposit | Eb AC not working  | worgly add room no"

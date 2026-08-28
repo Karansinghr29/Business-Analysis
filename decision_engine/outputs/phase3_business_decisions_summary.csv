@@ -1,0 +1,10 @@
+metric,value
+total_decisions,14
+High,2
+Medium,8
+Low,4
+categories,"{'vacancy reduction': 3, 'pricing review': 2, 'revenue protection': 1, 'lead follow-up': 1, 'amenity marketing': 1, 'lead-derived demand signal': 1, 'electricity cost control': 1, 'maintenance prioritisation': 1, 'locality marketing': 1, 'tenant retention': 1, 'campaign allocation': 1}"
+with_real_₹_impact,4
+with_missing_data_flag,6
+roi_status,UNAVAILABLE (no spend<->lead<->conversion linkage)
+conversion_linkage,UNAVAILABLE (leads #84 not joined to allotments)

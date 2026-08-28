@@ -1,0 +1,45 @@
+section,attribute
+ALREADY_KNOWN_DO_NOT_ASK,Bed types / sharing
+ALREADY_KNOWN_DO_NOT_ASK,Toilet type (attached/common)
+ALREADY_KNOWN_DO_NOT_ASK,Apartments / floors / building
+ALREADY_KNOWN_DO_NOT_ASK,Gender allowed per apartment
+ALREADY_KNOWN_DO_NOT_ASK,Rate card (rent by bed_type x toilet)
+ALREADY_KNOWN_DO_NOT_ASK,AC (air conditioning)
+ALREADY_KNOWN_DO_NOT_ASK,Wi-Fi / Internet
+ALREADY_KNOWN_DO_NOT_ASK,Hot water (water heater/geyser)
+ALREADY_KNOWN_DO_NOT_ASK,RO / drinking water
+ALREADY_KNOWN_DO_NOT_ASK,Refrigerator
+ALREADY_KNOWN_DO_NOT_ASK,Washing machine / laundry
+ALREADY_KNOWN_DO_NOT_ASK,TV
+ALREADY_KNOWN_DO_NOT_ASK,Kitchen / cooking facility
+ALREADY_KNOWN_DO_NOT_ASK,Fan
+ALREADY_KNOWN_DO_NOT_ASK,Furniture (cot/mattress/cupboard/study table)
+ALREADY_KNOWN_DO_NOT_ASK,Housekeeping / cleaning service
+ALREADY_KNOWN_DO_NOT_ASK,Common area
+ALREADY_KNOWN_DO_NOT_ASK,Rent
+ALREADY_KNOWN_DO_NOT_ASK,Electricity / EB
+ALREADY_KNOWN_DO_NOT_ASK,Deposits
+ALREADY_KNOWN_DO_NOT_ASK,Billing / invoices
+ALREADY_KNOWN_DO_NOT_ASK,Occupancy
+ALREADY_KNOWN_DO_NOT_ASK,Vacancies & availability
+ALREADY_KNOWN_DO_NOT_ASK,Tenant movement / events
+ALREADY_KNOWN_DO_NOT_ASK,Transfers / room switches
+ALREADY_KNOWN_DO_NOT_ASK,Booking duration
+ALREADY_KNOWN_DO_NOT_ASK,Notice period / move-out
+ALREADY_KNOWN_DO_NOT_ASK,Maintenance
+ALREADY_KNOWN_DO_NOT_ASK,Inventory (assets)
+ALREADY_KNOWN_DO_NOT_ASK,Marketing spend
+PARTIAL_known_some_missing,Room size (sqft)
+PARTIAL_known_some_missing,Fill time / vacancy duration
+PARTIAL_known_some_missing,Lead source / enquiries
+PARTIAL_known_some_missing,Visits requested
+OWNER_INPUT_REQUIRED,Food / catered meals (breakfast/lunch/dinner)
+OWNER_INPUT_REQUIRED,Parking
+OWNER_INPUT_REQUIRED,CCTV / security
+OWNER_INPUT_REQUIRED,Power backup / generator
+OWNER_INPUT_REQUIRED,Lift / elevator
+OWNER_INPUT_REQUIRED,Gym
+OWNER_INPUT_REQUIRED,Dedicated study area
+OWNER_INPUT_REQUIRED,Terrace access
+OWNER_INPUT_REQUIRED,Lead -> conversion linkage
+OWNER_INPUT_REQUIRED,Campaign channel detail / referral

@@ -1,0 +1,54 @@
+tenant_id,allotment_id,ar_balance,net_dues,days_since_payment,bucket_90_plus,priority_score,reason,recommended_action
+d257c87f-0e42-048c-8409-362e925d86fc,597c2d33-b758-4acd-811b-c7b22289dcbc,27431.0,27431.0,14.0,42000.27,165966.0,"AR ₹27,431; 90+ ₹42,000; 14d since pay; net ₹27,431",Escalate/notice
+2794ccf7-4966-f00d-35d6-34ac17db73ea,f88277df-2e91-4c20-b4dc-542986b2e8d2,52493.0,52493.0,1130.0,-237083.22,158937.0,"AR ₹52,493; 1130d since pay; net ₹52,493",Follow-up call
+491b8136-32a1-37c5-5253-b53ff3991d86,db02e562-aa09-448e-9187-bfa7c3788aca,21750.0,21750.0,12.0,21750.0,92797.0,"AR ₹21,750; 90+ ₹21,750; 12d since pay; net ₹21,750",Escalate/notice
+d225973a-f437-d98e-4e24-0fb32a7bfbe8,0eaaeaef-9e94-4d72-ab6c-6f4fa8a5eb26,17825.0,17825.0,30.0,0.0,63075.0,"AR ₹17,825; 30d since pay; net ₹17,825",Follow-up call
+a467df39-5ec5-465e-a471-e2b54be7bc71,55765ce0-31dd-476c-87de-500e35aa75ed,13500.0,13500.0,,13500.0,57597.0,"AR ₹13,500; 90+ ₹13,500; net ₹13,500",Escalate/notice
+080eae03-9f65-4515-aec2-8924472923dd,deef0c83-4c8c-46e7-bbae-139905f81a3c,16045.0,16045.0,32.0,0.0,55757.0,"AR ₹16,045; 32d since pay; net ₹16,045",Follow-up call
+25ef6338-6197-45a8-82d9-ddd0a846f1b2,4a578608-57b6-49f8-ac47-7386b4e4ba50,13065.0,13065.0,,13065.0,55741.0,"AR ₹13,065; 90+ ₹13,065; net ₹13,065",Escalate/notice
+23f7ef5f-6b26-a104-b616-b438d7e9243c,f76d2db9-0af5-4f15-bc7a-29fb9d0d2fa0,18373.0,18373.0,804.0,-9514.0,55629.0,"AR ₹18,373; 804d since pay; net ₹18,373",Follow-up call
+71a9340d-9832-4609-a110-d9b5aaffc020,f70dca28-1fc9-495a-aa3b-8966f09e7f57,2295.0,2295.0,8.0,0.0,40535.0,"AR ₹2,295; 8d since pay; net ₹2,295",Follow-up call
+ba8dd5e0-ed0e-8b6a-7098-2732476feb31,31a1c073-bb44-4019-8548-0c5a8114de7b,6584.0,6584.0,12.0,15540.0,37619.0,"AR ₹6,584; 90+ ₹15,540; 12d since pay; net ₹6,584",Escalate/notice
+1fc0c3bb-f35c-8d5d-a4fa-a9c1723cd8ab,0d1504e1-2884-4dba-97bd-0c3bc37e1669,13000.0,13000.0,314.0,-123792.0,35678.0,"AR ₹13,000; 314d since pay; net ₹13,000",Follow-up call
+f91c2854-a88b-4630-b2a6-c48401e4dd14,5d25f43a-c0a9-4111-b201-e334553b2899,22228.0,22228.0,43.0,0.0,27538.0,"AR ₹22,228; 43d since pay; net ₹22,228",Follow-up call
+55e6e452-fae2-a5ac-3c12-21424bffbcac,052eaacd-614f-4cac-8bee-618b1549c36d,11999.0,11999.0,38.0,-126.0,24432.0,"AR ₹11,999; 38d since pay; net ₹11,999",Follow-up call
+73715344-908a-b7fa-00cc-34358ffb16f0,3aabe842-7390-4208-9bde-936af6f8b658,18938.0,18938.0,35.0,0.0,22620.0,"AR ₹18,938; 35d since pay; net ₹18,938",Follow-up call
+630c8120-bdbc-832c-24ca-aca9e6b49891,cdbd0a31-d685-4189-af7e-25c08d80399b,17484.0,17484.0,37.0,0.0,21078.0,"AR ₹17,484; 37d since pay; net ₹17,484",Follow-up call
+8709ca2e-a8a6-48a4-b8ce-e813c4796ab9,a6efc369-3910-43e4-b870-b5daf647ecd8,5579.0,5579.0,13.0,0.0,17944.0,"AR ₹5,579; 13d since pay; net ₹5,579",Follow-up call
+c511ac63-cb7e-1453-92d5-ea4ffba1c360,53bd63b6-67b1-4de6-94a4-66b940e4e20a,10.0,10.0,5.0,0.0,15817.0,AR ₹10; 5d since pay; net ₹10,Follow-up call
+edee54e5-b970-ea10-551f-b156c26d8f0a,8a561990-e50b-4b93-b48e-7ee8bf0fbc67,5126.0,5126.0,712.0,-21610.0,15520.0,"AR ₹5,126; 712d since pay; net ₹5,126",Follow-up call
+79d4d3fe-73c5-a965-030f-c60220ee20cb,e1603fed-7593-4717-b5a0-f63c1e03483e,4210.0,4210.0,12.0,0.0,13470.0,"AR ₹4,210; 12d since pay; net ₹4,210",Follow-up call
+1fc0c3bb-f35c-8d5d-a4fa-a9c1723cd8ab,da0cb449-71d9-43bd-b4ee-69b6ed8c0f68,969.0,969.0,860.0,969.0,11727.0,AR ₹969; 90+ ₹969; 860d since pay; net ₹969,Escalate/notice
+4c4ad4c9-59bf-f152-d0ff-6502ec564cc9,91e9c4a4-cf9f-4ea2-bbce-8ca8d01150ff,3576.0,3576.0,3.0,476.0,11389.0,"AR ₹3,576; 90+ ₹476; 3d since pay; net ₹3,576",Escalate/notice
+d926094a-e5b5-4bc7-af79-7f822211d3f3,2cbbaf40-cfba-4ec9-93dd-f9cab8685a47,9920.0,9920.0,12.0,0.0,10581.0,"AR ₹9,920; 12d since pay; net ₹9,920",Follow-up call
+55e6e452-fae2-a5ac-3c12-21424bffbcac,16ba7f9b-b61c-4fb6-a957-8fdf8bf58876,1125.0,1125.0,75.0,23718.0,10361.0,"AR ₹1,125; 90+ ₹23,718; 75d since pay; net ₹1,125",Escalate/notice
+8aacbc78-5e56-b3c0-f8bc-fcb5490b94f3,d06e259b-0f3f-4c09-bc77-00ec39ab5924,2124.0,2124.0,9.0,2124.0,8918.0,"AR ₹2,124; 90+ ₹2,124; 9d since pay; net ₹2,124",Escalate/notice
+c02eb961-2471-c285-9c28-fb9a12aaf70a,c1c258d3-0750-49fb-8d6a-a5a84de41974,2000.0,2000.0,6.0,2000.0,8264.0,"AR ₹2,000; 90+ ₹2,000; 6d since pay; net ₹2,000",Escalate/notice
+be2214d4-f4b5-4c51-825a-83cddbfb06f8,d90be848-529b-49b3-ad05-997993e57c0a,7500.0,7500.0,8.0,0.0,7833.0,"AR ₹7,500; 8d since pay; net ₹7,500",Follow-up call
+2ac2da6e-0954-f906-32d7-a1f55477c590,7c23b4a5-63fa-47d1-8211-a565f6ed8ee9,1630.0,1630.0,7.0,1630.0,6770.0,"AR ₹1,630; 90+ ₹1,630; 7d since pay; net ₹1,630",Escalate/notice
+12062e7c-25cc-4c45-8869-abf33c8a981c,6ca3eea4-73dc-4e3e-809a-bc43ca4d4e08,6573.0,6573.0,3.0,0.0,6683.0,"AR ₹6,573; 3d since pay; net ₹6,573",Follow-up call
+1a3b6c74-26e1-7124-0b5c-7f783d71624d,3aaba622-f423-48be-b5c5-5516fd1498a3,2360.0,2360.0,44.0,0.0,5873.0,"AR ₹2,360; 44d since pay; net ₹2,360",Follow-up call
+34e36bb4-6313-46d3-af36-4f9ef75dc0a4,ca1e5c59-fbe8-4786-b241-43233c852dc1,3238.0,3238.0,6.0,0.0,5412.0,"AR ₹3,238; 6d since pay; net ₹3,238",Follow-up call
+8fd367e7-7404-4ef6-530b-a40219a48f1e,b617d658-932d-4a8c-8eda-94e28f4bbdc7,798.0,798.0,796.0,286.0,5011.0,AR ₹798; 90+ ₹286; 796d since pay; net ₹798,Escalate/notice
+f70ae790-e17b-aca8-a21a-82ddd895450b,53e90bf9-8b82-4fc9-ac46-406163bf802d,1058.0,1058.0,9.0,1058.0,4440.0,"AR ₹1,058; 90+ ₹1,058; 9d since pay; net ₹1,058",Escalate/notice
+c2f58086-b0e6-4083-b634-acc444ebc69f,e02f5ad1-ec73-468d-8cb6-27d54cb62b81,3640.0,3640.0,9.0,0.0,3822.0,"AR ₹3,640; 9d since pay; net ₹3,640",Follow-up call
+9eb73523-a830-4796-9317-1a3f4e9e7254,af77c84c-c34c-43ff-a61d-62b390f12d3f,3640.0,3640.0,8.0,0.0,3802.0,"AR ₹3,640; 8d since pay; net ₹3,640",Follow-up call
+3e50af3d-452f-d098-b3bc-3c2a64576d55,6eae3c53-9212-4814-b991-b284ea8da158,1000.0,1000.0,310.0,-50893.0,2722.0,"AR ₹1,000; 310d since pay; net ₹1,000",Follow-up call
+23f7ef5f-6b26-a104-b616-b438d7e9243c,8cada743-d341-4211-b2f2-094d551e9ef3,2144.0,2144.0,39.0,-11373.0,2609.0,"AR ₹2,144; 39d since pay; net ₹2,144",Follow-up call
+71a9340d-9832-4609-a110-d9b5aaffc020,70452c2a-f59d-452c-8eae-71979521ff54,967.0,967.0,43.0,0.0,2395.0,AR ₹967; 43d since pay; net ₹967,Follow-up call
+8e39a9bd-3317-b2a6-22a6-16fa4cab9632,14f9659a-5710-47bd-945d-74b61d0ed70a,2250.0,2250.0,7.0,0.0,2338.0,"AR ₹2,250; 7d since pay; net ₹2,250",Follow-up call
+5b45a840-9d6c-242e-0e2f-2e2c972c2eec,290d05d3-ab1b-4d62-b65b-41d05273cde7,750.0,750.0,394.0,-234947.0,2271.0,AR ₹750; 394d since pay; net ₹750,Follow-up call
+8971261e-a813-477f-94c0-0a9661dc4c34,4f2cdcfa-282c-461d-84f8-aefe0567d4f0,2127.0,2127.0,8.0,0.0,2222.0,"AR ₹2,127; 8d since pay; net ₹2,127",Follow-up call
+87a1e515-e2e0-110f-05d1-04f5a83c066a,a089c1bf-e6c1-4700-b4bd-52304e5c006f,1984.0,1984.0,6.0,0.0,2050.0,"AR ₹1,984; 6d since pay; net ₹1,984",Follow-up call
+8fd367e7-7404-4ef6-530b-a40219a48f1e,5fa9754b-a5a9-4fc6-a683-cb770077bc9c,512.0,512.0,777.0,-3436.0,1550.0,AR ₹512; 777d since pay; net ₹512,Follow-up call
+2d700a6b-44c4-438b-841f-febe1b2c47a7,32d53862-5d4f-46ee-a5d3-3372c75389c1,609.0,609.0,7.0,0.0,1264.0,AR ₹609; 7d since pay; net ₹609,Follow-up call
+1b1e4294-4ed3-42e4-b820-7c443e8ddfcf,d92acb4f-8c3f-48ac-8e6b-e7e693fef3d9,1000.0,1000.0,7.0,0.0,1039.0,"AR ₹1,000; 7d since pay; net ₹1,000",Follow-up call
+5ce46f7c-d9f9-426d-be11-5e3b6a2bedb0,bbdf0229-85be-4048-ad84-553cde28b461,805.0,805.0,36.0,0.0,966.0,AR ₹805; 36d since pay; net ₹805,Follow-up call
+d5ef5788-b130-4329-b2e7-5e0112badb3b,537d7700-2397-448d-a0b5-3579e13e2964,468.0,468.0,8.0,0.0,489.0,AR ₹468; 8d since pay; net ₹468,Follow-up call
+918b6526-10a3-4e0e-b3d8-7862211d2485,5c326c75-6587-41cb-a153-ab42deb95efc,386.0,386.0,24.0,0.0,437.0,AR ₹386; 24d since pay; net ₹386,Follow-up call
+9fd15f79-3f68-411c-a282-24af6ade0fdb,4fbf07dd-60c4-4e20-a04f-3714c378ffec,265.0,265.0,8.0,0.0,277.0,AR ₹265; 8d since pay; net ₹265,Follow-up call
+61031b0a-ef18-26aa-64b7-d412d7b3d276,99eb3f32-d53e-4470-ab2a-09ed6e9b3872,130.0,130.0,7.0,0.0,269.0,AR ₹130; 7d since pay; net ₹130,Follow-up call
+79e31f6f-69dc-a40c-27d7-3f076878f83c,a0cd9c66-c067-4001-ad7b-586b6c15537e,200.0,200.0,12.0,0.0,213.0,AR ₹200; 12d since pay; net ₹200,Follow-up call
+5ce46f7c-d9f9-426d-be11-5e3b6a2bedb0,eeb747fd-a4c0-4097-a86f-55f604dadabe,133.0,133.0,25.0,0.0,151.0,AR ₹133; 25d since pay; net ₹133,Follow-up call
+5ce46f7c-d9f9-426d-be11-5e3b6a2bedb0,1d8b2085-b87b-4a65-a8c6-ee6b287ba381,130.0,130.0,6.0,0.0,134.0,AR ₹130; 6d since pay; net ₹130,Follow-up call
+d8c4b3c5-9b2a-4c6e-b1e8-0a98c9175234,08961753-5e7a-4734-8cdc-f9283aece607,1.0,1.0,,1.0,3.0,AR ₹1; 90+ ₹1; net ₹1,Escalate/notice

@@ -1,0 +1,15 @@
+bed_code,apartment_id,bed_type,toilet_type,days_vacant,rev_at_risk_monthly,AC,Hot water,RO water,Refrigerator,Washing machine,TV,Kitchen,Fan,mapping_confidence
+C2,aa73cade-c28c-dc5b-5980-55801ea0d415,Double,Common,46,13500.0,present,present,unknown,unknown,unknown,unknown,unknown,present,bed_level
+C1,85292340-826d-52c1-65c7-7f2a9eb2c2c4,Double,Common,26,13500.0,present,unknown,unknown,unknown,unknown,unknown,unknown,present,bed_level
+C2,10c6863d-07c3-4fc4-94f9-6adc29157ce1,Double,Common,22,13500.0,present,present,unknown,unknown,unknown,unknown,unknown,present,bed_level
+TSC3,3a4c55f7-ca35-437b-ac40-f0b405e0c34f,Triple,Common,12,16900.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+TSC2,3a4c55f7-ca35-437b-ac40-f0b405e0c34f,Triple,Common,12,16900.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+TSC1,3a4c55f7-ca35-437b-ac40-f0b405e0c34f,Triple,Common,12,16900.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+C2,0a839c14-2a88-9896-c2f2-8d51fe610405,Double,Common,15,13500.0,present,present,unknown,unknown,unknown,unknown,unknown,present,bed_level
+B2,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,12,13000.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+TSA1,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,12,13000.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+TSA2,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,12,13000.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+TSA3,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,12,13000.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+B1,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,12,13000.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+B3,238a7f07-e136-4f30-8516-cd796034fbdb,Triple,Attached,12,13000.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+C1,9d5d0096-0b78-a663-1142-be871dfa2bda,Double,Common,8,13500.0,present,present,unknown,unknown,unknown,unknown,unknown,present,bed_level

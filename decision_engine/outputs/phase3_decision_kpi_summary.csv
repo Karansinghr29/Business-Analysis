@@ -1,0 +1,12 @@
+metric,value
+backbone_decisions,14
+with_measurable_baseline,12
+baseline_unavailable,2
+outcomes_available,0
+all_outcomes,Outcome unavailable (no action executed yet)
+review_opportunities,6
+opportunities_owner_verify,4
+time_series_kpis,"maintenance tickets/mo, AC tickets/mo, exits/mo"
+snapshot_kpis,"AR90 ₹, vacancy beds/₹, occupancy %, open leads, 2-share leads, EB high-consumption"
+unavailable_kpis,"DEC-LOC-MKT (no locality on leads), DEC-MKT-ROI-GAP (no spend<->lead attribution)"
+rule,baselines from real data; outcomes unavailable until post-action; no fabricated ROI; unknown preserved

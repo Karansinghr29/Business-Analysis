@@ -1,0 +1,18 @@
+metric,value
+apartments_with_owner_rent_coverage,13
+revenue_generating_apartments_total,36
+apartments_not_classified,23
+coverage_note,13 of 36 apartments have owner-rent records; the other 23 are NOT classified as favourable or unfavourable
+matched_apartment_months,284
+excluded_rent_months_no_revenue,35
+excluded_revenue_months_no_rent,905
+investigation_signals,3
+investigation_signal_apartments,"C12 0.74x, B24 0.82x, D11 0.98x"
+total_invoiced_revenue_matched,18423105.43
+total_owner_rent_matched,15590800.0
+overall_coverage_x,1.18
+owner_rent_accrued_share,"81% of owner-rent rows are status='pending' (accrued, not paid)"
+revenue_basis,INVOICED (billed) — not collected cash
+is_backbone,"False — investigation signal only, not one of the 14 backbone decisions"
+not_profitability,CONFIRMED — one revenue line vs one cost line; no other operating cost included
+recommended_action,NONE auto-generated. Owner review required before any commercial decision.

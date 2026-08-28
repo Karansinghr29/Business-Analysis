@@ -1,0 +1,4 @@
+pg_name,groq_suggested_url,groq_is_aggregator,independent_search_finding,verified_first_party_url,monthly_rent_per_bed,price_confidence,source_url,first_party,evidence
+Star Mens PG,,True,No own domain; only listing/microsite pages (e.g. lyzoo.co.in). No first-party site.,,,unknown,,False,"Groq: official_url=null,is_aggregator=true. WebSearch (aggregators blocked): no own-domain result."
+SVH Gents PG,,True,"No own website; property is in Tharamani (25 Peeliamman Kovil St, MG Nagar), NOT Thiruvanmiyur.",,,unknown,,False,"Groq: official_url=null,is_aggregator=true. WebSearch: only directory pages; located Tharamani (out of 600041 area)."
+Triples Men's PG,,True,"No own website; only a Google Maps page + third-party YouTube vlog. 'Starts from Rs.5500' is from the vlog, not first-party.",,,unknown,,False,"Groq: official_url=null,is_aggregator=true. WebSearch: g.page maps + YouTube 'Starts from Rs.5500' (3rd-party vlog) -> rejected per rules (not first-party, not exact)."

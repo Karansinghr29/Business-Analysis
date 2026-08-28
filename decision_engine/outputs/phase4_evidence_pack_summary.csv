@@ -1,0 +1,9 @@
+domain,provenance,facts
+amenity,VISHFUL_INTERNAL,10
+churn,VISHFUL_INTERNAL,1
+collections,VISHFUL_INTERNAL,2
+demand,VISHFUL_INTERNAL,2
+eb,VISHFUL_INTERNAL,1
+maintenance,VISHFUL_INTERNAL,1
+market,MARKET_CONTEXT,7
+vacancy,VISHFUL_INTERNAL,6

@@ -1,0 +1,7 @@
+source,what_exists,legitimacy_status,reason,provenance
+competitor first-party websites,own PG sites (playwright),NO review sections rendered,"usable for amenity/config only, NOT reviews",phase3_playwright_market_research.csv
+Google Maps,public reviews/ratings exist,NOT ACCESSIBLE via approved methods,no Google-Maps HTML scraping; Maps is not first-party -> excluded,policy
+aggregators/directories (magicpin/yappe/justdial/etc.),ratings/review counts exist,EXCLUDED,aggregator ≠ first-party property evidence -> not usable as review evidence,policy
+Vishful Market AI dashboard (owner),shows competitor ratings/counts,context only,"those ratings are Google-sourced (aggregator/Maps) -> context, not first-party review evidence",owner dashboard
+Vishful OWN maintenance tickets,own customers' pain points by topic,AVAILABLE (first-party to Vishful),"1,540 tickets by issue type = legitimate own customer-experience signal",maintenance_tickets #71 / issue_types #76
+Vishful tenant_rating,own tenant satisfaction proxy,AVAILABLE (first-party to Vishful),1020/1026 tenants rated,tenants #45

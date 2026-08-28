@@ -1,0 +1,6 @@
+candidate_signal,decision_it_would_affect,new_scraping_has_value,reason
+per-bed price at grain,pricing review,NO,exhausted: 1 comparable; would risk fabrication
+food service published,amenity marketing,NO,"gap is Vishful's OWN food status -> owner input, not market"
+parking/CCTV/power published,amenity marketing,NO,same — Vishful own status unknown -> owner input
+more competitor amenities,amenity marketing,NO,already have enough context; Vishful side is the gap
+locality demand detail,locality marketing,NO,better from Vishful's own leads-by-locality (leads #84)

@@ -1,0 +1,9 @@
+metric,value
+v1_baseline_immutable,115
+v2_verified_total,168
+new_independents_verified,44
+new_zolo_verified,9
+holdout_medium_unverified,78
+holdout_possible_duplicate,2
+holdout_low_review,5
+note,"v1 immutable; v2 is isolated and NOT used by any existing denominator/score; holdout excluded from all calculations; Zolo tagged operator:Zolo, never merged into an existing property"

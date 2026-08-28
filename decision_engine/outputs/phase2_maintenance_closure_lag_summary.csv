@@ -1,0 +1,9 @@
+metric,value
+total_tickets,1540.0
+usable_timestamp_pairs,1057.0
+missing_timestamp_count,483.0
+negative_lag_count,133.0
+median_lag_days,9.7
+p75_lag_days,34.0
+p90_lag_days,87.1
+mean_lag_days,27.8

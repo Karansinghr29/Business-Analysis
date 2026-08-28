@@ -1,0 +1,1027 @@
+tenant_id,full_name,origin_state,resolution_source,agreeing_sources,src_declared,src_address,src_pincode,src_city_addr,src_city_col,pin_used,city,confirmed_city,confirmed_pincode,has_created_at,kyc_completed_flag,allotment_count,staying_status,first_onboarding,cohort_year,is_current,in_historical_population
+b99bf201-38ba-4991-a146-8590e7c22417,Sonal Khatri,Rajasthan,explicit_state_field,3,Rajasthan,,Rajasthan,,Rajasthan,302020,Jaipur,,,True,True,0,new,,,False,False
+5bc22736-48ba-1e67-b893-45609960e8b1,Anubhab Ghosh,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-16 00:00:00+00:00,2025.0,False,True
+7282a267-9160-04c3-a636-0268501bdf4e,Aritra Kumar Das,West Bengal,pincode_circle,2,,,West Bengal,West Bengal,,700006,,,,False,False,1,exited,2025-08-08 00:00:00+00:00,2025.0,False,True
+0cba0133-9ca6-89ff-f5ab-d1324e455716,Aaron Pacheco,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-18 00:00:00+00:00,2024.0,False,True
+1b1e4294-4ed3-42e4-b820-7c443e8ddfcf,Muthumari Chandran,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,600037,Chennai,,,True,True,1,Staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+9e8f2431-1663-fb51-d4cb-87f4c2276e38,Antara Paul,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+5527e05d-475b-45ed-a6f4-284340eed262,Jomon P A,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,680308,Thrissur,,,True,True,1,Staying,2026-04-20 00:00:00+00:00,2026.0,True,True
+e0174322-3fb7-483f-91a0-61b903ae3e49,Saket Jaiswal,West Bengal,explicit_state_field,3,West Bengal,,West Bengal,,West Bengal,700019,Kolkata,,,True,True,1,Staying,2026-06-13 00:00:00+00:00,2026.0,True,True
+98237e16-b1dc-abe4-877b-80dda2679276,Sajith Av,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-15 00:00:00+00:00,2024.0,False,True
+2c1980eb-be51-916e-8f61-1e8fe83afb0c,Rajesh Anandh,,unknown,0,,,,,,,,,,False,False,1,staying,2025-08-26 00:00:00+00:00,2025.0,True,True
+1dc2bdca-ae79-4cd5-9d74-961c02cce282,Gitansh Anand,Rajasthan,explicit_state_field,3,Rajasthan,,Rajasthan,,Rajasthan,317001,Banswara,,,True,True,1,staying,2026-04-05 00:00:00+00:00,2026.0,True,True
+ea212876-eba6-d61c-c7bd-3f55a704a453,Rashmi Oka,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-12 00:00:00+00:00,2025.0,False,True
+5ce46f7c-d9f9-426d-be11-5e3b6a2bedb0,Jaishnu Biradha,West Bengal,explicit_state_field,3,West Bengal,,West Bengal,,West Bengal,721302,Kharagpur,,,True,True,3,staying,2026-07-06 00:00:00+00:00,2026.0,True,True
+a80f0ed1-4b00-bbc6-7203-370029c6bb04,Shyam Salil,,unknown,0,,,,,,,,,,False,False,1,exited,2026-01-17 00:00:00+00:00,2026.0,False,True
+bcac3c0b-dc94-d5ab-1463-d018a692a057,Rakesh Kumar Sharma,,unknown,0,,,,,,,,,,False,False,1,exited,2021-10-07 00:00:00+00:00,2021.0,False,True
+01af6f97-6cb1-4799-9476-493b8af42437,Dhyey Jakhariya,Gujarat,explicit_state_field,3,Gujarat,,Gujarat,,Gujarat,360001,Rajkot,,,True,True,1,Staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+6e52de53-d0e1-4fff-871f-36aa18ac4720,Arockiasathish S,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,624307,Dindigul,,,True,True,1,Staying,2026-07-19 00:00:00+00:00,2026.0,True,True
+29e47ac1-831d-9edd-4744-efc0e2037ff3,Midhun Akash,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-09-07 00:00:00+00:00,2025.0,False,True
+2ac2da6e-0954-f906-32d7-a1f55477c590,Suhani Srivastava,,unknown,0,,,,,,,,,,False,False,2,staying,2026-01-11 00:00:00+00:00,2026.0,True,True
+e2ee0891-8bc9-980a-ba57-b0a11ba15019,Sai Sri Ram Varun Shakunaveti,Telangana,city_gazetteer_address,1,,,,Telangana,,,,,,False,False,1,Exited,2026-02-28 00:00:00+00:00,2026.0,False,True
+be2214d4-f4b5-4c51-825a-83cddbfb06f8,Nirmal R,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,630004,Karaikudi,,,True,True,2,On-Notice,2026-07-17 00:00:00+00:00,2026.0,True,True
+c1b076a8-104d-57e4-87e1-c00a30c21d29,Yuva Sherlin,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-03-04 00:00:00+00:00,2025.0,False,True
+6b4a40d5-2eff-4bcc-9de7-8882d77546c0,Shivansh Gupta,Delhi,explicit_state_field,2,Delhi,,Delhi,,,110063,Delhi,,,True,True,1,Exited,2026-04-12 00:00:00+00:00,2026.0,False,True
+76885280-8415-ddd3-8643-1ad02a61536e,Nitin Agarwal,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-03 00:00:00+00:00,2024.0,False,True
+c055c921-1b29-17da-5613-cbd6eed1bbd9,Shreya Dhore,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-06 00:00:00+00:00,2025.0,False,True
+06061874-ce68-4008-82f6-50ace2ba4bf4,Ishan Dubey,Chhattisgarh,explicit_state_field,3,Chhattisgarh,,Chhattisgarh,,Chhattisgarh,490006,Bhilai,,,True,True,1,Staying,2026-06-20 00:00:00+00:00,2026.0,True,True
+7d26a731-5027-abff-a77e-ce35303b21f6,Vishnu B,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-23 00:00:00+00:00,2025.0,False,True
+b486caa2-d587-60c7-5826-c8c735c85a9f,Archana S,,unknown,0,,,,,,,,,,False,False,2,exited,2022-08-02 00:00:00+00:00,2022.0,False,True
+d926094a-e5b5-4bc7-af79-7f822211d3f3,Devashish Dewangan,Chhattisgarh,explicit_state_field,3,Chhattisgarh,,Chhattisgarh,,Chhattisgarh,492013,Raipur,,,True,True,2,staying,2026-07-09 00:00:00+00:00,2026.0,True,True
+fede9d18-47bd-03b2-a0a3-73ae43fbcf88,Aswini A T,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-12 00:00:00+00:00,2024.0,False,True
+1870394c-0b26-4010-85ca-50f7ba65ec6c,Karthikeyan Ramakrishnan,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,629001,Kanyakumari,,,True,True,1,new,2026-08-01 00:00:00+00:00,2026.0,True,True
+414e0bde-7a49-1083-4e22-1fa3dca1b3c6,Phaniraj Vuyyuri,Andhra Pradesh,state_in_address,2,,Andhra Pradesh,,Andhra Pradesh,,,,,,False,False,1,exited,2024-09-01 00:00:00+00:00,2024.0,False,True
+0f9eb102-09ca-440e-adfa-ded3e743f533,VENU GOPAL,Bihar,explicit_state_field,3,Bihar,,Bihar,,Bihar,847308,Madhubani,,,True,True,2,Staying,2026-08-09 00:00:00+00:00,2026.0,True,True
+bb36c2de-ac80-369b-bef1-b7a9025ad305,Dongkame Karimchi O Sangma,Assam,state_in_address,1,,Assam,,,,,,,,False,False,1,exited,2025-08-06 00:00:00+00:00,2025.0,False,True
+6c765a9e-b1ea-4503-e5b7-24daca7c2614,Gokul Raj Dharmarajan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-11 00:00:00+00:00,2025.0,False,True
+8b48a426-b184-0a10-fdf3-c35622244b85,Trisha Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2023-10-31 00:00:00+00:00,2023.0,False,True
+7b3816fb-e731-23ef-ce25-57790ff57a7e,Aditya Srivardhan Bollapragada,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-07 00:00:00+00:00,2024.0,False,True
+e216b2cb-1f85-4913-afd4-b3997e9834ec,Aditya Patel,Madhya Pradesh,explicit_state_field,3,Madhya Pradesh,,Madhya Pradesh,,Madhya Pradesh,487661,Gadarwara,,,True,True,0,new,,,False,False
+c21c24b6-6314-72b2-9c69-3daac5113707,Anshika Mittal,Haryana,state_in_address,1,,Haryana,,,,,,,,False,False,1,exited,2024-08-04 00:00:00+00:00,2024.0,False,True
+7976ec26-6b18-471f-96d3-aa39a03abac8,suseela j,Andhra Pradesh,explicit_state_field,3,Andhra Pradesh,,Andhra Pradesh,,Andhra Pradesh,524121,Nellore,,,True,True,1,Staying,2026-07-06 00:00:00+00:00,2026.0,True,True
+f1b38aef-78a2-e3a5-daef-51e398bb57fb,Shivani Yadav,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+165afd93-a066-8794-7ade-f62b1ffbbc9e,Aurobinda Bharat Maharana,,unknown,0,,,,,,,,,,False,False,1,exited,2023-11-21 00:00:00+00:00,2023.0,False,True
+2d700a6b-44c4-438b-841f-febe1b2c47a7,Anupam Varma,Karnataka,explicit_state_field,3,Karnataka,,Karnataka,,Karnataka,560082,Bangalore,,,True,True,2,staying,2026-06-20 00:00:00+00:00,2026.0,True,True
+2f0cc08d-c4e2-1593-8f2c-1445f89e7f1d,Mohammed Imran,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-24 00:00:00+00:00,2023.0,False,True
+d167a28c-1755-6bbc-04ce-5bc1920c8322,Srividya Bannaravuri,,unknown,0,,,,,,,,,,False,False,2,exited,2023-06-24 00:00:00+00:00,2023.0,False,True
+f2d14ca3-b37b-9e02-78c3-46a7603d8a6b,Sri Divya Boyanapalli,,unknown,0,,,,,,,,,,False,False,2,exited,2025-02-21 00:00:00+00:00,2025.0,False,True
+a467df39-5ec5-465e-a471-e2b54be7bc71,Nilofar Althaf,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,680510,Thrissur,,,True,True,2,Staying,2026-05-01 00:00:00+00:00,2026.0,True,True
+365f8f9f-009e-838c-36c6-add1b1d696b1,Sruthii B,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-01-01 00:00:00+00:00,2025.0,False,True
+f156a416-bc92-416f-8ba1-42b185de39c8,MD MUSHARRAF IQUBAL,Uttar Pradesh,explicit_state_field,3,Uttar Pradesh,,Uttar Pradesh,,Uttar Pradesh,208016,Kanpur,,,True,True,0,new,,,False,False
+f7b7f5b3-6e63-4ae3-8a79-515d431392fa,Deepanjan Gupta,Assam,explicit_state_field,3,Assam,,Assam,,Assam,781018,Guwahati,,,True,True,1,Exited,2026-04-12 00:00:00+00:00,2026.0,False,True
+8de23288-6ae9-0d8f-afad-302f3b66836e,Kaviswetha Muthukumar,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,Tamil Nadu,,636501,,,,False,False,1,exited,2023-06-25 00:00:00+00:00,2023.0,False,True
+a7dadee2-80e3-eba0-084f-5f1847bb3aa4,Arun Prasad,,unknown,0,,,,,,,,,,False,False,1,staying,2026-02-14 00:00:00+00:00,2026.0,True,True
+b0f4513c-d0e3-f732-fb01-058a0015bd98,Gayathri Sudhakaran,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-06 00:00:00+00:00,2023.0,False,True
+12062e7c-25cc-4c45-8869-abf33c8a981c,Divyaratna Joshi,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,600036,CHENNAI,,,True,True,2,staying,2026-07-08 00:00:00+00:00,2026.0,True,True
+25aa0362-c4dd-16cd-169e-1e9f819ec83b,Komal Kumari,Bihar,city_gazetteer_address,1,,,,Bihar,,,,,,False,False,1,exited,2025-07-27 00:00:00+00:00,2025.0,False,True
+367ff001-843b-4fab-01ff-1f341b84ef5f,Himja Dave,,unknown,0,,,,,,,,,,False,False,1,exited,2025-12-03 00:00:00+00:00,2025.0,False,True
+beae71fa-0e63-a91d-32f8-c503075f53fc,Anjalyshyjan Engoor,,unknown,0,,,,,,,,,,False,False,1,exited,2022-06-06 00:00:00+00:00,2022.0,False,True
+8e08d821-25a6-5ff3-aa0f-a935d8839fd0,Ayushi Saini,,unknown,0,,,,,,,,,,False,False,1,exited,2020-10-29 00:00:00+00:00,2020.0,False,True
+918b6526-10a3-4e0e-b3d8-7862211d2485,Rakesh Ravi,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,643002,Ooty,,,True,True,2,staying,2026-07-18 00:00:00+00:00,2026.0,True,True
+9714e9c1-0eab-8c23-1dd7-2071a458be87,Khansa Shahnawaz,,unknown,0,,,,,,,,,,False,False,3,exited,2025-07-11 00:00:00+00:00,2025.0,False,True
+cc559ab3-0859-6b34-259e-1f5c43be7139,Janmesh Ukey,,unknown,0,,,,,,,,,,False,False,2,exited,2025-08-21 00:00:00+00:00,2025.0,False,True
+0dca171d-4d27-07ab-2319-cd9f7d9ffbcd,Ananya Sardana,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-24 00:00:00+00:00,2023.0,False,True
+cf23bbd7-49fd-da14-a54f-db705d4fabdb,Ketki Falle,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-08 00:00:00+00:00,2022.0,False,True
+7c642b80-7d09-1c7a-601f-7af53d4fe9fa,Priyadarshini,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-03 00:00:00+00:00,2025.0,False,True
+8709ca2e-a8a6-48a4-b8ce-e813c4796ab9,Pakhi Mujmer,Madhya Pradesh,explicit_state_field,3,Madhya Pradesh,,Madhya Pradesh,,Madhya Pradesh,450001,Khandwa,,,True,True,3,staying,2026-04-01 00:00:00+00:00,2026.0,True,True
+6df42279-282f-e2ae-a821-304ef8c14cfe,Surbhi Sharma,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-28 00:00:00+00:00,2024.0,False,True
+9eb73523-a830-4796-9317-1a3f4e9e7254,Praful Harikumar,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,680618,Thrissur,,,True,True,2,staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+e10472f5-6434-2a96-6c28-13939f90427f,Vishal Kumar,Uttar Pradesh,city_gazetteer_address,1,,,,Uttar Pradesh,,,,,,False,False,1,exited,2025-10-14 00:00:00+00:00,2025.0,False,True
+b7f6903f-2c74-40ba-8d14-f1be73c207f1,Induja Sachudanandan,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,632002,Vellore,,,True,True,0,new,,,False,False
+5115834b-41f7-ba99-845c-e46780a8c7da,Karthik N,,unknown,0,,,,,,,,,,False,False,2,exited,2026-02-09 00:00:00+00:00,2026.0,False,True
+1932ea80-c6eb-874e-eca8-12410fa7a608,Roshana S V,,unknown,0,,,,,,,,,,False,False,1,Staying,2025-01-01 00:00:00+00:00,2025.0,True,True
+1fc1a662-a030-9232-239c-2a7b1b7a44b4,Ravi Prasath K V,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2024-07-07 00:00:00+00:00,2024.0,False,True
+51403227-2816-46f5-cdc7-feaa35b7c061,Mohammad Shozab,Telangana,city_gazetteer_address,1,,,,Telangana,,,,,,False,False,1,Exited,2026-02-28 00:00:00+00:00,2026.0,False,True
+71492154-2bd6-41d1-b8b8-3acec9cedd1f,Anupam Singh,Bihar,explicit_state_field,3,Bihar,,Bihar,,Bihar,801503,Patna,,,True,True,1,Staying,2026-07-13 00:00:00+00:00,2026.0,True,True
+6e29f80e-ffb7-4c7e-9f39-a7980c00926b,Uttkarsh Uttkarsh,Uttar Pradesh,explicit_state_field,3,Uttar Pradesh,,Uttar Pradesh,,Uttar Pradesh,209861,Unnao,,,True,True,1,Staying,2026-07-21 00:00:00+00:00,2026.0,True,True
+83f51f9d-9d36-eda9-e7fb-5b1badbbd5d9,Himika Bhagwat,Madhya Pradesh,city_gazetteer_address,1,,,,Madhya Pradesh,,,,,,False,False,1,staying,2025-08-05 00:00:00+00:00,2025.0,True,True
+27ffea04-c43e-3938-a0cd-02ce1885f857,Faraaz Khan,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-03 00:00:00+00:00,2023.0,False,True
+5eb9cf08-d888-4c7c-b6da-0b773bb39bba,Shabana Roshan,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,625003,MADURAI,,,True,True,1,Staying,2026-06-29 00:00:00+00:00,2026.0,True,True
+21f9320d-9d9a-458d-930b-a7442b24b980,Sanjay Kumar P,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,600072,Tiruvallur,,,True,True,1,booked,2026-08-23 00:00:00+00:00,2026.0,True,True
+696706c5-8895-a590-2abd-382e2668c391,Bindushree B,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-30 00:00:00+00:00,2024.0,False,True
+876bcc88-d210-8a14-5197-f2062208f7a3,Amita Asthana,,unknown,0,,,,,,,,,,False,False,3,exited,2023-02-12 00:00:00+00:00,2023.0,False,True
+9c916618-64b4-6c3e-0d5b-d33a42a6b966,Smita P,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2024-01-25 00:00:00+00:00,2024.0,False,True
+05c1092a-7d55-87fd-45f7-a75a6fef6cd7,Ananya Bompalli,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-28 00:00:00+00:00,2024.0,False,True
+ae831e5f-7eb5-4d33-5db9-1d92cdf8f0b5,Vaibhav Aggarwal,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-06 00:00:00+00:00,2024.0,False,True
+baa28bba-e050-958e-5006-4c833bb5d53a,Rajat Nayar,,unknown,0,,,,,,,,,,False,False,1,exited,2020-01-14 00:00:00+00:00,2020.0,False,True
+0366c854-a2dd-42cd-b83a-7a0affb3fa85,Ammu Mariam Thomas,Kerala,explicit_state_field,2,Kerala,,Kerala,,,686610,Peruva,,,True,True,1,Staying,2026-07-23 00:00:00+00:00,2026.0,True,True
+1eb13d75-4e74-34de-0d7a-6936b746e12e,Karan M,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-09 00:00:00+00:00,2025.0,False,True
+c49181cd-07c5-4c6a-a996-4146d002c886,Aleena Renny Philip,Maharashtra,explicit_state_field,3,Maharashtra,,Maharashtra,,Maharashtra,400607,Thane,,,True,True,2,Staying,2026-05-01 00:00:00+00:00,2026.0,True,True
+8e602e78-e72e-0b60-56a0-315fcf3a46ea,Syed Ahamed Abraar,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-14 00:00:00+00:00,2024.0,False,True
+5a1e4739-df51-1e97-95c7-31602fc06832,Hari Vignesh M,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-12 00:00:00+00:00,2024.0,False,True
+8e5b1df4-6f06-639e-94b5-76610be144d1,Aditi Jaiswal,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-11 00:00:00+00:00,2024.0,False,True
+9e3eab4d-7679-7224-69a8-5ebf6f7fb799,Teja Aliseri,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+5c32363d-d034-c281-93e7-1ad6ad9e3d3f,Navaneeth Mohan Nair,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-01 00:00:00+00:00,2024.0,False,True
+61492721-611b-479f-9815-e09e0d7c95fd,Fathima Nazrin,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,680669,Thrissur,,,True,True,2,staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+9f698289-30a8-e65b-7e90-9bae79935e70,Dr Prashanth Jk,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-01 00:00:00+00:00,2024.0,False,True
+2a00764b-10fd-4f2c-84a8-b611cf9b893a,Gouri Renjith,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,695017,Thiruvananthapuram,,,True,True,1,Staying,2026-06-28 00:00:00+00:00,2026.0,True,True
+42ce346f-a341-9289-8213-2a477a99c6b7,Yeshika S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-30 00:00:00+00:00,2024.0,False,True
+7949646a-1455-41bc-9b8a-d19f84772bbb,Ritika Rajesh,Telangana,explicit_state_field,3,Telangana,,Telangana,,Telangana,500026,Hyderabad,,,True,True,1,Staying,2026-07-19 00:00:00+00:00,2026.0,True,True
+b31625ab-8292-0710-db3b-6fddb36a46a7,Vishakha Pandey,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-29 00:00:00+00:00,2023.0,False,True
+e4399427-c763-f427-6a70-e57988251c2c,Sathyasree,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-08 00:00:00+00:00,2024.0,False,True
+2a1b9781-7270-da00-bf8a-adaf9ce20080,Reeta Maybell,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-19 00:00:00+00:00,2024.0,False,True
+6a27dbe8-a3ad-eec1-88f7-72d628418e27,Sushant Pargaonkar,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-20 00:00:00+00:00,2024.0,False,True
+0a550b32-ac5f-efb6-6d3b-e9975e20a82d,V N Kiranmai Bhatlapenumarthi,,unknown,0,,,,,,,,,,False,False,2,exited,2021-01-31 00:00:00+00:00,2021.0,False,True
+70945c9c-c8e9-8721-8ecf-dfdaf4a30fde,Rahul Kapoor,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-18 00:00:00+00:00,2024.0,False,True
+1360848f-3f38-fcda-2ca5-ffb5b90fcacc,Devanathan Chandrasekaran,,unknown,0,,,,,,,,,,False,False,2,exited,2025-01-07 00:00:00+00:00,2025.0,False,True
+1604768e-85d5-4c44-882a-b748eddc1f37,Aryananda V,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,680026,Thrissur,,,True,True,1,Staying,2026-06-28 00:00:00+00:00,2026.0,True,True
+b5e3cb86-bb85-5f4a-8424-bc50dc9b2651,Sangamithra Arumugasamy,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2022-12-05 00:00:00+00:00,2022.0,False,True
+24d31286-c0af-1901-7db5-cea5fcbf38c9,Akhil Vanukuri,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-12 00:00:00+00:00,2022.0,False,True
+25bb9427-9bb6-44a6-8a24-9566a07a856d,Jayachandran R,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,632006,Vellore,,,True,True,2,new,2026-08-01 00:00:00+00:00,2026.0,True,True
+d2449d75-0593-4deb-a6c2-fae99fc83ab0,Nandana Chitbabu,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,600095,Chennai ,,,True,True,1,Exited,2026-04-01 00:00:00+00:00,2026.0,False,True
+e233ae7e-605b-92bf-31a6-0378b74a09fd,Sumithra Chinnasamy,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-13 00:00:00+00:00,2024.0,False,True
+9df77882-f224-9a8e-fe11-d7379a1cbc68,Dharshini A,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+653f901f-7a5a-371a-28f4-83f99b031d66,Devesh Vishnoi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-10 00:00:00+00:00,2024.0,False,True
+dfe72882-2923-e759-ab37-45a4f6c5f1c7,Hemanth Koka,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-13 00:00:00+00:00,2025.0,False,True
+79d4d3fe-73c5-a965-030f-c60220ee20cb,Aakanksha Rajhans,Haryana,state_in_address,2,,Haryana,,Haryana,,,,,,False,False,2,staying,2025-09-06 00:00:00+00:00,2025.0,True,True
+3a22eac5-cd9d-4b21-9d6b-20e9106fdcff,Riddhi Hegde,Karnataka,explicit_state_field,3,Karnataka,,Karnataka,,Karnataka,575008,Mangaluru,,,True,True,1,Staying,2026-08-02 00:00:00+00:00,2026.0,True,True
+791c16c3-5afa-4081-a47c-53439979e5b3,Raja Dagur,Uttar Pradesh,explicit_state_field,3,Uttar Pradesh,,Uttar Pradesh,,Uttar Pradesh,202001,Aligarh,,,True,True,1,Exited,2026-04-28 00:00:00+00:00,2026.0,False,True
+71a9340d-9832-4609-a110-d9b5aaffc020,Tarunya Venkat,Haryana,explicit_state_field,3,Haryana,,Haryana,,Haryana,122018,Gurgaon,,,True,True,4,staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+c2f58086-b0e6-4083-b634-acc444ebc69f,Crescent P,Kerala,explicit_state_field,2,Kerala,,Kerala,,,691306,ANCHAL,,,True,True,2,staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+8e125a87-1a3e-4b52-855b-635c06bafd87,Rinica Richelle  Barnes,Karnataka,explicit_state_field,3,Karnataka,,Karnataka,,Karnataka,576213,Udupi ,,,True,True,1,Exited,2026-04-14 00:00:00+00:00,2026.0,False,True
+5fa2b264-379d-b6b2-9929-86237eb38f30,Sai Teja,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-03-02 00:00:00+00:00,2026.0,False,True
+6c0320d8-817b-ea7e-4d60-48afb8d17cba,Mansi Dwivedi,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-12 00:00:00+00:00,2025.0,False,True
+e2c9d409-9fea-34cd-765b-dec2b37b3aba,Jhanvi Pandey,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-20 00:00:00+00:00,2024.0,False,True
+6c99dfb1-b264-def6-69ae-e4bfde80c152,Mruthyunjay Kadavyanavarmath,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-05 00:00:00+00:00,2023.0,False,True
+9642c1f8-d11f-f110-37b7-9bbe04c84bad,Mishti Rastogi,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-01 00:00:00+00:00,2025.0,False,True
+5fee0a79-3970-704a-2332-f7c7598e86c1,Rajaseethala A,,unknown,0,,,,,,,,,,False,False,2,staying,2024-11-01 00:00:00+00:00,2024.0,True,True
+5f0f16ed-dd5a-936c-5dbc-f76aa297afd4,Praveen R P,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-06 00:00:00+00:00,2025.0,False,True
+9fd15f79-3f68-411c-a282-24af6ade0fdb,Shreya Singh,Maharashtra,explicit_state_field,2,Maharashtra,,Maharashtra,,,401101,Mira Bhayandar,,,True,True,1,Staying,2026-07-27 00:00:00+00:00,2026.0,True,True
+07be30b6-2324-7f46-f82f-5b1c9036f58f,Anandhu Raveendran,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-16 00:00:00+00:00,2024.0,False,True
+03583f1f-1403-b11c-dead-43e994cd6716,Vivek Patel,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-17 00:00:00+00:00,2024.0,False,True
+5e6b35c4-2b97-ea86-e422-f03c332f74be,Sai Krishna Varma Pedabaliyarasimhuni,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-27 00:00:00+00:00,2025.0,False,True
+716b820e-fef7-dcf3-34be-914835261361,Hari Prasad M,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-25 00:00:00+00:00,2025.0,False,True
+b3002707-86e9-43d5-956d-cf108fb6a23f,Varun Katiyar,Maharashtra,explicit_state_field,3,Maharashtra,,Maharashtra,,Maharashtra,440025,NAGPUR,,,True,True,1,Staying,2026-04-26 00:00:00+00:00,2026.0,True,True
+129ef14d-110f-8fd6-f39d-ee91d11e0151,Gargi Mishra,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+961c950e-debe-4dd2-8e5f-08bf92bda977,Pranesh S A,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,638008,Namakkal,,,True,True,1,Staying,2026-07-14 00:00:00+00:00,2026.0,True,True
+1995b0ce-cc80-52dd-8dec-a01a2456659e,Sunisra Saladi,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-01 00:00:00+00:00,2025.0,False,True
+33ac7dd1-ae75-0a17-9b1e-7b8175226f98,Abhishek Meena,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-24 00:00:00+00:00,2024.0,False,True
+4505ca5d-0961-03c9-5943-ffda2a5ae270,Ruth Sylvia A C,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,Tamil Nadu,,641034,,,,False,False,1,staying,2025-09-09 00:00:00+00:00,2025.0,True,True
+34e36bb4-6313-46d3-af36-4f9ef75dc0a4,Diya Elizabeth Kurian,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,682036,Ernakulam,,,True,True,2,staying,2026-07-19 00:00:00+00:00,2026.0,True,True
+2353dec8-b65d-637c-b2fe-0cd93ee91530,Reuben Varghese,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-13 00:00:00+00:00,2023.0,False,True
+84c2199c-67b0-4d65-bf33-31f2a6ad244f,Sudarsan  R,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,,Tamil Nadu,600044,Chennai,,,True,True,1,Exited,2026-04-05 00:00:00+00:00,2026.0,False,True
+9e188cc2-9f75-4d15-8fa3-9348236cae71,Firoz Uddin Gauhar,Delhi,explicit_state_field,2,Delhi,,Delhi,,,110025,Delhi,,,True,True,2,Staying,2026-05-01 00:00:00+00:00,2026.0,True,True
+18788fe2-f6a2-826e-2199-6cec118c6d00,Priyadharshini C,,unknown,0,,,,,,,,,,False,False,1,Exited,2024-06-18 00:00:00+00:00,2024.0,False,True
+cda37b51-1bbc-af0d-a560-49af88fdc751,Harissh G,,unknown,0,,,,,,,,,,False,False,2,staying,2024-08-01 00:00:00+00:00,2024.0,True,True
+d091c57d-1101-60f2-e6e8-e86eab6c6fe4,Arjunan G,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,Exited,2026-02-15 00:00:00+00:00,2026.0,False,True
+25aa2406-e171-b558-8249-7a525d126d8f,Arun Er,Kerala,state_in_address,3,,Kerala,Kerala,Kerala,,680569,,,,False,False,1,staying,2025-11-01 00:00:00+00:00,2025.0,True,True
+e5e7cb26-5b8b-4848-9703-1c34eb249447,Vikas Tanwar,Haryana,explicit_state_field,3,Haryana,,Haryana,,Haryana,127029,Bhiwani,,,True,True,1,new,2026-07-01 00:00:00+00:00,2026.0,True,True
+34e17203-69d9-f06c-079c-fc6848b90d7e,Arushi Saxena,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-02 00:00:00+00:00,2025.0,False,True
+3b27dc97-dafa-0480-7b61-5549a3ea7eee,Abhilash V,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-07-08 00:00:00+00:00,2025.0,False,True
+5f03c82f-1f66-e8cc-ef8c-7a8967e80f61,Selvashri Murugesan,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2023-07-30 00:00:00+00:00,2023.0,False,True
+100f062f-fa4e-9305-d270-da25f10c6de9,Tanisha Goyal,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-08 00:00:00+00:00,2022.0,False,True
+53416e34-aaed-471f-937d-0fea74c444b8,K Abhishek -,Gujarat,explicit_state_field,3,Gujarat,,Gujarat,,Gujarat,392011,Bharuch,,,True,True,1,Exited,2026-05-01 00:00:00+00:00,2026.0,False,True
+1a171004-7682-1c39-e6a2-758b668c33b0,Arunima Shandilya,,unknown,0,,,,,,,,,,False,False,1,staying,2026-01-31 00:00:00+00:00,2026.0,True,True
+8b67f24e-8b2b-e5cf-aef4-9b084467aa37,Aryan Garg,,unknown,0,,,,,,,,,,False,False,3,exited,2023-06-10 00:00:00+00:00,2023.0,False,True
+30f37c32-22c8-495f-9468-246790e56559,Pranav Vitthalrao Kadam,Maharashtra,explicit_state_field,2,Maharashtra,,Maharashtra,,,431601,Nanded,,,True,True,1,Staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+ad9adfaa-1aec-67d1-114f-c61cdeb7d5ed,Saket Kumar Baranwal,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-31 00:00:00+00:00,2023.0,False,True
+55e6e452-fae2-a5ac-3c12-21424bffbcac,Likhitha Naga Vigneswari Satuluri,,unknown,0,,,,,,,,,,False,False,3,staying,2025-10-13 00:00:00+00:00,2025.0,True,True
+55e779dc-a32b-2acb-173b-7de67750927a,Bharathi Mb,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-02-11 00:00:00+00:00,2026.0,False,True
+d5ef5788-b130-4329-b2e7-5e0112badb3b,Khushi Bihani,Delhi,explicit_state_field,2,Delhi,,Delhi,,,110095,New Delhi,,,True,True,1,Staying,2026-08-04 00:00:00+00:00,2026.0,True,True
+2d21b1a6-f9fa-f115-d59a-f6f2f5ab38a9,Rajagopal Raghunath,,unknown,0,,,,,,,,,,False,False,2,exited,2023-07-30 00:00:00+00:00,2023.0,False,True
+3191d29c-7cc3-4be1-8972-df4076747878,Naveen Sai Reddy Vengalathur,Andhra Pradesh,explicit_state_field,3,Andhra Pradesh,,Andhra Pradesh,,Andhra Pradesh,524344,Nellore,,,True,True,1,Staying,2026-07-24 00:00:00+00:00,2026.0,True,True
+43f0cf08-520b-2feb-f383-29d0259afdfd,Anoohya Pinninti,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-15 00:00:00+00:00,2024.0,False,True
+f38ac232-fe6f-44f8-955c-18c46b4db738,Mohammad Nauman Shahid,Delhi,explicit_state_field,2,Delhi,,Delhi,,,110025,Delhi,,,True,True,2,Exited,2026-05-01 00:00:00+00:00,2026.0,True,True
+35f948f3-e8ec-6058-cf56-5561dd2379b3,Niket Shah,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-16 00:00:00+00:00,2023.0,False,True
+40a2b6da-1224-e406-7b33-bed31c6f706b,Aishwarya E V,,unknown,0,,,,,,,,,,False,False,2,exited,2024-03-14 00:00:00+00:00,2024.0,False,True
+41a311d7-b970-4e78-a30e-a633fc4e5f2f,Mihir Patil,Maharashtra,explicit_state_field,3,Maharashtra,,Maharashtra,,Maharashtra,416003,Kolhapur,,,True,True,1,Staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+515bcc7c-d963-93f1-5302-8325ce22b50d,Mathange N,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,2,exited,2023-08-03 00:00:00+00:00,2023.0,False,True
+5bd8ae9b-1819-e5c4-2504-df469edfcc55,Palisha Vohra,,unknown,0,,,,,,,,,,False,False,2,exited,2024-09-07 00:00:00+00:00,2024.0,False,True
+60164d2f-4db0-ba40-db9a-7f0847f7c40e,Akshay Bhole,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-22 00:00:00+00:00,2024.0,False,True
+cebf32f4-3855-47cb-849b-815d2a2b5228,Chaman Jain,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,600063,Chennai ,,,True,True,2,Exited,2026-04-05 00:00:00+00:00,2026.0,True,True
+b04d5316-5ef3-474d-1b9a-63b703c6f903,Jyotsna B,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-29 00:00:00+00:00,2024.0,False,True
+d2de48e8-0097-4d6d-8e3d-62ee7c8f2fcd,Dudala Sai Sujay,Andhra Pradesh,explicit_state_field,2,Andhra Pradesh,,Andhra Pradesh,,,532440,Palakonda,,,True,True,1,Staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+06410f6f-092c-1bfd-adad-83e726569b01,Miit Sajnani,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-04 00:00:00+00:00,2023.0,False,True
+75090056-f130-0ab9-cfeb-6434cf4a11f8,Sandeep Kumar Barnawal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-24 00:00:00+00:00,2025.0,False,True
+a75fdceb-021a-cc46-3632-8d5369c5f2c6,Vishal Chandravanshi,,unknown,0,,,,,,,,,,False,False,2,exited,2024-04-14 00:00:00+00:00,2024.0,False,True
+f295149c-bcb1-4d48-93ce-d2ea593d29c3,Aaditya Roshan,Uttar Pradesh,explicit_state_field,3,Uttar Pradesh,,Uttar Pradesh,,Uttar Pradesh,226021,Lucknow,,,True,True,1,Exited,2026-05-02 00:00:00+00:00,2026.0,False,True
+a8940edc-bbcb-7d7a-23c1-41287c12db28,Sai Sri Lakshmi Gogineni,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-06 00:00:00+00:00,2023.0,False,True
+2e7429df-04ff-40b8-8b77-da551c9573fa,Ashita Goyal,Delhi,explicit_state_field,2,Delhi,,Delhi,,,110006,New Delhi,,,True,True,1,Staying,2026-08-10 00:00:00+00:00,2026.0,True,True
+a6037691-771e-8146-3714-f9dedb8acbcc,Abhishek Chauthe,,unknown,0,,,,,,,,,,False,False,1,staying,2026-03-12 00:00:00+00:00,2026.0,True,True
+f8723af2-2adb-2870-b160-e1ad562524be,Souradeep Das,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-08-25 00:00:00+00:00,2025.0,False,True
+104a66bf-0d87-2acc-ec03-a73d1c1cfd53,Sime Josephine Victoria,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-10-06 00:00:00+00:00,2025.0,False,True
+34e687e0-29cc-e019-e1cc-610c96129aa7,Medona Shiny,,unknown,0,,,,,,,,,,False,False,2,exited,2024-07-13 00:00:00+00:00,2024.0,False,True
+417cb75b-9992-4df9-28ae-ad4d2313621f,Senthilkumar S,,unknown,0,,,,,,,,,,False,False,1,staying,2025-05-26 00:00:00+00:00,2025.0,True,True
+122c395f-56fd-4482-fe33-7fa3c3cd30b5,Zaheer Khan,Maharashtra,city_gazetteer_address,1,,,,Maharashtra,,,,,,False,False,1,Exited,2025-05-04 00:00:00+00:00,2025.0,False,True
+2c05db07-e980-4d52-a524-1b1ee5185554,Gautam Vijay Hanchinal,Karnataka,explicit_state_field,3,Karnataka,,Karnataka,,Karnataka,590016,Belgaum,,,True,True,1,Exited,2026-05-03 00:00:00+00:00,2026.0,False,True
+4725a45c-cc7a-af5b-e281-9c77ce5af921,Madhumitha Marimuthu,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-01 00:00:00+00:00,2025.0,False,True
+4767b29c-fde2-16bf-4b29-9e8578a3b33f,Sushil Kumar,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-03 00:00:00+00:00,2024.0,False,True
+4c4ad4c9-59bf-f152-d0ff-6502ec564cc9,Dhivya Parthasarathy,,unknown,0,,,,,,,,,,False,False,1,staying,2023-11-09 00:00:00+00:00,2023.0,True,True
+688c1e87-509f-593b-edca-995f95bab660,Aditya Prakash Singh,Uttar Pradesh,state_in_address,2,,Uttar Pradesh,Uttar Pradesh,,,221003,,,,False,False,1,exited,2023-06-01 00:00:00+00:00,2023.0,False,True
+cdc99a6c-25e6-f636-8375-da373082ebe7,Sriram Rajeev,Tamil Nadu,pincode_circle,1,,,Tamil Nadu,,,641604,,,,False,False,1,exited,2024-01-21 00:00:00+00:00,2024.0,False,True
+d751c131-c1c9-4f5c-88f8-7e4c6cb710b3,Dr RAM SHIROMANI,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,600036,Madras ,,,True,True,1,staying,2026-03-26 00:00:00+00:00,2026.0,True,True
+e8530c57-faad-4ff7-aec4-fb01b6118ece,Anjali Kumari Digal,Karnataka,explicit_state_field,3,Karnataka,,Karnataka,,Karnataka,560066,Bangalore,,,True,True,1,Staying,2026-08-01 00:00:00+00:00,2026.0,True,True
+a69637f4-58aa-8c7c-bb78-988df39d5312,Prathey Usha,,unknown,0,,,,,,,,,,False,False,1,exited,2022-12-17 00:00:00+00:00,2022.0,False,True
+86cd2239-fa55-0389-437e-e8fd505dc931,Aditya Srinivas A,,unknown,0,,,,,,,,,,False,False,1,staying,2025-01-12 00:00:00+00:00,2025.0,True,True
+d4231568-0b79-6003-3437-f394f3701746,Dinesh Kumar,,unknown,0,,,,,,,,,,False,False,2,exited,2022-03-21 00:00:00+00:00,2022.0,False,True
+a7798da2-f8ee-1840-a1f3-f29a9e764b97,Surya Nikhil Mallampalli,Andhra Pradesh,pincode_circle,1,,,Andhra Pradesh,,,521301,,,,False,False,1,Exited,2024-01-27 00:00:00+00:00,2024.0,False,True
+dde712bc-18d1-2c03-f628-723fb5a59630,Kalyani Ganesh,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+dfdd63a9-90db-4da3-adb5-56c3c1a524e9,Elias Abraham,,unknown,0,,,,,,,,,,False,False,1,exited,2021-10-08 00:00:00+00:00,2021.0,False,True
+55a565ea-b314-82c2-9853-c0f8c599fd47,Keshor Chandrasekaran,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+15957cb2-619d-197c-d37d-3de345a2eaf2,Stuti Srivastava,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-02 00:00:00+00:00,2024.0,False,True
+2ba81159-3fd3-401a-b806-4cf09e7dce86,Bhumika KR,Karnataka,explicit_state_field,2,Karnataka,,Karnataka,,,560097,BangaloreBengaluru,,,True,True,2,Staying,2026-05-06 00:00:00+00:00,2026.0,True,True
+61ba9d65-c5d2-97cc-0779-42a276357982,Garvit Mittal,Rajasthan,city_gazetteer_address,1,,,,Rajasthan,,,,,,False,False,1,exited,2023-07-03 00:00:00+00:00,2023.0,False,True
+723c7196-088f-8d67-4b5b-8ae0d1191ee2,Harsh Kamboj,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-12 00:00:00+00:00,2023.0,False,True
+87f78dfc-893b-67c1-a993-7f0f3f8826d0,Prasoon Panthayi,,unknown,0,,,,,,,,,,False,False,1,exited,2022-04-26 00:00:00+00:00,2022.0,False,True
+8d6ebc38-e2c1-4d2b-9366-4a456a82a6e2,Srithara Ragavan Rengaraj,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,626118,Virudhunagar,,,True,True,1,Staying,2026-08-02 00:00:00+00:00,2026.0,True,True
+9463d24e-34cf-6cd0-6028-b8d650851662,Aswin S,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+d4890451-59e6-45f4-a75f-b2199aa5a3a7,Harshil Arora,Delhi,explicit_state_field,2,Delhi,,Delhi,,,110031,East Delhi,,,True,True,1,Staying,2026-07-01 00:00:00+00:00,2026.0,True,True
+e093abe2-fae5-a599-2ee8-ce612d47e63e,Pratham Mishra,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-08-26 00:00:00+00:00,2025.0,False,True
+326fad9d-9ffb-2185-aa20-128326ae8d55,Suraj Pk,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-08 00:00:00+00:00,2024.0,False,True
+808d9a2f-fe45-ff33-05d5-14fa8d3cb0f7,Ranganath Praveen Harinath Prithiv,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-29 00:00:00+00:00,2024.0,False,True
+92a15096-be1f-4189-9ea8-c333765d732a,Deepthi Krishna,,unknown,0,,,,,,,,,,False,False,2,exited,2024-04-15 00:00:00+00:00,2024.0,False,True
+3c32a71f-5c9e-8178-0cae-bd32a791be8a,Subalakshmi P,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-09 00:00:00+00:00,2024.0,False,True
+45bab573-48ef-1237-bc52-123366b60e36,Sritama Sen,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-01 00:00:00+00:00,2025.0,False,True
+41aa512e-b3d6-49bc-9caa-eec244ee63d8,Shruti Shukla,Uttar Pradesh,explicit_state_field,1,Uttar Pradesh,,,,,262001,PILIBHIT,,,True,True,1,Exited,2026-04-15 00:00:00+00:00,2026.0,False,True
+abc4e249-e040-54f4-f788-e29c570be329,Swetha Murugan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-01 00:00:00+00:00,2024.0,False,True
+b7b0287f-8a38-d2ed-e085-c949c20e0e63,Eshita Sharma,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-10 00:00:00+00:00,2023.0,False,True
+dd2df257-3d61-a491-5af9-81f5c6e53864,Dhananjai Kullu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-01 00:00:00+00:00,2024.0,False,True
+6912f940-b40f-063a-99cc-154903028dfc,Esaimozhi K,,unknown,0,,,,,,,,,,False,False,2,exited,2024-06-02 00:00:00+00:00,2024.0,False,True
+71d0cea9-f852-7098-382e-1faeb96a5c43,Elijh Yani B,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-26 00:00:00+00:00,2024.0,False,True
+edee54e5-b970-ea10-551f-b156c26d8f0a,Sai Krishna Kuppili,,unknown,0,,,,,,,,,,False,False,5,Exited,2024-04-22 00:00:00+00:00,2024.0,True,True
+7a946cb2-0ac5-1884-bc60-3dd95933b35b,Rajpurohit Dheeraj Kumar,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-01 00:00:00+00:00,2024.0,False,True
+65dd3a53-9f8a-4d86-8de1-c52a46dcb5cf,Jubilee Sharma,Assam,explicit_state_field,2,Assam,,Assam,,,781011,Kamrup Metro,,,True,True,1,Staying,2026-08-01 00:00:00+00:00,2026.0,True,True
+31efad6c-2fd0-0f5c-58b7-21f64ea45f51,Rushikesh Kushare,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-01 00:00:00+00:00,2023.0,False,True
+0a84c6c8-93d4-72ff-5f1d-01ff651e37a9,Rohith R,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+0c47441c-0898-a35f-badb-b812b6d01ad6,Rhea Pradhan,,unknown,0,,,,,,,,,,False,False,2,exited,2022-08-24 00:00:00+00:00,2022.0,False,True
+bca70cc4-b2e4-ba57-6dee-d73dd559f02b,Rahul Abande,,unknown,0,,,,,,,,,,False,False,1,exited,2025-10-15 00:00:00+00:00,2025.0,False,True
+be84008a-74d3-3cc1-6fd6-bcef998f7bff,Sairam Ct,,unknown,0,,,,,,,,,,False,False,1,staying,2024-07-17 00:00:00+00:00,2024.0,True,True
+e494eb69-def2-556d-3bb9-7c4124ed109e,Ankit Mishra,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-01 00:00:00+00:00,2025.0,False,True
+e9138531-774b-4761-92b5-ba28b517d0dd,Niharika .,Maharashtra,explicit_state_field,2,Maharashtra,,Maharashtra,,,400706,Navi Mumbai,,,True,True,1,Staying,2026-08-04 00:00:00+00:00,2026.0,True,True
+15ff5934-5a4f-43fb-8bf6-4d798bd6a28b,Narmada Vaman,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,600054,Chennai ,,,True,True,2,Exited,2026-04-04 00:00:00+00:00,2026.0,True,True
+784b4f94-5ce8-8b6f-f109-d7279606a289,Vigneswaran D,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-18 00:00:00+00:00,2025.0,False,True
+7b5542ef-2ad2-f5ca-fded-c1fc893bbfe7,Shubhangi Sirohi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-04 00:00:00+00:00,2024.0,False,True
+9144ef75-92d7-5536-2219-5449d9012112,Anuya Karangale,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-03 00:00:00+00:00,2024.0,False,True
+91f3e470-906b-8c51-276b-0edca0862f6e,Shubham Kumar Jha,,unknown,0,,,,,,,,,,False,False,2,exited,2024-07-05 00:00:00+00:00,2024.0,False,True
+9f900469-9386-2160-8119-f92d41750c33,Asmita Dhuldhule,,unknown,0,,,,,,,,,,False,False,1,exited,2023-10-01 00:00:00+00:00,2023.0,False,True
+b31af44f-4ee2-0735-15ff-ed032255fcb8,Sowmiyaa S L,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-01 00:00:00+00:00,2024.0,False,True
+51c3d3a9-bfa0-4a8e-a687-3ef46bc022cc,Suha Sajad,Kerala,explicit_state_field,2,Kerala,,Kerala,,,679328,Wandoor,,,True,True,1,staying,2026-04-05 00:00:00+00:00,2026.0,True,True
+96eb765e-8626-caf6-aa02-fa3862c1f129,Swetha Prabakar,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-20 00:00:00+00:00,2023.0,False,True
+f7290eb5-6a3b-08ae-b5f7-726d85027796,Swarali Kadam,Maharashtra,pincode_circle,2,,,Maharashtra,Maharashtra,,411038,,,,False,False,2,exited,2023-08-19 00:00:00+00:00,2023.0,False,True
+241f63ee-cbe5-4d43-bf41-d44773f8015d,Logesh P S,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,632009,Vellore,,,True,True,1,booked,2026-08-01 00:00:00+00:00,2026.0,True,True
+fd2287dc-689b-6c39-6cd4-97a01165482f,Yatheeswari Parvathi D,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-03 00:00:00+00:00,2022.0,False,True
+600cc763-14c9-1654-f163-e1a930d5f63d,Himadri Das,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-08 00:00:00+00:00,2024.0,False,True
+6e70de8a-7b72-4a22-7398-844fbdb73884,Arnav Bahuguna,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-19 00:00:00+00:00,2025.0,False,True
+82ce206e-2925-18f5-f18c-d80631a9964e,Armaan Thakur,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-15 00:00:00+00:00,2025.0,False,True
+abd9f8e2-40f4-994c-f326-8ad6c939bb6a,Jeya Lakshmi Ramakrishnan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-04-04 00:00:00+00:00,2025.0,False,True
+ac062de4-c552-a0d7-9cc1-cbfe89c2ba68,Dev Patel,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-06 00:00:00+00:00,2025.0,False,True
+9c88cc60-ea13-4dd1-9930-ca14ff0c6aa0,Alapati Harshini,Andhra Pradesh,explicit_state_field,2,Andhra Pradesh,,Andhra Pradesh,,,521111,Meerjapuram,,,True,True,1,Exited,2026-05-03 00:00:00+00:00,2026.0,False,True
+c3c77367-5f51-f7a7-e667-0e3480f53751,Aditi Shrivastava,,unknown,0,,,,,,,,,,False,False,1,staying,2026-01-11 00:00:00+00:00,2026.0,True,True
+ddc88c00-9718-c4df-3621-16a20097ed7b,Azhagu Lakshmi Thangamalai,Tamil Nadu,state_in_address,1,,Tamil Nadu,,,,,,,,False,False,1,exited,2024-04-10 00:00:00+00:00,2024.0,False,True
+d3bef05d-1db4-2516-4e44-0c1b2d5ab25f,Balasanthan K,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-10-06 00:00:00+00:00,2025.0,False,True
+23bfb4c1-7bea-4ace-a564-9ae166eb6d35,Akshaya R,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,613005,Thanjavur,,,True,True,1,Staying,2026-08-02 00:00:00+00:00,2026.0,True,True
+6353c074-799c-5253-d673-577f581c8241,Gaayathri Ghantasala,Andhra Pradesh,city_gazetteer_address,1,,,,Andhra Pradesh,,,,,,False,False,1,exited,2025-04-14 00:00:00+00:00,2025.0,False,True
+1a3b6c74-26e1-7124-0b5c-7f783d71624d,Keerthiga K,,unknown,0,,,,,,,,,,False,False,2,staying,2026-01-03 00:00:00+00:00,2026.0,True,True
+d93d9661-c38b-55ac-e5ac-93c052d45622,Jakka Venkat Chandan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-21 00:00:00+00:00,2025.0,False,True
+7076f26b-5297-bb18-64d7-ba48dd2e64b2,Madhavan S,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-18 00:00:00+00:00,2025.0,False,True
+f9eb9b23-5f60-4ec4-b990-8313323bb759,Mithil Mohan,Puducherry,explicit_state_field,1,Puducherry,,,,,673310,Mahe,,,True,True,1,staying,2026-04-05 00:00:00+00:00,2026.0,True,True
+491b8136-32a1-37c5-5253-b53ff3991d86,Aditya Das,Jharkhand,state_in_address,3,,Jharkhand,Jharkhand,Jharkhand,,834002,,,,False,False,2,staying,2025-08-10 00:00:00+00:00,2025.0,True,True
+9b44bdef-cf8b-eacd-ee70-53714e8decd4,Hemanth M Reddy,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-21 00:00:00+00:00,2022.0,False,True
+083cff9b-ad02-40b0-93b8-969ab0460ee6,Jawahar Muthuramu,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,623504,Ramanathapuram,,,True,True,1,new,2026-05-15 00:00:00+00:00,2026.0,True,True
+a21826f9-a253-e7a0-bffc-493527c0c27c,Deepa Shankar,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-01 00:00:00+00:00,2023.0,False,True
+b1678783-4859-d51d-472d-a0ee831b2dca,Vrinda Tewari,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-01 00:00:00+00:00,2025.0,False,True
+c16f5af8-a99c-38c5-d338-56aa819d37ed,Prabu V,,unknown,0,,,,,,,,,,False,False,1,exited,2025-10-01 00:00:00+00:00,2025.0,False,True
+6f580bdd-0e5b-4f02-9bc8-3e2d2ac576b4,Tripura Taarini Dhulipala,Gujarat,explicit_state_field,3,Gujarat,,Gujarat,,Gujarat,361142,Jamnagar,,,True,True,0,new,,,False,False
+44bf5771-a669-438c-a190-88aab999cfae,Vaishnavi Prabha Chettiar,Maharashtra,explicit_state_field,3,Maharashtra,,Maharashtra,,Maharashtra,400053,Mumbai,,,True,True,1,Exited,2026-05-06 00:00:00+00:00,2026.0,False,True
+42fc943f-bd3d-2957-015f-48efdbb32e77,Ananaya B,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-01 00:00:00+00:00,2024.0,False,True
+0e742f99-42ca-8738-ee99-7cbcc8148b75,B H Abhinav Manohar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-10 00:00:00+00:00,2025.0,False,True
+6ebbc5fb-6283-337b-eb0a-246593184d36,Raam Nachiyappan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-26 00:00:00+00:00,2024.0,False,True
+9ae383b9-ccda-bfb6-bef4-a764b043b8c9,Sahal C,Kerala,state_in_address,2,,Kerala,,Kerala,,,,,,False,False,1,exited,2024-08-10 00:00:00+00:00,2024.0,False,True
+ac5ee6bc-de6f-6f5a-a196-731bff043dc7,Aldreena Dsouza,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-01 00:00:00+00:00,2024.0,False,True
+50259422-7cfb-0406-9801-42bc3a0d874f,Sinchan H,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+521635f8-15aa-4ce1-ab2f-276095cbbe1a,Gunalan Rajendran,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,608801,Cuddalore,,,True,True,1,Exited,2026-04-21 00:00:00+00:00,2026.0,False,True
+5110bc8b-7229-5952-e9db-5feb33391303,Sagarika Das,,unknown,0,,,,,,,,,,False,False,2,exited,2024-01-21 00:00:00+00:00,2024.0,False,True
+c54b5222-f7d9-ed70-424a-1c181544ce5d,Sahitya Edarada,,unknown,0,,,,,,,,,,False,False,1,exited,2023-02-05 00:00:00+00:00,2023.0,False,True
+2b773ffc-34e2-9684-1de8-d16c36abe81e,Malavika Aiyer,Maharashtra,city_gazetteer_address,1,,,,Maharashtra,,,,,,False,False,3,exited,2024-07-07 00:00:00+00:00,2024.0,False,True
+bdc0ce78-4229-0817-69bf-519ad5936b8e,Aditi Aggarwal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-04-08 00:00:00+00:00,2025.0,False,True
+cb2574c2-6caf-4598-82dc-12b9569a6451,vrinda bajaj,Maharashtra,explicit_state_field,3,Maharashtra,,Maharashtra,,Maharashtra,411001,Pune,,,True,True,1,Exited,2026-05-03 00:00:00+00:00,2026.0,False,True
+25ef6338-6197-45a8-82d9-ddd0a846f1b2,GD Harsha,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,612001,Kumbakonam,,,True,True,2,Staying,2026-05-02 00:00:00+00:00,2026.0,True,True
+5a2fde5b-0c01-0558-afeb-6fa352e3bdfd,Mudassir Ali,,unknown,0,,,,,,,,,,False,False,1,exited,2023-11-21 00:00:00+00:00,2023.0,False,True
+5e624b98-43a9-5e90-2d40-930d66aa9fe0,Vickey Bhardwaj,,unknown,0,,,,,,,,,,False,False,1,exited,2022-02-27 00:00:00+00:00,2022.0,False,True
+d6d6b302-4f36-4d0b-8751-2dceccd295bd,Akanksha Goswami,Uttarakhand,explicit_state_field,2,Uttarakhand,,,,Uttarakhand,249407,Haridwar,,,True,True,1,Exited,2026-04-06 00:00:00+00:00,2026.0,False,True
+64522a2f-e322-156d-83e4-4bf354875642,Ananthalakshmi P,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-18 00:00:00+00:00,2024.0,False,True
+ef5a90d6-7323-0d1e-1a6e-c7859259a1a0,Rishika Gupta,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-17 00:00:00+00:00,2024.0,False,True
+957835f1-148f-a349-d649-c485222c637b,Aarthi Balana,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+fb95c8f3-ccfe-5bd5-988d-238324462ce6,Akansha Seth,,unknown,0,,,,,,,,,,False,False,1,exited,2022-12-10 00:00:00+00:00,2022.0,False,True
+616c273c-a62e-9167-fb58-9d009c849684,Arvind Asokan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-01 00:00:00+00:00,2025.0,False,True
+a19decb8-62b0-41e2-8c42-c3b0954bebd1,Akshat Sharma,Rajasthan,explicit_state_field,3,Rajasthan,,Rajasthan,,Rajasthan,302015,Jaipur,,,True,True,0,new,,,False,False
+1f48149b-910c-401b-9638-49f13af032f1,Devarakonda Rajasimha,Andhra Pradesh,explicit_state_field,3,Andhra Pradesh,,Andhra Pradesh,,Andhra Pradesh,524004,Nellore,,,True,True,1,Exited,2026-04-28 00:00:00+00:00,2026.0,False,True
+4514d626-9864-572c-4d95-165e89926e0c,Daniel Deepak Charles,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-07 00:00:00+00:00,2022.0,False,True
+af16fe79-211b-993d-45cc-0c97af4a725c,Alka Mongia,Punjab,city_gazetteer_address,1,,,,Punjab,,,,,,False,False,1,exited,2025-09-16 00:00:00+00:00,2025.0,False,True
+b1a4c558-761c-ebef-6d40-cddeefa29c16,Palak Mahato,West Bengal,city_gazetteer_address,1,,,,West Bengal,,,,,,False,False,1,exited,2024-08-15 00:00:00+00:00,2024.0,False,True
+bb91db20-f031-af83-8e52-9b613ace7567,Niharika Shanbhogue,,unknown,0,,,,,,,,,,False,False,2,Exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+3761a198-73ca-bdb8-338b-d52c21eb8f2e,Sri Preethiga,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-07 00:00:00+00:00,2025.0,False,True
+04ba1c6f-6c06-819d-9ecc-a0c5f795b922,Benentia Alice Sanjana N,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,staying,2025-05-01 00:00:00+00:00,2025.0,True,True
+3a7c3cc7-1dd3-4574-993f-a7dae38a5277,Shreya Mahajan,Maharashtra,explicit_state_field,3,Maharashtra,,Maharashtra,,Maharashtra,422003,nashik,,,True,True,1,booked,2026-08-02 00:00:00+00:00,2026.0,True,True
+77dd12b8-a20b-05c8-2372-79ba1b1624a9,Krishanu Kashyap,,unknown,0,,,,,,,,,,False,False,1,staying,2024-06-06 00:00:00+00:00,2024.0,True,True
+0e9a7acc-570e-726d-5565-5a605a984559,Parul Dagar,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-04 00:00:00+00:00,2024.0,False,True
+8b018cc7-2387-99c8-5b29-d1ab1f7b635e,Savio Moloparambil,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-10-14 00:00:00+00:00,2025.0,False,True
+a4fda539-b878-9e2f-4784-30335f386517,Sreenivasa Kalyan,,unknown,0,,,,,,,,,,False,False,1,exited,2026-02-05 00:00:00+00:00,2026.0,False,True
+c61d6da9-3c3c-ce83-9533-0da9eb03e275,Vikram Shingadi,,unknown,0,,,,,,,,,,False,False,2,exited,2023-10-08 00:00:00+00:00,2023.0,False,True
+1261d726-9481-43dd-bac5-f1b158c8ab32,Aditya Bissa,Rajasthan,explicit_state_field,3,Rajasthan,,Rajasthan,,Rajasthan,305001,Ajmer,,,True,True,2,Exited,2026-05-05 00:00:00+00:00,2026.0,True,True
+c6f97b1f-509b-72c2-abfe-04b7982c9734,Malika Gupta,Odisha,city_gazetteer_address,1,,,,Odisha,,,,,,False,False,1,exited,2023-07-01 00:00:00+00:00,2023.0,False,True
+9defe9e8-4059-ba6b-5abd-0d1304e73008,Manish Joshi,,unknown,0,,,,,,,,,,False,False,3,Staying,2025-08-10 00:00:00+00:00,2025.0,True,True
+d8db3cf0-9648-79e5-3438-714cc7a5ef7c,Lalith Aditya Teegala,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-06 00:00:00+00:00,2024.0,False,True
+35944e8c-88c9-e8fb-698c-a53093262227,Muskan Chauhan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-04 00:00:00+00:00,2024.0,False,True
+4b85d836-4912-f7a8-46ac-19256a4ed1d4,Irene Mary Alias,Kerala,state_in_address,3,,Kerala,Kerala,Kerala,,686661,,,,False,False,1,exited,2025-02-01 00:00:00+00:00,2025.0,False,True
+e22769e5-3081-9c29-6384-39a85772a7f7,Kashika Rao,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-08 00:00:00+00:00,2023.0,False,True
+71afee6b-f2ab-0218-c8a3-84b8ca8ed21f,Nikhil R,,unknown,0,,,,,,,,,,False,False,1,exited,2025-12-20 00:00:00+00:00,2025.0,False,True
+062b56c4-c469-4ef7-b4e6-9615dd770ec9,Kanishka Prasath Kumar,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,612104,Thiruvidaimarudur,,,True,True,1,Staying,2026-06-03 00:00:00+00:00,2026.0,True,True
+110a92b5-de7a-739b-61d2-1bc6c35ab264,Srijitha Sengputa,,unknown,0,,,,,,,,,,False,False,2,exited,2022-08-15 00:00:00+00:00,2022.0,False,True
+c1113615-d2d6-1d6e-f618-c62e1d2af8de,Raghav Jain,,unknown,0,,,,,,,,,,False,False,2,exited,2024-05-25 00:00:00+00:00,2024.0,False,True
+d9a74fa5-6394-f751-240a-2ff642673fc5,Aditya Shinde,Maharashtra,city_gazetteer_address,1,,,,Maharashtra,,,,,,False,False,1,exited,2025-08-10 00:00:00+00:00,2025.0,False,True
+bcf8ffc1-fd5c-f6ab-0453-7a73c73786dd,Krithiga Nagarajan,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,staying,2024-06-08 00:00:00+00:00,2024.0,True,True
+0ccf966f-d23f-4994-fedc-211f2f60aa4f,Pratiksha Mishra,Chandigarh,state_in_address,2,,Chandigarh,,Chandigarh,,,,,,False,False,2,exited,2025-03-04 00:00:00+00:00,2025.0,False,True
+7febe483-ed64-6c53-4d6b-21d2a35f8861,Pooja Sri,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-16 00:00:00+00:00,2024.0,False,True
+93eb3d6a-d35b-ef1f-83b8-7430b6ad1674,Khushboo Sahani,,unknown,0,,,,,,,,,,False,False,1,staying,2024-04-06 00:00:00+00:00,2024.0,True,True
+94a44555-23ae-3135-5416-01dc72f3397c,Lovely John,,unknown,0,,,,,,,,,,False,False,1,exited,2026-01-04 00:00:00+00:00,2026.0,False,True
+94b99812-1e90-d6ec-a150-8d329faa5731,Srivarsha Ss,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-01 00:00:00+00:00,2024.0,False,True
+1bc75090-ac1a-44a6-bb22-f211aca7c760,Soham Pradhan,West Bengal,explicit_state_field,3,West Bengal,,West Bengal,,West Bengal,700078,Kolkata,,,True,True,1,Staying,2026-06-01 00:00:00+00:00,2026.0,True,True
+38c5737a-38f4-67e4-935b-157ed9f6fafa,Aravind G,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-01 00:00:00+00:00,2023.0,False,True
+950dd22f-78fa-d205-48b3-fe5a5cc7438e,Kumaraswamy K,,unknown,0,,,,,,,,,,False,False,1,staying,2021-12-17 00:00:00+00:00,2021.0,True,True
+d9974ff9-fd93-bc33-3ffc-1752ceb444ed,Olivia Sarkar,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-03 00:00:00+00:00,2023.0,False,True
+31748409-1d90-3bc0-903e-6d831133e944,Naga Sai Abheeshek Varma Chilakalapudi,Telangana,city_gazetteer_address,1,,,,Telangana,,,,,,False,False,1,exited,2025-01-15 00:00:00+00:00,2025.0,False,True
+837f201c-4ef9-cb95-fe17-9d9a634fe655,Gomathi Nayagam,,unknown,0,,,,,,,,,,False,False,1,exited,2022-08-29 00:00:00+00:00,2022.0,False,True
+e2bd7faf-b4c2-4626-e34f-5668ce501cf2,Manoranjith Kumar,,unknown,0,,,,,,,,,,False,False,1,exited,2021-04-10 00:00:00+00:00,2021.0,False,True
+e42a35e1-fb1e-c1c2-3bbc-674788bfa890,Binu John,Kerala,state_in_address,3,,Kerala,Kerala,Kerala,,695005,,,,False,False,2,exited,2022-09-13 00:00:00+00:00,2022.0,False,True
+f6c5c3d2-ceda-6c7f-aa96-359c7dc9ee92,Tara Shankar Snai,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-01 00:00:00+00:00,2025.0,False,True
+073e4bd7-f1f1-49d3-604f-c365b9952a6c,Joan Betcy B,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,staying,2025-06-07 00:00:00+00:00,2025.0,True,True
+917c05f9-ce5e-22cc-4ed5-85e8a7cded1f,Perla Bhagawaddarsini,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+0bf6d7d9-a9c2-d7bf-ca36-abc55ae462e0,Chandana Sai Bade,,unknown,0,,,,,,,,,,False,False,1,exited,2023-02-11 00:00:00+00:00,2023.0,False,True
+1218c50c-4da4-4f61-baec-5182a25958e3,Shakthi Bharathi S,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,632006,Virudampattu,,,True,True,1,Staying,2026-05-30 00:00:00+00:00,2026.0,True,True
+a83c1af9-decf-48ef-8576-c97d8b3ca11b,Gautam Jyotishi,Chhattisgarh,city_gazetteer_address,1,,,,Chhattisgarh,,,,,,False,False,1,exited,2025-08-08 00:00:00+00:00,2025.0,False,True
+f554ade4-2946-7db4-e90f-d619cc856308,Himanshu Dixit,,unknown,0,,,,,,,,,,False,False,2,exited,2024-06-13 00:00:00+00:00,2024.0,False,True
+fa05c958-760e-9f6b-3a86-aab8ce4195a6,Abu Saleha Md,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-07 00:00:00+00:00,2024.0,False,True
+389859df-460c-4966-a71d-eb7bbebae67b,Kanishka A C,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,638101,Erode,,,True,True,2,Exited,2026-05-11 00:00:00+00:00,2026.0,False,True
+2fbcd96d-eb6a-19f0-6a8f-741f31b3a2ed,Racherla Balaji Shashipreeth,,unknown,0,,,,,,,,,,False,False,1,exited,2022-03-27 00:00:00+00:00,2022.0,False,True
+468fa659-bd75-9ae2-c5e8-46930dd5d4f0,Vibhav Telang,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+7b363597-e341-177b-c080-b5e9c1d0afa0,Puneet Miglani,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-09 00:00:00+00:00,2022.0,False,True
+97df6798-c997-e797-69e0-f9b4b90aa285,Sidharthan B S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-22 00:00:00+00:00,2024.0,False,True
+a444fc44-8bca-304d-6698-2eae9037323b,Rituraj Sarma,,unknown,0,,,,,,,,,,False,False,2,exited,2022-12-03 00:00:00+00:00,2022.0,False,True
+cc165eb0-f3b5-d5c7-07ae-85ab0836cdcb,Naveen Raj,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-28 00:00:00+00:00,2024.0,False,True
+044fabca-8052-c100-2783-a270debc8c40,Shyam Sundar M G,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-11 00:00:00+00:00,2025.0,False,True
+09e32fec-fbd7-1db0-5695-ad127d667dcf,Rohit Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-12 00:00:00+00:00,2023.0,False,True
+18c2af76-2687-f1b7-a5f5-b709b086e568,Shivam Silswal,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-21 00:00:00+00:00,2024.0,False,True
+1df57eb4-c786-95e5-490c-5a8f8084e780,Ashish Maurya,,unknown,0,,,,,,,,,,False,False,2,exited,2024-06-10 00:00:00+00:00,2024.0,False,True
+d4a34184-ec1a-8b67-030d-6910715f4ccb,Ibrahim Kazi,,unknown,0,,,,,,,,,,False,False,2,exited,2024-09-25 00:00:00+00:00,2024.0,False,True
+e04a7b1e-bb22-2ccf-a342-9eea602847ff,Jeevitha Bethulakshmi Kannan,,unknown,0,,,,,,,,,,False,False,2,exited,2025-07-13 00:00:00+00:00,2025.0,False,True
+139a98f5-3c60-b2a1-8a36-2cb00cbb30aa,Mahidhar Dharmapuri,,unknown,0,,,,,,,,,,False,False,1,exited,2023-02-15 00:00:00+00:00,2023.0,False,True
+5d08244b-3f0c-f87f-c74e-bb751caa431d,Monish Shamukh Kasyap,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-26 00:00:00+00:00,2024.0,False,True
+6e83fcb8-4992-041a-cc06-1dd780a369bd,Nitya Gopal Chakraborty,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-01 00:00:00+00:00,2024.0,False,True
+739d70c1-409d-dba0-0566-781cf953032c,Simran Tyagi,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-01 00:00:00+00:00,2025.0,False,True
+94927866-7ca0-4311-b799-972822792cb8,Srinithi Srinivasan,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,641008,Coimbatore,,,True,True,1,Exited,2026-05-16 00:00:00+00:00,2026.0,False,True
+a0a90727-0e65-186e-98c0-ce95599a6c6b,Rohini M N,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-29 00:00:00+00:00,2024.0,False,True
+be860990-c12b-3ed5-fe91-15d7502c3202,Rohit Chakravarthy,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-16 00:00:00+00:00,2024.0,False,True
+d77b5c1e-605d-6795-5eee-1e2f9b83e069,Pranav Purkar,Maharashtra,city_gazetteer_address,1,,,,Maharashtra,,,,,,False,False,2,staying,2025-08-10 00:00:00+00:00,2025.0,True,True
+f5941657-44ee-cf7c-c636-1b9f5af485e0,Nivedhitha,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-13 00:00:00+00:00,2024.0,False,True
+f284b25b-d762-1399-a12e-ba7ffa6b6f97,Chandni S,,unknown,0,,,,,,,,,,False,False,1,staying,2025-01-05 00:00:00+00:00,2025.0,True,True
+0d8adc09-cbf7-8d73-f287-b681bfbb317f,Srilasya Siripurapu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-18 00:00:00+00:00,2024.0,False,True
+1382b8e8-f0c7-da45-7642-d77de8b58e14,Indrodeep Chakraborty,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+d9a14e76-d095-e740-24f8-644f19314ae3,Prakash Kumar R,,unknown,0,,,,,,,,,,False,False,2,exited,2024-07-17 00:00:00+00:00,2024.0,False,True
+7fc83db5-3912-b8f1-9ba6-d797d9d1ae44,Nithin Kumar,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-06-10 00:00:00+00:00,2025.0,False,True
+9cb00f2a-555b-1a9a-dad9-b812feb2d454,Jyotsna Pv,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-02 00:00:00+00:00,2023.0,False,True
+9d222235-3774-2080-1ce8-b145e39f24cc,Aditi Karra,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-03 00:00:00+00:00,2024.0,False,True
+c09e703c-d287-38c8-d1c1-239145e17df9,Naveen Joseph,,unknown,0,,,,,,,,,,False,False,1,staying,2022-09-15 00:00:00+00:00,2022.0,True,True
+e566d248-7676-7aad-d577-9319daac443c,Annette Joseph,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-05 00:00:00+00:00,2023.0,False,True
+8971261e-a813-477f-94c0-0a9661dc4c34,Aiswaryaa Krishnasamy Thandapani,Puducherry,explicit_state_field,2,Puducherry,,,,Puducherry,605003,Pondicherry,,,True,True,1,On-Notice,2026-05-26 00:00:00+00:00,2026.0,True,True
+a66a39a1-af53-6290-1e0b-7fc51cc20608,Sai Roshni Matta,,unknown,0,,,,,,,,,,False,False,3,exited,2023-01-31 00:00:00+00:00,2023.0,False,True
+ee61dd03-6eb9-0d71-8bf4-a01ac422b8be,Pushparaja Shanmugam,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-27 00:00:00+00:00,2024.0,False,True
+381ba86a-6881-bdfb-4f5a-707c6f5e9aed,Vivek Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-12 00:00:00+00:00,2023.0,False,True
+870c219c-545e-c0af-36d2-f6f57b386e38,Bhavya Jain,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+50605d3e-e2a0-7772-8450-a4081281c9ef,Jayashri,,unknown,0,,,,,,,,,,False,False,1,exited,2022-06-02 00:00:00+00:00,2022.0,False,True
+5bfdb36e-3dfe-cc51-2b37-5094673895ff,Shreeya Vyawahare,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-03 00:00:00+00:00,2024.0,False,True
+c39ead51-91e9-2b9a-c4cd-53e489500f17,Harida Pk,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-02 00:00:00+00:00,2022.0,False,True
+9653a402-ff75-bbdf-8cc6-1cb0ca01f233,Prem Chippada,,unknown,0,,,,,,,,,,False,False,1,staying,2024-10-27 00:00:00+00:00,2024.0,True,True
+c1b3479a-b415-c370-ba7c-636b4f4c56d9,Rishitha Thota,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-10 00:00:00+00:00,2025.0,False,True
+d7c0ea3c-0d4a-9c13-97f5-b8ec39339561,Siddhi Mulay,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-05 00:00:00+00:00,2022.0,False,True
+27847c66-2d18-b22c-9667-4a86dccb1baf,Pooja Soni,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-13 00:00:00+00:00,2023.0,False,True
+3a74b7fc-d3bc-7ba7-7c42-26dc9780e914,Abhishek Kumar Jha,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+f005cf0c-3af9-d63d-4ac7-a8200cd9cc33,Nivetha Sekar,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-05 00:00:00+00:00,2024.0,False,True
+b26425b9-c906-379a-5637-426b43a06a27,Akshitha G,Tamil Nadu,state_in_address,1,,Tamil Nadu,,,,,,,,False,False,1,exited,2025-12-31 00:00:00+00:00,2025.0,False,True
+bedf1700-eff3-152d-874d-4c22af0d3a50,Manmohan Sai Mohanty,,unknown,0,,,,,,,,,,False,False,2,exited,2024-05-27 00:00:00+00:00,2024.0,False,True
+4e667438-6e87-7652-9c8f-5dff0ffa3cad,Vipula Tiwari,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-11 00:00:00+00:00,2025.0,False,True
+d257c87f-0e42-048c-8409-362e925d86fc,Prateek Sharma,,unknown,0,,,,,,,,,,False,False,2,On-Notice,2024-04-05 00:00:00+00:00,2024.0,True,True
+5c4da9ce-c28f-4f36-100a-cdb91a5dbacf,Priyavrat Upadhyay,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-25 00:00:00+00:00,2022.0,False,True
+de481a65-2fb4-4974-b7db-0ec990ea852d,Vishal Mohanasundraam,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,641048,Coimbatore,,,True,True,3,Exited,2026-05-24 00:00:00+00:00,2026.0,True,True
+d97ef4f9-a927-a7e9-03a3-fc84f79e19af,Anjali Saluja,,unknown,0,,,,,,,,,,False,False,3,exited,2024-02-01 00:00:00+00:00,2024.0,False,True
+fc8a412e-e0d4-35e1-37fa-5f798b7dc7f4,Vaibhavi Patel,,unknown,0,,,,,,,,,,False,False,2,Exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+68aeb1a8-2bb6-3461-d034-3efe0958aa60,Rinki,,unknown,0,,,,,,,,,,False,False,1,exited,2021-09-12 00:00:00+00:00,2021.0,False,True
+1cae2ebd-8a9f-1738-4dc0-87dd4156d5ad,Amruta Puranik,Maharashtra,city_gazetteer_address,1,,,,Maharashtra,,,,,,False,False,2,exited,2024-08-18 00:00:00+00:00,2024.0,False,True
+658ecc07-55bf-045e-6651-ef83f51cb80c,Roshni Mahendra Kumar,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-06-15 00:00:00+00:00,2025.0,False,True
+88f048c5-b7c8-07d7-fb19-bbb6e4edc45c,Akshatha Chakravarthy,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+9721fe81-75b8-a314-4319-a323cdd3423b,Anjana K,,unknown,0,,,,,,,,,,False,False,2,exited,2024-04-10 00:00:00+00:00,2024.0,False,True
+a02cbd94-db98-954a-1f90-9e4d2a8b0fa3,Aishwarya Km,Kerala,state_in_address,1,,Kerala,,,,,,,,False,False,0,new,,,False,False
+4628a4bf-d4c5-9e5d-471c-271b9f3e7d03,Ravi S,,unknown,0,,,,,,,,,,False,False,1,staying,2021-12-05 00:00:00+00:00,2021.0,True,True
+f7735958-63ae-2289-7af5-5c07b2f03e4b,Shubham Marathe,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-05 00:00:00+00:00,2023.0,False,True
+5a80d7c7-f736-71e2-8154-770f5bc72752,Chandrasekar Y,,unknown,0,,,,,,,,,,False,False,2,exited,2024-04-22 00:00:00+00:00,2024.0,False,True
+a267e3ee-ef69-4d54-8414-357c81b2eb3c,Rahul R,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,638112,Erode,,,True,True,2,Exited,2026-05-24 00:00:00+00:00,2026.0,False,True
+a4ef95bf-1c7c-4c4d-0497-ae38085af6cc,Rama D,,unknown,0,,,,,,,,,,False,False,1,staying,2026-03-06 00:00:00+00:00,2026.0,True,True
+8123af5e-305b-80f8-20db-4d54b7f628c7,Anudatt Sunith,,unknown,0,,,,,,,,,,False,False,1,staying,2025-10-18 00:00:00+00:00,2025.0,True,True
+b8b6be48-e035-5592-13cf-00245f3eebcf,Sreenath A,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+f98f60f3-2029-dee7-bf7e-9f65e605f203,Shikha Trivedi,,unknown,0,,,,,,,,,,False,False,2,exited,2023-06-03 00:00:00+00:00,2023.0,False,True
+286a5d35-07d2-54bb-eb89-e9519f239c26,Ramya Vaalendena,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-10 00:00:00+00:00,2024.0,False,True
+722322ee-b5fe-22f8-eec8-93d6c633c016,Sumeet Jain,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-11 00:00:00+00:00,2022.0,False,True
+3e75e66b-4372-344b-25d8-de15915110c9,Ashwin Lakshmi C J K,,unknown,0,,,,,,,,,,False,False,2,exited,2023-01-02 00:00:00+00:00,2023.0,False,True
+82be44de-b1d6-4e48-e6bb-33ec98b83c7d,Priyesh Govind,,unknown,0,,,,,,,,,,False,False,1,staying,2026-01-07 00:00:00+00:00,2026.0,True,True
+9b39042f-8f31-8005-22b0-e41d8d856b61,Jazib,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-29 00:00:00+00:00,2024.0,False,True
+6ed46439-2061-4e9a-22bf-09593c79f73c,Anurag Madipelly,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+fe6fde7d-7b92-ab13-11b4-185f8e94938e,Aditya Mijar Shenoy,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-27 00:00:00+00:00,2022.0,False,True
+1029064e-62bf-0942-8a0b-85978e838d8a,Nishil Rajan,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-04 00:00:00+00:00,2023.0,False,True
+2d4a776f-2d3b-bce7-f4bb-29b420e033fe,Avinash Kothapalli,,unknown,0,,,,,,,,,,False,False,2,exited,2023-01-24 00:00:00+00:00,2023.0,False,True
+489c9b8c-183a-9712-86e4-708ba0da6f0e,Srilekha Telaprolu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-19 00:00:00+00:00,2024.0,False,True
+871465d8-763d-f593-3677-399c50f5ed41,Fiza Faizal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-03 00:00:00+00:00,2025.0,False,True
+b86ea6a7-2dc1-fc5f-06b6-5c77b4d2cda9,Hiral Shah,Gujarat,city_gazetteer_address,1,,,,Gujarat,,,,,,False,False,1,exited,2023-01-15 00:00:00+00:00,2023.0,False,True
+df5ea39c-c069-5211-271d-f0d3831adefa,Shubhashish,,unknown,0,,,,,,,,,,False,False,1,staying,2022-02-28 00:00:00+00:00,2022.0,True,True
+c9947b7f-26c4-6957-80a1-91eb275ee523,Kumaran S,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-01 00:00:00+00:00,2025.0,False,True
+43c47b55-f3bc-96d4-c7a6-8b91bccbfcc4,Pranjal Chouhan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-02 00:00:00+00:00,2025.0,False,True
+4855a811-b83a-7e07-56f0-ae3a0026d582,Nashwa Basheer,Kerala,state_in_address,1,,Kerala,,,,,,,,False,False,1,exited,2025-09-14 00:00:00+00:00,2025.0,False,True
+40d92b3b-7aee-338f-9b2d-58099584d322,Mayank Pal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-08 00:00:00+00:00,2025.0,False,True
+6b1b4605-9669-4c3b-6f7b-6a969ed41f8c,Mayuri Bhattacharjee,,unknown,0,,,,,,,,,,False,False,1,exited,2025-04-01 00:00:00+00:00,2025.0,False,True
+6e78d4b6-a6fd-2857-0e43-fd3dd95ac5d5,Dhayanithi Rp,,unknown,0,,,,,,,,,,False,False,1,exited,2023-10-03 00:00:00+00:00,2023.0,False,True
+d8c4b3c5-9b2a-4c6e-b1e8-0a98c9175234,Abdulkasim Fayas Sathik Batcha,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,612701,Tiruvarur,,,True,True,2,Staying,2026-05-03 00:00:00+00:00,2026.0,True,True
+71a2b1e6-ae5d-01fe-6e96-34a5a7d646fa,Mancy Vijayakumar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-09 00:00:00+00:00,2025.0,False,True
+83a0985e-723a-b726-545b-f8d9454ab851,Kavya Jagannathan,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+e8623393-ddec-fad5-91bf-c880b6345031,Sayali Chakre,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-02 00:00:00+00:00,2025.0,False,True
+444b3778-4bd6-62cd-0b3d-660eb12fd7c5,Subramanya S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-01 00:00:00+00:00,2024.0,False,True
+b6263381-5732-4544-952b-edde50fdfc28,Devayani Nair,Maharashtra,explicit_state_field,2,Maharashtra,,Maharashtra,,,421201,Kalyan,,,True,True,1,Exited,2026-05-24 00:00:00+00:00,2026.0,False,True
+890b32d9-f754-8150-5a18-8a21fcdf3828,Amala Menon,Kerala,state_in_address,2,,Kerala,,Kerala,,,,,,False,False,2,staying,2025-06-21 00:00:00+00:00,2025.0,True,True
+00af40b2-545a-c400-060e-9eba5e004ea3,Vidhyabhushan Mallela,,unknown,0,,,,,,,,,,False,False,3,exited,2025-06-09 00:00:00+00:00,2025.0,False,True
+1f9e7fcb-370e-fcc8-9554-35b2e3335370,Srimalini,,unknown,0,,,,,,,,,,False,False,1,exited,2022-02-13 00:00:00+00:00,2022.0,False,True
+ba8dd5e0-ed0e-8b6a-7098-2732476feb31,Suvetha V,,unknown,0,,,,,,,,,,False,False,1,staying,2022-11-19 00:00:00+00:00,2022.0,True,True
+238b347e-e7e9-b1a3-31a8-a2f8fed99f55,Ranjan Rai,,unknown,0,,,,,,,,,,False,False,1,staying,2025-01-17 00:00:00+00:00,2025.0,True,True
+706ec709-36e3-4de0-a55a-522efd0b3957,Saketh Grandhi,Andhra Pradesh,explicit_state_field,2,Andhra Pradesh,,Andhra Pradesh,,,534201,Bhimavaram,,,True,True,1,Exited,2026-05-25 00:00:00+00:00,2026.0,False,True
+2631ddfd-660e-8719-1876-82cf88e13a60,Kiran Tr,,unknown,0,,,,,,,,,,False,False,1,staying,2025-02-09 00:00:00+00:00,2025.0,True,True
+72263e8d-e74c-b64e-af0c-e7f293e84d88,Mihir Kadve,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-12 00:00:00+00:00,2024.0,False,True
+79942faa-d9c8-f124-aea4-e4fad7c15535,Nikhil Pandeyy,Madhya Pradesh,city_gazetteer_address,1,,,,Madhya Pradesh,,,,,,False,False,3,exited,2023-07-01 00:00:00+00:00,2023.0,False,True
+8b48adf3-c14a-fa6d-9785-b4bcb35f8fbb,Ashmita Baidya,,unknown,0,,,,,,,,,,False,False,1,staying,2025-07-11 00:00:00+00:00,2025.0,True,True
+8b05e4ed-5b76-3815-5b67-78cbca3872f3,Utkarsh De,,unknown,0,,,,,,,,,,False,False,4,exited,2022-01-10 00:00:00+00:00,2022.0,False,True
+9ac3331a-6738-8047-e8ca-91f09cac5444,Rahul Pillay,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-25 00:00:00+00:00,2023.0,False,True
+ab4b64a7-4f08-89f7-9835-689b479f16bd,Ankita Saini,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-27 00:00:00+00:00,2025.0,False,True
+8996897f-e383-4fca-87f9-654e1b14b3c2,Oviya P,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,624202,Dindigul,,,True,True,1,Staying,2026-05-23 00:00:00+00:00,2026.0,True,True
+b2c95a31-a85f-5161-1831-d1b5844db7aa,Ajayanumandhan T,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-10 00:00:00+00:00,2025.0,False,True
+33660a1a-0cb4-11b6-6d4f-9067a1b78d50,Subham Tewari,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-10 00:00:00+00:00,2024.0,False,True
+d225973a-f437-d98e-4e24-0fb32a7bfbe8,Sai Priya Thamodaran,,unknown,0,,,,,,,,,,False,False,1,staying,2025-11-09 00:00:00+00:00,2025.0,True,True
+36d4dedb-75eb-6f4f-03fa-79d0875789aa,Siya Sharma,,unknown,0,,,,,,,,,,False,False,1,exited,2022-11-01 00:00:00+00:00,2022.0,False,True
+5b45a840-9d6c-242e-0e2f-2e2c972c2eec,Tanusha C Karlekar,,unknown,0,,,,,,,,,,False,False,2,staying,2025-07-01 00:00:00+00:00,2025.0,True,True
+830c9580-658d-2fe6-9ce7-c95b69d6b654,Siddanth Vaibhav,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-30 00:00:00+00:00,2024.0,False,True
+bd3f4633-fc1a-c044-f3e9-b062f342b45b,Anugraha Ajay,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+d178a884-0bd1-601d-4cd1-042bac71c6db,Nisha Nair,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,3,Exited,2019-11-03 00:00:00+00:00,2019.0,False,True
+c96cd80c-897a-0e58-3b1b-6a87b1da40da,Akshay Kulangaravalappil Jini,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-01 00:00:00+00:00,2023.0,False,True
+e901a679-5642-95d9-c296-c0a073a8c3c9,Akshay Balaji,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-10 00:00:00+00:00,2022.0,False,True
+eb57a7dd-c5a7-c09f-0cac-cbe60dc9fdef,Aksh Sood,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-31 00:00:00+00:00,2023.0,False,True
+c675e97a-0958-0695-90b3-49311eec8fd7,Suhani Mehrotra,,unknown,0,,,,,,,,,,False,False,1,staying,2025-08-02 00:00:00+00:00,2025.0,True,True
+146a8458-f956-54ed-317f-b99f7d16fff8,Sathiyan Gopalan,,unknown,0,,,,,,,,,,False,False,1,On-Notice,2024-06-12 00:00:00+00:00,2024.0,True,True
+ff6404e4-c757-df50-27ad-b0185fb6159f,Binayak Debgupta,,unknown,0,,,,,,,,,,False,False,1,exited,2023-02-23 00:00:00+00:00,2023.0,False,True
+77bef647-c1d3-a381-aa37-fc37c1e0d475,Shivasuthan Ks,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-23 00:00:00+00:00,2023.0,False,True
+74c6b975-b0ab-c8b3-8acd-2cf53597a72b,Hemavarshini Gnanavel,,unknown,0,,,,,,,,,,False,False,2,exited,2023-12-01 00:00:00+00:00,2023.0,False,True
+b350bfbd-5bbb-d523-c32f-5c5d2cc7e980,Manoj Kalinga,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-06 00:00:00+00:00,2025.0,False,True
+f91c2854-a88b-4630-b2a6-c48401e4dd14,Thilak S,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,638004,Erode,,,True,True,1,On-Notice,2026-05-23 00:00:00+00:00,2026.0,True,True
+051d1ba0-2ce6-ea15-c68f-cc2aa5673d1b,Navika M S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-16 00:00:00+00:00,2024.0,False,True
+7affb281-fd63-123b-f51b-039cdb04bac3,Goueremucha Sushmita,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+948e127e-1397-c348-126f-f92cf3d5f5ee,Ananya Ganguli,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-07 00:00:00+00:00,2023.0,False,True
+b0d0445c-f096-76a5-fe2c-b1763bf811ae,Rithvikca R,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-01 00:00:00+00:00,2023.0,False,True
+0ea0c6d9-a99f-89ea-6b85-9ae409698bd3,Snehaji N,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,Tamil Nadu,,635109,,,,False,False,1,exited,2025-04-16 00:00:00+00:00,2025.0,False,True
+ed81c9d1-2831-bde9-5069-b1610e852d22,Anjali Saluja,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+190cae44-33ef-8fc1-f07a-fb84a1b78bdf,Aryan Barnwal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-04 00:00:00+00:00,2025.0,False,True
+40da1241-f931-fd4a-747c-9dc5f68a8870,Hitesh Kanwar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-10 00:00:00+00:00,2025.0,False,True
+3f1cffa7-f19d-26f8-f9fb-1d746c3e5897,Bharathi Priyadharshini,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-08 00:00:00+00:00,2024.0,False,True
+69cdac2d-5b6b-b150-9404-e304648e9cd9,Prabhu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-01 00:00:00+00:00,2024.0,False,True
+6ce85c3e-5f40-4297-8c38-22ac7432420e,Brinda Vivek Kotha,,unknown,0,,,,,,,,,,False,False,2,exited,2024-03-23 00:00:00+00:00,2024.0,False,True
+e99afa10-6249-3f5b-4364-da75f89e34f9,Anshika Agrawal,Madhya Pradesh,pincode_circle,2,,,Madhya Pradesh,Madhya Pradesh,,452001,,,,False,False,2,Exited,2026-01-11 00:00:00+00:00,2026.0,False,True
+72ac33cc-b9b2-9cc4-47fd-d37096c8f30d,Sathyasai Regalla,,unknown,0,,,,,,,,,,False,False,1,staying,2025-12-06 00:00:00+00:00,2025.0,True,True
+f77c1bcf-16d6-03e4-a541-7ee504583fa1,Saumil Shah,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-26 00:00:00+00:00,2025.0,False,True
+9aab8e6f-97e4-131f-c6cd-a91d11668656,Snigdha Rashmi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-12 00:00:00+00:00,2024.0,False,True
+c0791d4c-9325-bf1b-30af-7af648c26338,Harsh Gupta,,unknown,0,,,,,,,,,,False,False,7,Exited,2023-08-13 00:00:00+00:00,2023.0,False,True
+f86287b5-4309-8135-37cc-77b6edad4fe0,Praveen Kumar R,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-29 00:00:00+00:00,2024.0,False,True
+c5f06080-0e56-7320-2b20-c475af283bb3,Ravi Sundar V,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-07 00:00:00+00:00,2025.0,False,True
+cbb740b5-9333-dfcd-1569-afb75eed1d47,Swapnaneel Mukherjee,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+19214e19-efc4-4eea-8118-944c998e3ab6,Dhanush Kumar,Karnataka,explicit_state_field,3,Karnataka,,Karnataka,,Karnataka,575005,Mangalore,,,True,True,1,Exited,2026-05-27 00:00:00+00:00,2026.0,False,True
+e05ca394-0bd7-4177-15e5-369f9309fe8e,Swapnil Tyagi,,unknown,0,,,,,,,,,,False,False,1,exited,2026-01-03 00:00:00+00:00,2026.0,False,True
+430caea5-4a9a-cf87-274e-54e1547ff83b,Athreya Guru,,unknown,0,,,,,,,,,,False,False,2,exited,2023-06-14 00:00:00+00:00,2023.0,False,True
+d123a096-4929-ff8c-4efa-a8e4543d3da7,Anagh Manamal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-29 00:00:00+00:00,2025.0,False,True
+01426448-b911-b1b8-ce7d-46e4a4c39abd,Gnanamuthu Pragasamuthu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-01 00:00:00+00:00,2024.0,False,True
+49cf43d8-a86e-89e5-c138-85e43fd070f0,Surya Parthipan,,unknown,0,,,,,,,,,,False,False,3,exited,2022-03-31 00:00:00+00:00,2022.0,False,True
+578a3282-8944-775f-9316-972781e18e43,Whesley Anburaj,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-03 00:00:00+00:00,2024.0,False,True
+8aacbc78-5e56-b3c0-f8bc-fcb5490b94f3,Nirmala A,,unknown,0,,,,,,,,,,False,False,2,staying,2022-04-16 00:00:00+00:00,2022.0,True,True
+6495c64a-347e-a2fb-4303-2b182f9760f4,Dheeraj Bhardwaj,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-26 00:00:00+00:00,2024.0,False,True
+a37952d0-6157-9f25-17d5-9eb05d1d5c99,Gadiparti Yamini,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-20 00:00:00+00:00,2023.0,False,True
+d8535b5d-398f-153d-bb17-178c0cc090b1,Stanley Varghese,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-05 00:00:00+00:00,2024.0,False,True
+e94dc9d5-cb52-49ec-80b1-98376aceb874,Sarada Manaswini U,Telangana,city_gazetteer_address,1,,,,Telangana,,,,,,False,False,1,exited,2024-07-27 00:00:00+00:00,2024.0,False,True
+ae8e3d8f-b8b1-bee6-7ee3-4c63215f4668,Aparna D,,unknown,0,,,,,,,,,,False,False,1,exited,2022-08-28 00:00:00+00:00,2022.0,False,True
+e85daa48-7686-4c0f-afdb-f0bba0670510,PRAVEEN J,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,606303,Cuddalore,,,True,True,1,new,2026-06-01 00:00:00+00:00,2026.0,True,True
+250b022c-3939-b3f3-3bed-7c6420071569,Kiruba Shankar Sn,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-28 00:00:00+00:00,2022.0,False,True
+3b02f95a-b47e-1037-4f8a-f2f31e35c98e,Srivatsava Narasimhan,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-09-01 00:00:00+00:00,2025.0,False,True
+73715344-908a-b7fa-00cc-34358ffb16f0,Sneh Pratap,,unknown,0,,,,,,,,,,False,False,1,On-Notice,2026-01-08 00:00:00+00:00,2026.0,True,True
+f79d879a-c8fc-fe8d-24d8-e6dd69a6157b,Deepa R S,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2024-05-16 00:00:00+00:00,2024.0,False,True
+b6e41436-0d0b-6df1-f3ce-b1b810039f54,Aishwarya,,unknown,0,,,,,,,,,,False,False,1,exited,2022-06-23 00:00:00+00:00,2022.0,False,True
+c084c357-8268-b2c6-76e0-aa7c5b28eace,Umansh Agarwal,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-28 00:00:00+00:00,2024.0,False,True
+080eae03-9f65-4515-aec2-8924472923dd,Maria Navin Mazhuvancherry,Kerala,explicit_state_field,3,Kerala,,Kerala,,Kerala,682018,Ernakulam,,,True,True,2,Exited,2026-05-29 00:00:00+00:00,2026.0,False,True
+623531a9-cbf0-3887-51de-f6a7ce52c112,Krishna Srikar Gudipati,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+c6f8f5a1-01e7-adae-881b-484cc1497fd2,Karthik Thilakan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-02 00:00:00+00:00,2025.0,False,True
+0632e1c8-fb91-3269-00af-8a625740b33a,Aditi Yadav,West Bengal,city_gazetteer_address,1,,,,West Bengal,,,,,,False,False,1,exited,2024-07-14 00:00:00+00:00,2024.0,False,True
+629517f3-fdb4-36cf-3727-4dc3c7735927,Nilima Neetu Tirkey,Jharkhand,city_gazetteer_address,1,,,,Jharkhand,,,,,,False,False,1,exited,2023-08-10 00:00:00+00:00,2023.0,False,True
+11e96dd2-92f4-f793-56db-439d5b3de156,Joel Shajan,,unknown,0,,,,,,,,,,False,False,1,staying,2025-08-15 00:00:00+00:00,2025.0,True,True
+1d4c0119-5151-7a5b-2266-f16e44f67157,Akshay Verma,Himachal Pradesh,city_gazetteer_address,1,,,,Himachal Pradesh,,,,,,False,False,1,staying,2025-07-06 00:00:00+00:00,2025.0,True,True
+55061549-ef30-d416-5668-dd5177fe8537,Hiranmayee Ganorkar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-15 00:00:00+00:00,2025.0,False,True
+d138013a-97ca-4fa3-6f50-39e8a822c8f1,Kritika Patwary,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+cfafc518-7e80-2226-59c0-7497a5140575,Anil Raagu,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-05 00:00:00+00:00,2022.0,False,True
+d9857276-9b99-dda8-37d2-9c3305467cf9,Kishore Kumar,,unknown,0,,,,,,,,,,False,False,1,exited,2021-08-15 00:00:00+00:00,2021.0,False,True
+068260fe-ff67-c96c-b5b4-1d5c207e7678,Maithilee Bhor,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-11 00:00:00+00:00,2025.0,False,True
+76a620a9-921f-b048-0a25-0636200165f2,Vineeth,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-04 00:00:00+00:00,2024.0,False,True
+7e34d667-038a-d9ba-a991-c75dc71723b1,Nigalyaa Chandrakumar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+a49b0cf0-1628-8e87-9dab-bcaadef590a2,Subarna Dutta Biswas,,unknown,0,,,,,,,,,,False,False,2,exited,2024-10-16 00:00:00+00:00,2024.0,False,True
+f9e5a9a2-c104-83c6-c74c-f1bf39a7efc9,Nirmala B,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-15 00:00:00+00:00,2024.0,False,True
+6b09d039-cf8e-551f-8822-491aa1acd5b5,Nirnay Mahapatra,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-01 00:00:00+00:00,2023.0,False,True
+6e7c9f12-4ee2-b59f-9d83-86cac2cc52ae,Neha Rajput,,unknown,0,,,,,,,,,,False,False,2,exited,2022-07-04 00:00:00+00:00,2022.0,False,True
+aa88d180-8c53-dbe4-70de-ecf38130d3ce,Shreya Agrawal,,unknown,0,,,,,,,,,,False,False,1,Staying,2026-02-01 00:00:00+00:00,2026.0,True,True
+051533c6-c514-5e79-9a31-56bbdcf6cbf8,Syed Fawaaz Qureshi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-08 00:00:00+00:00,2024.0,False,True
+04bf244c-6798-a8e7-4f9c-31d58ae63fb5,Pragathi Patilkulkarni,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-03 00:00:00+00:00,2024.0,False,True
+17158604-e395-caf3-e094-b986e1ff772c,Sundara Vadivel,,unknown,0,,,,,,,,,,False,False,1,exited,2021-01-11 00:00:00+00:00,2021.0,False,True
+bff3673d-270f-8d85-4611-b0b373c8f463,Krithika K,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2023-04-18 00:00:00+00:00,2023.0,False,True
+c7e6aeb2-e9e9-328e-5313-6707fdea4eaa,Dhanasuriya D,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-03-09 00:00:00+00:00,2026.0,False,True
+d6399dd9-db95-454d-8705-856132cdb66b,Girish Kalaimanee,Puducherry,explicit_state_field,2,Puducherry,,,,Puducherry,605011,Puducherry,,,True,True,1,Exited,2026-06-01 00:00:00+00:00,2026.0,False,True
+ef85cca0-602c-2f43-6640-044c533cbf5e,Oveya S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-31 00:00:00+00:00,2024.0,False,True
+2371838e-ccdb-787c-4fcf-71f0be68084b,Bhakti Soni,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-13 00:00:00+00:00,2025.0,False,True
+434d75cb-183a-9772-9088-93a7b3f89d25,Parth Sarthi Prasad,Delhi,state_in_address,1,,Delhi,,,,,,,,False,False,2,exited,2023-01-31 00:00:00+00:00,2023.0,False,True
+5da1807e-9e71-dbce-ed22-53d6d2795850,Shresht Choubey,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-29 00:00:00+00:00,2025.0,False,True
+69e2b5bf-d6ac-e96b-9557-8057f1373d98,Saswat Panigrahi,,unknown,0,,,,,,,,,,False,False,2,exited,2023-07-03 00:00:00+00:00,2023.0,False,True
+6542b72b-196a-4538-a690-2db7cc212936,Sohani Saloni Mohanty,Delhi,state_in_address,1,,Delhi,,,,,,,,False,False,2,Exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+1e9d26b2-a76d-4466-289a-4fc29b6f0ec0,Vivek John P,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-09 00:00:00+00:00,2022.0,False,True
+3b48ac67-d1fa-b227-f284-5da0a25e5ac0,Voruganti Pratyusha,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-06-07 00:00:00+00:00,2025.0,False,True
+b9fa55c7-7e7e-997b-0a1f-de60452ef17e,Suchitprasath Dhamodharan,,unknown,0,,,,,,,,,,False,False,2,exited,2022-05-15 00:00:00+00:00,2022.0,False,True
+d37a6d0e-0b11-f980-af8f-25a1b0f752d2,Keshav Lalit,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+413fa992-b668-d564-13e9-5f16a70196f2,Sayam Bachi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-01 00:00:00+00:00,2024.0,False,True
+0c869ab0-6a8e-0fdf-0bdf-20ca57cb67cd,Tabreez Ahamed,Karnataka,city_gazetteer_address,1,,,,Karnataka,,,,,,False,False,1,exited,2023-07-05 00:00:00+00:00,2023.0,False,True
+11e59c65-004e-4eea-a733-d3a6a7c65fb1,Harshanand S V,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,602024,THIRUNINDRAVUR,,,True,True,1,Staying,2026-06-01 00:00:00+00:00,2026.0,True,True
+22b72d22-cdf8-d918-1731-0c3954f2f732,Yuvethaa Suresh,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2026-01-01 00:00:00+00:00,2026.0,False,True
+28bc36ac-10ee-238f-d3f4-24d10136bbb5,Sakthi Nivetha S,,unknown,0,,,,,,,,,,False,False,1,exited,2022-11-09 00:00:00+00:00,2022.0,False,True
+f314b248-499b-0fe1-eb90-6a2940d95f0d,Aditi Maurya,,unknown,0,,,,,,,,,,False,False,3,exited,2023-10-08 00:00:00+00:00,2023.0,False,True
+2d732934-6a6e-e41c-d60c-fd6fe935e3df,Bidisha Das,,unknown,0,,,,,,,,,,False,False,2,exited,2023-07-13 00:00:00+00:00,2023.0,False,True
+257579ca-bef0-99b8-f916-e518891ffdab,Kurian Benoy,,unknown,0,,,,,,,,,,False,False,3,Staying,2024-04-22 00:00:00+00:00,2024.0,True,True
+4f1fd1d7-d774-fba8-8ed3-38e9a3bc0c3a,Ayushi Raj,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-01 00:00:00+00:00,2024.0,False,True
+6278bf1d-4c63-0c31-4fa1-7d452c7db010,Aarushi Bhadu,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-06 00:00:00+00:00,2023.0,False,True
+9050d309-bb46-1fa9-d2a7-3a2fb8cb8e8c,Srijitha Bose,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+a4ad6467-4ec1-fa00-797a-7e2124bd00ab,Swastika Karthikeyan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-13 00:00:00+00:00,2024.0,False,True
+b111e4dd-be1d-2c79-3945-480547761b5f,Meghna Ravuru,,unknown,0,,,,,,,,,,False,False,2,exited,2023-01-09 00:00:00+00:00,2023.0,False,True
+6ce637bf-a5e4-da07-b2a7-e56253fe17bd,Harsh Ashish,,unknown,0,,,,,,,,,,False,True,2,Exited,2024-04-07 00:00:00+00:00,2024.0,False,True
+66fbcb59-3d06-d8cc-b1d5-53f38a599207,Sharon Swetha,,unknown,0,,,,,,,,,,False,False,1,staying,2025-01-01 00:00:00+00:00,2025.0,True,True
+6ab14a0e-40b4-1e6b-a759-1f8531dd878a,Hashmitraa V P,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-01 00:00:00+00:00,2024.0,False,True
+af12a12c-92bf-088b-3073-292fe4dfc478,Vijay Babu Kumaresan,,unknown,0,,,,,,,,,,False,False,1,staying,2025-05-05 00:00:00+00:00,2025.0,True,True
+1fc0c3bb-f35c-8d5d-a4fa-a9c1723cd8ab,Narendhren Rr,,unknown,0,,,,,,,,,,False,False,3,staying,2022-08-18 00:00:00+00:00,2022.0,True,True
+3caa59e9-5e0d-3ca4-6303-a17bdb2e20ec,Srinivasa Raghavan P,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-10 00:00:00+00:00,2025.0,False,True
+3d18aa61-88d3-4390-b5d3-db4cb2e31e11,Sanjusree Karthikeyan,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,632001,Vellore,,,True,True,1,Exited,2026-06-09 00:00:00+00:00,2026.0,False,True
+3fa90f86-f0f5-7489-1807-029cb1ab0732,Yadi Bagang,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-11 00:00:00+00:00,2023.0,False,True
+44cb47a3-0123-781d-7158-6019cedce0c5,Susinder R,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-25 00:00:00+00:00,2023.0,False,True
+4fa36c6d-dd24-c5f2-e7aa-11dd52a85410,Shamruthi R,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-21 00:00:00+00:00,2024.0,False,True
+688246fa-51e4-45c3-175a-819fff63e96e,Rakshna Vr,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-28 00:00:00+00:00,2024.0,False,True
+955a31f0-4ce6-e583-d7a5-2f685446c8d4,Samikshya Mohapatra,Odisha,city_gazetteer_address,1,,,,Odisha,,,,,,False,False,1,exited,2023-07-18 00:00:00+00:00,2023.0,False,True
+74425108-c069-c2a3-c3eb-b19cde49ac2a,Tanushree Senthil Kugan,,unknown,0,,,,,,,,,,False,False,2,exited,2023-07-30 00:00:00+00:00,2023.0,False,True
+8f56f478-33ca-5786-0bcf-7c6240deb975,Deepika Balamurugan,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-02 00:00:00+00:00,2023.0,False,True
+e69b34ab-6e43-6fed-502a-f581ffb05733,Saravana Ganesh M,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-15 00:00:00+00:00,2023.0,False,True
+e457493c-1fc6-a2cf-a2a6-22b48ef8706e,Subiksha Dharani,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-10 00:00:00+00:00,2025.0,False,True
+ec54c666-5b64-42fd-9eb8-880606816c1e,Annamalai Perikaruppan,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,600020,Chennai,,,True,True,3,new,2026-06-08 00:00:00+00:00,2026.0,True,True
+0889d3cb-acd6-687a-2d41-4c7feb20b8d0,Nishant Yadav,Karnataka,city_gazetteer_address,1,,,,Karnataka,,,,,,False,False,0,new,,,False,False
+0e8d8c4f-79bb-5fec-80fb-bd042f559818,Vishal Kedia,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-09 00:00:00+00:00,2025.0,False,True
+1c15f311-412b-2817-f3a4-3ec5e516eaa9,Caroline Elizabeth,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-06 00:00:00+00:00,2023.0,False,True
+fc3a7af3-d462-ffa0-bf10-348fe7f764f5,Gaurav Agarwal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-01 00:00:00+00:00,2025.0,False,True
+890d247c-e472-92eb-0db7-ca3bc375622c,Keerthana M C,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-16 00:00:00+00:00,2024.0,False,True
+99cb0e3f-ce68-22de-40e4-438506e6b0c3,Ashmitha Sherine,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-04 00:00:00+00:00,2025.0,False,True
+dd81a269-5627-77bf-d8c4-d2e7d309f56e,Akshay R,Karnataka,city_gazetteer_address,1,,,,Karnataka,,,,,,False,False,1,exited,2023-07-23 00:00:00+00:00,2023.0,False,True
+53c9ff97-f078-6148-923e-9d1a21b9bb60,Kanimozhi Udayakumar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-28 00:00:00+00:00,2025.0,False,True
+723e4719-99e5-42b4-8edb-c941d3ad5c93,Yash Agarwal,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-08 00:00:00+00:00,2025.0,False,True
+4d4ac955-333e-b31d-518e-68e57ed5a423,Jayanthan Ramesh Vellore,,unknown,0,,,,,,,,,,False,False,2,exited,2024-04-03 00:00:00+00:00,2024.0,False,True
+654e3ef6-911b-73eb-f126-8e10c6c771ab,Vaishnev Prabhakaran,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-18 00:00:00+00:00,2024.0,False,True
+83e77e09-8761-048c-2985-307a257388f8,Aditya Bakshi,Maharashtra,city_gazetteer_address,1,,,,Maharashtra,,,,,,False,False,1,exited,2024-07-24 00:00:00+00:00,2024.0,False,True
+7e2a1e58-e10a-4352-ca15-59fd22f2c07e,Sreya U,Kerala,city_gazetteer_address,1,,,,Kerala,,,,,,False,False,1,Exited,2026-02-08 00:00:00+00:00,2026.0,False,True
+91790eb8-6491-6d23-ef11-754f8866657b,Satvik Srivatsav,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-12 00:00:00+00:00,2023.0,False,True
+a0d1928e-1f94-6060-c256-0e725600dd86,Prakashraj,,unknown,0,,,,,,,,,,False,False,1,exited,2022-02-26 00:00:00+00:00,2022.0,False,True
+ac48f9eb-d29c-dce0-7bb2-14ddd6c76bc0,Joppachan Zacharias,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-10 00:00:00+00:00,2023.0,False,True
+aef77983-7800-2a5e-a493-f1d287ebcf25,Aparna B,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+c852dd54-9779-3528-3d0b-6a92cab8c45f,Thahseenah Begam,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-31 00:00:00+00:00,2023.0,False,True
+d5ca07a4-5a17-10e0-05b0-7004e41a6a57,Varsshini Vs,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-15 00:00:00+00:00,2022.0,False,True
+2b785f57-1c4f-d4a8-d486-b69e7b2db5bc,Yashwanthi V,,unknown,0,,,,,,,,,,False,False,1,staying,2025-04-08 00:00:00+00:00,2025.0,True,True
+34100f9a-d3d0-f695-2b19-ecd7a4ff292c,Apoorva Chintapalli,Telangana,state_in_address,2,,Telangana,,Telangana,,,,,,False,False,1,exited,2023-04-08 00:00:00+00:00,2023.0,False,True
+3e2fea93-18a8-93d6-164a-73bb3ab8c191,Bala Saraswathi R,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-18 00:00:00+00:00,2025.0,False,True
+4e39608a-6f55-4cc0-ac26-00c939421464,OMEL PAUL,Kerala,explicit_state_field,2,Kerala,,Kerala,,,686522,Ponkunnam,,,True,True,1,Exited,2026-05-31 00:00:00+00:00,2026.0,False,True
+673ef088-ec13-a3c8-7c75-bef0b5878d03,Nikhil Pandey,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+77c9d770-e185-55dd-6d31-ec41e21560b8,Sindhu Kavya,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-03 00:00:00+00:00,2023.0,False,True
+7aeb3b16-98e4-aafb-ad39-91e8834463ce,Yogesh Nandarapu,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-08 00:00:00+00:00,2023.0,False,True
+8e39a9bd-3317-b2a6-22a6-16fa4cab9632,Sanath Baburam,,unknown,0,,,,,,,,,,False,False,2,On-Notice,2024-12-15 00:00:00+00:00,2024.0,True,True
+8c6ffefc-6638-42ec-34e7-e8b0ac32b65e,Archit Kumar,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-01 00:00:00+00:00,2023.0,False,True
+b03866a7-91d2-ce29-96d9-8eb7f5d38188,Anjali Gupta,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-10 00:00:00+00:00,2023.0,False,True
+b19dfc6c-a5d5-734c-3d3d-6389c281b3bb,Yaduraj P,,unknown,0,,,,,,,,,,False,False,1,staying,2024-05-01 00:00:00+00:00,2024.0,True,True
+11c59c47-e61b-cafc-82c5-d4ec94db50b8,Monitha Mohankumar,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-11 00:00:00+00:00,2023.0,False,True
+2ac29dfd-418d-441f-877a-2a980e43ca16,Sai Akhil P,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-02 00:00:00+00:00,2024.0,False,True
+503f204a-1840-9c61-b0fc-0c3228f0d967,Vaibhavi Dubey,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-08 00:00:00+00:00,2025.0,False,True
+6d60a9d5-34ce-4336-9c23-231057dffa71,Thota Sharanya,West Bengal,explicit_state_field,3,West Bengal,,West Bengal,,West Bengal,721607,Haldia,,,True,True,1,Staying,2026-06-06 00:00:00+00:00,2026.0,True,True
+8312adc3-ca9c-bf87-0e30-9144f4319bdd,Srichand Ganesh,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-13 00:00:00+00:00,2024.0,False,True
+8490df60-3137-5590-8517-f882a6cff021,Priyanga Rajkumar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-17 00:00:00+00:00,2025.0,False,True
+a49edc5e-14e1-73a9-9ebf-3d05c46e281b,Vishal Luthra,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-17 00:00:00+00:00,2025.0,False,True
+af0857ce-ea3c-abc6-df15-e8115d91ce57,Vijaya Lakshmi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-03 00:00:00+00:00,2024.0,False,True
+c040ac0e-eac1-be77-9995-440400f38112,Gowsalya,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-04 00:00:00+00:00,2024.0,False,True
+dcfac0c4-0873-a81b-3c1a-dca3ef527919,Punitha Balasubramanian,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+e1b0693a-105d-db49-8722-6a8a1c87579d,Siva Yogitha T,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-31 00:00:00+00:00,2025.0,False,True
+43e74f45-aa14-1c93-dc1b-6bca58862fe4,Tushar Ankit,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-01 00:00:00+00:00,2023.0,False,True
+fcf55d01-89b8-f6a7-e2d0-a30606155613,Satyajeet Behura,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-07 00:00:00+00:00,2023.0,False,True
+61f80535-9bc2-b9b1-e66d-7a60fc42ddde,Athul Ashok K,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-19 00:00:00+00:00,2024.0,False,True
+93ffab65-d88d-3bbd-9dba-fc0c764f42f4,Rajesh Gupta,,unknown,0,,,,,,,,,,False,False,2,exited,2025-07-12 00:00:00+00:00,2025.0,False,True
+0d81cbb9-7b2a-918b-bd00-d151c65848ea,Nikhil R,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+5fded4ae-b229-425e-ae19-6ddcd4f662a9,prakash chinnaiya,Tamil Nadu,pincode_circle,1,,,Tamil Nadu,,,622220,"Chennai, Tamil Nadu, India",,,True,True,0,new,,,False,False
+6620bab2-bd33-9de4-e7b0-0973b34aa64d,Sai Krishna Pranay Kamsetti,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-03 00:00:00+00:00,2024.0,False,True
+75c56f0f-5274-8c06-d6f2-afdeb86185ac,Priyadharshini Rengappa,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+9343225e-8e89-3edc-0ade-7230c9114742,Syed Adil Basha,Andhra Pradesh,pincode_circle,2,,,Andhra Pradesh,Andhra Pradesh,,524003,,,,False,False,0,new,,,False,False
+c2bda1d7-8a4b-0584-9f02-1f49e0b9a327,Rathnalakshmi,,unknown,0,,,,,,,,,,False,False,1,exited,2022-08-23 00:00:00+00:00,2022.0,False,True
+cf113dbe-9b8a-ec33-b15d-119c190dfc67,Sindhuja A,,unknown,0,,,,,,,,,,False,False,2,exited,2023-07-23 00:00:00+00:00,2023.0,False,True
+f2764421-c336-0b17-7318-6908f1ce4a72,Nikunj Variya,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-06 00:00:00+00:00,2025.0,False,True
+f15d8a38-9297-759e-500a-7a65371fd2c8,Shivani Kumari,,unknown,0,,,,,,,,,,False,False,2,exited,2024-03-17 00:00:00+00:00,2024.0,False,True
+10916e3e-90d8-8084-d782-fd32d48def20,Shreyas Srikanth,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-21 00:00:00+00:00,2024.0,False,True
+128bd731-e1fe-63b6-3451-759840d80453,Prashanth P,,unknown,0,,,,,,,,,,False,False,2,exited,2025-10-09 00:00:00+00:00,2025.0,False,True
+6ea3368b-00ab-4626-a86f-7fcacb3e167e,Dwija Das,Tripura,explicit_state_field,1,Tripura,,,,,799006,West Tripura,,,True,True,1,Exited,2026-06-09 00:00:00+00:00,2026.0,False,True
+8dc5530c-7db8-64af-b5d6-a3bc13615053,Ramachandra Reddy Aasodi,Karnataka,pincode_circle,1,,,Karnataka,,,560099,,,,False,False,1,exited,2023-06-08 00:00:00+00:00,2023.0,False,True
+870773df-d2cd-018c-27cb-f18f53ad3f5e,Harshit Rajwar,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-27 00:00:00+00:00,2024.0,False,True
+a64019d6-e321-3cb8-e823-478ced6ff4c2,Sujith Deva Jeganathan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-19 00:00:00+00:00,2025.0,False,True
+c4d5918f-5589-5602-d4c2-795fbd3fc604,Arun Kumar K,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+0fb589f6-3d4d-9f65-70ec-ffc208b12ba1,Raghavi D,Andhra Pradesh,city_gazetteer_address,1,,,,Andhra Pradesh,,,,,,False,False,1,exited,2023-12-01 00:00:00+00:00,2023.0,False,True
+d183c487-a155-2045-6e0b-01e2b99f1924,Mahima Anup,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-07 00:00:00+00:00,2024.0,False,True
+e110dfeb-9c9e-94b6-2874-e7615a27c229,Umang Shekhar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-12 00:00:00+00:00,2025.0,False,True
+1cceb815-84d9-5ecc-2d59-11734f1bc703,Sarvagya Jain,Chhattisgarh,city_gazetteer_address,1,,,,Chhattisgarh,,,,,,False,False,1,exited,2023-06-16 00:00:00+00:00,2023.0,False,True
+2d24b7c1-6556-8eb5-73d6-3ed3913e6d40,Swathi Punniamurthy,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-23 00:00:00+00:00,2025.0,False,True
+546aae84-2600-f943-b571-67441bea409a,Reena Manci M R,,unknown,0,,,,,,605602,,,,False,False,1,exited,2024-07-05 00:00:00+00:00,2024.0,False,True
+642c038a-ae12-3627-348b-0e41c9b22570,Sai Kumar Balija,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+b684ca33-d77e-89a9-090b-58a446770506,Mohendran,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+cd2c3f97-4df7-b32f-d0c0-12031beae516,Vijayasekar P,,unknown,0,,,,,,,,,,False,False,1,staying,2024-04-02 00:00:00+00:00,2024.0,True,True
+c7cacf8c-6f79-066f-0424-1a863731935b,Jachinn Edwin,Tamil Nadu,state_in_address,1,,Tamil Nadu,,,,,,,,False,False,1,exited,2024-06-29 00:00:00+00:00,2024.0,False,True
+02295215-68ff-b712-391f-44370ddab3fc,Navneet Nitin Tagore,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-01 00:00:00+00:00,2024.0,False,True
+1735b216-e690-abb3-a111-08e624ab0313,Raguram R S,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2024-02-18 00:00:00+00:00,2024.0,False,True
+1bc4b026-982f-f9e0-a489-376a60455dae,Ponmani Priya V V,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-01 00:00:00+00:00,2024.0,False,True
+3ad112bc-3f0d-3be3-e12c-29bdc16823e4,Shravan Shah,Maharashtra,pincode_circle,1,,,Maharashtra,,,415110,,,,False,False,2,exited,2023-04-04 00:00:00+00:00,2023.0,False,True
+6162731a-4a9c-e887-e586-1ea574985777,Sathya Priya Balasegaran,Puducherry,city_gazetteer_address,1,,,,Puducherry,,605001,,,,False,False,1,Exited,2025-01-01 00:00:00+00:00,2025.0,False,True
+9d0efe8e-3bd3-e59b-f44a-0c4519964d70,Tejun Verma,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+a38721f4-003a-7262-22a7-44e0f2c0754d,Aruna Govindarajan,,unknown,0,,,,,,,,,,False,False,2,exited,2023-05-01 00:00:00+00:00,2023.0,False,True
+8fd367e7-7404-4ef6-530b-a40219a48f1e,Sruthi Pitchika,,unknown,0,,,,,,,,,,False,False,3,Exited,2024-04-07 00:00:00+00:00,2024.0,False,True
+c5655e71-bfb1-46c8-d351-120a60cd046e,Anusuya Nachiyappan,Tamil Nadu,pincode_circle,1,,,Tamil Nadu,,,630302,,,,False,False,1,exited,2023-01-16 00:00:00+00:00,2023.0,False,True
+085a8574-3d16-6975-cd44-b98c9a4b53ea,Juveriyah Hassan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-04 00:00:00+00:00,2024.0,False,True
+3013b032-8425-868c-694c-5709a3a46982,Abhishek Murarka,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-04 00:00:00+00:00,2024.0,False,True
+7b9b68d4-9d12-5e87-3823-d61bd7af09e6,Yukta Bhattad,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+91a75af3-82d0-8cf8-3aab-ecbb3f6d94e5,Swastik Das,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-01 00:00:00+00:00,2023.0,False,True
+ea1c4226-abaa-0255-5077-503a78c3b2ff,Sai Prasanna Sape,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-25 00:00:00+00:00,2023.0,False,True
+07734943-434c-4c8b-b1fa-49d7c4e8a7fe,Mokana Ranee S,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,626124,Virudhunagar,,,True,True,1,Staying,2026-06-08 00:00:00+00:00,2026.0,True,True
+9831799d-558f-14e4-56d9-203d49083c38,Shwetha Lakshmanan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-16 00:00:00+00:00,2024.0,False,True
+a974c0ea-b223-c4ff-2027-207ec4a462ac,Ramkumar Ganesan,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2023-04-23 00:00:00+00:00,2023.0,False,True
+b85e5e22-b8bb-e217-167e-913ce5dc381e,Rohan Patnaik,Odisha,city_gazetteer_address,1,,,,Odisha,,,,,,False,False,1,exited,2025-08-04 00:00:00+00:00,2025.0,False,True
+cd6f2e1d-ebfa-5c22-75fe-90d15ebe9bc4,Avantika Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-11 00:00:00+00:00,2024.0,False,True
+f14efd99-a099-05e4-d7e5-4eb6b4dbd4d4,Gadireddy Keerthana,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-26 00:00:00+00:00,2024.0,False,True
+1824d85a-074b-7d55-ae39-d18ab6f4b866,Nikhil Bairu,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+89d188b4-94a9-2f97-e068-155ed8ec3f5e,Yash Sharma,Uttar Pradesh,city_gazetteer_address,1,,,,Uttar Pradesh,,,,,,False,False,2,staying,2024-01-21 00:00:00+00:00,2024.0,True,True
+1f386b6c-673b-b4f5-5a19-10e9869fcb75,Karthikeyan Muthukrishnan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-03 00:00:00+00:00,2025.0,False,True
+02827bf2-c0f6-ffb5-81c6-2afad0f4c7c3,Janardhanan Gopal,,unknown,0,,,,,,,,,,False,False,1,exited,2022-03-06 00:00:00+00:00,2022.0,False,True
+1e6f84f8-d2d4-2602-e11e-bf9f79587a60,Lilavati Mhaske,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-25 00:00:00+00:00,2023.0,False,True
+45a6242e-1317-4dfb-8a4d-ff0a57aff0b8,Shrinethra Mugundan,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,641048,Coimbatore,,,True,True,1,booked,2026-07-03 00:00:00+00:00,2026.0,True,True
+5fb8ae73-6c70-7eed-321e-dbbea89fc465,Baldev Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2021-08-02 00:00:00+00:00,2021.0,False,True
+918397ce-ad06-ebae-8990-f1b6d2224b4f,Abhinandan M B,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-01 00:00:00+00:00,2023.0,False,True
+b4ba50fa-443b-c07c-2c62-5e1a53b2b424,Gayathri Hasitha Marella,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+b66b4f8d-d766-062b-7245-0434e16a513b,Kumari Nisha Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-26 00:00:00+00:00,2024.0,False,True
+b865619d-9980-0806-c5b5-97fee058322e,Akshuni Raghuwanshi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-21 00:00:00+00:00,2024.0,False,True
+5d4122d1-48a3-607c-cb72-e1956caece73,Akshit Pulluri,,unknown,0,,,,,,,,,,False,False,1,Exited,2023-10-01 00:00:00+00:00,2023.0,False,True
+0808fdb2-602f-1a67-c1f2-d1a6875f8e2a,Adhiraj Gupta,Uttar Pradesh,city_gazetteer_address,1,,,,Uttar Pradesh,,,,,,False,False,1,exited,2024-07-17 00:00:00+00:00,2024.0,False,True
+855f3f6a-72ae-46f4-4cc2-a9a0d5df5b70,Umasai Kumar Torikonda,,unknown,0,,,,,,,,,,False,False,1,Staying,2023-10-08 00:00:00+00:00,2023.0,True,True
+0ed59f1c-35e8-8ae7-d0f3-3b5d4a2202fd,Abinaya B,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,Tamil Nadu,,632006,,,,False,False,1,exited,2025-05-13 00:00:00+00:00,2025.0,False,True
+117c6d3e-f4d8-3338-57db-8e4c2f7d0dc2,Kriti Agrawal,Delhi,state_in_address,1,,Delhi,,,,,,,,False,False,1,exited,2023-06-17 00:00:00+00:00,2023.0,False,True
+148cb172-cc40-9c01-ffa5-33aa5d70bad8,Sai Sree Harshith Gavara,Andhra Pradesh,city_gazetteer_address,1,,,,Andhra Pradesh,,,,,,False,False,2,exited,2024-03-10 00:00:00+00:00,2024.0,False,True
+17407c57-bdbb-d58e-287b-cd2beace210b,Arnav Saharan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-08 00:00:00+00:00,2025.0,False,True
+1c74a5be-5679-ca11-8401-ae199550c95e,Jayakanth S,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-25 00:00:00+00:00,2023.0,False,True
+6770176e-5bc2-4e8a-aeaf-6a7249e266d6,Vijiniya Mirsha S,Tamil Nadu,explicit_state_field,2,Tamil Nadu,,Tamil Nadu,,,642154,Udumalaipettai,,,True,True,1,Exited,2026-06-10 00:00:00+00:00,2026.0,False,True
+24ae889b-240e-b064-cfe8-2b27224c15b0,Suppritha G,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-02 00:00:00+00:00,2023.0,False,True
+7d766bea-0596-a1f0-2bcc-3918799770c1,Aditi Balaji,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-03 00:00:00+00:00,2023.0,False,True
+8557d3c7-d0ae-184b-d1e6-7e22e375cf32,Jay Murjani,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-17 00:00:00+00:00,2024.0,False,True
+b274d6e3-01a3-9f4e-b312-7088b787357d,Rahul Deshmukh,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-15 00:00:00+00:00,2024.0,False,True
+bd04a926-a2e3-1aed-8a8a-1cd736cd0fcf,Sandeep K,,unknown,0,,,,,,,,,,False,False,1,exited,2023-10-14 00:00:00+00:00,2023.0,False,True
+c39e5b6a-5497-09b6-25cc-89f1ea8a608c,Hrithik Parikh,,unknown,0,,,,,,,,,,False,False,2,Exited,2025-05-26 00:00:00+00:00,2025.0,False,True
+46d380ca-fe7a-07d2-4570-5de890c8fdc7,Debargha Adhikary,,unknown,0,,,,,,,,,,False,False,2,exited,2024-09-02 00:00:00+00:00,2024.0,False,True
+83fae6f1-bcd8-ae1d-3a10-eb20cd93b4bd,Sree Shravanya Ragunath,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-18 00:00:00+00:00,2024.0,False,True
+4ce63ad3-a546-4b52-5b68-0d5a6d3766d2,Shristi Suman,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-06 00:00:00+00:00,2024.0,False,True
+519879d1-1867-105c-ae64-2cab42188a79,Reetuparna Saha,,unknown,0,,,,,,,,,,False,False,2,exited,2025-06-21 00:00:00+00:00,2025.0,False,True
+696a4512-7d08-4e23-a774-91ee1afc42d1,Sharanya Goswami,Tamil Nadu,explicit_state_field,3,Tamil Nadu,,Tamil Nadu,,Tamil Nadu,600041,Chennai,,,True,True,1,Exited,2026-06-13 00:00:00+00:00,2026.0,False,True
+6abbb3fc-6494-f5ab-5af6-299b3ddb57ae,Manisha B,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-08 00:00:00+00:00,2023.0,False,True
+698dc415-124e-9e2e-fe4b-5ecc04d61878,Mohammed Maaz,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-01 00:00:00+00:00,2024.0,False,True
+8980f6d7-b1df-5646-4593-8af805c8f8cf,Ragavendran Ramesh,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-29 00:00:00+00:00,2024.0,False,True
+880e9e6d-50b9-d668-51e2-031fb73ccdc4,Simran Ahluwalia,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+dccaecac-4fb2-679f-3141-8a0f96b40469,Sri Chandana Nagumothu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+df6d6dde-434a-e10e-f646-fa8a40be56cc,Anirban Basu,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-08 00:00:00+00:00,2025.0,False,True
+25d08204-bdeb-ff7d-463f-3da9fc06d784,Anjali Raj,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-03 00:00:00+00:00,2023.0,False,True
+2cd7e593-62c3-5761-bdae-3267917b5674,Gheethica Sudeesh,,unknown,0,,,,,,,,,,False,False,1,exited,2022-03-07 00:00:00+00:00,2022.0,False,True
+38305983-db92-2c3c-7949-96f7ca7833eb,Putta Bulli Venkata Ajay,,unknown,0,,,,,,,,,,False,False,1,Staying,2026-02-01 00:00:00+00:00,2026.0,True,True
+38f94703-df69-ca89-4496-a89ad5a63f7c,Kaustubh Kachare,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-27 00:00:00+00:00,2024.0,False,True
+dd6b8e71-ee89-22aa-338c-04e964538126,Vijay Kumar Jonnakuti,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-05 00:00:00+00:00,2023.0,False,True
+2030f84c-59a8-b777-417a-20c355e3c18b,Chandru Rajendran,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-18 00:00:00+00:00,2024.0,False,True
+089c750d-e588-d7c8-9ec2-783348ec9df1,Hariram M,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-24 00:00:00+00:00,2024.0,False,True
+284ce00f-b05a-4366-9117-bf73f7449a76,Rahul Kumar,Uttar Pradesh,explicit_state_field,2,Uttar Pradesh,,Uttar Pradesh,,,201306,Surajpur,,,True,True,1,Exited,2026-06-10 00:00:00+00:00,2026.0,False,True
+60c74b02-d502-8692-0141-b1a796486a11,Poorvi Mittal,,unknown,0,,,,,,,,,,False,False,2,exited,2024-01-17 00:00:00+00:00,2024.0,False,True
+46d94fb9-b4c9-d1a8-0c92-609fafa9901e,Aravind Dutta,,unknown,0,,,,,,,,,,False,False,2,exited,2023-01-25 00:00:00+00:00,2023.0,False,True
+58701d28-2940-a07b-7518-1e1c33b29b55,Arjjun Sellamuthu,,unknown,0,,,,,,,,,,False,False,1,exited,2022-01-31 00:00:00+00:00,2022.0,False,True
+719321da-14cc-c048-24a9-cc8d77783c52,Nithya Rajendran,,unknown,0,,,,,,,,,,False,False,1,exited,2022-04-27 00:00:00+00:00,2022.0,False,True
+9237fd94-4146-29c4-9925-d1baaf60cae8,Sidharth Gautham,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-12 00:00:00+00:00,2022.0,False,True
+73af4715-f686-9041-f221-b819a410e674,Nitish Kanna,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-03 00:00:00+00:00,2023.0,False,True
+ca5764bb-68cb-aca1-8368-dc3e80f681ac,Greeshma Krishna,Kerala,city_gazetteer_address,1,,,,Kerala,,,,,,False,False,3,exited,2023-02-05 00:00:00+00:00,2023.0,False,True
+c8d3d0a4-7be7-7922-51d3-002cbeee7cb3,Shobitha,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-02 00:00:00+00:00,2023.0,False,True
+c7e118dd-3a65-53b8-35c2-fc03637d320e,Divya Madhabathula,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+c855d945-cc24-18bb-4e79-63b5c7d70ac5,Swathi K,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+d52f2683-73ba-0a33-f712-babc2e24aa8c,Arti Rastogi,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-02 00:00:00+00:00,2023.0,False,True
+1287ac56-adee-78b5-6a6b-56b3e8dd7d48,Harish Kumar M,,unknown,0,,,,,,,,,,False,False,1,staying,2025-02-03 00:00:00+00:00,2025.0,True,True
+5e1193c6-eaf0-1424-7382-545bcbaa8d05,Harenthri Devy Alagir Rajah,,unknown,0,,,,,,,,,,False,False,1,exited,2023-02-07 00:00:00+00:00,2023.0,False,True
+d1175037-6e13-28f9-5de7-ea2186bbee4e,Snehangshu Chakraborty,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-05 00:00:00+00:00,2022.0,False,True
+0340956c-c19a-d700-7d78-cea190ab08b0,Chaithra CD,Kerala,pincode_circle,2,,,Kerala,Kerala,,678611,,,,False,False,1,exited,2025-08-03 00:00:00+00:00,2025.0,False,True
+260508e6-bace-3923-cfed-6f4da685cf49,Bornali Barua,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-01 00:00:00+00:00,2025.0,False,True
+32a3a1c6-8dfe-d49b-f052-da816a4ceeb2,Manoranjani Manoharan,,unknown,0,,,,,,,,,,False,False,2,exited,2022-05-08 00:00:00+00:00,2022.0,False,True
+4b86bb38-0a38-c680-fddc-fef9bb6ba48f,Hari Sanjith S,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+55ca6f7c-112a-ec33-7c1c-987508bc9e41,Mohamed Saif,,unknown,0,,,,,,,,,,False,False,1,staying,2025-03-08 00:00:00+00:00,2025.0,True,True
+53161e7a-20e2-d590-c8cd-ca0a5b5ebb43,Madhavan Maruthapillai,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-17 00:00:00+00:00,2025.0,False,True
+5fb00f2d-8a0d-5260-0006-da9487a8268d,Shobhit Bakshi,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-27 00:00:00+00:00,2025.0,False,True
+72fb39cc-cecf-39cd-a55a-60d36a23f691,Ananay Gupta,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-21 00:00:00+00:00,2025.0,False,True
+c2329858-525d-2f70-5e31-bf9a8358eb3e,Aman Agarwala,,unknown,0,,,,,,,,,,False,False,1,staying,2024-10-20 00:00:00+00:00,2024.0,True,True
+d58d1d2f-e65b-7705-8ac2-996da0cf28c4,Asritha Boddu,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-22 00:00:00+00:00,2025.0,False,True
+58534973-11fb-988d-493a-ce4b1589f86d,Sai Preeti Shankar,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+5e901269-d116-cf62-7661-df859f5b02dc,Dena Dinesh M M,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,Tamil Nadu,,636016,,,,False,False,1,staying,2025-07-26 00:00:00+00:00,2025.0,True,True
+80f5f1ce-7a41-4bcd-d79e-1c6780b6ef1d,Bhuvanikha S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-05 00:00:00+00:00,2024.0,False,True
+7dadd1ae-944c-9af1-5289-cc4cc171a4dd,Manan Jain,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-21 00:00:00+00:00,2024.0,False,True
+8ca132f3-2df9-2565-e1a8-6e912fb635ba,Naveena Ravichandran,,unknown,0,,,,,,,,,,False,False,1,exited,2022-04-18 00:00:00+00:00,2022.0,False,True
+af844fa6-0ff0-03b9-9f0b-839af89c7687,Madumitaa Anbu,,unknown,0,,,,,,,,,,False,False,2,exited,2023-07-30 00:00:00+00:00,2023.0,False,True
+c8d49edd-16df-6c81-0fe2-b54f7584b15d,Simon Swagat,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-01 00:00:00+00:00,2024.0,False,True
+ff80850b-f765-b3a1-58f3-071b7cf1a705,Nida Jawaid,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+03ce56c0-8798-b95d-7125-311b80363e74,Piyush Malhotra,,unknown,0,,,,,,,,,,False,False,1,staying,2025-03-05 00:00:00+00:00,2025.0,True,True
+0278721a-a690-833b-298a-16a351fb7a3a,Marina Johnson,,unknown,0,,,,,,,,,,False,False,1,staying,2025-06-01 00:00:00+00:00,2025.0,True,True
+19671dd1-2ae5-3bf1-7fae-a3d02cea1da7,Lohit Roy,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-14 00:00:00+00:00,2022.0,False,True
+42c9cd99-9d86-c9b7-f90f-c4a4e87261a4,Aswin Kumaran M,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-11 00:00:00+00:00,2024.0,False,True
+be91915d-edd2-04f3-15af-9a0d8c70881a,Udhith Akash R R,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+cef85e9f-dcf9-e367-fb81-417869b0ac20,Ruju A,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-05 00:00:00+00:00,2023.0,False,True
+e819cbc9-d17a-0958-3768-54bad6ab7acc,Roger John,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-03 00:00:00+00:00,2024.0,False,True
+e54f192a-b17b-11b9-0448-1cf4ecbe5f43,Pallavi Reddy Gaddam,Telangana,state_in_address,3,,Telangana,Telangana,Telangana,,500100,,,,False,False,4,exited,2024-05-06 00:00:00+00:00,2024.0,False,True
+f3632be3-2aed-8fc9-aaa9-86a05e199599,Ishan Achinta,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-12 00:00:00+00:00,2024.0,False,True
+294ea6bb-86ba-b567-f9c9-999f73233389,Peddoori Santhosh Vyas,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-03 00:00:00+00:00,2024.0,False,True
+3f0612aa-b4e7-f5b1-b920-e5559a86b30b,Teena Catherin Sebastian,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-07 00:00:00+00:00,2025.0,False,True
+480c0561-a593-d531-177b-6c34c4d0dedc,Ritika Biswas,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-11 00:00:00+00:00,2025.0,False,True
+456fc08d-55ba-6a5b-7917-edad21de87b2,Shyamala R,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-10 00:00:00+00:00,2025.0,False,True
+6f19846d-6fdd-fe63-60fa-9134b042e32e,Rakshya Robi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-01 00:00:00+00:00,2024.0,False,True
+7917c0bf-a63e-034d-b209-d9e81f805ccb,Dipshikha Basumatary,,unknown,0,,,,,,,,,,False,False,1,exited,2022-02-14 00:00:00+00:00,2022.0,False,True
+78e008e5-2f71-784c-76a8-a0a232673851,Mrunmayi Deshpande,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+817885b1-e8ef-a791-bec7-aa90f3239fb2,Kaviya Matta,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-01 00:00:00+00:00,2024.0,False,True
+82f8513a-db1e-fc1b-356a-e18639ab2a84,Swathi R,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-25 00:00:00+00:00,2023.0,False,True
+9fb85705-b4f4-4da4-29f3-baa1722dc8e3,Soundara Rajan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-09-03 00:00:00+00:00,2024.0,False,True
+9f04d505-4407-bee3-3bb2-35e98846f5c0,Darshika Nemani,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-28 00:00:00+00:00,2024.0,False,True
+f8947f30-bd4e-f7be-4881-92af32d0044b,Tushar Kumar,,unknown,0,,,,,,,,,,False,False,1,exited,2022-11-27 00:00:00+00:00,2022.0,False,True
+854c86e3-8b7f-0ca8-f4ac-c6a073699611,Avilekh Gautam,Assam,city_gazetteer_address,1,,,,Assam,,,,,,False,False,1,Exited,2024-10-01 00:00:00+00:00,2024.0,False,True
+ff599da3-a232-88cd-a736-580dfaec6522,Shaili Sharma,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-01 00:00:00+00:00,2023.0,False,True
+22a9494d-0e02-6fba-4aee-7947f1e6110b,Ram Roshan Ramanathan,Tamil Nadu,state_in_address,3,,Tamil Nadu,Tamil Nadu,Tamil Nadu,,600041,,,,False,False,1,staying,2024-09-01 00:00:00+00:00,2024.0,True,True
+2bd67002-1f8f-faff-efc5-5063dbedf10f,Aachman Arora,,unknown,0,,,,,,,,,,False,False,2,Exited,2025-06-01 00:00:00+00:00,2025.0,False,True
+398396b1-f339-683b-4307-b3441615b82a,Asit Kumar Negi,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-03-05 00:00:00+00:00,2026.0,False,True
+3b6e6365-f27e-8854-7e60-4889894aaa6d,Deepa Singh,,unknown,0,,,,,,,,,,False,False,2,exited,2022-01-21 00:00:00+00:00,2022.0,False,True
+46d76191-2b0e-5d5a-4a07-cc7209f40801,Deborah Roseline,,unknown,0,,,,,,,,,,False,False,1,exited,2022-07-05 00:00:00+00:00,2022.0,False,True
+5fb7dc72-3de7-40b1-17a4-11bb23d89ffb,Raunaq Nijhawan,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+aaaf8e19-9b2d-a2c2-5f2f-b4bb5c76c60a,Swetha P,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+d1e7314f-a799-1441-8adc-a48db20e93da,Ca Shivang Gupta,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-17 00:00:00+00:00,2025.0,False,True
+d3d2debf-5c00-54a8-dfed-bd6d82b77307,Navkaren,,unknown,0,,,,,,,,,,False,False,1,exited,2022-04-08 00:00:00+00:00,2022.0,False,True
+be68c44d-d4d2-478a-7b1e-c9c3fefac406,Akshayaa M,,unknown,0,,,,,,,,,,False,False,1,staying,2025-06-24 00:00:00+00:00,2025.0,True,True
+09c51f18-9e44-e04c-7a53-2b5d217880df,Divvya D,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-04 00:00:00+00:00,2023.0,False,True
+1422ace8-beea-6d1b-73fd-1d30597b40d5,Ankitha Shanbhag,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-02-01 00:00:00+00:00,2026.0,False,True
+e43d640c-3d0c-c63c-52af-626feca768b5,Shivam Bhavsar,Tamil Nadu,state_in_address,3,,Tamil Nadu,Tamil Nadu,Tamil Nadu,,603203,,,,False,False,1,exited,2025-02-09 00:00:00+00:00,2025.0,False,True
+ebe28f5b-3a82-1fc6-2144-62f991d00363,Alfred Melwin S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-26 00:00:00+00:00,2024.0,False,True
+f9036b0b-f6ae-2444-5d3d-ac81e4964064,Kalyanasundaram Subramani,,unknown,0,,,,,,,,,,False,False,1,exited,2025-04-18 00:00:00+00:00,2025.0,False,True
+fa32b34b-dd5b-004f-7cae-9afd4bd3aa20,Kaviya Ravichandran,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2024-12-01 00:00:00+00:00,2024.0,False,True
+6a3afc7e-809a-8d2b-d9d4-ba5239f2ca99,Anu Divya,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-30 00:00:00+00:00,2024.0,False,True
+6bfa9537-aedc-d48a-88b2-f80111782c5d,Divya Chavan,Karnataka,pincode_circle,1,,,Karnataka,,,585105,,,,False,False,0,new,,,False,False
+6f622055-47c5-9b2c-b332-2d5d01953e51,Akshaj Agrawal,Haryana,city_gazetteer_address,1,,,,Haryana,,,,,,False,False,1,Exited,2026-01-18 00:00:00+00:00,2026.0,False,True
+7a041c76-24a2-f143-9974-18f1fe8e3a0c,Disha Girish,,unknown,0,,,,,,,,,,False,False,1,exited,2023-02-05 00:00:00+00:00,2023.0,False,True
+9c76ccfc-5bd2-ff5f-f0b0-f35c349fd159,Grace Roshini,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-01 00:00:00+00:00,2024.0,False,True
+9541a16d-d020-eb78-80f1-a4a2d4b7775f,Anup Easo Varghese,,unknown,0,,,,,,,,,,False,False,1,staying,2026-01-14 00:00:00+00:00,2026.0,True,True
+f6ea69ff-f321-748e-c6cf-f5f97d352139,Jithin K Purushu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-18 00:00:00+00:00,2024.0,False,True
+f59fa4ad-6dca-c7e7-d459-5326609a6412,Karthick Prasanna Cr,,unknown,0,,,,,,,,,,False,False,1,staying,2026-02-22 00:00:00+00:00,2026.0,True,True
+02b429ce-a6d5-6fef-b9c9-9bf315c162d2,Deexith Varun,Tamil Nadu,pincode_circle,1,,,Tamil Nadu,,,643004,,,,False,False,1,exited,2025-05-02 00:00:00+00:00,2025.0,False,True
+00ff5468-3680-2a12-23e4-82855ab3c697,Aravindhraj M,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-01-26 00:00:00+00:00,2026.0,False,True
+1508bfaf-482c-c63e-34e7-470ad5fbc8dd,Janarthana Krishna Venkatesan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-27 00:00:00+00:00,2024.0,False,True
+38069f8b-d44e-0b86-a0d1-dafac5ae1232,Harrsha T,,unknown,0,,,,,,,,,,False,False,1,staying,2024-08-04 00:00:00+00:00,2024.0,True,True
+79e31f6f-69dc-a40c-27d7-3f076878f83c,Kaarthika,,unknown,0,,,,,,,,,,False,False,1,staying,2024-02-01 00:00:00+00:00,2024.0,True,True
+8a171f42-da8a-3943-6d3d-ebb007e65f3c,Jaimin Vaghela,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-01 00:00:00+00:00,2024.0,False,True
+c02eb961-2471-c285-9c28-fb9a12aaf70a,Diya Suresh,Kerala,state_in_address,1,,Kerala,,,,,,,,False,False,2,staying,2025-07-03 00:00:00+00:00,2025.0,True,True
+cb8443a3-c0e0-a990-d5a9-1c6c1355505e,Pooja Purushothaman,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-01 00:00:00+00:00,2023.0,False,True
+cbfa6def-a5a5-80c4-0e97-3d2fccd08a10,Keerdthe R S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-18 00:00:00+00:00,2024.0,False,True
+e6dde6a9-4da9-d1a2-802a-faf5db207e8e,Arindrajit Kundu,West Bengal,pincode_circle,2,,,West Bengal,West Bengal,,700108,,,,False,False,3,staying,2023-09-12 00:00:00+00:00,2023.0,True,True
+41bc3dd8-29be-a47d-e821-5e112e52cde5,Laxmi Kumari,,unknown,0,,,,,,,,,,False,False,1,exited,2026-01-15 00:00:00+00:00,2026.0,False,True
+60e2ef98-caa3-4a28-8c13-d9e6aa839b51,Koustubh Mandhare,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-07 00:00:00+00:00,2024.0,False,True
+05e10de3-1c79-2a38-05f9-8221a224c636,Monali Daburkar,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-01 00:00:00+00:00,2023.0,False,True
+5fb9159c-1228-3f59-ad1f-1177f3a9c9bd,Mahima Shree,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-03 00:00:00+00:00,2024.0,False,True
+b0a6f0b5-9fd8-112e-2bfa-24fa8a25779b,Babu Abraham,,unknown,0,,,,,,,,,,False,False,1,staying,2025-04-03 00:00:00+00:00,2025.0,True,True
+b8c232ef-3427-b61c-6561-b1a25b66a875,Mahipal Rajpurohit,,unknown,0,,,,,,,,,,False,False,1,exited,2021-08-02 00:00:00+00:00,2021.0,False,True
+ee4c9007-7674-8d77-244b-b681167c945d,Purav Rokad,Gujarat,city_gazetteer_address,1,,,,Gujarat,,,,,,False,False,1,exited,2025-01-06 00:00:00+00:00,2025.0,False,True
+e5c21fd6-9050-36f3-6a9d-b692334639d4,Faris Gani,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-25 00:00:00+00:00,2024.0,False,True
+f16a668c-ea8a-b26d-9dff-4da3c53fccc7,Dev Sakaria,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-03-01 00:00:00+00:00,2026.0,False,True
+675d671b-b922-0d97-9c09-357c7a434808,Kalaivani Baskar,,unknown,0,,,,,,,,,,False,False,3,exited,2023-10-19 00:00:00+00:00,2023.0,False,True
+720a2f6c-96ce-3f42-8ec4-faec53d5a915,Srimaruthiram Ramachandruni,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-10 00:00:00+00:00,2024.0,False,True
+7be75b79-f4d2-a3ec-18cf-fb08513feeb7,Asmitha R,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-13 00:00:00+00:00,2025.0,False,True
+938b7931-4bde-a083-d158-635a65e6da73,Amar Kumar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-04 00:00:00+00:00,2025.0,False,True
+91d118b1-a54f-8461-fb1a-d9503d316725,Naga Anjana Ainam,Andhra Pradesh,pincode_circle,1,,,Andhra Pradesh,,,520011,,,,False,False,2,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+3e50af3d-452f-d098-b3bc-3c2a64576d55,Ebrahim Marakkar,,unknown,0,,,,,,,,,,False,False,3,staying,2024-12-20 00:00:00+00:00,2024.0,True,True
+472a7ffe-042a-9722-efc3-4583777f6989,Sparsh Rasthogi,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-21 00:00:00+00:00,2023.0,False,True
+4a1c9a17-3318-f91d-2b54-98dbb7e27f25,Kripii Verma,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-26 00:00:00+00:00,2023.0,False,True
+57478035-8e15-2e54-5cb6-2f22777ee909,Nuha Marzuqha,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-07-06 00:00:00+00:00,2025.0,False,True
+b3a1f140-1cfd-8677-8554-de7aaea5a007,Sai Sundeep,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-10 00:00:00+00:00,2022.0,False,True
+daebf82e-6f02-d269-4f9f-109f5cc8af3c,Gokul Prakash,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-19 00:00:00+00:00,2022.0,False,True
+5561614f-2a0b-cc7f-b7ec-ebd7a38c82c6,Shreya Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+618f174c-7c45-cb54-907b-cacc78483918,Krithika Vjk,,unknown,0,,,,,,,,,,False,False,1,staying,2026-02-12 00:00:00+00:00,2026.0,True,True
+9b3925f8-4a9e-4735-7dbc-bf5a8dfff4d6,Shivani Shyam,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-16 00:00:00+00:00,2025.0,False,True
+98729b16-2b98-4a56-2857-48ff0b95b8b5,Vikas Sinha,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-03 00:00:00+00:00,2023.0,False,True
+ad5e108b-2d8f-7295-b9d3-e331902dacbf,Maneesha Paruchuri,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-04 00:00:00+00:00,2023.0,False,True
+8249c165-f773-1f97-c726-784683d0effd,Selina Minz,Jharkhand,city_gazetteer_address,1,,,,Jharkhand,,,,,,False,False,1,exited,2023-06-03 00:00:00+00:00,2023.0,False,True
+dd8db936-b71f-0721-f5be-92548fd22a73,Anu Ramya Ramesh,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-26 00:00:00+00:00,2023.0,False,True
+8334eb99-0bc0-3c80-9ff8-83bea3d7b5ef,Abhishek Kumar Jha,,unknown,0,,,,,,,,,,False,False,2,staying,2024-04-06 00:00:00+00:00,2024.0,True,True
+e5126b64-8adb-18c4-b9c0-7fc75fc59023,Vijayalakshmi B,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-01 00:00:00+00:00,2024.0,False,True
+0f48ebae-7ea3-24d1-dd00-37912e1ab867,Siddhant Thaware,Maharashtra,city_gazetteer_address,1,,,,Maharashtra,,,,,,False,False,1,exited,2024-07-02 00:00:00+00:00,2024.0,False,True
+642a7fee-578b-5e34-ab94-e413d63cab33,Abhilash S,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-11 00:00:00+00:00,2023.0,False,True
+833d6041-d882-c040-1f1d-fc45e7c0749d,Nisanth Shanmugam,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-01 00:00:00+00:00,2023.0,False,True
+83af11b3-a274-7404-3265-ec658f74f8cf,Akarsh Shrivatsava,,unknown,0,,,,,,,,,,False,False,2,Exited,2024-04-12 00:00:00+00:00,2024.0,False,True
+8c10b5c6-4a40-f455-7732-69c9209c6107,Shlok Mansata,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-11 00:00:00+00:00,2025.0,False,True
+af8d560f-407a-4e9b-49e9-88f54d8671f4,Supreeth M,,unknown,0,,,,,,,,,,False,False,2,Exited,2025-08-02 00:00:00+00:00,2025.0,False,True
+bf46b9e6-83d0-c4a0-a0af-0a7effeaee30,Nitin Chanpuriya,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-04 00:00:00+00:00,2023.0,False,True
+a4709d2c-85e2-3d68-7467-1eaf879ba2c9,Ardra John,,unknown,0,,,,,,,,,,False,False,1,staying,2025-12-15 00:00:00+00:00,2025.0,True,True
+14fd9ca9-7868-7a27-8b3c-607c31c9e161,Murali Mano J,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-02 00:00:00+00:00,2024.0,False,True
+ccb5dd5a-3f95-656e-d4c0-1fd7a104214b,Chirag Nagpal,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-01 00:00:00+00:00,2024.0,False,True
+1ad64726-e22e-ccd3-33f8-62a4e4b609fc,Nidhi Dhotiekar,,unknown,0,,,,,,,,,,False,False,1,exited,2023-11-25 00:00:00+00:00,2023.0,False,True
+566e61b2-91f1-3ed8-21c0-09874cc4e1c0,Dhairiyaraj Sinh Jadeja,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-22 00:00:00+00:00,2023.0,False,True
+d670f263-891a-9a98-da07-a61063ab918b,Dikshanth Jain,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-13 00:00:00+00:00,2024.0,False,True
+e426d68a-16d2-9097-ff7d-ae2521fb52e5,Chandra Mouli M K,Chhattisgarh,city_gazetteer_address,1,,,,Chhattisgarh,,,,,,False,False,2,Exited,2022-12-14 00:00:00+00:00,2022.0,False,True
+5b877322-cb93-1fa5-582e-70e68e8da09d,Anjali S R,Kerala,city_gazetteer_address,1,,,,Kerala,,,,,,False,False,1,exited,2023-08-01 00:00:00+00:00,2023.0,False,True
+69325d62-cbe6-f52d-842e-5299da24fbfc,S Rupesh,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,Tamil Nadu,,600039,,,,False,False,1,exited,2024-04-13 00:00:00+00:00,2024.0,False,True
+6c78f9e6-b789-715c-ae07-5efb33135406,Shivang Garg,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+6339a6a8-e2b1-5f77-db99-1f7c2d1d1fd5,Neeharika Katturoju,Andhra Pradesh,state_in_address,1,,Andhra Pradesh,,,,,,,,False,False,1,exited,2023-04-04 00:00:00+00:00,2023.0,False,True
+7c09e849-092a-06e7-3628-565a641d9d87,Vns Srinivas,,unknown,0,,,,,,,,,,False,False,1,exited,2023-10-18 00:00:00+00:00,2023.0,False,True
+d384f850-3505-dead-9bd0-72e7764a773a,Karthikeyan Siva,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-06 00:00:00+00:00,2024.0,False,True
+e6fff812-92dc-e106-6456-730a1b010573,Purvaja Vashistha,Rajasthan,state_in_address,1,,Rajasthan,,,,,,,,False,False,1,exited,2023-07-23 00:00:00+00:00,2023.0,False,True
+61031b0a-ef18-26aa-64b7-d412d7b3d276,Harikrishnan P,,unknown,0,,,,,,,,,,False,False,1,staying,2024-04-14 00:00:00+00:00,2024.0,True,True
+f50bb3e2-c8d0-59ce-baaf-017ad9240186,Harika L,,unknown,0,,,,,,,,,,False,False,1,exited,2025-04-28 00:00:00+00:00,2025.0,False,True
+17d13989-4f37-42a8-1eb2-88b2df3a9692,Kundan Lenka,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-04 00:00:00+00:00,2025.0,False,True
+630c8120-bdbc-832c-24ca-aca9e6b49891,Atharva Vaishampayan,Maharashtra,pincode_circle,2,,,Maharashtra,Maharashtra,,411037,,,,False,False,1,staying,2026-02-09 00:00:00+00:00,2026.0,True,True
+81f2f896-343e-d20b-9964-56fe1a515cc4,Dhanaganapathy Madhavan,,unknown,0,,,,,,,,,,False,False,1,exited,2021-12-12 00:00:00+00:00,2021.0,False,True
+9a65c3bf-a5bf-0de8-f36a-be067b91662a,Nijin Pm,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-03 00:00:00+00:00,2024.0,False,True
+a3bd9264-4572-2548-a85d-c48e8880773b,Suvidnya Tipre,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-20 00:00:00+00:00,2024.0,False,True
+ac851bed-41fc-0f41-cf0d-214d17cf53cd,Brucelee B,Tamil Nadu,state_in_address,1,,Tamil Nadu,,,,,,,,False,False,1,exited,2025-02-02 00:00:00+00:00,2025.0,False,True
+f446fec2-fa90-7fab-9aee-46beda17b135,Nithin Kumar Panjala,,unknown,0,,,,,,,,,,False,False,2,exited,2022-02-28 00:00:00+00:00,2022.0,False,True
+2a58151b-3aea-8f37-a254-56432cd03704,Udyan Mahanta,,unknown,0,,,,,,,,,,False,False,2,exited,2022-11-30 00:00:00+00:00,2022.0,False,True
+582e981e-2ece-6283-2b74-7bf27c6e9d13,Meera Ravikumar,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-03 00:00:00+00:00,2023.0,False,True
+58a89a25-3c1a-7e78-6028-c325cc166631,Priyanka Kannan,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-07 00:00:00+00:00,2024.0,False,True
+5d0395ee-8c95-ce87-f869-9d9b81271a8f,Mathi Molzhi,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-30 00:00:00+00:00,2023.0,False,True
+c2c650bc-3218-4ed7-048a-d9caa70a346a,Mariya Ginwala,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-03 00:00:00+00:00,2023.0,False,True
+c7043cdc-7d93-631c-2d70-342c413fc747,Thanvi Reddy Golkonda,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-05 00:00:00+00:00,2024.0,False,True
+e3f803e2-2b0c-0800-a35f-877305eb83f8,Monika Sruthi K,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-07 00:00:00+00:00,2024.0,False,True
+4c32ff2a-996c-db27-9217-e13ddec4ccfd,Matcha Pavani Chandrika,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-07 00:00:00+00:00,2024.0,False,True
+dfbec148-a191-0acf-4efe-188b07c973f6,Muskan Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-11 00:00:00+00:00,2023.0,False,True
+eb7de080-f310-4225-66d6-f15dc51fefcd,Shivam Kumar,Jharkhand,state_in_address,1,,Jharkhand,,,,,,,,False,False,2,exited,2025-07-12 00:00:00+00:00,2025.0,False,True
+5616a795-6876-d4ab-5f07-8e402a8160e9,Shyam Ramaiah,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-20 00:00:00+00:00,2025.0,False,True
+5a4bd906-07d0-3c04-680d-6ee01f174660,Muskan Goyal,,unknown,0,,,,,,,,,,False,False,1,exited,2023-11-01 00:00:00+00:00,2023.0,False,True
+f4db5e33-d3d1-c088-34b8-a063d3245918,Ramkumar M,,unknown,0,,,,,,,,,,False,False,4,cancelled,2024-05-27 00:00:00+00:00,2024.0,False,True
+5e6230b3-1a1f-21f4-c312-2a406e5e2503,Manu Dhana Sri,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-01 00:00:00+00:00,2024.0,False,True
+634f0dff-e041-6d9d-2689-4d33b6903f4f,Geetesh Gangone,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-04 00:00:00+00:00,2023.0,False,True
+7197747d-2eb4-4d33-7a0d-db6dec7ae3f6,Shasank Dalvi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-24 00:00:00+00:00,2024.0,False,True
+752aa71f-8b74-a2d8-0b6e-dd06a73bacf2,Kshitij Gautam,Rajasthan,city_gazetteer_address,1,,,,Rajasthan,,,,,,False,False,1,exited,2025-08-25 00:00:00+00:00,2025.0,False,True
+ae17092b-b9b3-31a9-8d6a-555889000bbd,Abhilasha Choudhary,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-23 00:00:00+00:00,2025.0,False,True
+c511ac63-cb7e-1453-92d5-ea4ffba1c360,Ganesh Selvam,,unknown,0,,,,,,,,,,False,False,1,Staying,2025-08-17 00:00:00+00:00,2025.0,True,True
+03532b88-a44b-5756-ef1e-19ee65a12ddb,Praveen Vadicharla,,unknown,0,,,,,,,,,,False,False,1,exited,2022-08-21 00:00:00+00:00,2022.0,False,True
+11316c38-dc08-4983-3588-fcadd88bd5d2,Dev Bhasin,Uttar Pradesh,state_in_address,2,,Uttar Pradesh,Uttar Pradesh,,,206001,,,,False,False,2,staying,2025-08-08 00:00:00+00:00,2025.0,True,True
+1b7a8ca2-dcfa-864b-b6f3-f5e53beb8da0,Moksh Verma,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-09 00:00:00+00:00,2025.0,False,True
+49355947-7605-ec5f-7d81-a6597f38d76b,Indira Ch,,unknown,0,,,,,,,,,,False,False,1,staying,2022-10-15 00:00:00+00:00,2022.0,True,True
+d497808b-36e2-ea42-d247-85b4e409078c,Sourabh Dandare,,unknown,0,,,,,,,,,,False,False,2,Exited,2025-08-10 00:00:00+00:00,2025.0,True,True
+f2a00e3d-de04-40a3-6f41-a3ebfcab4a3c,Tanisha Choudhary,,unknown,0,,,,,,,,,,False,False,1,staying,2025-08-04 00:00:00+00:00,2025.0,True,True
+57dbc7f1-ef9c-8f08-5ca3-148c520d5a2b,Riya Marve,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-13 00:00:00+00:00,2025.0,False,True
+ed39a8a9-4855-634a-3b2b-063622187757,Preeti Jharia,,unknown,0,,,,,,,,,,False,False,1,exited,2023-02-12 00:00:00+00:00,2023.0,False,True
+011b7d1c-5697-5394-c05b-fa0473640657,Krishnan D,,unknown,0,,,,,,,,,,False,False,1,staying,2025-12-21 00:00:00+00:00,2025.0,True,True
+68d17cd9-4e55-2d10-2530-bfdb74057211,Aradhana M,,unknown,0,,,,,,,,,,False,False,1,exited,2024-10-01 00:00:00+00:00,2024.0,False,True
+ff962267-267c-16aa-46fe-20a2ee81869f,Malavika Rajesh Nair,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-10 00:00:00+00:00,2024.0,False,True
+b4a50439-db13-dc26-d980-eb079b321460,Drishti Sudhakar,,unknown,0,,,,,,,,,,False,False,1,On-Notice,2025-09-02 00:00:00+00:00,2025.0,True,True
+bdcc24e3-6077-3ea9-b25e-2747d0f07be7,Iravati Datta,,unknown,0,,,,,,,,,,False,False,1,staying,2025-02-04 00:00:00+00:00,2025.0,True,True
+ae55ee92-2de5-2688-0d4d-095d6b247552,Pangkame Sangma,,unknown,0,,,,,,,,,,False,False,1,exited,2025-08-06 00:00:00+00:00,2025.0,False,True
+52e65602-2418-fbcc-b439-fc42066eb1d6,Kannan Nair,,unknown,0,,,,,,,,,,False,False,1,exited,2024-03-05 00:00:00+00:00,2024.0,False,True
+510cd475-6538-7d02-413c-1a0f553ba4e6,Martin Rodgers,Chhattisgarh,city_gazetteer_address,1,,,,Chhattisgarh,,,,,,False,False,1,staying,2024-12-01 00:00:00+00:00,2024.0,True,True
+600de127-fe21-0be1-965b-3a54132e56da,Nithiyashri D,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-31 00:00:00+00:00,2023.0,False,True
+b0bd49e2-15a2-6bf9-d720-02b08d119703,Sarthak A,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-01 00:00:00+00:00,2024.0,False,True
+79ec48b5-f6a4-f3d3-8cdc-3c18458f897c,Priyadarshini Senthilkumar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-06 00:00:00+00:00,2025.0,False,True
+0627346d-64a7-b6e0-05c2-13aba96d8d7f,Praveen C H,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-03 00:00:00+00:00,2024.0,False,True
+227f376b-633a-5615-5670-c29559d0a08b,Sruthi Naya P,,unknown,0,,,,,,,,,,False,False,1,Exited,2024-02-01 00:00:00+00:00,2024.0,False,True
+251051cf-e3b5-5d37-918f-bf22b4875790,Paarth Agrawal,,unknown,0,,,,,,,,,,False,False,2,Exited,2024-08-29 00:00:00+00:00,2024.0,False,True
+982397b8-b96b-4d87-eb8b-62916e148d45,Jayashree Arun,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-09-01 00:00:00+00:00,2025.0,False,True
+31f3f7a3-5dc4-21cd-ba54-b41347a7822a,Jayagowri Karthikeyan,,unknown,0,,,,,,,,,,False,False,1,staying,2025-01-19 00:00:00+00:00,2025.0,True,True
+b9bd81f4-f07a-df06-c103-c4dbb5236184,Neetu Santhosh,,unknown,0,,,,,,,,,,False,False,1,exited,2023-10-30 00:00:00+00:00,2023.0,False,True
+ceb95fcf-38e0-884a-7850-c0f5bb08a770,Kingsly Sam Raj,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-01 00:00:00+00:00,2024.0,False,True
+cf1318a5-0564-4af6-d90e-c3e76de1ef08,Nivetha Marimuthu,Tamil Nadu,pincode_circle,2,,,Tamil Nadu,Tamil Nadu,,600072,,,,False,False,1,staying,2023-10-01 00:00:00+00:00,2023.0,True,True
+d36a10b1-e5bf-77e8-47cd-09d2a24f67af,Manisha V,,unknown,0,,,,,,,,,,False,False,1,exited,2024-11-21 00:00:00+00:00,2024.0,False,True
+440b6ecd-f1be-8821-6916-551881aa954f,Prem Raghavan,,unknown,0,,,,,,,,,,False,False,1,exited,2021-11-29 00:00:00+00:00,2021.0,False,True
+e94688ff-4d3e-2e08-7391-f66b37848929,Kareena Dhore,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-01 00:00:00+00:00,2025.0,False,True
+3ff17854-ddd2-3395-8880-f50884695ef9,Soumili Biswas,,unknown,0,,,,,,,,,,False,False,1,exited,2022-04-17 00:00:00+00:00,2022.0,False,True
+18d86801-3cb7-11d4-8b9d-433429296014,Oviya S,,unknown,0,,,,,,,,,,False,False,1,staying,2024-02-01 00:00:00+00:00,2024.0,True,True
+21e237d1-286e-324e-0cef-45725d629768,Karthikesan E,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,staying,2025-12-08 00:00:00+00:00,2025.0,True,True
+6dd50e39-9843-4442-cc09-3b49fbe97fb9,Naga Raja Kurakula,,unknown,0,,,,,,,,,,False,False,1,staying,2024-05-01 00:00:00+00:00,2024.0,True,True
+6b375f30-5007-c0d9-cc9c-0e1b9351b491,Sparsh Kanak Sinha,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-16 00:00:00+00:00,2023.0,False,True
+f70ae790-e17b-aca8-a21a-82ddd895450b,Aswin s,,unknown,0,,,,,,,,,,False,False,2,On-Notice,2024-11-22 00:00:00+00:00,2024.0,True,True
+f86e3390-1f72-a192-6cf5-5d5aa9979348,Shalmaan B,,unknown,0,,,,,,,,,,False,False,1,exited,2022-10-16 00:00:00+00:00,2022.0,False,True
+275b413a-b62b-68d4-0dc0-a024e7446e9e,Meghana Ks,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-01 00:00:00+00:00,2024.0,False,True
+733dd472-3b1e-dd43-76e5-082ddfe66c5b,Shaily Mogari,Chhattisgarh,state_in_address,2,,Chhattisgarh,,Chhattisgarh,,,,,,False,False,1,staying,2025-07-16 00:00:00+00:00,2025.0,True,True
+87a1e515-e2e0-110f-05d1-04f5a83c066a,Nikhil Gupta,,unknown,0,,,,,,,,,,False,False,1,staying,2026-02-09 00:00:00+00:00,2026.0,True,True
+10f3edc6-4b03-b82d-8df1-09ddaf031c0c,Mounika C S,,unknown,0,,,,,,,,,,False,False,1,Exited,2022-12-27 00:00:00+00:00,2022.0,False,True
+276b5368-040e-e40e-948d-d1159a743920,Sowbarnigaa K S,,unknown,0,,,,,,,,,,False,False,2,exited,2024-06-02 00:00:00+00:00,2024.0,False,True
+3917a374-3cb6-3063-a1a4-8077ad20359b,Md Shadab,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-02 00:00:00+00:00,2022.0,False,True
+9a9f0bbf-13e2-827f-16d1-fa0b3e63adef,Geethanjali,,unknown,0,,,,,,,,,,False,False,1,exited,2022-04-06 00:00:00+00:00,2022.0,False,True
+d6d33436-345a-e39c-9f8d-91c76dca514e,Parv Aggarwal,,unknown,0,,,,,,,,,,False,False,2,staying,2025-08-02 00:00:00+00:00,2025.0,True,True
+e17238d1-34ce-0cbb-4dc0-f65e60ff52f7,Ranna R,,unknown,0,,,,,,,,,,False,False,1,staying,2025-02-03 00:00:00+00:00,2025.0,True,True
+ea7863ad-a459-79f5-e28d-4311e51922c1,Angel V John,,unknown,0,,,,,,,,,,False,False,1,exited,2026-01-04 00:00:00+00:00,2026.0,False,True
+43bad5ef-9766-7805-47dd-934114b00873,Aayush Patel,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-01 00:00:00+00:00,2025.0,False,True
+eb68cfc9-2205-ee07-0ad0-ae7c62ec1b3d,Muskan Agarwal,,unknown,0,,,,,,,,,,False,False,2,exited,2023-09-03 00:00:00+00:00,2023.0,False,True
+490c8f7b-67bb-4475-e52c-4e70037b854c,Tanya Choudhary,Uttar Pradesh,city_gazetteer_address,1,,,,Uttar Pradesh,,,,,,False,False,1,exited,2023-08-10 00:00:00+00:00,2023.0,False,True
+5502781f-5513-9949-e0f0-272df8bf60ee,Abhishek Jena,,unknown,0,,,,,,,,,,False,False,1,exited,2023-05-01 00:00:00+00:00,2023.0,False,True
+6ca6fa16-9fac-42b6-0359-fdf011761aeb,Prateeksha Tripathi,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-10 00:00:00+00:00,2023.0,False,True
+77135b7e-26be-57bb-f5a4-db9692d4200a,Abhinav Putrevu,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+7759d3e9-fbe3-5386-b050-b4c7bbe1067f,Ramvishnu R,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-24 00:00:00+00:00,2024.0,False,True
+afc7dd85-8035-b725-9734-2527ae89eb52,Ramalingeswara Nath,,unknown,0,,,,,,,,,,False,False,1,exited,2024-05-01 00:00:00+00:00,2024.0,False,True
+04245153-5f6d-a9a8-1983-1152fb4141ac,Rakeshh Yadav,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-02 00:00:00+00:00,2022.0,False,True
+34c36730-bd63-676a-99c5-16783ab7167e,Abhishek G,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-23 00:00:00+00:00,2023.0,False,True
+cfbbbb97-8f8f-86ed-53f1-3e3521e336de,Urvi Gandhi,,unknown,0,,,,,,,,,,False,False,0,new,,,False,False
+dd165d05-44b2-a5ca-b106-48f704eba330,Satyam Dwivedi,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-03 00:00:00+00:00,2023.0,False,True
+23f7ef5f-6b26-a104-b616-b438d7e9243c,Rishita Tulsyan,,unknown,0,,,,,,,,,,False,False,2,On-Notice,2023-07-30 00:00:00+00:00,2023.0,True,True
+26b16f30-da65-8aa3-d1ec-4867ac2a8f35,Taranpreet Kaur,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-01-11 00:00:00+00:00,2026.0,False,True
+2608b690-ad23-63ed-1e3e-85beb47f4f29,Naveetha Krishnan,,unknown,0,,,,,,,,,,False,False,1,exited,2022-11-01 00:00:00+00:00,2022.0,False,True
+cf03689a-ac92-b1e5-ac2d-1ff7e9a25139,Adya Rateria,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-01 00:00:00+00:00,2023.0,False,True
+e5b98496-a290-a981-e294-ce4a8d2b7232,Tejapriya,,unknown,0,,,,,,,,,,False,False,1,exited,2022-06-26 00:00:00+00:00,2022.0,False,True
+ec6bd398-2413-2c67-18db-10bdd92ee4f9,Tushar Singh,,unknown,0,,,,,,,,,,False,False,1,staying,2025-06-15 00:00:00+00:00,2025.0,True,True
+33453ebc-fdb5-2ce9-740f-e9966df68c7c,Taran Deep Singh,Odisha,city_gazetteer_address,1,,,,Odisha,,,,,,False,False,1,exited,2025-04-22 00:00:00+00:00,2025.0,False,True
+0843264b-05af-60b0-cf45-89a98cbac865,Agni Sharman V,Kerala,pincode_circle,1,,,Kerala,,,680121,,,,False,False,2,exited,2022-09-15 00:00:00+00:00,2022.0,False,True
+0bfb8715-8f78-e284-cb03-a48f8a5f0702,Savia Pereira,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-30 00:00:00+00:00,2023.0,False,True
+529e0745-63d4-3992-9d87-b5bd93dab266,Ajay Ak,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-17 00:00:00+00:00,2024.0,False,True
+7bc24b46-8e86-3f4f-807b-7636f066ea21,Sumit Krishn,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-03 00:00:00+00:00,2023.0,False,True
+92e5d758-7672-74d5-68d0-ccb89bd3c488,Subash G,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-24 00:00:00+00:00,2024.0,False,True
+ba90613b-fe14-4fa4-d646-199878d3f058,Sowmya R,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-02-01 00:00:00+00:00,2026.0,False,True
+cf43f50a-1df5-3da5-2096-799ba4c66f5c,M Nishtha,,unknown,0,,,,,,,,,,False,False,1,exited,2023-08-09 00:00:00+00:00,2023.0,False,True
+5d9f160c-84c3-60ba-d15a-813e4dcf1aa7,Rahul Voruganti,Telangana,city_gazetteer_address,1,,,,Telangana,,,,,,False,False,2,exited,2021-07-31 00:00:00+00:00,2021.0,False,True
+8208282e-43b7-930c-251f-223cdeecd947,Vijayashree S,,unknown,0,,,,,,,,,,False,False,2,exited,2024-06-03 00:00:00+00:00,2024.0,False,True
+929ba837-271f-6434-c5bd-b4d03678ebf5,Gaddameedhi Bhavani,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-01 00:00:00+00:00,2024.0,False,True
+fe24afd8-2c14-d8b6-3d36-abb8ca49ee4c,Pooja Sree Samyuktha V,,unknown,0,,,,,,,,,,False,False,1,exited,2022-08-20 00:00:00+00:00,2022.0,False,True
+f7b187b2-38ad-b545-9f12-f5a4274d3f6c,Anuragh Sri Vighna Sai Yarlagadda,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-05 00:00:00+00:00,2024.0,False,True
+06c2357c-fc9c-cf8f-5166-511dbe29bd6f,Swetha S,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-01 00:00:00+00:00,2024.0,False,True
+0bf93609-d4ec-9bc6-fe77-b8a88d29d95c,Deepanshu Tahalramani,,unknown,0,,,,,,,,,,False,False,2,exited,2023-08-01 00:00:00+00:00,2023.0,False,True
+0ccdcf23-be43-796c-0739-a83013e52962,Rajdeep Naha,,unknown,0,,,,,,,,,,False,False,1,exited,2026-01-25 00:00:00+00:00,2026.0,False,True
+0bf78a8a-6c27-f4bf-07de-860dbab2a408,Devatha Vishnu,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-02 00:00:00+00:00,2025.0,False,True
+14b45048-20d5-74f7-f9ff-825c862c3dd5,Ganesha M,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-05 00:00:00+00:00,2024.0,False,True
+271998b4-d824-8d04-2b65-7c072eb4ba29,Anupam Kumari,,unknown,0,,,,,,,,,,False,False,2,exited,2024-08-04 00:00:00+00:00,2024.0,False,True
+22bbdd04-7c21-e7b1-a74d-049f16aea9a0,Aashlesh Ashok,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-05 00:00:00+00:00,2025.0,False,True
+38fa3ad2-aa3f-58d5-2b21-1710a18fefce,Asuwin Prabu R G,,unknown,0,,,,,,,,,,False,False,1,exited,2023-06-18 00:00:00+00:00,2023.0,False,True
+6e68c959-3955-720c-2af7-0b2fa6f2cfe8,Nivetha Shanmugam,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-01 00:00:00+00:00,2023.0,False,True
+819ef17c-3cb6-3609-1b81-c1614886e82f,Gauri Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-09 00:00:00+00:00,2024.0,False,True
+981819eb-5033-3aee-aa78-24c51405ba91,Disha Midha,,unknown,0,,,,,,,,,,False,False,1,exited,2025-02-13 00:00:00+00:00,2025.0,False,True
+dfef2045-e5ea-4114-51ea-4e7e3a6ae11a,Sinega K,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-26 00:00:00+00:00,2023.0,False,True
+f7d24c55-ed4d-270d-81fd-fb50566001d5,Premnath M S,,unknown,0,,,,,,,,,,False,False,2,exited,2025-10-04 00:00:00+00:00,2025.0,False,True
+18f93ace-b7ec-14e9-343f-8763f4d28b68,Virat Srivatsav,,unknown,0,,,,,,,,,,False,False,1,exited,2024-01-28 00:00:00+00:00,2024.0,False,True
+25b63db3-6d1d-cb00-d25c-dfd8b4b17909,Divya Ponnuvel,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-15 00:00:00+00:00,2024.0,False,True
+5c9e69c7-6528-6de9-79f4-aa4452386c89,Sanketh P Mahale,,unknown,0,,,,,,,,,,False,False,1,exited,2024-02-25 00:00:00+00:00,2024.0,False,True
+a61eb28c-5bcb-2c0e-6f0d-aea5a35e9f30,Sanjith S,,unknown,0,,,,,,,,,,False,False,1,exited,2025-04-01 00:00:00+00:00,2025.0,False,True
+b35ab73e-3dde-45c6-bbf4-e9866dddd420,Madhav Vinnakota,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-17 00:00:00+00:00,2024.0,False,True
+d51c2f8f-9df6-06cb-85f3-47a79b9d5006,Sankalp Chavhan,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-16 00:00:00+00:00,2025.0,False,True
+dabf3ee7-61b9-6f77-6fd4-fc271e6fa397,Sameeksha Mahajan,Madhya Pradesh,city_gazetteer_address,1,,,,Madhya Pradesh,,,,,,False,False,1,exited,2021-07-31 00:00:00+00:00,2021.0,False,True
+67807154-ef25-1968-49fd-cfe0fbdff7d4,Sanjjushree M,,unknown,0,,,,,,,,,,False,False,2,exited,2024-09-03 00:00:00+00:00,2024.0,False,True
+e9288a28-7fca-78eb-cc7b-b2ff2160582b,Nikhil Jayanth,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-18 00:00:00+00:00,2023.0,False,True
+2c62dfe0-1a80-ff55-1d8b-51ac0c7da2fe,Sanjit Besthamalla,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-18 00:00:00+00:00,2025.0,False,True
+e8ee9bd8-53dc-649e-6d1f-ff53229c46fd,Divyakriti Singh,,unknown,0,,,,,,,,,,False,False,1,exited,2022-12-15 00:00:00+00:00,2022.0,False,True
+f42b7fbf-db7b-5587-a226-6db4ec10361e,Nikita Thirumal,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-02 00:00:00+00:00,2024.0,False,True
+344a43f4-d005-00e3-d3f4-5da6b944af56,Sankar Dayal V,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-11 00:00:00+00:00,2025.0,False,True
+040a939f-93a2-9c73-8ae0-b56d3cb19257,Santhanam B,,unknown,0,,,,,,,,,,False,False,1,exited,2024-07-01 00:00:00+00:00,2024.0,False,True
+43774f3c-9ce6-fc78-7857-b8607c3e1966,Aarathi Nambiar,,unknown,0,,,,,,,,,,False,False,1,staying,2026-02-15 00:00:00+00:00,2026.0,True,True
+4f75b0ca-7bed-c37c-cfd4-1e361a1bb6d4,Tejun Verma,,unknown,0,,,,,,,,,,False,False,2,staying,2024-04-07 00:00:00+00:00,2024.0,True,True
+5c38e8a5-cdd5-1ec2-5992-454c67a07b44,Savi Agarwal,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-28 00:00:00+00:00,2023.0,False,True
+5a97c1a1-f33d-ce97-6ee2-069836e0f76b,Chendra Haasa Kuthadi Kuthadi,,unknown,0,,,,,,,,,,False,False,1,exited,2025-03-24 00:00:00+00:00,2025.0,False,True
+b533de62-fd5f-cc73-01ad-82aaf5df2fd1,Paras Katal,,unknown,0,,,,,,,,,,False,False,2,exited,2024-07-19 00:00:00+00:00,2024.0,False,True
+704b2ffc-71fb-0cc0-ace8-74bcdfbe30b7,Jerome Fernando,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-07 00:00:00+00:00,2025.0,False,True
+eba53c6e-c7c3-1222-db79-ee8c10bdbd5d,Sanket Sumant,,unknown,0,,,,,,,,,,False,False,1,exited,2023-03-04 00:00:00+00:00,2023.0,False,True
+8550917f-04eb-f961-9e92-97c10f626201,Osheen Bhadoria,,unknown,0,,,,,,,,,,False,False,1,exited,2025-05-13 00:00:00+00:00,2025.0,False,True
+617983c2-caec-9606-9cc4-d947ce911ac1,Patrick Durairaj J,,unknown,0,,,,,,,,,,False,False,1,exited,2023-04-02 00:00:00+00:00,2023.0,False,True
+6bda2d75-ab17-0e53-b94f-c663a3609b6d,Santosh Nath,,unknown,0,,,,,,,,,,False,False,1,exited,2022-02-06 00:00:00+00:00,2022.0,False,True
+70739699-a260-006b-9007-7221efe1fe76,Avijeet Nair,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-05 00:00:00+00:00,2025.0,False,True
+89eff045-6e52-ec28-fed5-afecb6aac5a0,Sarabdi Swain,,unknown,0,,,,,,,,,,False,False,1,exited,2023-12-02 00:00:00+00:00,2023.0,False,True
+94d8e91a-a993-a7d2-cb96-181848f91c40,Pragnya Deshpande,,unknown,0,,,,,,,,,,False,False,2,exited,2023-09-04 00:00:00+00:00,2023.0,False,True
+a1efb56f-59ef-8946-81e6-ff90741001d3,Pradeep Kashavena,,unknown,0,,,,,,,,,,False,False,1,exited,2022-11-27 00:00:00+00:00,2022.0,False,True
+17dd0f21-a84d-a57c-7de4-9d5897c7181b,Ashuthosh N B,,unknown,0,,,,,,,,,,False,False,2,exited,2024-07-19 00:00:00+00:00,2024.0,False,True
+c2a47446-fc24-56a5-c55c-fdb7f185dfd9,Soumya Banerjee,West Bengal,pincode_circle,2,,,West Bengal,West Bengal,,700065,,,,False,False,1,exited,2023-04-08 00:00:00+00:00,2023.0,False,True
+e09aed1a-8cfa-ef16-b7ca-1923a71e1ac3,Chaitra Yn,,unknown,0,,,,,,,,,,False,False,3,exited,2023-08-05 00:00:00+00:00,2023.0,False,True
+ed0e80c8-52c7-1977-91c1-c22e879c6cb6,Parag Kaundil,,unknown,0,,,,,,,,,,False,False,1,exited,2022-08-05 00:00:00+00:00,2022.0,False,True
+0bf81a68-411b-0699-6b01-1f288edeb7a6,Jetin Raju Chamarthi,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-16 00:00:00+00:00,2024.0,False,True
+17a9f5c0-3169-c1d1-2c86-69aedb982d69,Parteek Gupta,,unknown,0,,,,,,,,,,False,False,1,exited,2022-06-30 00:00:00+00:00,2022.0,False,True
+19c28562-8f4e-ad03-b1ee-26dd6da4b20b,Sandra H,Kerala,city_gazetteer_address,1,,,,Kerala,,,,,,False,False,1,exited,2023-02-20 00:00:00+00:00,2023.0,False,True
+1e040078-32fc-f90a-7fd5-42b8161a6605,Soma Sekhar,,unknown,0,,,,,,,,,,False,False,1,exited,2025-11-06 00:00:00+00:00,2025.0,False,True
+5001bf67-3639-035a-75c2-912e5c878962,Nadini Santhosh,,unknown,0,,,,,,,,,,False,False,1,exited,2025-12-28 00:00:00+00:00,2025.0,False,True
+43c50db7-bbd5-a3ee-044a-5ad9f847c9bf,Samudyatha Devalla,,unknown,0,,,,,,,,,,False,False,1,exited,2023-07-30 00:00:00+00:00,2023.0,False,True
+542637a8-b881-e17c-bac6-c89960b9c0be,Sundar S,,unknown,0,,,,,,,,,,False,False,1,exited,2025-01-19 00:00:00+00:00,2025.0,False,True
+621b7e15-9913-e7d4-4a3c-cb695db99c3c,Tanya Jain,,unknown,0,,,,,,,,,,False,False,1,exited,2023-01-11 00:00:00+00:00,2023.0,False,True
+52bfd1fd-5813-000e-3603-19146a2ecd4e,Arnav Raj,,unknown,0,,,,,,,,,,False,False,1,exited,2024-04-03 00:00:00+00:00,2024.0,False,True
+9e64e0fa-e34a-1c76-8e4a-1452643fab9a,Aakarshni V,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-17 00:00:00+00:00,2024.0,False,True
+e51d0052-6144-0814-9748-12b1e6c3b68a,Kaila Jagadish Reddy,,unknown,0,,,,,,,,,,False,False,1,exited,2025-10-13 00:00:00+00:00,2025.0,False,True
+fd1d6483-722f-9ff9-67bd-a98f7e3f42af,Vibhor Pathak,,unknown,0,,,,,,,,,,False,False,1,exited,2025-09-03 00:00:00+00:00,2025.0,False,True
+024cbfa9-4c24-ccad-9d51-c10966293351,Gokul Raj Sekar,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-02-07 00:00:00+00:00,2026.0,False,True
+95de5050-bf0e-94e1-0f53-88aca5bab8e0,Tarun Venkumahanti,,unknown,0,,,,,,,,,,False,False,1,exited,2022-09-10 00:00:00+00:00,2022.0,False,True
+4cf13b7d-67b4-87af-6795-b532998a9b0d,Ranga Bashyam,,unknown,0,,,,,,,,,,False,False,1,Exited,2024-05-01 00:00:00+00:00,2024.0,False,True
+4bdca5eb-f197-a87d-d26a-c63a9b3298a1,Manish Kumar,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-07-16 00:00:00+00:00,2025.0,False,True
+1c02145c-b1d1-097d-f8dc-3bf629411369,Arpit A,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-01 00:00:00+00:00,2024.0,False,True
+22b0be2d-52c5-1127-642d-4f1083b404ca,Antara Chakraverty,Uttar Pradesh,state_in_address,2,,Uttar Pradesh,,Uttar Pradesh,,,,,,False,False,1,staying,2025-12-22 00:00:00+00:00,2025.0,True,True
+9842fbe1-4d57-13e7-6abf-aed2f18d4ca0,Tanveer Mustafa,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2023-03-11 00:00:00+00:00,2023.0,False,True
+b2f85d5d-acf9-7c53-dc5b-0d3b67b462c5,Yash Jamuar,,unknown,0,,,,,,,,,,False,False,1,Staying,2026-03-13 00:00:00+00:00,2026.0,True,True
+aea0c505-ca9a-a99f-af7c-e9e3ea95398d,Vibhor Gupta,,unknown,0,,,,,,,,,,False,False,1,exited,2025-06-08 00:00:00+00:00,2025.0,False,True
+209b2e7d-1ecd-5bd0-e15d-1e8b8fa305e3,Manasi K Iyer,,unknown,0,,,,,,,,,,False,False,1,exited,2024-06-03 00:00:00+00:00,2024.0,False,True
+cdfd7474-0325-1b45-657c-35abca5b28ee,Sudip Manchare,,unknown,0,,,,,,,,,,False,False,1,exited,2024-08-03 00:00:00+00:00,2024.0,False,True
+5925134f-40a7-6834-930a-b8d6906bd2a4,Priyanka -,Delhi,state_in_address,1,,Delhi,,,,,,,,False,False,1,exited,2025-12-17 00:00:00+00:00,2025.0,False,True
+8506a1fc-82d3-6a5c-c7c5-64702dd9ce92,Tushar Ojha,Jharkhand,city_gazetteer_address,1,,,,Jharkhand,,,,,,False,False,1,exited,2025-07-01 00:00:00+00:00,2025.0,False,True
+b285539d-6e4c-f6f5-ee68-2dc683541067,Mohammed Shoaib Khan,Madhya Pradesh,city_gazetteer_address,1,,,,Madhya Pradesh,,,,,,False,False,1,Exited,2025-10-14 00:00:00+00:00,2025.0,False,True
+d69476f4-ff97-e238-b732-85cc4b70703d,C Jayamma Byrappa,,unknown,0,,,,,,,,,,False,False,1,Exited,2026-02-11 00:00:00+00:00,2026.0,False,True
+2794ccf7-4966-f00d-35d6-34ac17db73ea,Sreyashi Chowdhury,,unknown,0,,,,,,,,,,False,False,2,staying,2022-12-15 00:00:00+00:00,2022.0,True,True
+184aad86-c460-d78c-0f04-fd69a75fdb16,Vemuluri Siri,Telangana,city_gazetteer_address,1,,,,Telangana,,,,,,False,False,1,exited,2025-09-01 00:00:00+00:00,2025.0,False,True
+2cd65886-67b3-a4eb-7aad-7c0a230ba95d,Vardaan Mongia,,unknown,0,,,,,,,,,,False,False,1,exited,2024-12-20 00:00:00+00:00,2024.0,False,True
+45cd9835-b5f7-51dd-94ff-9edc460cbfc7,Venesha R,,unknown,0,,,,,,,,,,False,False,1,exited,2022-02-19 00:00:00+00:00,2022.0,False,True
+9a94c98b-55ed-adb4-87bf-7c9eaa99a84d,Veda Agaswi,,unknown,0,,,,,,,,,,False,False,2,exited,2024-01-28 00:00:00+00:00,2024.0,False,True
+dacc8116-ed0d-9081-8210-541c307d103d,Vardhini Krishnamurthy,,unknown,0,,,,,,,,,,False,False,1,exited,2022-02-05 00:00:00+00:00,2022.0,False,True
+df9237a0-7748-6c00-38ec-c20e2533df48,Vasu Adireddy,,unknown,0,,,,,,,,,,False,False,1,exited,2023-09-03 00:00:00+00:00,2023.0,False,True
+fdf8832c-e820-f199-63da-f0f8157627db,Vedhamurthy Giri,,unknown,0,,,,,,,,,,False,False,1,exited,2025-07-25 00:00:00+00:00,2025.0,False,True
+d6268133-5904-3e9a-6956-9493d2f78a1d,Rohit Jain,,unknown,0,,,,,,,,,,False,False,1,Exited,2025-08-09 00:00:00+00:00,2025.0,False,True
+1b003ea3-bdcb-0416-c3c2-8ff60f2f65f5,Venkat Karthik Mukidichetti,,unknown,0,,,,,,,,,,False,False,1,staying,2025-05-05 00:00:00+00:00,2025.0,True,True
+3e99437f-aaa3-5ffe-27bc-cffb9898080d,Ajay Adithyan,Tamil Nadu,city_gazetteer_address,1,,,,Tamil Nadu,,,,,,False,False,1,exited,2025-06-02 00:00:00+00:00,2025.0,False,True
+b0348aa8-ad9f-d0dd-94e8-c71a6627c930,Varsha Darshini S M,,unknown,0,,,,,,,,,,False,False,1,staying,2025-01-01 00:00:00+00:00,2025.0,True,True

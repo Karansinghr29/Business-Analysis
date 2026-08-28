@@ -1,0 +1,15 @@
+domain,url,kind,http_status,blocked,rendered_text_len,price_found,provenance
+season4.in,https://season4.in/,home,200,False,2381,False,playwright_headless_chromium
+season4.in,https://season4.in/season-4-rentals-thiruvanmiyur/,sub,200,False,4284,False,playwright_headless_chromium
+season4.in,https://season4.in/wp-content/uploads/2024/03/Suite-Room-1.jpg,sub,200,False,0,False,playwright_headless_chromium
+kolamapartments.com,https://kolamapartments.com/,home,200,False,3232,False,playwright_headless_chromium
+oliveservicedapartments.com,https://oliveservicedapartments.com/chennai,home,200,False,630,False,playwright_headless_chromium
+oliveservicedapartments.com,https://oliveservicedapartments.com/lowest-price-guarantee,sub,200,False,1769,False,playwright_headless_chromium
+tsppgaccommodation.com,https://tsppgaccommodation.com/,home,200,False,1574,False,playwright_headless_chromium
+tsppgaccommodation.com,https://tsppgaccommodation.com/index.html,sub,200,False,1574,False,playwright_headless_chromium
+tsppgaccommodation.com,https://tsppgaccommodation.com/about-us.html,sub,200,False,1793,False,playwright_headless_chromium
+kripahomes.com,https://kripahomes.com/pg-thiruvanmiyur/,home,200,False,1424,False,playwright_headless_chromium
+kripahomes.com,https://kripahomes.com/pg-thiruvanmiyur/#Amenities,sub,200,False,1438,False,playwright_headless_chromium
+mahalakshmipgaccommodation.com,https://mahalakshmipgaccommodation.com/,home,200,False,7193,False,playwright_headless_chromium
+mahalakshmipgaccommodation.com,https://mahalakshmipgaccommodation.com/index,sub,200,False,7193,False,playwright_headless_chromium
+mahalakshmipgaccommodation.com,https://mahalakshmipgaccommodation.com/aboutus,sub,200,False,3436,False,playwright_headless_chromium

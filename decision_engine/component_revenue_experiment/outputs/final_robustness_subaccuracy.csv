@@ -1,0 +1,9 @@
+window,target,MAE,RMSE,MAPE
+7-fold,occupied_beds (es_trend),6,7,3.49
+7-fold,effective_rent (es_trend),522,597,3.26
+7-fold,electricity_income (es_seasonal),27137,32668,10.55
+7-fold,TOTAL revenue (approved),81019,105235,2.64
+18-fold,occupied_beds (es_trend),8,10,4.93
+18-fold,effective_rent (es_trend),730,885,4.73
+18-fold,electricity_income (es_seasonal),29700,40183,13.52
+18-fold,TOTAL revenue (approved),103410,136867,3.71

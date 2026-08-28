@@ -1,0 +1,45 @@
+attribute,status,evidence,source_file,confidence,can_use_for_decision
+Bed types / sharing,VERIFIED_PRESENT,"203 beds; bed_type={'Double': 129, 'Single': 40, 'Triple': 33, 'Executive': 1}",beds #42,high,yes
+Toilet type (attached/common),VERIFIED_PRESENT,"toilet_type={'Attached': 105, 'Common': 98}",beds #42,high,yes
+Apartments / floors / building,VERIFIED_PRESENT,"43 apartments, floors [1.0, 2.0, 3.0, 4.0], types {'2BHK': 39, nan: 2, '4BHK': 1, 'Studio': 1}",apartments #41,high,yes
+Gender allowed per apartment,VERIFIED_PRESENT,"{'male': 25, 'female': 18}",apartments #41,high,yes
+Room size (sqft),PARTIAL,size_sqft present 40/43 apartments,apartments #41,high,yes
+Rate card (rent by bed_type x toilet),VERIFIED_PRESENT,24 rate rows; monthly_rate populated,rate_card #43,high,yes
+AC (air conditioning),VERIFIED_PRESENT,110 'Air Conditioner' asset(s); issue-type ['AC Issues'],assets #78 / asset_types #80 + issue_types #76,high,yes
+Wi-Fi / Internet,VERIFIED_PRESENT,"managed service — tenant issue-subtypes ['no wifi connection', 'router issue', 'slow internet speed', 'wifi dropping frequently']",issue_subtypes #77 / issue_types #76,high,yes
+Hot water (water heater/geyser),VERIFIED_PRESENT,83 'Water Heater' asset(s); issue-type ['Heater Issues'],assets #78 / asset_types #80 + issue_types #76,high,yes
+RO / drinking water,VERIFIED_PRESENT,37 'RO Water Purifier' asset(s); issue-type ['RO Water Issues'],assets #78 / asset_types #80 + issue_types #76,high,yes
+Refrigerator,VERIFIED_PRESENT,38 'Refrigerator' asset(s); issue-type ['Fridge Issues'],assets #78 / asset_types #80 + issue_types #76,high,yes
+Washing machine / laundry,VERIFIED_PRESENT,41 'Washing Machine' asset(s); issue-type ['Washing machine Issue'],assets #78 / asset_types #80 + issue_types #76,high,yes
+TV,VERIFIED_PRESENT,21 'TV' asset(s),assets #78 / asset_types #80,high,yes
+Kitchen / cooking facility,VERIFIED_PRESENT,127 'Induction Stove/Microwave Oven/Kitchen Table/Dining Table' asset(s); issue-type ['Kitchen Equipment'],assets #78 / asset_types #80 + issue_types #76,high,yes
+Fan,VERIFIED_PRESENT,133 'Fan/Table Fan (Wall)' asset(s),assets #78 / asset_types #80,high,yes
+Furniture (cot/mattress/cupboard/study table),VERIFIED_PRESENT,928 'Cot (Bed Frame)/Mattress/Cupboard/Study Table/Chair/Wardrobe' asset(s),assets #78 / asset_types #80,high,yes
+Housekeeping / cleaning service,VERIFIED_PRESENT,"managed service — tenant issue-subtypes ['bathroom dirty', 'common area dirty', 'garbage not collected', 'room not cleaned']",issue_subtypes #77 / issue_types #76,high,yes
+Common area,VERIFIED_PRESENT,managed service — tenant issue-subtypes ['common area dirty'],issue_subtypes #77 / issue_types #76,high,yes
+Food / catered meals (breakfast/lunch/dinner),UNKNOWN,"kitchen/cooking assets exist BUT no evidence of a catered MEALS service; tenant 'food_preference' (#45) is a tenant attribute, NOT proof Vishful serves meals -> UNKNOWN",—,n/a,no — needs owner input
+Parking,UNKNOWN,no asset and no issue-type evidence in Vishful data (absence ≠ proof absent),—,n/a,no — needs owner input
+CCTV / security,UNKNOWN,no asset and no issue-type evidence in Vishful data (absence ≠ proof absent),—,n/a,no — needs owner input
+Power backup / generator,UNKNOWN,no asset and no issue-type evidence in Vishful data (absence ≠ proof absent),—,n/a,no — needs owner input
+Lift / elevator,UNKNOWN,no asset and no issue-type evidence in Vishful data (absence ≠ proof absent),—,n/a,no — needs owner input
+Gym,UNKNOWN,no asset and no issue-type evidence in Vishful data (absence ≠ proof absent),—,n/a,no — needs owner input
+Dedicated study area,UNKNOWN,no asset and no issue-type evidence in Vishful data (absence ≠ proof absent),—,n/a,no — needs owner input
+Terrace access,UNKNOWN,no asset and no issue-type evidence in Vishful data (absence ≠ proof absent),—,n/a,no — needs owner input
+Rent,VERIFIED_PRESENT,monthly_rental + rate card + invoice rent_amount,allotments #44 / rate #43 / invoices #52,high,yes
+Electricity / EB,VERIFIED_PRESENT,electricity_amount + meter readings/units,"invoices #52 / eb_readings #56,#57,#60",high,yes
+Deposits,VERIFIED_PRESENT,"deposit_paid, advance_held, refund_due",allotments #44 / exits #48 / settlements #50,high,yes
+Billing / invoices,VERIFIED_PRESENT,"5,193 invoices with line items",invoices #52 / line_items #53,high,yes
+Occupancy,VERIFIED_PRESENT,total_beds/occupied/vacant/occupancy_pct,occupancy_snapshot #94 / step5,high,yes
+Vacancies & availability,VERIFIED_PRESENT,bed status + vacancy-at-risk,beds #42 status / step4,high,yes
+Tenant movement / events,VERIFIED_PRESENT,"2,175 move/status events",bed_events #95,high,yes
+Transfers / room switches,VERIFIED_PRESENT,28 switch records,room_switches #46,high,yes
+Booking duration,VERIFIED_PRESENT,"expected_stay_days, booking/onboarding dates",allotments #44,high,yes
+Notice period / move-out,VERIFIED_PRESENT,notice + exit records,allotments #44 notice_date / notices #47 / exits #48,high,yes
+Maintenance,VERIFIED_PRESENT,"1,650 tickets + lifecycle logs",tickets #71 / resolutions #72 / logs #75,high,yes
+Inventory (assets),VERIFIED_PRESENT,"1,700 assets, 1,822 allocations",assets #78 / allocations #79,high,yes
+Fill time / vacancy duration,PARTIAL,days_vacant known for 14/14 vacant beds (duration_known=True); 9 new-inventory (A33/A34) counted from operational start 2026-08-01; 0 never-occupied -> unknown. Time-to-fill still not measurable (no completed fill events).,step4_vacancy_at_risk.csv,high,partial
+Lead source / enquiries,PARTIAL,"18 leads; source={'whatsapp_bot': 18}; status={'in_progress': 16, 'visit_requested': 2}; has bed_type/budget/property_interest/move_in_date",leads #84,medium,yes (small n)
+Visits requested,PARTIAL,2 visit_requested leads,leads #84,medium,yes
+Marketing spend,VERIFIED_PRESENT,"₹24,631 marketing expense over 12 months (aggregate)",financials #85,high,yes
+Lead -> conversion linkage,UNKNOWN,leads (#84) not linked to allotments (#44); no conversion mapping,—,n/a,no — needs capture
+Campaign channel detail / referral,UNKNOWN,only source='whatsapp_bot'; no campaign/referral/channel breakdown or dates,leads #84,n/a,no — needs capture

@@ -1,0 +1,10 @@
+model,experiment,MAE,RMSE,MAPE,Rank
+Holt-Winters (existing),benchmark,149667,183721,4.86,1
+LightGBM,B occupancy-aware,160243,190712,5.14,2
+LightGBM,A revenue-history,185666,239706,6.24,3
+XGBoost,A revenue-history,202114,218136,6.58,4
+XGBoost,B occupancy-aware,220933,258968,7.01,5
+RandomForest,B occupancy-aware,221948,253773,7.13,6
+LinearRegression,A revenue-history,218231,242154,7.28,7
+RandomForest,A revenue-history,228541,258719,7.42,8
+LinearRegression,B occupancy-aware,369499,451911,12.14,9

@@ -1,0 +1,15 @@
+metric,value
+total_tickets,1540
+creation_available,1540
+close_available,1346
+both_available,1346
+collapsed_timestamp,1057
+genuinely_measurable,289
+SLA_met,14
+SLA_breached,275
+breach_rate_measurable,95.2%
+median_turnaround_hours_measurable,258.7
+p90_turnaround_hours_measurable,1284.0
+sla_deadline_validation_exact(<=1h),31
+sla_deadline_validation_mismatch(>1h),260
+sla_deadline_validation_median_diff_hours,39.73

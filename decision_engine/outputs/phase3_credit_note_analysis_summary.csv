@@ -1,0 +1,16 @@
+metric,value
+credit_notes_count,135
+credit_notes_total,309610.35
+debit_notes_count,123
+debit_notes_total,203207.42
+note,credit notes REDUCE revenue; debit notes ADD charges — never sum the two
+deleted_rows_excluded,4
+categories,5
+uncategorised_amount,231646.83
+uncategorised_share,74.8%
+credit_notes_vs_invoiced_revenue,0.43%
+trend_by_year,"2021: ₹28,000; 2022: ₹78,500; 2023: ₹16,098; 2024: ₹18,878; 2025: ₹127,151; 2026: ₹40,983"
+date_range,2021-12-05 .. 2026-08-08
+reason_field_coverage,130/258 rows populated
+causality,NOT established — no credit note is labelled preventable or a loss
+governing_rule,Recurrence + materiality flags a process review; it never proves avoidable leakage

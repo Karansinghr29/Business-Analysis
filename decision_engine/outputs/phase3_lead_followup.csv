@@ -1,0 +1,19 @@
+lead_index,source,requested_bed_type,gender,move_in_date,lead_status,created_at,follow_up_status
+0,whatsapp_bot,,,,in_progress,2026-07-02 12:39:11.113526+00,open_follow_up
+1,whatsapp_bot,,,,in_progress,2026-07-06 07:57:40.581665+00,open_follow_up
+2,whatsapp_bot,,,,in_progress,2026-07-09 06:41:43.2567+00,open_follow_up
+3,whatsapp_bot,,,,in_progress,2026-07-06 07:52:07.804447+00,open_follow_up
+4,whatsapp_bot,,,,in_progress,2026-07-06 06:55:01.93403+00,open_follow_up
+5,whatsapp_bot,,,,in_progress,2026-07-06 07:54:37.119051+00,open_follow_up
+6,whatsapp_bot,,,,in_progress,2026-07-07 12:28:07.579607+00,open_follow_up
+7,whatsapp_bot,,,,in_progress,2026-07-08 15:03:51.209851+00,open_follow_up
+8,whatsapp_bot,Double,,,visit_requested,2026-07-08 07:51:10.896957+00,visit_pending
+9,whatsapp_bot,,,,in_progress,2026-07-08 11:21:29.927018+00,open_follow_up
+10,whatsapp_bot,,,,in_progress,2026-07-08 15:13:22.465617+00,open_follow_up
+11,whatsapp_bot,,,,in_progress,2026-07-06 07:51:14.055517+00,open_follow_up
+12,whatsapp_bot,,,,in_progress,2026-07-07 07:20:33.27781+00,open_follow_up
+13,whatsapp_bot,,,,in_progress,2026-07-09 03:48:46.555559+00,open_follow_up
+14,whatsapp_bot,,,,in_progress,2026-07-07 16:48:30.79646+00,open_follow_up
+15,whatsapp_bot,,,,in_progress,2026-07-09 07:41:53.69523+00,open_follow_up
+16,whatsapp_bot,Double,male,2024-01-01,visit_requested,2026-07-02 12:48:18.589738+00,visit_pending
+17,whatsapp_bot,,,,in_progress,2026-07-09 07:32:20.493039+00,open_follow_up

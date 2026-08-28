@@ -1,0 +1,10 @@
+domain,min_window_days,typical_window_days,rationale,applies_to
+collections_ar,14,30,AR recovery visible within a billing/follow-up cycle,DEC-REVPROTECT-AR90; AIREC-AR-PRIORITY
+vacancy_fill,30,60,bed fill + onboarding cycle,DEC-VAC-*; AIREC-VAC-*; AIREC-INV-PROMOTE-*
+churn_retention,60,90,notice-to-exit horizon,DEC-RETENTION-REVIEW; AIREC-CHURN-WATCH
+maintenance_repeat,30,90,before/after recurrence observation window,DEC-MAINT-PRIORITISE; DEC-AMEN-AC; AIREC-MAINT-HOTSPOT
+eb_investigation,30,60,one EB billing cycle to reflect a change,DEC-EB-INVESTIGATE; AIREC-EB-INVESTIGATE
+marketing_amenity,45,90,campaign + demand-response period,AIREC-AMEN-*; OPP-laundry; OPP-common_area
+pricing_occupancy,30,60,occupancy response to pricing/positioning,DEC-PRICEREV-Single; DEC-PRICEREV-Triple
+demand_leads,14,30,lead follow-up cycle,DEC-LEAD-FOLLOWUP; DEC-LEAD-DEMAND-2SH; AIREC-VAC-DBL
+owner_verify,0,0,NO measurement window — owner must verify own status first; KPI unavailable,OPP-food; OPP-security; OPP-safety; OPP-parking; AIREC-VERIFY-*

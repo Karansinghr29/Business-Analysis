@@ -1,0 +1,8 @@
+property,locality,bed_type,sharing_type,toilet_type,ac,non_ac,wifi,food,laundry,parking,cctv_security,power_backup,source_evidence,verified_by,verified_at,status
+Vishful Vista Heights,Thiruvanmiyur 600041,Double,2-sharing,Attached,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,,,pending_owner_input
+Vishful Vista Heights,Thiruvanmiyur 600041,Double,2-sharing,Common,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,,,pending_owner_input
+Vishful Vista Heights,Thiruvanmiyur 600041,Single,single,Common,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,,,pending_owner_input
+Vishful Vista Heights,Thiruvanmiyur 600041,Triple,3-sharing,Attached,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,,,pending_owner_input
+Vishful Vista Heights,Thiruvanmiyur 600041,Single,single,Attached,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,,,pending_owner_input
+Vishful Vista Heights,Thiruvanmiyur 600041,Triple,3-sharing,Common,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,,,pending_owner_input
+Vishful Vista Heights,Thiruvanmiyur 600041,Executive,executive,Attached,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,,,pending_owner_input

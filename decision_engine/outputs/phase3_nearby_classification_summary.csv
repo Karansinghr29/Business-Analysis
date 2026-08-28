@@ -1,0 +1,16 @@
+metric,value
+model,openai/gpt-oss-120b
+temperature,0
+batch_size,8
+places_in,48
+classified_rows,48
+usefulness_counts,"{'useful': 45, 'not_useful': 3}"
+batches_errored,0
+rejected_model_reasons,0
+categories_worded,5
+wording_rejected,0
+vocabulary,"['useful', 'not_useful', 'unclear']"
+section_names,"{'TRANSPORT': 'Nearby Transportation', 'HEALTHCARE': 'Nearby Healthcare', 'ESSENTIALS': 'Nearby Essentials', 'EDUCATION': 'Nearby Education', 'FINANCIAL': 'Nearby Banking'}"
+numeric_policy,model output containing any digit is discarded in code; all numbers injected deterministically downstream
+walking_time_policy,sentences containing walk/minute/travel-time vocabulary are discarded
+retrieval_date,2026-08-27

@@ -1,0 +1,7 @@
+locality,competitor_count,competitors_with_source,competitors_with_official_monthly_pricing,competitors_with_reviews,monthly_price_range,monthly_starting_price_median,common_sharing_types,top_positive_themes,top_negative_themes,avg_distance_from_vishful_km,coverage,locality_score_context
+"Thiruvanmiyur, Chennai",42,32,5,8,"Rs9,000-Rs34,000","Rs12,000","4-sharing, Double, Single, Triple",staff(48); room_quality(35); cleanliness(25),staff(8); cleanliness(3); food(2),1.29,42 competitors · 5 priced · 8 reviewed,79
+Chennai (area unspecified),27,19,6,0,"Rs8,900-Rs38,000","Rs10,500","4-sharing, 5-sharing, Double, Single, Triple",no reviews collected,no reviews collected,Unknown,27 competitors · 6 priced · 0 reviewed,64
+"Kattankulathur, Chennai",21,18,1,0,"Rs13,999-Rs21,599",insufficient (n<3),"Double, Single, Triple",no reviews collected,no reviews collected,Unknown,21 competitors · 1 priced · 0 reviewed,50
+"Perungudi, Chennai",16,13,2,1,"Rs6,200-Rs17,000",insufficient (n<3),"Double, Triple",cleanliness(3); room_quality(3); safety(3),none,2.48,16 competitors · 2 priced · 1 reviewed,23
+"Adyar, Chennai",8,7,2,1,"Rs5,000-Rs16,000",insufficient (n<3),"4-sharing, Double, Single, Triple",location(2); staff(2); room_quality(1),value(4); staff(3); security(2),1.89,8 competitors · 2 priced · 1 reviewed,21
+Unknown,1,1,0,0,Not available,insufficient (n<3),Not available,no reviews collected,no reviews collected,Unknown,1 competitors · 0 priced · 0 reviewed,2
