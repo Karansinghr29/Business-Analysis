@@ -1,0 +1,4 @@
+# Preserve bytes exactly as committed. The validators hash file BYTES to prove protected
+# files are unchanged, so any line-ending conversion on checkout would break them and make
+# a clone behave differently from the local project. Disable all text conversion.
+* -text
